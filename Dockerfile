@@ -20,8 +20,8 @@ COPY . .
 # Set Python path
 ENV PYTHONPATH=/app
 
-# Expose port
-EXPOSE 8000
+# Default port (Railway overrides with PORT env var)
+ENV PORT=8000
 
-# Run FastAPI with uvicorn
-CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]
+# Run FastAPI with uvicorn - use shell form so $PORT expands
+CMD uvicorn api:app --host 0.0.0.0 --port $PORT
