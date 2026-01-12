@@ -20,5 +20,8 @@ COPY . .
 # Set Python path
 ENV PYTHONPATH=/app
 
-# Default command
-CMD ["python", "-m", "prism_miner.main"]
+# Expose port
+EXPOSE 8000
+
+# Run FastAPI with uvicorn
+CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]
