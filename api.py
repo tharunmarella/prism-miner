@@ -463,16 +463,27 @@ async def get_pipeline_progress():
     }
 
 
+class DownloadRequest(BaseModel):
+    batch_id: Optional[str] = None  # Override batch_id if provided
+
+
 @app.post("/pipeline/download")
-async def download_results():
+async def download_results(request: DownloadRequest = None):
     """Download and parse batch results."""
     import requests as http_requests
     
-    if not pipeline_state["batch_id"]:
-        raise HTTPException(status_code=400, detail="No batch job found")
+    # Use provided batch_id or fall back to pipeline state
+    batch_id = None
+    if request and request.batch_id:
+        batch_id = request.batch_id
+    elif pipeline_state["batch_id"]:
+        batch_id = pipeline_state["batch_id"]
+    
+    if not batch_id:
+        raise HTTPException(status_code=400, detail="No batch job found. Provide batch_id in request body.")
     
     groq_client = get_groq_client()
-    batch = groq_client.batches.retrieve(pipeline_state["batch_id"])
+    batch = groq_client.batches.retrieve(batch_id)
     
     if batch.status != "completed":
         raise HTTPException(status_code=400, detail=f"Batch not complete: {batch.status}")
