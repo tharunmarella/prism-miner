@@ -140,7 +140,7 @@ def update_progress(phase: str, current: int, total: int, message: str):
 # ===== Background Pipeline Task =====
 
 def run_pipeline_background(max_reviews: int, test_count: Optional[int]):
-    """Run the full pipeline in the background."""
+    """Run the full pipeline in the background using optimized services."""
     global pipeline_state
     
     try:
@@ -148,137 +148,117 @@ def run_pipeline_background(max_reviews: int, test_count: Optional[int]):
         pipeline_state["started_at"] = datetime.utcnow().isoformat()
         pipeline_state["error"] = None
         
-        from huggingface_hub import hf_hub_download
+        from services.review_loader import ReviewLoader
         from collections import defaultdict
         
-        REPO_ID = "McAuley-Lab/Amazon-Reviews-2023"
-        REVIEW_FILENAME = "raw/review_categories/Clothing_Shoes_and_Jewelry.jsonl"
-        META_FILENAME = "raw/meta_categories/meta_Clothing_Shoes_and_Jewelry.jsonl"
-        cache_dir = "/tmp/hf_cache"
+        # Initialize optimized loader
+        loader = ReviewLoader()
         
         # Load leaf categories
         update_progress("setup", 1, 5, "Loading leaf categories...")
         categories_path = Path(__file__).parent / "data" / "categories" / "clothing_leaf_categories.txt"
         
-        leaf_categories = {}
+        leaf_categories = set()
         with open(categories_path, 'r') as f:
             for line in f:
                 parts = line.strip().split(None, 1)
                 if len(parts) == 2 and parts[0].isdigit():
-                    leaf_categories[parts[1]] = int(parts[0])
-        
-        category_names = set(leaf_categories.keys())
+                    leaf_categories.add(parts[1])
         
         if test_count:
-            sorted_cats = sorted(leaf_categories.items(), key=lambda x: -x[1])
-            category_names = set(cat for cat, _ in sorted_cats[:test_count])
-        
-        update_progress("setup", 2, 5, f"Processing {len(category_names)} categories...")
-        
-        # Build ASIN mapping (check cache first)
-        cache_path = Path(cache_dir) / "asin_to_category.json"
-        if cache_path.exists():
-            update_progress("setup", 3, 5, "Loading cached ASIN mapping...")
-            with open(cache_path, 'r') as f:
-                asin_to_category = json.load(f)
-        else:
-            update_progress("setup", 3, 5, "Building ASIN mapping (this takes a while)...")
-            
-            meta_path = hf_hub_download(
-                repo_id=REPO_ID,
-                filename=META_FILENAME,
-                repo_type="dataset",
-                cache_dir=cache_dir,
-            )
-            
-            asin_to_category = {}
-            with open(meta_path, 'r', encoding='utf-8') as f:
+            # We need to sort by count to get top N
+            # Re-read file to get counts
+            cat_counts = []
+            with open(categories_path, 'r') as f:
                 for line in f:
-                    try:
-                        data = json.loads(line)
-                        parent_asin = data.get("parent_asin")
-                        categories = data.get("categories", [])
-                        
-                        for cat in reversed(categories):
-                            if cat in category_names:
-                                asin_to_category[parent_asin] = cat
-                                break
-                    except:
-                        continue
+                    parts = line.strip().split(None, 1)
+                    if len(parts) == 2 and parts[0].isdigit():
+                        cat_counts.append((parts[1], int(parts[0])))
             
-            cache_path.parent.mkdir(parents=True, exist_ok=True)
-            with open(cache_path, 'w') as f:
-                json.dump(asin_to_category, f)
+            cat_counts.sort(key=lambda x: -x[1])
+            leaf_categories = set(name for name, _ in cat_counts[:test_count])
+            update_progress("setup", 1, 5, f"Test mode: selected top {len(leaf_categories)} categories")
         
-        # Filter to target categories
-        asin_to_category = {k: v for k, v in asin_to_category.items() if v in category_names}
+        update_progress("setup", 2, 5, f"Processing {len(leaf_categories)} categories...")
         
-        # Extract and aggregate
+        # Build ASIN mapping (Optimized: checks Mongo first)
+        update_progress("setup", 3, 5, "Building ASIN mapping (checking Mongo cache)...")
+        asin_to_category = loader.build_asin_to_leaf_category("Clothing_Shoes_and_Jewelry", leaf_categories)
+        
+        update_progress("setup", 5, 5, f"ASIN mapping ready ({len(asin_to_category)} items)")
+        
+        # Extract and aggregate (Optimized: Streams reviews)
         pipeline_state["status"] = "extracting"
-        update_progress("extraction", 0, 1, "Downloading reviews...")
-        
-        reviews_path = hf_hub_download(
-            repo_id=REPO_ID,
-            filename=REVIEW_FILENAME,
-            repo_type="dataset",
-            cache_dir=cache_dir,
-        )
+        update_progress("extraction", 0, 1, "Streaming reviews from HuggingFace...")
         
         extractor = OpinionUnitExtractor()
         aggregators: Dict[str, OpinionAggregator] = defaultdict(OpinionAggregator)
         category_review_counts: Dict[str, int] = defaultdict(int)
         
         processed = 0
-        total_estimate = min(len(asin_to_category) * 100, 10000000)  # Rough estimate
+        skipped = 0
         
-        with open(reviews_path, 'r', encoding='utf-8') as f:
-            for line in f:
-                try:
-                    data = json.loads(line)
-                    parent_asin = data.get("parent_asin")
-                    text = data.get("text", "")
-                    
-                    if not text or len(text) < 30:
-                        continue
-                    
-                    category = asin_to_category.get(parent_asin)
-                    if not category:
-                        continue
-                    
-                    if category_review_counts[category] >= max_reviews:
-                        continue
-                    
-                    units = extractor.extract(text)
-                    if units:
-                        aggregators[category].add_units(category, units, raw_review=text)
-                    
-                    category_review_counts[category] += 1
-                    processed += 1
-                    
-                    if processed % 50000 == 0:
-                        update_progress("extraction", processed, total_estimate, 
-                                       f"Extracted {processed:,} reviews from {len(aggregators)} categories")
-                except:
+        # Stream reviews instead of downloading file
+        review_stream = loader.stream_reviews(
+            "Clothing_Shoes_and_Jewelry",
+            max_reviews=None, # We handle max_reviews per category manually
+            filter_categories=leaf_categories,
+            asin_map=asin_to_category
+        )
+        
+        for data in review_stream:
+            try:
+                text = data.get("text", "")
+                parent_asin = data.get("parent_asin")
+                
+                if not text or len(text) < 30:
                     continue
+                
+                category = asin_to_category.get(parent_asin)
+                if not category:
+                    skipped += 1
+                    continue
+                
+                if category_review_counts[category] >= max_reviews:
+                    continue
+                
+                units = extractor.extract(text)
+                if units:
+                    aggregators[category].add_units(category, units, raw_review=text)
+                
+                category_review_counts[category] += 1
+                processed += 1
+                
+                if processed % 1000 == 0:
+                    update_progress("extraction", processed, 0, 
+                                   f"Streamed {processed:,} reviews (active categories: {len(aggregators)})")
+            except Exception:
+                continue
         
         update_progress("extraction", processed, processed, 
                        f"Extraction complete: {processed:,} reviews, {len(aggregators)} categories")
         
         # Create batch file
         pipeline_state["status"] = "submitting"
-        update_progress("batch", 1, 3, "Creating batch file...")
+        update_progress("batch", 1, 3, "Creating batch file (with fast clustering)...")
         
         batch_file_path = OUTPUT_DIR / "batch_input.jsonl"
         requests = []
         
-        for category, aggregator in aggregators.items():
+        # Use Fast Clustering (Optimized in Aggregator)
+        total_cats = len(aggregators)
+        for i, (category, aggregator) in enumerate(aggregators.items(), 1):
             stats = aggregator.get_stats()
             if stats["total_reviews"] < 50:
                 continue
             
+            update_progress("batch", 1, 3, f"Clustering {i}/{total_cats}: {category}")
+            
             try:
+                # This now uses the optimized Fast Community Detection
                 prompt_data = aggregator.get_semantic_prompt_data(category, limit=150)
-            except:
+            except Exception as e:
+                print(f"Clustering failed for {category}: {e}")
                 prompt_data = aggregator.get_aggregated_prompt_data(category, limit=150)
             
             prompt = f"""Analyze customer feedback for "{category}" products.
