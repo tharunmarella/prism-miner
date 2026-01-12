@@ -466,6 +466,8 @@ async def get_pipeline_progress():
 @app.post("/pipeline/download")
 async def download_results():
     """Download and parse batch results."""
+    import requests as http_requests
+    
     if not pipeline_state["batch_id"]:
         raise HTTPException(status_code=400, detail="No batch job found")
     
@@ -478,8 +480,13 @@ async def download_results():
     if not batch.output_file_id:
         raise HTTPException(status_code=400, detail="No output file available")
     
-    # Download results
-    response = groq_client.files.content(batch.output_file_id)
+    # Download results using REST API (SDK doesn't have files.content)
+    url = f"https://api.groq.com/openai/v1/files/{batch.output_file_id}/content"
+    headers = {"Authorization": f"Bearer {GROQ_API_KEY}"}
+    response = http_requests.get(url, headers=headers)
+    
+    if response.status_code != 200:
+        raise HTTPException(status_code=500, detail=f"Failed to download results: {response.text}")
     
     results_path = OUTPUT_DIR / "batch_results.jsonl"
     with open(results_path, 'wb') as f:
