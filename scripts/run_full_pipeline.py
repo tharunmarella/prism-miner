@@ -43,8 +43,8 @@ from pymongo import MongoClient
 from huggingface_hub import hf_hub_download
 from groq import Groq
 
-from prism_miner.services.opinion_extractor import OpinionUnitExtractor
-from prism_miner.services.aggregator import OpinionAggregator
+from services.opinion_extractor import OpinionUnitExtractor
+from services.aggregator import OpinionAggregator
 
 # Setup logging
 structlog.configure(

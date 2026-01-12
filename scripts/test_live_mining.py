@@ -14,8 +14,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from openai import OpenAI
-from prism_miner.services.opinion_extractor import OpinionUnitExtractor
-from prism_miner.services.aggregator import OpinionAggregator
+from services.opinion_extractor import OpinionUnitExtractor
+from services.aggregator import OpinionAggregator
 
 # Config
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")

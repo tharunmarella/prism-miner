@@ -15,12 +15,12 @@ import structlog
 from collections import defaultdict
 from typing import Dict, List, Optional
 
-from prism_miner.config import config
-from prism_miner.services.opinion_extractor import OpinionUnitExtractor
-from prism_miner.services.review_loader import ReviewLoader
-from prism_miner.services.batch_api import GroqBatchService
-from prism_miner.services.mongo_storage import MongoStorage
-from prism_miner.services.aggregator import OpinionAggregator
+from config import config
+from services.opinion_extractor import OpinionUnitExtractor
+from services.review_loader import ReviewLoader
+from services.batch_api import GroqBatchService
+from services.mongo_storage import MongoStorage
+from services.aggregator import OpinionAggregator
 
 log = structlog.get_logger()
 

@@ -1,4 +1,4 @@
-from prism_miner.services.opinion_extractor import OpinionUnitExtractor
+from services.opinion_extractor import OpinionUnitExtractor
 
 def test_extraction():
     extractor = OpinionUnitExtractor()

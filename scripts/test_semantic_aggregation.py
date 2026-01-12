@@ -20,8 +20,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from pymongo import MongoClient
 from groq import Groq
-from prism_miner.services.opinion_extractor import OpinionUnitExtractor
-from prism_miner.services.aggregator import OpinionAggregator
+from services.opinion_extractor import OpinionUnitExtractor
+from services.aggregator import OpinionAggregator
 
 GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
