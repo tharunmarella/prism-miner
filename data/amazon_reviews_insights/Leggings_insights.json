@@ -1,0 +1,79 @@
+{
+  "category": "Leggings",
+  "hidden_dimensions": [
+    {
+      "name": "Seam Durability",
+      "importance": "High",
+      "description": "Users want to know if the leggings are constructed with durable seams that can withstand exercise and regular wear without bursting or tearing.",
+      "example_vocabulary": [
+        "serged seam",
+        "reinforced",
+        "burst seam",
+        "sewn",
+        "seam edge",
+        "straight stick"
+      ]
+    },
+    {
+      "name": "Opacity",
+      "importance": "High",
+      "description": "Customers highly value leggings that are not see-through, especially during stretches or bends. They want assurance that the leggings provide full coverage and are suitable for various activities.",
+      "example_vocabulary": [
+        "opaque",
+        "not see through",
+        "stretched thin",
+        "coverage"
+      ]
+    },
+    {
+      "name": "Waistband Comfort & Support",
+      "importance": "Medium",
+      "description": "Users seek a comfortable waistband that stays in place, doesn't cut into the skin, and provides adequate support, particularly in the tummy area. They are interested in whether the waistband has elastic or is a yoga-style band.",
+      "example_vocabulary": [
+        "elastic",
+        "yoga band",
+        "supportive",
+        "high waist",
+        "comfortable",
+        "cutting in"
+      ]
+    },
+    {
+      "name": "Fit and Flattering Appearance",
+      "importance": "High",
+      "description": "Users desire leggings that fit well and enhance their body shape, particularly the buttock area. They look for terms indicating a flattering fit that hugs curves in the right places.",
+      "example_vocabulary": [
+        "hug my curves",
+        "fit perfect",
+        "makes your booty look so good",
+        "fit well",
+        "flattering"
+      ]
+    },
+    {
+      "name": "Fabric Softness and Comfort",
+      "importance": "High",
+      "description": "Customers prioritize leggings made from soft and comfortable materials suitable for all-day wear, lounging, and various activities. They appreciate fabrics that feel good against the skin.",
+      "example_vocabulary": [
+        "soft",
+        "comfy",
+        "comfortable",
+        "lounging",
+        "everyday wear"
+      ]
+    },
+    {
+      "name": "Sizing Accuracy & Length",
+      "importance": "Medium",
+      "description": "Users are concerned with the accuracy of sizing, particularly length. Discrepancies can lead to disappointment, especially with 'one size fits all' claims. Maternity leggings require specific fit in the crotch area.",
+      "example_vocabulary": [
+        "one size fits all",
+        "too long",
+        "runs small",
+        "size up",
+        "maternity",
+        "crotch"
+      ]
+    }
+  ]
+}

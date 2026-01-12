@@ -1,0 +1,5770 @@
+{
+  "category": "Musical_Instruments",
+  "total_items_scanned": 213593,
+  "total_unique_keys": 287,
+  "attributes": [
+    {
+      "name": "Date First Available",
+      "occurrence": 202189,
+      "frequency_pct": 94.66,
+      "examples": [
+        "July 16, 2004",
+        "April 13, 2004",
+        "July 10, 2007",
+        "October 2, 2001",
+        "July 30, 2004",
+        "June 8, 2005",
+        "April 4, 2007",
+        "August 17, 2011",
+        "January 23, 2019",
+        "August 25, 2004",
+        "January 10, 2021",
+        "March 7, 2014",
+        "February 1, 2012",
+        "January 1, 2009",
+        "January 29, 2006"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 176242,
+      "frequency_pct": 82.51,
+      "examples": [
+        "1 pounds",
+        "3.2 ounces",
+        "1.6 ounces",
+        "1 Pounds",
+        "4.8 ounces",
+        "5.6 ounces",
+        "8 ounces",
+        "0.634 ounces",
+        "0.8 ounces",
+        "6.4 ounces",
+        "0.352 ounces",
+        "4 ounces",
+        "0.353 ounces",
+        "2.39 ounces",
+        "0.32 ounces"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 143333,
+      "frequency_pct": 67.11,
+      "examples": [
+        "TOMENGBEIAABBCC",
+        "1",
+        "Neewer",
+        "K-MusculoAABBCC",
+        "mcyiqihaiAADDCC",
+        "0",
+        "XGATMLAABBCC",
+        "001",
+        "TNS30W-xy-z",
+        "01",
+        "lotmusic",
+        "2",
+        "URMIIM",
+        "BM 800",
+        "mcyiqihaiAABBCC"
+      ]
+    },
+    {
+      "name": "Brand",
+      "occurrence": 124082,
+      "frequency_pct": 58.09,
+      "examples": [
+        "Fender",
+        "Yamaha",
+        "Ibanez",
+        "JIM DUNLOP",
+        "Seismic Audio",
+        "Hohner Accordions",
+        "Behringer",
+        "Pyle",
+        "Latin Percussion",
+        "Audio-Technica",
+        "Dean Guitars",
+        "Oscar Schmidt",
+        "Kala",
+        "Peavey",
+        "WORLDS BEST CABLES"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 111026,
+      "frequency_pct": 51.98,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "7 x 5 x 7 inches",
+        "3 x 8 x 10 inches",
+        "11.42 x 7.48 x 3.54 inches",
+        "3.54 x 3.54 x 3.54 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "7.09 x 3.54 x 1.57 inches",
+        "44 x 19 x 5 inches",
+        "6 x 7 x 10 inches",
+        "0.01 x 0.01 x 0.01 inches",
+        "10 x 10 x 10 inches",
+        "2 x 2 x 2 inches",
+        "3 x 3 x 3 inches",
+        "42 x 5 x 15 inches",
+        "4 x 1 x 1 inches"
+      ]
+    },
+    {
+      "name": "Best Sellers Rank",
+      "occurrence": 105215,
+      "frequency_pct": 49.26,
+      "examples": [
+        "{}",
+        "{'Musical Instruments': 92775, 'Electric Guitar Knobs': 920}",
+        "{'Musical Instruments': 26675, 'Stands for Multiple Guitars & Basses': 154}",
+        "{'Musical Instruments': 152, 'Drumsticks': 3}",
+        "{'Musical Instruments': 1701, 'Microphone Bags & Cases': 5}",
+        "{'Musical Instruments': 51933, 'Ukulele Accessories': 409}",
+        "{'Musical Instruments': 70003, 'Stage & Studio Equipment Bags & Cases': 20}",
+        "{'Musical Instruments': 122741, 'Microphone Accessories': 7891, 'Guitar & Bass Accessories': 32108}",
+        "{'Musical Instruments': 51908, 'Steel Drums': 203}",
+        "{'Musical Instruments': 89243, 'Wireless Lavalier Microphones & Systems': 1896}",
+        "{'Musical Instruments': 79133, 'Acoustic Violins': 220}",
+        "{'Musical Instruments': 55534, 'Ukuleles': 540}",
+        "{'Musical Instruments': 168775, 'Acoustic-Electric Guitars': 991, 'Acoustic Guitars': 1857}",
+        "{'Musical Instruments': 48881, 'Thumb Pianos': 211}",
+        "{'Musical Instruments': 53474, 'Ukuleles': 504}"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 101700,
+      "frequency_pct": 47.61,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "name": "Color Name",
+      "occurrence": 89266,
+      "frequency_pct": 41.79,
+      "examples": [
+        "Black",
+        "Silver",
+        "Natural",
+        "White",
+        "Blue",
+        "Red",
+        "Gold",
+        "Brown",
+        "Chrome",
+        "black",
+        "Green",
+        "Multicolor",
+        "Bronze",
+        "MultiColored",
+        "Nickel"
+      ]
+    },
+    {
+      "name": "Color",
+      "occurrence": 74762,
+      "frequency_pct": 35.0,
+      "examples": [
+        "Black",
+        "Silver",
+        "Natural",
+        "White",
+        "Blue",
+        "Red",
+        "Gold",
+        "Brown",
+        "Multicolor",
+        "Green",
+        "black",
+        "Chrome",
+        "Bronze",
+        "Clear",
+        "Yellow"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 61737,
+      "frequency_pct": 28.9,
+      "examples": [
+        "2 x 2 x 2 inches",
+        "1 x 1 x 1 inches",
+        "3 x 3 x 3 inches",
+        "39.37 x 39.37 x 19.69 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "10 x 4 x 2 inches",
+        "3 x 2 x 1 inches",
+        "3.94 x 3.94 x 1.97 inches",
+        "6 x 4 x 1 inches",
+        "38 x 5 x 5 inches",
+        "9 x 6 x 1 inches",
+        "6 x 6 x 0.35 inches",
+        "4 x 3 x 0.5 inches",
+        "4 x 4 x 4 inches",
+        "3 x 2 x 0.5 inches"
+      ]
+    },
+    {
+      "name": "Material Type",
+      "occurrence": 57076,
+      "frequency_pct": 26.72,
+      "examples": [
+        "Metal",
+        "Plastic",
+        "Wood",
+        "Aluminum",
+        "Alloy Steel",
+        "Brass",
+        "Nylon",
+        "Leather",
+        "Rubber",
+        "Copper",
+        "Steel",
+        "Acrylonitrile Butadiene Styrene",
+        "Stainless Steel",
+        "Synthetic",
+        "Horn"
+      ]
+    },
+    {
+      "name": "Material",
+      "occurrence": 40146,
+      "frequency_pct": 18.8,
+      "examples": [
+        "Metal",
+        "Plastic",
+        "Wood",
+        "Alloy Steel",
+        "Aluminum",
+        "Brass",
+        "Nylon",
+        "Rubber",
+        "Steel",
+        "Stainless Steel",
+        "Horn",
+        "Polyester",
+        "Bronze",
+        "Leather",
+        "Acrylonitrile Butadiene Styrene"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 40058,
+      "frequency_pct": 18.75,
+      "examples": [
+        "-inch",
+        "Small",
+        "Medium",
+        "One Size",
+        "Large",
+        "0",
+        "4/4",
+        "Soprano",
+        "Concert",
+        "Free Size",
+        "Standard",
+        "1",
+        "2\" Wide - 29-54\" Length",
+        "Full",
+        "Tenor"
+      ]
+    },
+    {
+      "name": "Item Dimensions LxWxH",
+      "occurrence": 38178,
+      "frequency_pct": 17.87,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "3 x 8 x 10 inches",
+        "6 x 7 x 10 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "10 x 10 x 10 inches",
+        "0.01 x 0.01 x 0.01 inches",
+        "7 x 5 x 7 inches",
+        "3 x 3 x 3 inches",
+        "4 x 1 x 1 inches",
+        "3.54 x 3.54 x 3.54 inches",
+        "1.97 x 1.97 x 4.33 inches",
+        "6 x 6 x 7 inches",
+        "7.09 x 3.54 x 1.57 inches",
+        "11.42 x 7.48 x 3.54 inches",
+        "4 x 4 x 4 inches"
+      ]
+    },
+    {
+      "name": "Number of Strings",
+      "occurrence": 32029,
+      "frequency_pct": 15.0,
+      "examples": [
+        "6",
+        "4",
+        "5",
+        "8",
+        "12",
+        "7",
+        "1",
+        "3",
+        "10",
+        "2",
+        "16",
+        "11",
+        "21",
+        "22",
+        "24"
+      ]
+    },
+    {
+      "name": "Body Material",
+      "occurrence": 29811,
+      "frequency_pct": 13.96,
+      "examples": [
+        "Wood",
+        "Mahogany",
+        "Alloy Steel",
+        "Rosewood",
+        "Metal",
+        "Basswood",
+        "Maple",
+        "Plastic",
+        "Bass Wood",
+        "Alder",
+        "Spruce",
+        "Bronze",
+        "Brass",
+        "Poplar",
+        "Mahogany Wood"
+      ]
+    },
+    {
+      "name": "Power Source",
+      "occurrence": 28677,
+      "frequency_pct": 13.43,
+      "examples": [
+        "Corded Electric",
+        "Battery Powered",
+        "Electric",
+        "Adapter",
+        "Corded Electric, Battery Powered",
+        "Usb Microphone",
+        "AC",
+        "Usb",
+        "Adapter,Electric",
+        "Rechargeable",
+        "Plug",
+        "Corded Electric,Battery Powered",
+        "Usb Microphone,Usb Condenser",
+        "Usb Condenser",
+        "Adapter,Plug"
+      ]
+    },
+    {
+      "name": "Compatible Devices",
+      "occurrence": 27424,
+      "frequency_pct": 12.84,
+      "examples": [
+        "Guitar",
+        "Speaker",
+        "Personal Computer",
+        "Musical Instrument",
+        "Headphone",
+        "Smartphone",
+        "Microphone",
+        "Musical Instruments",
+        "Amplifier",
+        "Guitar, Ukulele",
+        "Camera",
+        "Laptop, Personal Computer",
+        "guitar",
+        "Tablet, Smartphone",
+        "Adapter"
+      ]
+    },
+    {
+      "name": "Manufacturer",
+      "occurrence": 26593,
+      "frequency_pct": 12.45,
+      "examples": [
+        "Seismic Audio",
+        "Rockville",
+        "Buckle-Down",
+        "MyVolts",
+        "Durpower",
+        "HQRP",
+        "Walker & Williams",
+        "Bnineteenteam",
+        "Sound Around",
+        "EPtech",
+        "Seismic Audio Speakers, Inc.",
+        "Hosa",
+        "OMNIHIL",
+        "KMC Music Inc",
+        "Audio-Technica"
+      ]
+    },
+    {
+      "name": "Style",
+      "occurrence": 26303,
+      "frequency_pct": 12.31,
+      "examples": [
+        "Modern",
+        "Compact",
+        "Classic",
+        "Professional",
+        "Brass",
+        "Traditional",
+        "Overdrive",
+        "Distortion",
+        "French",
+        "German",
+        "Adjustable",
+        "Digital",
+        "Travel",
+        "Mouthpiece",
+        "Distortion,Overdrive"
+      ]
+    },
+    {
+      "name": "Back Material",
+      "occurrence": 23121,
+      "frequency_pct": 10.82,
+      "examples": [
+        "Mahogany",
+        "Basswood",
+        "Rosewood",
+        "Mahogany Wood",
+        "Maple",
+        "Maple Wood",
+        "Wood",
+        "Alder Wood",
+        "Alder",
+        "Sapele",
+        "Ebony",
+        "Ash Wood",
+        "Rosewood, Mahogany Wood",
+        "Maple Wood, Mahogany Wood",
+        "Acrylonitrile Butadiene Styrene"
+      ]
+    },
+    {
+      "name": "Connector Type",
+      "occurrence": 22696,
+      "frequency_pct": 10.63,
+      "examples": [
+        "XLR",
+        "USB",
+        "3.5 mm Jack",
+        "Auxiliary",
+        "XLR Connector",
+        "USB, 3.5 mm Jack",
+        "3.5mm Jack",
+        "/",
+        "Barrel Connector",
+        "barrel connector",
+        "Barrel connector",
+        "Usb",
+        "Lightning",
+        "Auxiliary, XLR",
+        "MIDI USB"
+      ]
+    },
+    {
+      "name": "Top Material",
+      "occurrence": 22178,
+      "frequency_pct": 10.38,
+      "examples": [
+        "Spruce",
+        "Mahogany",
+        "Maple Wood",
+        "Maple",
+        "Basswood",
+        "Spruce Wood",
+        "Rosewood",
+        "Ebony",
+        "Mahogany Wood",
+        "Rosewood, Mahogany",
+        "Maple, Spruce",
+        "Maple Wood, Rosewood, Mahogany Wood",
+        "Wood",
+        "Maple, Spruce, Ebony",
+        "Maple Wood, Rosewood"
+      ]
+    },
+    {
+      "name": "Back Material Type",
+      "occurrence": 20511,
+      "frequency_pct": 9.6,
+      "examples": [
+        "Mahogany",
+        "Basswood",
+        "Rosewood",
+        "Mahogany Wood",
+        "Maple Wood",
+        "Maple",
+        "Wood",
+        "Alder",
+        "Alder Wood",
+        "Ebony",
+        "Sapele",
+        "Ash Wood",
+        "Rosewood, Mahogany Wood",
+        "Maple Wood, Mahogany Wood",
+        "Acrylonitrile Butadiene Styrene"
+      ]
+    },
+    {
+      "name": "Top Material Type",
+      "occurrence": 19760,
+      "frequency_pct": 9.25,
+      "examples": [
+        "Spruce",
+        "Mahogany",
+        "Maple Wood",
+        "Maple",
+        "Basswood",
+        "Spruce Wood",
+        "Rosewood",
+        "Ebony",
+        "Mahogany Wood",
+        "Rosewood, Mahogany",
+        "Maple, Spruce",
+        "Maple Wood, Rosewood, Mahogany Wood",
+        "Wood",
+        "Cedar",
+        "Maple Wood, Rosewood"
+      ]
+    },
+    {
+      "name": "Special Feature",
+      "occurrence": 19417,
+      "frequency_pct": 9.09,
+      "examples": [
+        "Clip",
+        "Portable",
+        "Stand",
+        "Braided",
+        "Wireless",
+        "Short Circuit Protection",
+        "Lightweight",
+        "XLR",
+        "Radio",
+        "Volume Control",
+        "Easy to Install",
+        "Portable,Wireless",
+        "Waterproof",
+        "Travel",
+        "3.5mm jack"
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 18952,
+      "frequency_pct": 8.87,
+      "examples": [
+        "China",
+        "USA",
+        "Taiwan",
+        "Canada",
+        "Japan",
+        "Germany",
+        "France",
+        "Thailand",
+        "Mexico",
+        "United Kingdom",
+        "Indonesia",
+        "India",
+        "Italy",
+        "Turkey",
+        "Switzerland"
+      ]
+    },
+    {
+      "name": "Included Components",
+      "occurrence": 17945,
+      "frequency_pct": 8.4,
+      "examples": [
+        "Microphone",
+        "Case",
+        "Battery",
+        "not included",
+        "Not included",
+        "Mallets",
+        "Cymbal",
+        "Knob",
+        "microphone",
+        "warranty card",
+        "Mouthpiece",
+        "Warranty card",
+        "Snare",
+        "Amplifier",
+        "Screw, Knob"
+      ]
+    },
+    {
+      "name": "Connectivity Technology",
+      "occurrence": 17531,
+      "frequency_pct": 8.21,
+      "examples": [
+        "USB",
+        "XLR",
+        "Auxiliary",
+        "Bluetooth",
+        "Wired",
+        "Wireless",
+        "Bluetooth, USB",
+        "Usb",
+        "Bluetooth, Auxiliary, USB",
+        "USB, XLR",
+        "RCA",
+        "UHF",
+        "Wired, Wireless",
+        "Interface",
+        "Auxiliary, USB"
+      ]
+    },
+    {
+      "name": "Neck Material Type",
+      "occurrence": 17071,
+      "frequency_pct": 7.99,
+      "examples": [
+        "Maple",
+        "Mahogany",
+        "Rosewood",
+        "Plastic",
+        "Nato Wood",
+        "Basswood",
+        "Wood",
+        "Nato",
+        "Spruce Wood",
+        "Okoume Wood",
+        "Sapele Wood",
+        "Cedar",
+        "Metal",
+        "maple",
+        "Catalpa Wood"
+      ]
+    },
+    {
+      "name": "Fretboard Material",
+      "occurrence": 15567,
+      "frequency_pct": 7.29,
+      "examples": [
+        "Rosewood",
+        "Maple Wood",
+        "Ebony Wood",
+        "Ebony",
+        "Mahogany Wood",
+        "Mahogany",
+        "Maple",
+        "Walnut Wood",
+        "Laurel Wood",
+        "Basswood",
+        "Laurel",
+        "rosewood",
+        "Morado",
+        "Walnut",
+        "Rose Wood"
+      ]
+    },
+    {
+      "name": "Instrument",
+      "occurrence": 14534,
+      "frequency_pct": 6.8,
+      "examples": [
+        "Ukulele",
+        "Violin",
+        "Guitar",
+        "Acoustic Guitar",
+        "Electric Guitar",
+        "Cello",
+        "Banjo",
+        "Bass Guitar",
+        "Mandolin",
+        "Guitar, Ukulele",
+        "Harp",
+        "Classical Guitar",
+        "guitar",
+        "violin",
+        "Piano"
+      ]
+    },
+    {
+      "name": "Hand Orientation",
+      "occurrence": 14352,
+      "frequency_pct": 6.72,
+      "examples": [
+        "Right",
+        "Ambidextrous",
+        "Left",
+        "Left, Right",
+        "Right Handed",
+        "Left, right",
+        "Right Hand",
+        "Attribute not applicable for product",
+        "1",
+        "left, right",
+        "Tail",
+        "R",
+        "no",
+        "Tune O Matic",
+        "Other"
+      ]
+    },
+    {
+      "name": "Model Name",
+      "occurrence": 14133,
+      "frequency_pct": 6.62,
+      "examples": [
+        "1",
+        "Buckle-down",
+        "{FEEDTITLE}",
+        "Eminence",
+        "MEINL",
+        "Collected singing bowl",
+        "Guitar Picks, 10-Pack",
+        "American Classic",
+        "Pyle",
+        "Dilwe",
+        "Language _ tag",
+        "VocoPro",
+        "Peavey",
+        "URMIIM",
+        "Signature Series"
+      ]
+    },
+    {
+      "name": "Guitar Bridge System",
+      "occurrence": 12688,
+      "frequency_pct": 5.94,
+      "examples": [
+        "Fixed",
+        "Tremolo",
+        "Adjustable",
+        "Tune-O-Matic",
+        "Hard Tail",
+        "Stop Tail",
+        "Hardtail Bridge",
+        "Rosewood",
+        "Telescaster",
+        "Fixed Bridge",
+        "Floyd Rose",
+        "Fulcrum",
+        "Tremelo",
+        "adjustable",
+        "Individual Adjustable Bridge System"
+      ]
+    },
+    {
+      "name": "String Material",
+      "occurrence": 12543,
+      "frequency_pct": 5.87,
+      "examples": [
+        "Nylon",
+        "Nickel",
+        "Alloy Steel",
+        "Phosphor Bronze",
+        "Stainless Steel",
+        "Bronze",
+        "Steel",
+        "Nickel Steel",
+        "Brass",
+        "Nickel Plated",
+        "steel",
+        "Chrome",
+        "Aquila Super Nylgut\u00ae",
+        "Coated",
+        "Aquila Super Nylgut"
+      ]
+    },
+    {
+      "name": "Finish Type",
+      "occurrence": 12269,
+      "frequency_pct": 5.74,
+      "examples": [
+        "Polished",
+        "Powder Coated",
+        "Painted",
+        "Unfinished",
+        "Varnish",
+        "Metal",
+        "Satin",
+        "Satin Finish",
+        "Lacquered",
+        "Matte",
+        "Gloss",
+        "Aluminum",
+        "Copper",
+        "Plastic",
+        "Alloy,Aluminum"
+      ]
+    },
+    {
+      "name": "Fretboard Material Type",
+      "occurrence": 11938,
+      "frequency_pct": 5.59,
+      "examples": [
+        "Rosewood",
+        "Maple Wood",
+        "Ebony Wood",
+        "Mahogany Wood",
+        "Ebony",
+        "Mahogany",
+        "Walnut Wood",
+        "Laurel Wood",
+        "Basswood",
+        "Morado",
+        "Pau Ferro Wood",
+        "Ovangkol Wood",
+        "Amaranth",
+        "Jatoba Wood",
+        "Wood"
+      ]
+    },
+    {
+      "name": "Guitar Pickup Configuration",
+      "occurrence": 11441,
+      "frequency_pct": 5.36,
+      "examples": [
+        "H",
+        "S",
+        "Combination",
+        "Piezoelectric",
+        "Piezo",
+        "combination",
+        "piezoelectric",
+        "H-H",
+        "Humbucker",
+        "S-S",
+        "Single Coil",
+        "No Pickup",
+        "MIDI",
+        "S-S-S",
+        "No"
+      ]
+    },
+    {
+      "name": "String Material Type",
+      "occurrence": 10960,
+      "frequency_pct": 5.13,
+      "examples": [
+        "Nylon",
+        "Alloy Steel",
+        "Nickel",
+        "Phosphor Bronze",
+        "Stainless Steel",
+        "Bronze",
+        "Nickel Steel",
+        "Steel",
+        "Brass",
+        "Nickel Plated",
+        "Aquila Super Nylgut\u00ae",
+        "Chrome",
+        "Aquila Super Nylgut",
+        "steel",
+        "Coated"
+      ]
+    },
+    {
+      "name": "Polar Pattern",
+      "occurrence": 9769,
+      "frequency_pct": 4.57,
+      "examples": [
+        "Unidirectional",
+        "Omnidirectional",
+        "Bidirectional",
+        "Multipattern",
+        "Unidirectional, Omnidirectional",
+        "Bidirectional, Unidirectional, Omnidirectional",
+        "Unidirectional, Bidirectional, Omnidirectional",
+        "Super-cardioid",
+        "super-cardioid",
+        "Super Cardioid",
+        "Hyper-cardioid",
+        "hyper-cardioid",
+        "Unidirectional, Bidirectional",
+        "Lavalier microphone",
+        "Bidirectional, Omnidirectional"
+      ]
+    },
+    {
+      "name": "Batteries",
+      "occurrence": 9586,
+      "frequency_pct": 4.49,
+      "examples": [
+        "1 Lithium Ion batteries required. (included)",
+        "1 9V batteries required.",
+        "1 9V batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "1 Lithium Polymer batteries required. (included)",
+        "2 AA batteries required.",
+        "1 CR2 batteries required. (included)",
+        "2 AA batteries required. (included)",
+        "1 Lithium Metal batteries required. (included)",
+        "2 AAA batteries required. (included)",
+        "4 AA batteries required.",
+        "4 AA batteries required. (included)",
+        "2 Lithium Polymer batteries required. (included)",
+        "2 Lithium Ion batteries required. (included)",
+        "1 Product Specific batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Scale Length",
+      "occurrence": 9436,
+      "frequency_pct": 4.42,
+      "examples": [
+        "25.5 Inches",
+        "25.5",
+        "24.75",
+        "34.0",
+        "25 Inches",
+        "inches",
+        "34",
+        "24.75 Inches",
+        "Inches",
+        "25.6 Inches",
+        "25.5\" Scale",
+        "24 Inches",
+        "25.4 Inches",
+        "24.75\" Scale",
+        "30 Inches"
+      ]
+    },
+    {
+      "name": "Instrument Key",
+      "occurrence": 8408,
+      "frequency_pct": 3.94,
+      "examples": [
+        "C",
+        "A",
+        "B Flat",
+        "G",
+        "D",
+        "F",
+        "Bb",
+        "E",
+        "c",
+        "B",
+        "E Flat",
+        "F Sharp",
+        "C Major",
+        "Eb",
+        "BB"
+      ]
+    },
+    {
+      "name": "Operation Mode",
+      "occurrence": 8185,
+      "frequency_pct": 3.83,
+      "examples": [
+        "Manual",
+        "Electric",
+        "Acoustic",
+        "Acoustic, Electric",
+        "acoustic",
+        "ON-OFF",
+        "electric",
+        "Hand",
+        "Mechanical",
+        "Off",
+        "Electronic",
+        "Automatic",
+        "Plug",
+        "Electrical",
+        "Toggle"
+      ]
+    },
+    {
+      "name": "Voltage",
+      "occurrence": 7693,
+      "frequency_pct": 3.6,
+      "examples": [
+        "9 Volts",
+        "240 Volts",
+        "9",
+        "12 Volts",
+        "120 Volts",
+        "5 Volts",
+        "110 Volts",
+        "9 Volts (DC)",
+        "18 Volts",
+        "48 Volts",
+        "230 Volts",
+        "1.5 Volts",
+        "220 Volts",
+        "1 Volts",
+        "100"
+      ]
+    },
+    {
+      "name": "Hardware Platform",
+      "occurrence": 6950,
+      "frequency_pct": 3.25,
+      "examples": [
+        "PC",
+        "Karaoke Machine",
+        "Tablet, Smartphone",
+        "Smartphone",
+        "Camera",
+        "CONSUMER_ELECTRONICS",
+        "Laptop, PC",
+        "Television",
+        "PC, Tablet, Smartphone",
+        "PC, Smartphone",
+        "Laptop",
+        "Camera, Smartphone",
+        "Tablet",
+        "Laptop, PC, Smartphone",
+        "Laptop, PC, Tablet, Smartphone"
+      ]
+    },
+    {
+      "name": "String Gauge",
+      "occurrence": 6655,
+      "frequency_pct": 3.12,
+      "examples": [
+        "Light",
+        "Medium",
+        "Custom",
+        ".01",
+        ".011",
+        "Heavy",
+        "Extra Light",
+        ".012",
+        ".009",
+        "Other",
+        ".045",
+        ".013",
+        "light",
+        "Extra-Light",
+        ".028"
+      ]
+    },
+    {
+      "name": "Signal Format",
+      "occurrence": 6530,
+      "frequency_pct": 3.06,
+      "examples": [
+        "Analog",
+        "Digital",
+        "Analogue",
+        "Analongue/Digital",
+        "Digital / Analog / MIDI",
+        "Bluetooth",
+        "DMX",
+        "analog",
+        "found in image Analog",
+        "VHF",
+        "Analogy",
+        "xlr microphone",
+        "false",
+        "Uhf",
+        "pyschoacoustics stereo"
+      ]
+    },
+    {
+      "name": "Unit Count",
+      "occurrence": 6489,
+      "frequency_pct": 3.04,
+      "examples": [
+        "1 Count",
+        "1.0 Count",
+        "1.00 Count",
+        "2.0 Count",
+        "4.0 Count",
+        "3.0 Count",
+        "10.0 Count",
+        "2 Count",
+        "5.0 Count",
+        "6.0 Count",
+        "4 Count",
+        "20 Foot",
+        "12.0 Count",
+        "4 count",
+        "1 count"
+      ]
+    },
+    {
+      "name": "Connector Gender",
+      "occurrence": 6403,
+      "frequency_pct": 3.0,
+      "examples": [
+        "Male-to-Male",
+        "Male-to-Female",
+        "Female-to-Male",
+        "Female-to-Female",
+        "Male",
+        "Female, Male",
+        "Male, Female",
+        "Female",
+        "Genderless",
+        "Straight to Right Angle",
+        "Female-to-Male, Male-to-Female",
+        "Dual 1/4 Mono Plug to XLR Male",
+        "2 XLR Female to 1 XLR Male",
+        "Female/Male",
+        "\u516c\u5934\u8f6c\u516c\u5934"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 6304,
+      "frequency_pct": 2.95,
+      "examples": [
+        "Round",
+        "Rectangular",
+        "Square",
+        "Irregular",
+        "Novelty",
+        "Prism",
+        "Triangular",
+        "Spherical",
+        "Round Rod",
+        "Cylindrical",
+        "Oval",
+        "Guitar",
+        "Strap",
+        "Hexagonal",
+        "Tubular(T)"
+      ]
+    },
+    {
+      "name": "Microphone Form Factor",
+      "occurrence": 5568,
+      "frequency_pct": 2.61,
+      "examples": [
+        "Microphone System",
+        "Lavalier",
+        "Handheld",
+        "Microphone Only",
+        "microphone only",
+        "Microphone only",
+        "Table Array",
+        "Built-In",
+        "Mini",
+        "Large Diaphragm",
+        "Lavalier, Mini",
+        "Headset",
+        "Shotgun",
+        "Microphone system",
+        "Gooseneck"
+      ]
+    },
+    {
+      "name": "Musical Style",
+      "occurrence": 5374,
+      "frequency_pct": 2.52,
+      "examples": [
+        "Electronic",
+        "WorldMusic",
+        "world-music",
+        "World-music",
+        "Rock",
+        "Folk",
+        "Blues",
+        "All",
+        "rock,folk,blues",
+        "Rock,folk,blues",
+        "rock,blues,folk",
+        "rock",
+        "rock,blues",
+        "Rock,blues,folk",
+        "rock, pop, country,classical,blues,heavy-metal"
+      ]
+    },
+    {
+      "name": "Battery type",
+      "occurrence": 4912,
+      "frequency_pct": 2.3,
+      "examples": [
+        "Alkaline",
+        "Lithium Ion",
+        "Lithium Polymer",
+        "Lithium",
+        "Lithium Manganese Dioxide",
+        "Lithium Metal",
+        "Zinc Carbon",
+        "Polymer",
+        "NiMH",
+        "Lead Acid",
+        "Manganese",
+        "Zinc",
+        "NiCAD",
+        "Lithium-Cobalt",
+        "Sealed Lead Acid"
+      ]
+    },
+    {
+      "name": "Domestic Shipping",
+      "occurrence": 4906,
+      "frequency_pct": 2.3,
+      "examples": [
+        "Item can be shipped within U.S.",
+        "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "This item is available for shipping in the U.S. except for California and to select countries outside the U.S."
+      ]
+    },
+    {
+      "name": "International Shipping",
+      "occurrence": 4906,
+      "frequency_pct": 2.3,
+      "examples": [
+        "This item can be shipped to select countries outside of the U.S.  Learn More",
+        "This item is not eligible for international shipping.  Learn More"
+      ]
+    },
+    {
+      "name": "Mounting Type",
+      "occurrence": 4663,
+      "frequency_pct": 2.18,
+      "examples": [
+        "Wall Mount",
+        "Tabletop",
+        "Floor Standing",
+        "Flush Mount",
+        "Pole Mount",
+        "Floor Mount",
+        "Hanging",
+        "Plug Mount",
+        "Freestanding",
+        "Rack Mount",
+        "Ceiling Mount",
+        "Tabletop Mount",
+        "Freestanding,Plug Mount",
+        "Tripod",
+        "Surface Mount"
+      ]
+    },
+    {
+      "name": "Hardware Interface",
+      "occurrence": 4395,
+      "frequency_pct": 2.06,
+      "examples": [
+        "USB",
+        "1/4-inch Audio",
+        "USB 2.0",
+        "Bluetooth",
+        "3.5mm Audio",
+        "Unknown",
+        "Secure Digital Card",
+        "Bluetooth, USB",
+        "MicroSD",
+        "Ethernet",
+        "1/4-inch Audio, 3.5mm Audio",
+        "USB, Secure Digital Card",
+        "USB Type C",
+        "USB, SDHC, Secure Digital Card",
+        "USB 3.0"
+      ]
+    },
+    {
+      "name": "Output Wattage",
+      "occurrence": 4267,
+      "frequency_pct": 2.0,
+      "examples": [
+        "20 Watts",
+        "5 Watts",
+        "10 Watts",
+        "15 Watts",
+        "100 Watts",
+        "50 Watts",
+        "30 Watts",
+        "40 Watts",
+        "60 Watts",
+        "15",
+        "3 Watts",
+        "200 Watts",
+        "500 Watts",
+        "100",
+        "300 Watts"
+      ]
+    },
+    {
+      "name": "Cable Type",
+      "occurrence": 4154,
+      "frequency_pct": 1.94,
+      "examples": [
+        "XLR",
+        "USB",
+        "AUX",
+        "Composite",
+        "Coaxial",
+        "AUX, XLR",
+        "USB, XLR",
+        "Ethernet",
+        "Component",
+        "Lightning",
+        "XLR, Ethernet",
+        "Composite, XLR",
+        "USB, Lightning",
+        "Type-A",
+        "XLR Audio Cables"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 3924,
+      "frequency_pct": 1.84,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "10",
+        "6",
+        "5",
+        "12",
+        "8",
+        "20",
+        "100",
+        "50",
+        "24",
+        "11",
+        "48"
+      ]
+    },
+    {
+      "name": "Part Number",
+      "occurrence": 3654,
+      "frequency_pct": 1.71,
+      "examples": [
+        "1",
+        "TOMENGBEIAABBCC",
+        "K-MusculoAABBCC",
+        "JUNMAN",
+        "XGATMLAABBCC",
+        "CBAXGATMLABC",
+        "DQ-R90C",
+        "DQ-R50",
+        "McyiqihaiAADDCC",
+        "DQ-R60",
+        "Lotmusic",
+        "DQ-R90L",
+        "001",
+        "GOSONO",
+        "Daoroka-808"
+      ]
+    },
+    {
+      "name": "Wattage",
+      "occurrence": 3652,
+      "frequency_pct": 1.71,
+      "examples": [
+        "10 watts",
+        "120 watts",
+        "3 watts",
+        "60 watts",
+        "1000 watts",
+        "15 watts",
+        "100 watts",
+        "18 watts",
+        "50 watts",
+        "500 watts",
+        "200 watts",
+        "400 watts",
+        "300 watts",
+        "24 watts",
+        "5 watts"
+      ]
+    },
+    {
+      "name": "Recommended Uses For Product",
+      "occurrence": 3578,
+      "frequency_pct": 1.68,
+      "examples": [
+        "Singing",
+        "Streaming",
+        "Singing, Karaoke",
+        "Streaming, Singing",
+        "Music",
+        "Compression",
+        "Construction",
+        "Volume",
+        "Karaoke",
+        "For Music Players",
+        "Streaming, Singing, Gaming",
+        "Singing, Karaoke, Gaming",
+        "Video Conference",
+        "Home",
+        "\u6d41\u5a92\u4f53"
+      ]
+    },
+    {
+      "name": "Audio Sensitivity",
+      "occurrence": 3557,
+      "frequency_pct": 1.67,
+      "examples": [
+        "30 dB",
+        "10 dB",
+        "45 dB",
+        "38 dB",
+        "115 dB",
+        "42 dB",
+        "40 dB",
+        "80 dB",
+        "32 dB",
+        "90 dB",
+        "34 dB",
+        "120 dB",
+        "54 dB",
+        "60 dB",
+        "20 dB"
+      ]
+    },
+    {
+      "name": "Number of Channels",
+      "occurrence": 3551,
+      "frequency_pct": 1.66,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "8",
+        "12",
+        "16",
+        "6",
+        "10",
+        "3",
+        "5",
+        "32",
+        "20",
+        "24",
+        "18",
+        "7"
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "occurrence": 3535,
+      "frequency_pct": 1.66,
+      "examples": [
+        "1",
+        "2",
+        "12",
+        "6",
+        "4",
+        "3",
+        "10",
+        "5",
+        "20",
+        "24",
+        "8",
+        "50",
+        "72",
+        "100",
+        "36"
+      ]
+    },
+    {
+      "name": "Number of Keyboard Keys",
+      "occurrence": 3522,
+      "frequency_pct": 1.65,
+      "examples": [
+        "88",
+        "61",
+        "49",
+        "17",
+        "25",
+        "37",
+        "76",
+        "1",
+        "32",
+        "4",
+        "54",
+        "6",
+        "12",
+        "16",
+        "73"
+      ]
+    },
+    {
+      "name": "Closure Type",
+      "occurrence": 3358,
+      "frequency_pct": 1.57,
+      "examples": [
+        "Zipper",
+        "Toggle",
+        "Pull On",
+        "Buckle",
+        "Drawstring",
+        "Twist Lock",
+        "Push Lock",
+        "Button",
+        "Snap",
+        "Hook and Loop",
+        "Flap",
+        "Clip",
+        "Ear Loop",
+        "Elastic",
+        "Magnetic"
+      ]
+    },
+    {
+      "name": "Proficiency Level",
+      "occurrence": 3350,
+      "frequency_pct": 1.57,
+      "examples": [
+        "Beginner",
+        "All",
+        "Professional",
+        "Student",
+        "Intermediate",
+        "professional",
+        "intermediate",
+        "student",
+        "beginner",
+        "Beginner, Professional",
+        "Beginner, Intermediate, Professional",
+        "Beginner, Intermediate",
+        "Advanced",
+        "Novice, Intermediate, Expert",
+        "Beginner, Intermediate , or expert"
+      ]
+    },
+    {
+      "name": "Pattern",
+      "occurrence": 3328,
+      "frequency_pct": 1.56,
+      "examples": [
+        "Solid",
+        "Letter Print",
+        "Cartoon",
+        "Floral",
+        "Letter",
+        "Variety Pack",
+        "Animal Print",
+        "Striped",
+        "Polka Dot",
+        "Camouflage",
+        "Checkered",
+        "Plain",
+        "Print",
+        "Geometric",
+        "Leaf"
+      ]
+    },
+    {
+      "name": "Batteries Required?",
+      "occurrence": 2906,
+      "frequency_pct": 1.36,
+      "examples": [
+        "No",
+        "Yes",
+        "False",
+        "false"
+      ]
+    },
+    {
+      "name": "Light Source Type",
+      "occurrence": 2729,
+      "frequency_pct": 1.28,
+      "examples": [
+        "Light Emitting Diode",
+        "LED",
+        "Led",
+        "led",
+        "Lighted",
+        "Halogen",
+        "Electric",
+        "LED Lighting",
+        "Incandescent",
+        "LED, Incandescent",
+        "Fluorescent",
+        "PAR16",
+        "Lighting Effects",
+        "DMX",
+        "Infrared"
+      ]
+    },
+    {
+      "name": "Guitar Pick Thickness",
+      "occurrence": 2565,
+      "frequency_pct": 1.2,
+      "examples": [
+        "Medium",
+        "medium",
+        "Thick",
+        "thick",
+        "Thin",
+        "thin",
+        "Extra-thick",
+        "extra-thick",
+        ".015\" (.38mm)",
+        "extra-thin",
+        "0.75mm",
+        "2.5mm",
+        "0.71mm",
+        "0.46mm",
+        "Heavy"
+      ]
+    },
+    {
+      "name": "Age Range (Description)",
+      "occurrence": 2515,
+      "frequency_pct": 1.18,
+      "examples": [
+        "Adult",
+        "Kid",
+        "Kids",
+        "Adults",
+        "All Age Groups",
+        "kid",
+        "Adults,Kids",
+        "All Ages",
+        "Baby",
+        "Children",
+        "Kid,Adult",
+        "Adults,Children",
+        "Teen",
+        "Infant",
+        "Children,Kids"
+      ]
+    },
+    {
+      "name": "Number of Keys",
+      "occurrence": 2456,
+      "frequency_pct": 1.15,
+      "examples": [
+        "88",
+        "61",
+        "49",
+        "76",
+        "25",
+        "37",
+        "32",
+        "54",
+        "73",
+        "1",
+        "16",
+        "64",
+        "30",
+        "7",
+        "44"
+      ]
+    },
+    {
+      "name": "Speaker Type",
+      "occurrence": 2423,
+      "frequency_pct": 1.13,
+      "examples": [
+        "Woofer",
+        "Monitor",
+        "Subwoofer",
+        "Tweeter",
+        "Subwoofer, Woofer",
+        "Outdoor",
+        "Component",
+        "Computer",
+        "Coaxial",
+        "Surround Sound",
+        "Computer, Woofer",
+        "Bookshelf",
+        "Satellite",
+        "Soundbar",
+        "Surround Sound, Woofer"
+      ]
+    },
+    {
+      "name": "Item Package Quantity",
+      "occurrence": 2372,
+      "frequency_pct": 1.11,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "8",
+        "10",
+        "6",
+        "5",
+        "12",
+        "36",
+        "20",
+        "24",
+        "25",
+        "100",
+        "28"
+      ]
+    },
+    {
+      "name": "Indoor/Outdoor Usage",
+      "occurrence": 2341,
+      "frequency_pct": 1.1,
+      "examples": [
+        "Outdoor, Indoor",
+        "Indoor",
+        "Outdoor"
+      ]
+    },
+    {
+      "name": "Batteries Included?",
+      "occurrence": 2225,
+      "frequency_pct": 1.04,
+      "examples": [
+        "No",
+        "Yes",
+        "False",
+        "false"
+      ]
+    },
+    {
+      "name": "Number Of Items",
+      "occurrence": 2211,
+      "frequency_pct": 1.04,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "6",
+        "24",
+        "5",
+        "7",
+        "8",
+        "12",
+        "10",
+        "14",
+        "9",
+        "50",
+        "15"
+      ]
+    },
+    {
+      "name": "Specification Met",
+      "occurrence": 2085,
+      "frequency_pct": 0.98,
+      "examples": [
+        "CE, FCC, RoHS",
+        "CE",
+        "UL",
+        "RoHS",
+        "CE, RoHS",
+        "No",
+        "CE, FCC",
+        "Certified frustration-free",
+        "Energy Star",
+        "certified frustration-free",
+        "OE",
+        "ma",
+        "FCC",
+        "Oe",
+        "Ma"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 2025,
+      "frequency_pct": 0.95,
+      "examples": [
+        "Unisex-adult",
+        "unisex-adult",
+        "Unisex Adult",
+        "Womens",
+        "womens",
+        "Mens",
+        "mens",
+        "Unisex",
+        "Music, instruments, instrument accessories",
+        "music, instruments, instrument accessories",
+        "Mounts",
+        "Musical Instruments",
+        "Electronics",
+        "unisex-child",
+        "Unisex-child"
+      ]
+    },
+    {
+      "name": "Are Batteries Included",
+      "occurrence": 1933,
+      "frequency_pct": 0.9,
+      "examples": [
+        "No",
+        "Yes",
+        "False",
+        "false"
+      ]
+    },
+    {
+      "name": "Input Voltage",
+      "occurrence": 1836,
+      "frequency_pct": 0.86,
+      "examples": [
+        "240 Volts",
+        "120 Volts (AC)",
+        "12 Volts",
+        "9 Volts",
+        "110 Volts",
+        "220 Volts",
+        "120 Volts",
+        "24 Volts",
+        "18 Volts",
+        "240 Volts (AC)",
+        "100 Volts",
+        "110 Volts (AC)",
+        "5 Volts",
+        "240 Volts (DC)",
+        "1 Volts"
+      ]
+    },
+    {
+      "name": "Color Screen",
+      "occurrence": 1778,
+      "frequency_pct": 0.83,
+      "examples": [
+        "No",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "Speakers Maximum Output Power",
+      "occurrence": 1726,
+      "frequency_pct": 0.81,
+      "examples": [
+        "1000 Watts",
+        "100 Watts",
+        "50 Watts",
+        "800 Watts",
+        "600 Watts",
+        "300 Watts",
+        "400 Watts",
+        "200 Watts",
+        "120 Watts",
+        "2000 Watts",
+        "500 Watts",
+        "1200 Watts",
+        "25 Watts",
+        "1600 Watts",
+        "150 Watts"
+      ]
+    },
+    {
+      "name": "Headphones Jack",
+      "occurrence": 1601,
+      "frequency_pct": 0.75,
+      "examples": [
+        "Xlr",
+        "3.5 mm Jack",
+        "6.35 mm Jack",
+        "3 5mm Jack",
+        "Usb",
+        "3.5 millimeters",
+        "Rca",
+        "USB",
+        "Screw",
+        "Midi",
+        "2.5 mm Jack",
+        "Rj45",
+        "XLR",
+        "2.5 millimeters",
+        "1/4-inch"
+      ]
+    },
+    {
+      "name": "Theme",
+      "occurrence": 1598,
+      "frequency_pct": 0.75,
+      "examples": [
+        "Music",
+        "Indoor",
+        "Religious",
+        "No Theme",
+        "Animal",
+        "Christmas",
+        "Book",
+        "Space",
+        "Botanical",
+        "Alphabet",
+        "Sport",
+        "Floral",
+        "Love",
+        "Anime",
+        "Nautical"
+      ]
+    },
+    {
+      "name": "Package Type",
+      "occurrence": 1538,
+      "frequency_pct": 0.72,
+      "examples": [
+        "Standard Packaging",
+        "Frustration-Free Packaging",
+        "Box",
+        "1 Pack",
+        "3 Pack",
+        "Tube",
+        "6-Pack",
+        "Black&2 Packs",
+        "Retailing Color Box",
+        "10 FT + 20 FT",
+        "6 Pack"
+      ]
+    },
+    {
+      "name": "Brand Name",
+      "occurrence": 1487,
+      "frequency_pct": 0.7,
+      "examples": [
+        "Buckle-Down",
+        "Bnineteenteam",
+        "Alomejor",
+        "The Sports Vault",
+        "SKB",
+        "Fafeims",
+        "VBESTLIFE",
+        "Drfeify",
+        "Vbestlife",
+        "Dilwe",
+        "Aeiniweraabbcc",
+        "VGEBY1",
+        "VGEBY",
+        "Tbest",
+        "Woodrow Guitar by The Sports Vault"
+      ]
+    },
+    {
+      "name": "Standing screen display size",
+      "occurrence": 1453,
+      "frequency_pct": 0.68,
+      "examples": [
+        "2",
+        "1",
+        "3",
+        "7",
+        "1.5",
+        "5",
+        "4",
+        "5.5 Inches",
+        "7 Inches",
+        "4 Inches",
+        "6 Inches",
+        "2.5",
+        "2 Inches",
+        "3.5",
+        "12 Inches"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "occurrence": 1450,
+      "frequency_pct": 0.68,
+      "examples": [
+        "Windows",
+        "Mac",
+        "Windows XP",
+        "Windows 7",
+        "Linux",
+        "IOS",
+        "Android",
+        "Windows XP Home Edition, Windows XP Professional Edition, Windows Vista",
+        "Mac OS X, Windows Vista",
+        "Windows XP Home Edition",
+        "OS X 10.5 or later",
+        "Manual",
+        "HILAVA OS",
+        "Mac/PC",
+        "Windows 10"
+      ]
+    },
+    {
+      "name": "Speaker Amplification Type",
+      "occurrence": 1390,
+      "frequency_pct": 0.65,
+      "examples": [
+        "Active",
+        "Passive",
+        "active",
+        "passive",
+        "Active, Passive",
+        "\u6709\u6e90",
+        "*",
+        "hd quart",
+        "X",
+        "active or passive with amplifier connectioned",
+        "Active Or speaker connected with whole sound system",
+        "Active or whole sound system with passive speaker",
+        "Active passive",
+        "Active/Passive speakers",
+        "Wired Microphone Headset"
+      ]
+    },
+    {
+      "name": "Skill Level",
+      "occurrence": 1380,
+      "frequency_pct": 0.65,
+      "examples": [
+        "Beginner",
+        "All",
+        "Professional",
+        "Beginner, Professional",
+        "Beginner, Intermediate",
+        "Advanced",
+        "Student",
+        "Intermediate",
+        "Advanced, Beginner",
+        "advanced, beginner",
+        "Pro",
+        "advanced",
+        "Professional, Beginner, Student",
+        "All Fitness Levels",
+        "intermediate expert"
+      ]
+    },
+    {
+      "name": "Form Factor",
+      "occurrence": 1373,
+      "frequency_pct": 0.64,
+      "examples": [
+        "In Ear",
+        "Over Ear",
+        "Case",
+        "Bumper",
+        "On Ear",
+        "Flip",
+        "Sloped Desk",
+        "Cover",
+        "Tripod",
+        "Basic Case",
+        "Pouch",
+        "closed-back",
+        "Closed-back",
+        "Handheld",
+        "Laptop"
+      ]
+    },
+    {
+      "name": "Package Weight",
+      "occurrence": 1270,
+      "frequency_pct": 0.59,
+      "examples": [
+        "0.15 Kilograms",
+        "0.02 Kilograms",
+        "0.01 Kilograms",
+        "0.16 Kilograms",
+        "0.14 Kilograms",
+        "0.05 Kilograms",
+        "0.03 Kilograms",
+        "0.04 Kilograms",
+        "0.11 Kilograms",
+        "0.06 Kilograms",
+        "0.07 Kilograms",
+        "0.08 Kilograms",
+        "0.09 Kilograms",
+        "0.1 Kilograms",
+        "1 Pounds"
+      ]
+    },
+    {
+      "name": "Batteries required",
+      "occurrence": 1263,
+      "frequency_pct": 0.59,
+      "examples": [
+        "No",
+        "Yes",
+        "false"
+      ]
+    },
+    {
+      "name": "Base Type",
+      "occurrence": 1235,
+      "frequency_pct": 0.58,
+      "examples": [
+        "Leg",
+        "Pedestal",
+        "Clamp",
+        "Tripod",
+        "Legs",
+        "Flat",
+        "E26",
+        "Sleeve",
+        "GU10",
+        "Casters",
+        "Hardwood",
+        "Stand",
+        "5-leg metal stand",
+        "Two",
+        "Clip"
+      ]
+    },
+    {
+      "name": "Item Package Dimensions L x W x H",
+      "occurrence": 1232,
+      "frequency_pct": 0.58,
+      "examples": [
+        "30 x 2 x 2 inches",
+        "8 x 2 x 1 inches",
+        "36 x 4 x 4 inches",
+        "0.01 x 0.01 x 0.01 inches",
+        "5.5 x 4 x 0.3 inches",
+        "1 x 1 x 1 inches",
+        "11.3 x 4.3 x 1.3 inches",
+        "5.63 x 3.82 x 0.08 inches",
+        "11 x 4 x 3 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "14.1 x 12.5 x 2.7 inches",
+        "2 x 2 x 2 inches",
+        "21.3 x 7.6 x 3.19 inches",
+        "4.17 x 3.15 x 0.39 inches",
+        "5 x 4 x 1 inches"
+      ]
+    },
+    {
+      "name": "Gauge",
+      "occurrence": 1208,
+      "frequency_pct": 0.57,
+      "examples": [
+        "24.0",
+        "20.0",
+        "22.0",
+        "21.0",
+        "16.0",
+        "18.0",
+        "14.0",
+        "26.0",
+        "23.0",
+        "28.0",
+        "12.0",
+        "10.0",
+        "22.00",
+        "6.0",
+        "15.0"
+      ]
+    },
+    {
+      "name": "Output Voltage",
+      "occurrence": 1190,
+      "frequency_pct": 0.56,
+      "examples": [
+        "9 Volts",
+        "12 Volts",
+        "240 Volts",
+        "48 Volts",
+        "9.5 Volts",
+        "5 Volts",
+        "9 Volts (DC)",
+        "18 Volts",
+        "15 Volts",
+        "24 Volts",
+        "12 Volts (DC)",
+        "16 Volts",
+        "110 Volts",
+        "6 Volts",
+        "7.5 Volts"
+      ]
+    },
+    {
+      "name": "Subwoofer Diameter",
+      "occurrence": 1184,
+      "frequency_pct": 0.55,
+      "examples": [
+        "12 Inches",
+        "15 Inches",
+        "10 Inches",
+        "8 Inches",
+        "18 Inches",
+        "6.5 Inches",
+        "5 Inches",
+        "4 Inches",
+        "5.25 Inches",
+        "6 Inches",
+        "3 Inches",
+        "3.5 Inches",
+        "7 Inches",
+        "4.5 Inches",
+        "36 Inches"
+      ]
+    },
+    {
+      "name": "Number of Batteries",
+      "occurrence": 1176,
+      "frequency_pct": 0.55,
+      "examples": [
+        "1 Lithium Ion batteries required. (included)",
+        "2 AA batteries required. (included)",
+        "1 Lithium Polymer batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "1 CR2 batteries required. (included)",
+        "2 AA batteries required.",
+        "4 AA batteries required. (included)",
+        "4 AA batteries required.",
+        "2 Lithium Ion batteries required. (included)",
+        "2 Lithium Polymer batteries required. (included)",
+        "1 9V batteries required.",
+        "2 Lithium Metal batteries required. (included)",
+        "1 CR2032 batteries required. (included)",
+        "1 Lithium Metal batteries required. (included)",
+        "2 CR2 batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Signal-to-Noise Ratio",
+      "occurrence": 1162,
+      "frequency_pct": 0.54,
+      "examples": [
+        "78 dB",
+        "80 dB",
+        "76 dB",
+        "70 dB",
+        "60 dB",
+        "74 dB",
+        "58 dB",
+        "75 dB",
+        "65 dB",
+        "120 dB",
+        "110 dB",
+        "96 dB",
+        "90 dB",
+        "72 dB",
+        "77 dB"
+      ]
+    },
+    {
+      "name": "Speaker Count",
+      "occurrence": 1152,
+      "frequency_pct": 0.54,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "3",
+        "5",
+        "7",
+        "40",
+        "8",
+        "50",
+        "10",
+        "17"
+      ]
+    },
+    {
+      "name": "Shade Material",
+      "occurrence": 1095,
+      "frequency_pct": 0.51,
+      "examples": [
+        "Aluminum",
+        "Plastic",
+        "Metal",
+        "Glass",
+        "Acrylonitrile Butadiene Styrene",
+        "Acrylic",
+        "Silicone",
+        "Stainless Steel",
+        "Polycarbonate (PC)",
+        "Iron",
+        "Plastic, Metal",
+        "Alloy Steel",
+        "Crystal",
+        "Acrylonitrile Butadi",
+        "Paper"
+      ]
+    },
+    {
+      "name": "Special Features",
+      "occurrence": 1005,
+      "frequency_pct": 0.47,
+      "examples": [
+        "Short Circuit Protection",
+        "Easy to Install",
+        "Adjustable Easy Install",
+        "Easy to Install, Durable",
+        "Easy to Install, Sturdy",
+        "Corded",
+        "Waterproof",
+        "Dimmable",
+        "Rechargeable",
+        "Color Changing",
+        "Voltage, Wattage, Base",
+        "Portable",
+        "Adjustable",
+        "Energy Efficient",
+        "Lightweight"
+      ]
+    },
+    {
+      "name": "Amperage",
+      "occurrence": 986,
+      "frequency_pct": 0.46,
+      "examples": [
+        "300 Milliamps",
+        "100 Milliamps",
+        "50 Milliamps",
+        "30 Milliamps",
+        "20 Milliamps",
+        "9 Milliamps",
+        "10 Milliamps",
+        "2 Amps",
+        "5 Milliamps",
+        "200 Milliamps",
+        "1 Amps",
+        "500 Milliamps",
+        "150 Milliamps",
+        "6 Milliamps",
+        "35 Milliamps"
+      ]
+    },
+    {
+      "name": "Item Dimensions  LxWxH",
+      "occurrence": 984,
+      "frequency_pct": 0.46,
+      "examples": [
+        "54 x 2 x 1 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "5.75 x 0.25 x 4 inches",
+        "60 x 0.1 x 2 inches",
+        "1 x 1 x 1 inches",
+        "10.25 x 3.25 x 1 inches",
+        "3.94 x 3.94 x 3.94 inches",
+        "18.11 x 3.94 x 0.79 inches",
+        "4 x 4 x 2 inches",
+        "1.65 x 1.5 x 0.79 inches",
+        "5.51 x 1.89 x 0.04 inches",
+        "6 x 6 x 6 inches",
+        "5 x 4 x 1 inches",
+        "4.13 x 4.13 x 0.35 inches",
+        "19 x 10 x 1.75 inches"
+      ]
+    },
+    {
+      "name": "Product Care Instructions",
+      "occurrence": 934,
+      "frequency_pct": 0.44,
+      "examples": [
+        "Wipe with Dry Cloth",
+        "Hand Wash Only",
+        "Machine Wash",
+        "Wipe with Damp Cloth",
+        "Hand Wash",
+        "Wipe Clean",
+        "Machine Wash, Hand Wash Only",
+        "Dry Clean Only",
+        "Dishwasher Safe",
+        "Water",
+        "Do Not Bleach, Tumble Dry",
+        "Wet Wipe Clean",
+        "Hang It",
+        "Air,Air Pump",
+        "Oven Safe, Hand Wash Only"
+      ]
+    },
+    {
+      "name": "Assembly Required",
+      "occurrence": 910,
+      "frequency_pct": 0.43,
+      "examples": [
+        "No",
+        "Yes",
+        "false"
+      ]
+    },
+    {
+      "name": "Controls Type",
+      "occurrence": 869,
+      "frequency_pct": 0.41,
+      "examples": [
+        "Knob",
+        "Touch",
+        "Push Button",
+        "push Button",
+        "Remote"
+      ]
+    },
+    {
+      "name": "Finish types",
+      "occurrence": 846,
+      "frequency_pct": 0.4,
+      "examples": [
+        "Polished",
+        "Alloy,Aluminum",
+        "Aluminum",
+        "Metal",
+        "Painted",
+        "Projector",
+        "Plastic",
+        "Laser",
+        "Abs",
+        "Mirror",
+        "Iron",
+        "iron",
+        "Alloy",
+        "Powder Coated",
+        "Matte"
+      ]
+    },
+    {
+      "name": "Controller Type",
+      "occurrence": 840,
+      "frequency_pct": 0.39,
+      "examples": [
+        "Remote Control",
+        "Push Button",
+        "Voice Control",
+        "Corded Electric",
+        "Corded electric",
+        "Button",
+        "Voice control",
+        "Button Control",
+        "Hand Control",
+        "Battery Powered",
+        "Ring",
+        "App Control",
+        "Remote control",
+        "ring",
+        "Android"
+      ]
+    },
+    {
+      "name": "Compatible Phone Models",
+      "occurrence": 838,
+      "frequency_pct": 0.39,
+      "examples": [
+        "IPhone",
+        "Iphone",
+        "Laptops",
+        "Moto One Power",
+        "iPhone",
+        "Audiovox CDM3000",
+        "S4",
+        "ALL",
+        "Samsung Galaxy J7",
+        "Samsung Galaxy S9",
+        "Audio",
+        "Samsung Galaxy S7 Edge",
+        "Sony",
+        "Ipad",
+        "Samsung Galaxy Note 9"
+      ]
+    },
+    {
+      "name": "Warranty Description",
+      "occurrence": 818,
+      "frequency_pct": 0.38,
+      "examples": [
+        "1 Year Warranty",
+        "N/a.",
+        "1 year.",
+        "No warranty.",
+        "30 day limited warranty.",
+        "None.",
+        "Lifetime for defects",
+        "5 years.",
+        "1 year manufacturer.",
+        "1 year",
+        "1 year warranty.",
+        "Not applicable.",
+        "Warranty against manufacturer defects.",
+        "Manufacturer Warranty",
+        "Yes."
+      ]
+    },
+    {
+      "name": "Bulb Features",
+      "occurrence": 799,
+      "frequency_pct": 0.37,
+      "examples": [
+        "Rgbw",
+        "Dimmable",
+        "rgbw",
+        "rgb",
+        "Rgb",
+        "sound activated",
+        "Remote control",
+        "Sound activated",
+        "Remote control,rgb,sound activated",
+        "remote control,rgb,sound activated",
+        "Remote control,sound activated",
+        "remote control,sound activated",
+        "remote control",
+        "Rgbw,sound activated",
+        "rgbw,sound activated"
+      ]
+    },
+    {
+      "name": "Main Power Connector Type",
+      "occurrence": 791,
+      "frequency_pct": 0.37,
+      "examples": [
+        "2 Pin",
+        "2 pin"
+      ]
+    },
+    {
+      "name": "Manufacturer Part Number",
+      "occurrence": 728,
+      "frequency_pct": 0.34,
+      "examples": [
+        "K-MusculoAABBCC",
+        "TOMENGBEIAABBCC",
+        "1",
+        "LE",
+        "113R00670",
+        "CBAXGATMLABC",
+        "Does not apply",
+        "BS00082",
+        "mcyiqihaiAADDCC",
+        "11",
+        "APLSW222",
+        "226988",
+        "PAC-011-18",
+        "HDPS",
+        "MokrMona220106"
+      ]
+    },
+    {
+      "name": "Other display features",
+      "occurrence": 719,
+      "frequency_pct": 0.34,
+      "examples": [
+        "Wireless",
+        "Musical Instruments",
+        "CE",
+        "Sports",
+        "Speakers",
+        "BISS Basic",
+        "Photography",
+        "Personal Computer",
+        "PC Accessory",
+        "Digital Accessories 4",
+        "Furniture",
+        "Watch",
+        "Amazon Home",
+        "Home Theater",
+        "Home Improvement"
+      ]
+    },
+    {
+      "name": "Manufacturer recommended age",
+      "occurrence": 703,
+      "frequency_pct": 0.33,
+      "examples": [
+        "3 years and up",
+        "12 years and up",
+        "14 years and up",
+        "12 months and up",
+        "3 months and up",
+        "5 years and up",
+        "6 years and up",
+        "8 years and up",
+        "13 years and up",
+        "4 years and up",
+        "15 years and up",
+        "36 months - 15 years",
+        "0 months and up",
+        "6 - 12 years",
+        "36 months - 5 years"
+      ]
+    },
+    {
+      "name": "Percussion Diameter",
+      "occurrence": 699,
+      "frequency_pct": 0.33,
+      "examples": [
+        "18 Inches",
+        "12 Inches",
+        "10 Inches",
+        "6 Millimeters",
+        "14 Inches",
+        "6 Inches",
+        "8 Inches",
+        "4 Inches",
+        "22 Inches",
+        "1 Inches",
+        "3.5 Inches",
+        "16 Inches",
+        "14.7 Inches",
+        "2 Inches",
+        "13 Inches"
+      ]
+    },
+    {
+      "name": "Maximum Weight Recommendation",
+      "occurrence": 677,
+      "frequency_pct": 0.32,
+      "examples": [
+        "330 Pounds",
+        "35 Pounds",
+        "300 Pounds",
+        "250 Pounds",
+        "440 Pounds",
+        "350 Pounds",
+        "3 Pounds",
+        "200 Pounds",
+        "60 Pounds",
+        "400 Pounds",
+        "50 Pounds",
+        "320 Pounds",
+        "240 Pounds",
+        "5 Pounds",
+        "22 Pounds"
+      ]
+    },
+    {
+      "name": "Frequency Range",
+      "occurrence": 637,
+      "frequency_pct": 0.3,
+      "examples": [
+        "60 hertz",
+        "20 hz - 20 khz",
+        "0.1 khz - 10 khz",
+        "0.05 khz - 18 khz",
+        "50 hz - 16 khz",
+        "50 hz - 15 khz",
+        "50 hz - 18 khz",
+        "100 hz - 10 khz",
+        "30 hz - 20 khz",
+        "30 hz - 18 khz",
+        "0.03 khz - 18 khz",
+        "0.05 khz - 15 khz",
+        "40 hz - 20 khz",
+        "20Hz-20KHz",
+        "20 Hz - 20 kHz"
+      ]
+    },
+    {
+      "name": "Occasion",
+      "occurrence": 583,
+      "frequency_pct": 0.27,
+      "examples": [
+        "Christmas",
+        "Birthday",
+        "Wedding",
+        "Wedding, Christmas",
+        "Wedding, Birthday",
+        "Wedding, Christmas, Birthday",
+        "Halloween",
+        "Housewarming",
+        "Christmas, Birthday",
+        "Wedding, Christmas, Birthday, Halloween",
+        "Party",
+        "Wedding, Anniversary, Birthday",
+        "Baby Shower, Birthday",
+        "Graduation",
+        "Wedding, Christmas, Birthday, Valentine's Day"
+      ]
+    },
+    {
+      "name": "Room Type",
+      "occurrence": 581,
+      "frequency_pct": 0.27,
+      "examples": [
+        "Bedroom",
+        "Office, Living Room, Bedroom",
+        "Usb",
+        "Living Room",
+        "Office",
+        "Bathroom",
+        "Classroom",
+        "Home Office",
+        "Studio",
+        "Dormitory, Laundry Room, Bedroom",
+        "Living Room, Bedroom",
+        "Hallway",
+        "Garden",
+        "Study Room",
+        "Kitchen, Bathroom"
+      ]
+    },
+    {
+      "name": "Arm Style",
+      "occurrence": 579,
+      "frequency_pct": 0.27,
+      "examples": [
+        "Boom Arm",
+        "Gooseneck Arm",
+        "Boom Arm, Scissor Spring Arm row",
+        "Boom Arm, Scissor Spring arm",
+        "Gooseneck Arm, Scissor Spring arm",
+        "Telescoping Arm",
+        "Scissor Spring Arm",
+        "Gooseneck Arm, Scissor Spring Arm Arm",
+        "Swivel Arm",
+        "Scissor Spring Arm, Gooseneck Arm",
+        "Boom Arm, Scissor Spring Arm \ud83c\udfa4",
+        "Boom Arm, Scissor Spring Arm \u2765",
+        "Boom Arm, Scissor Spring Arm ).",
+        "Scissor Springing Arm, Gooseneck Arm",
+        "Boom Arm, Scissor Spring Arm \u300b"
+      ]
+    },
+    {
+      "name": "Furniture Finish",
+      "occurrence": 575,
+      "frequency_pct": 0.27,
+      "examples": [
+        "Black",
+        "White",
+        "Brown",
+        "Chrome",
+        "Alloy Steel",
+        "Metal",
+        "Walnut",
+        "Matte,Black",
+        "Mahogany",
+        "Stainless Steel",
+        "Aluminum",
+        "Rosewood",
+        "Oak",
+        "High Gloss Finish",
+        "Bronze"
+      ]
+    },
+    {
+      "name": "Audio Input",
+      "occurrence": 575,
+      "frequency_pct": 0.27,
+      "examples": [
+        "USB",
+        "XLR",
+        "RCA",
+        "Auxiliary",
+        "HDMI",
+        "Microphone, headset",
+        "Optical",
+        "3.5mm microphone, BT wireless, TRRS cable",
+        "digital input, analog input",
+        "3.5mm jack",
+        "XLR 6.5MM"
+      ]
+    },
+    {
+      "name": "Language",
+      "occurrence": 559,
+      "frequency_pct": 0.26,
+      "examples": [
+        "English",
+        "French",
+        "German",
+        "Multilingual",
+        "English, French",
+        "English, English, English, English",
+        "English, German, Multilingual",
+        "Russian",
+        "Spanish",
+        "English, English, English, English, English",
+        "German, English, French",
+        "English, German",
+        "English, French, Spanish",
+        "German, English, French, Spanish, Japanese",
+        "English, French, German, Italian, Multilingual, Spanish"
+      ]
+    },
+    {
+      "name": "Impedance",
+      "occurrence": 554,
+      "frequency_pct": 0.26,
+      "examples": [
+        "600 Ohm",
+        "200 Ohm",
+        "150 Ohm",
+        "2200 Ohm",
+        "8 Ohm",
+        "2000 Ohm",
+        "100 Ohm",
+        "680 Ohm",
+        "1500 Ohm",
+        "2.2 Kiloohms",
+        "250 Ohm",
+        "50 Ohm",
+        "75 Ohm",
+        "4 Ohm",
+        "120 Ohm"
+      ]
+    },
+    {
+      "name": "Number of Bands",
+      "occurrence": 546,
+      "frequency_pct": 0.26,
+      "examples": [
+        "4",
+        "3",
+        "2",
+        "5",
+        "1",
+        "6",
+        "9",
+        "12",
+        "10",
+        "7",
+        "8",
+        "40",
+        "16",
+        "20"
+      ]
+    },
+    {
+      "name": "Exterior Finish",
+      "occurrence": 546,
+      "frequency_pct": 0.26,
+      "examples": [
+        "Chrome",
+        "Aluminum",
+        "Brass",
+        "Black",
+        "Nickel",
+        "Stainless Steel",
+        "Black Oxide",
+        "Gold",
+        "Copper",
+        "Brass, Chrome",
+        "Wood",
+        "Bronze",
+        "Zinc",
+        "Aluminum, Chrome",
+        "Silver"
+      ]
+    },
+    {
+      "name": "Speaker Diameter",
+      "occurrence": 542,
+      "frequency_pct": 0.25,
+      "examples": [
+        "8 inches",
+        "12 inches",
+        "10 inches",
+        "6 inches",
+        "4 inches",
+        "35 centimeters",
+        "14 inches",
+        "5 inches",
+        "32.5 centimeters",
+        "30 centimeters",
+        "55 centimeters",
+        "7.1 inches",
+        "16 inches",
+        "25 centimeters",
+        "9 inches"
+      ]
+    },
+    {
+      "name": "Reusability",
+      "occurrence": 541,
+      "frequency_pct": 0.25,
+      "examples": [
+        "Single Use",
+        "Reusable",
+        "Rechargeable",
+        "Disposable",
+        "lavalier microphone"
+      ]
+    },
+    {
+      "name": "Frequency Response",
+      "occurrence": 536,
+      "frequency_pct": 0.25,
+      "examples": [
+        "20 KHz",
+        "10 KHz",
+        "15 KHz",
+        "16 KHz",
+        "18 KHz",
+        "16000 Hz",
+        "20000 Hz",
+        "12000 Hz",
+        "15000 Hz",
+        "18000 Hz",
+        "12 KHz",
+        "22 KHz",
+        "2.4 GHz",
+        "580 MHz",
+        "506.5 MHz"
+      ]
+    },
+    {
+      "name": "Handle Material",
+      "occurrence": 524,
+      "frequency_pct": 0.25,
+      "examples": [
+        "Plastic",
+        "Aluminum",
+        "Brass",
+        "Metal",
+        "Wood",
+        "Acrylic",
+        "Resin",
+        "Alloy Steel",
+        "Rubber",
+        "Stainless Steel",
+        "Bronze",
+        "Acrylonitrile Butadiene Styrene",
+        "default",
+        "Zinc",
+        "Default"
+      ]
+    },
+    {
+      "name": "Speaker Size",
+      "occurrence": 521,
+      "frequency_pct": 0.24,
+      "examples": [
+        "12 Inches",
+        "10 Inches",
+        "8 Inches",
+        "2",
+        "15 Inches",
+        "6.5 Inches",
+        "5 Inches",
+        "1",
+        "4 Inches",
+        "3 Inches",
+        "6 Inches",
+        "18 Inches",
+        "4",
+        "3.5 Inches",
+        "12"
+      ]
+    },
+    {
+      "name": "Assembly required",
+      "occurrence": 520,
+      "frequency_pct": 0.24,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Supported Software",
+      "occurrence": 518,
+      "frequency_pct": 0.24,
+      "examples": [
+        "Ableton Live",
+        "ADAT",
+        "all",
+        "FL Studio",
+        "PreSonus Studio One Artist",
+        "DMX-512",
+        "Studio One",
+        "ASIO",
+        "ADAT, S/PDIF",
+        "Ableton Live Lite and Pro Tools First Creative Pack",
+        "Avid Pro Tools, Ableton Live Lite",
+        "DAW",
+        "Avid Pro Tools, Ableton Live, Steinberg Cubase",
+        "Studio One Artist, Studio Magic Plug-In Suite",
+        "Studio One Artist"
+      ]
+    },
+    {
+      "name": "Finish",
+      "occurrence": 513,
+      "frequency_pct": 0.24,
+      "examples": [
+        "Polished",
+        "Painted",
+        "Powder Coated",
+        "Black",
+        "Anodized",
+        "Finish",
+        "Metal",
+        "Brushed",
+        "Smooth",
+        "Antique",
+        "Unfinished",
+        "Metallic",
+        "Lacquered",
+        "Gold",
+        "Gloss"
+      ]
+    },
+    {
+      "name": "Frame Material",
+      "occurrence": 499,
+      "frequency_pct": 0.23,
+      "examples": [
+        "Wood",
+        "Metal",
+        "Alloy Steel",
+        "Iron",
+        "Plastic",
+        "Aluminum",
+        "Unframed",
+        "Glass",
+        "Acrylic",
+        "Engineered Wood",
+        "Metal, Wood",
+        "Stainless Steel",
+        "Mahogany",
+        "Oak",
+        "Rosewood"
+      ]
+    },
+    {
+      "name": "Handle Type",
+      "occurrence": 499,
+      "frequency_pct": 0.23,
+      "examples": [
+        "Knob",
+        "Web Handle",
+        "Knob, Lever",
+        "Wrap Handle",
+        "Telescopic Handle",
+        "\u65cb\u94ae",
+        "Manual-Retractable",
+        "Pull Handle",
+        "Swivel Handle",
+        "flip handle",
+        "Lever",
+        "Luxury Birch Handle",
+        "Toggle",
+        "Knob, Pull Handle",
+        "Fixed"
+      ]
+    },
+    {
+      "name": "Current Rating",
+      "occurrence": 486,
+      "frequency_pct": 0.23,
+      "examples": [
+        "1 Amps",
+        "2 Amps",
+        "0.5 Amps",
+        "1.5 Amps",
+        "0.8 Amps",
+        "3 Amps",
+        "0.2 Amps",
+        "15 Amps",
+        "2 Amps, 1.5 Amps",
+        "0.3 Amps",
+        "6 Amps",
+        "20 Amps",
+        "4 Amps",
+        "5 Amps",
+        "2.5 Amps"
+      ]
+    },
+    {
+      "name": "Suggested Users",
+      "occurrence": 442,
+      "frequency_pct": 0.21,
+      "examples": [
+        "unisex-adult",
+        "Unisex-adult",
+        "Unisex",
+        "Unisex-Adult",
+        "unisex",
+        "Mens",
+        "mens",
+        "Womens",
+        "\"\"",
+        "unisex-child",
+        "Universal",
+        "universal",
+        "Unisex Adult",
+        "womens",
+        "Girls"
+      ]
+    },
+    {
+      "name": "Item Styling",
+      "occurrence": 430,
+      "frequency_pct": 0.2,
+      "examples": [
+        "standard",
+        "Standard",
+        "T-Shirt",
+        "Jazz",
+        "jazz",
+        "Classical",
+        "fingerpick",
+        "Circular",
+        "Fingerpick",
+        "Traditional",
+        "Round",
+        "Classic",
+        "Native American Wolf",
+        "5B is the most popular size drumsticks in the world",
+        "Triangle"
+      ]
+    },
+    {
+      "name": "Surround Sound Channel Configuration",
+      "occurrence": 418,
+      "frequency_pct": 0.2,
+      "examples": [
+        "2.0",
+        "1.0",
+        "3.0",
+        "2.1",
+        "5 1",
+        "4.2",
+        "5.1",
+        "4.1",
+        "5.2",
+        "2.3",
+        "5.3",
+        "3.1",
+        "7.1",
+        "4",
+        "1.1"
+      ]
+    },
+    {
+      "name": "Media Format",
+      "occurrence": 397,
+      "frequency_pct": 0.19,
+      "examples": [
+        "CD-ROM",
+        "DVD-ROM",
+        "WAV",
+        "MP3 Audio, WAV",
+        "MP3 Audio",
+        "DVD",
+        "USB Memory Stick",
+        "CD",
+        "Digital",
+        "Karaoke",
+        "WMA",
+        "Wall Calendar",
+        "License",
+        "Live",
+        "Download: Registration Code"
+      ]
+    },
+    {
+      "name": "Coating Description",
+      "occurrence": 395,
+      "frequency_pct": 0.18,
+      "examples": [
+        "coated",
+        "Coated",
+        "Multi Coating",
+        "Uncoated",
+        "uncoated",
+        "Ceramic",
+        "No Coating",
+        "bronze"
+      ]
+    },
+    {
+      "name": "Number of Light Sources",
+      "occurrence": 390,
+      "frequency_pct": 0.18,
+      "examples": [
+        "300",
+        "1",
+        "150",
+        "60",
+        "3",
+        "36",
+        "4",
+        "8",
+        "600",
+        "18",
+        "12",
+        "10",
+        "6",
+        "20",
+        "100"
+      ]
+    },
+    {
+      "name": "Is Waterproof",
+      "occurrence": 389,
+      "frequency_pct": 0.18,
+      "examples": [
+        "FALSE",
+        "False",
+        "TRUE",
+        "True",
+        "Custom"
+      ]
+    },
+    {
+      "name": "Control Method",
+      "occurrence": 389,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Remote",
+        "App",
+        "Touch",
+        "Voice",
+        "App, Remote",
+        "Remote, Touch",
+        "App, Touch",
+        "App, Remote, Touch",
+        "Remote, Voice",
+        "App, Voice"
+      ]
+    },
+    {
+      "name": "Data Transfer Rate",
+      "occurrence": 386,
+      "frequency_pct": 0.18,
+      "examples": [
+        "6 Gigabits Per Second",
+        "0.48 Gigabits Per Second",
+        "14 Gigabits Per Second",
+        "5 Gigabits Per Second",
+        "3 Gigabits Per Second",
+        "20 Gigabits Per Second",
+        "16 Gigabits Per Second",
+        "21 Megabits Per Second",
+        "48 KHz",
+        "18 Amps",
+        "480 Megabits Per Second",
+        "18 Gigabits Per Second",
+        "30 Amps",
+        "44.1 KHz",
+        "21 Gigabits Per Second"
+      ]
+    },
+    {
+      "name": "Item Form",
+      "occurrence": 382,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Coil",
+        "Liquid",
+        "Spray",
+        "Sheet",
+        "Oil",
+        "Gel",
+        "Aerosol",
+        "Bag",
+        "Powder",
+        "Paste",
+        "Bar",
+        "Cream",
+        "Capsule",
+        "Pair",
+        "Rod"
+      ]
+    },
+    {
+      "name": "Mixer Channel Quantity",
+      "occurrence": 355,
+      "frequency_pct": 0.17,
+      "examples": [
+        "2",
+        "4",
+        "8",
+        "1",
+        "16",
+        "3",
+        "6",
+        "12",
+        "5",
+        "10",
+        "24",
+        "7",
+        "32",
+        "48",
+        "14"
+      ]
+    },
+    {
+      "name": "Publisher",
+      "occurrence": 305,
+      "frequency_pct": 0.14,
+      "examples": [
+        "Alfred Music (March 1, 1985)",
+        "Alfred Music (April 1, 1992)",
+        "Alfred Music (September 1, 1979)",
+        "Alfred Music; 0 edition (March 1, 1985)",
+        "Hal Leonard (February 1, 1996)",
+        "Henle (November 1, 2006)",
+        "Hal Leonard",
+        "SUZUKI (November 1, 1994)",
+        "Hal Leonard (May 1, 2016)",
+        "Kjos Music Company; 2nd edition (January 1, 2017)",
+        "Hal Leonard (November 1, 1998)",
+        "Kjos Music Company; 0 edition (March 1, 2016)",
+        "G Henle - Urtext Editions (November 1, 2006)",
+        "Alfred Music (July 1, 2015)",
+        "Hal Leonard (August 1, 1992)"
+      ]
+    },
+    {
+      "name": "Speaker Maximum Output Power",
+      "occurrence": 297,
+      "frequency_pct": 0.14,
+      "examples": [
+        "100 Watts",
+        "1000 Watts",
+        "50 Watts",
+        "400 Watts",
+        "300 Watts",
+        "800 Watts",
+        "500 Watts",
+        "200 Watts",
+        "2000 Watts",
+        "250 Watts",
+        "600 Watts",
+        "150 Watts",
+        "25 Watts",
+        "120 Watts",
+        "40 Watts"
+      ]
+    },
+    {
+      "name": "Drum Set Piece Quantity",
+      "occurrence": 296,
+      "frequency_pct": 0.14,
+      "examples": [
+        "1",
+        "5",
+        "4",
+        "3",
+        "7",
+        "2",
+        "6",
+        "8",
+        "10",
+        "9",
+        "96",
+        "11",
+        "35",
+        "20",
+        "15"
+      ]
+    },
+    {
+      "name": "Metal Type",
+      "occurrence": 286,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Aluminum",
+        "Brass",
+        "Alloy Steel",
+        "Stainless Steel",
+        "Nickel",
+        "Zinc Alloy",
+        "Hardened Steel",
+        "Carbon Steel",
+        "Bronze",
+        "Zinc",
+        "Iron",
+        "Alloy Steel, Zinc",
+        "Copper",
+        "Brass, Titanium",
+        "Cast Iron"
+      ]
+    },
+    {
+      "name": "Dimensions",
+      "occurrence": 281,
+      "frequency_pct": 0.13,
+      "examples": [
+        "12 x 9 x 1.57 inches",
+        "8.75 x 0.25 x 11.5 inches",
+        "9 x 0.25 x 12 inches",
+        "9 x 0.2 x 12 inches",
+        "8.5 x 0.25 x 11.5 inches",
+        "8.75 x 0.25 x 11.75 inches",
+        "9 x 0.21 x 12 inches",
+        "9 x 0.13 x 12 inches",
+        "9 x 0.32 x 12 inches",
+        "9 x 0.1 x 12 inches",
+        "7.87 x 5.51 x 1.57 inches",
+        "9 x 0.09 x 12 inches",
+        "9 x 0.3 x 12 inches",
+        "9 x 0.12 x 12 inches",
+        "9 x 0.18 x 12 inches"
+      ]
+    },
+    {
+      "name": "Strap Type",
+      "occurrence": 272,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Shoulder",
+        "Adjustable",
+        "Removable",
+        "Drawstring",
+        "removable",
+        "Shoulder Strap",
+        "Detachable",
+        "adjustable",
+        "Adjustable,Shoulder Strap",
+        "Shoulder Strap, Adjustable",
+        "Hand Strap",
+        "Removable, Adjustable",
+        "Shoulder, Adjustable",
+        "Detachable Shoulder Strap",
+        "Shoulder Strap,Removable"
+      ]
+    },
+    {
+      "name": "ISBN 13",
+      "occurrence": 269,
+      "frequency_pct": 0.13,
+      "examples": [
+        "978-0739016138",
+        "978-0769218762",
+        "978-0739048580",
+        "978-1540013330",
+        "978-1616779498",
+        "978-1597731256",
+        "978-0849734861",
+        "978-0786684045",
+        "978-1569395738",
+        "978-0769254777",
+        "978-3795795030",
+        "978-1575605333",
+        "978-0739012581",
+        "978-1881322146",
+        "978-0739060834"
+      ]
+    },
+    {
+      "name": "Special features",
+      "occurrence": 266,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Clip",
+        "Lightweight",
+        "Stand",
+        "Braided",
+        "Shock-Absorbent",
+        "Speakers",
+        "Portable",
+        "Adjustable",
+        "Heavy Duty Protection",
+        "Wireless",
+        "Screen Protector",
+        "Anti-Slip",
+        "Radio",
+        "Lightweight, Shock-Absorbent",
+        "Clip, Stand"
+      ]
+    },
+    {
+      "name": "ISBN 10",
+      "occurrence": 263,
+      "frequency_pct": 0.12,
+      "examples": [
+        "073901613X",
+        "0769218768",
+        "0739048589",
+        "1540013332",
+        "1616779497",
+        "1597731250",
+        "084973486X",
+        "0786684046",
+        "156939573X",
+        "0769254772",
+        "9783795795030",
+        "1575605333",
+        "0739012584",
+        "1881322149",
+        "073906083X"
+      ]
+    },
+    {
+      "name": "Light Color",
+      "occurrence": 261,
+      "frequency_pct": 0.12,
+      "examples": [
+        "RGB",
+        "Multicolor",
+        "Warm White",
+        "White",
+        "Cool White",
+        "Red",
+        "Blue",
+        "Bright White",
+        "Daylight White",
+        "Multicolor, RGB",
+        "Black",
+        "Yellow",
+        "rgb",
+        "Red, Blue",
+        "Multicolor (RGBCW)"
+      ]
+    },
+    {
+      "name": "Cartoon Character",
+      "occurrence": 260,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Bubble",
+        "American",
+        "Heart",
+        "Animal",
+        "Leaf",
+        "Guitar",
+        "Music",
+        "Dragon",
+        "Santa",
+        "Bird",
+        "Animals",
+        "Cat",
+        "Bear",
+        "Cow Bell,Cowbell",
+        "Dog"
+      ]
+    },
+    {
+      "name": "Memory Storage Capacity",
+      "occurrence": 244,
+      "frequency_pct": 0.11,
+      "examples": [
+        "32 GB",
+        "16 GB",
+        "2 GB",
+        "8 GB",
+        "128 GB",
+        "64 GB",
+        "512 GB",
+        "1 GB",
+        "4 GB",
+        "512 MB",
+        "128 MB",
+        "64 MB",
+        "0.51 GB",
+        "2048 MB",
+        "900 MB"
+      ]
+    },
+    {
+      "name": "Motor Type",
+      "occurrence": 240,
+      "frequency_pct": 0.11,
+      "examples": [
+        "DC Motor",
+        "AC Motor",
+        "Truck",
+        "BMX",
+        "Manual"
+      ]
+    },
+    {
+      "name": "Noise Level",
+      "occurrence": 239,
+      "frequency_pct": 0.11,
+      "examples": [
+        "16 dB",
+        "115 dB",
+        "70 dB",
+        "20 dB",
+        "80 dB",
+        "60 dB",
+        "36 dB",
+        "10 dB",
+        "135 dB",
+        "74 dB",
+        "130 dB",
+        "40 dB",
+        "12 dB",
+        "65 dB",
+        "110 dB"
+      ]
+    },
+    {
+      "name": "Installation Type",
+      "occurrence": 237,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Self-Adhesive",
+        "Screw In",
+        "Freestanding",
+        "Screw-In",
+        "Stick",
+        "Peel",
+        "Wall Mount",
+        "Bolt-On",
+        "Free Standing",
+        "Freestanding, Countertop",
+        "Countertop",
+        "Tabletop",
+        "Wall mount",
+        "Internal Hard Drive",
+        "Floor Mounted"
+      ]
+    },
+    {
+      "name": "Units",
+      "occurrence": 236,
+      "frequency_pct": 0.11,
+      "examples": [
+        "1.0 Count",
+        "1 Count",
+        "1.00 Count",
+        "2 Count",
+        "3.2 Ounce",
+        "1.00 ct",
+        "64.0 Count",
+        "4 Count",
+        "10 Count",
+        "1 count",
+        "3.00 Count",
+        "2.00 Fl Oz",
+        "5 Count",
+        "30.0 Count",
+        "12 count"
+      ]
+    },
+    {
+      "name": "Format",
+      "occurrence": 233,
+      "frequency_pct": 0.11,
+      "examples": [
+        "MP3 Audio, WAV",
+        "WAV",
+        "MP3 Audio",
+        "USB Memory Stick",
+        "CD-ROM",
+        "Wall Calendar",
+        "DVD-ROM",
+        "Live",
+        "DVD",
+        "Original recording",
+        "WMA",
+        "Digital",
+        "WAV, WMA",
+        "Mini Calendar",
+        "Karaoke"
+      ]
+    },
+    {
+      "name": "Guitar Attribute",
+      "occurrence": 230,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Dreadnought",
+        "dreadnought",
+        "Cutaway",
+        "Electric Guitar",
+        "Classical",
+        "Orchestra",
+        "Travel Bass",
+        "Electric",
+        "Full Size",
+        "Travel Guitar",
+        "Jumbo",
+        "Solid Body Electric",
+        "Travel",
+        "Auditorium Cutaway",
+        "Electric Acoustic"
+      ]
+    },
+    {
+      "name": "Light Source Wattage",
+      "occurrence": 225,
+      "frequency_pct": 0.11,
+      "examples": [
+        "3 Watts",
+        "10 Watts",
+        "30 Watts",
+        "60 Watts",
+        "8 Watts",
+        "18 Watts",
+        "50 Watts",
+        "100 Watts",
+        "12 Watts",
+        "36 Watts",
+        "20 Watts",
+        "9 Watts",
+        "15 Watts",
+        "40 Watts",
+        "5 Watts"
+      ]
+    },
+    {
+      "name": "Assembled Width",
+      "occurrence": 223,
+      "frequency_pct": 0.1,
+      "examples": [
+        "2 inches",
+        "4 inches",
+        "12 inches",
+        "5 inches",
+        "6.3 inches",
+        "3 inches",
+        "50 millimeters",
+        "6.9 inches",
+        "25 centimeters",
+        "0.31 inches",
+        "5 centimeters",
+        "5.7 inches",
+        "8 inches",
+        "9 inches",
+        "10.4 centimeters"
+      ]
+    },
+    {
+      "name": "Type of Bulb",
+      "occurrence": 223,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Light Emitting Diode",
+        "LED",
+        "Led",
+        "PAR CAN Accessories",
+        "led",
+        "Lighting Accessories",
+        "PAR16",
+        "Fluorescent",
+        "Lighted",
+        "Xenon",
+        "Incandescent",
+        "CFL",
+        "Halogen",
+        "Halogen Bulbs",
+        "DJ Clamps"
+      ]
+    },
+    {
+      "name": "Scent",
+      "occurrence": 223,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Unscented",
+        "Lemon",
+        "Lavender",
+        "Festive",
+        "Musk,Wood",
+        "Coconut",
+        "Fresh",
+        "Sandalwood",
+        "Spearmint, Lemon, Patchouli",
+        "Mint",
+        "Lavender and Pink Grapefruit, relaxing while refreshing natural essential oils.",
+        "Southern Sweet Tea",
+        "Green Apple, Chocolate",
+        "Strawberry",
+        "Rosemary, Honeysuckle, Aloe Vera"
+      ]
+    },
+    {
+      "name": "Assembled Height",
+      "occurrence": 222,
+      "frequency_pct": 0.1,
+      "examples": [
+        "2.8 inches",
+        "6 inches",
+        "3 centimeters",
+        "9 inches",
+        "7 inches",
+        "9 centimeters",
+        "6 centimeters",
+        "25 centimeters",
+        "0.08 inches",
+        "5 inches",
+        "3 inches",
+        "3.9 inches",
+        "1 centimeters",
+        "4 inches",
+        "3.5 inches"
+      ]
+    },
+    {
+      "name": "Assembled Length",
+      "occurrence": 221,
+      "frequency_pct": 0.1,
+      "examples": [
+        "4 inches",
+        "7 inches",
+        "16 centimeters",
+        "9 inches",
+        "7.5 inches",
+        "2 inches",
+        "9.3 inches",
+        "10 centimeters",
+        "8 inches",
+        "4.5 inches",
+        "4.6 inches",
+        "3.5 inches",
+        "4.72 inches",
+        "196.85 inches",
+        "20 inches"
+      ]
+    },
+    {
+      "name": "Paperback",
+      "occurrence": 218,
+      "frequency_pct": 0.1,
+      "examples": [
+        "24 pages",
+        "48 pages",
+        "32 pages",
+        "64 pages",
+        "40 pages",
+        "80 pages",
+        "96 pages",
+        "72 pages",
+        "16 pages",
+        "88 pages",
+        "20 pages",
+        "160 pages",
+        "56 pages",
+        "8 pages",
+        "112 pages"
+      ]
+    },
+    {
+      "name": "Specific Uses For Product",
+      "occurrence": 209,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Microphone",
+        "Lamp",
+        "DJ",
+        "personal",
+        "Speaker",
+        "Camera,Microphone",
+        "Personal",
+        "Home Decor",
+        "Indoor use only",
+        "Amplifier",
+        "Sports and Exercise",
+        "Christmas",
+        "Professional",
+        "Interior",
+        "Wedding"
+      ]
+    },
+    {
+      "name": "Fit Type",
+      "occurrence": 200,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Universal Fit",
+        "Vehicle Specific Fit",
+        "Custom Fit",
+        "Universal",
+        "Regular",
+        "Vehicle Specific",
+        "regular",
+        "Compact",
+        "Direct Replacement",
+        "Road King Classic Mirrors, LiveWire Mirrors, Dyna Street Bob Mirrors, CVO Road Glide Mirrors, Tri Glide Freewheeler Mirrors, Deluxe Fatboy Breakout Mirrors, Heritage Softail Mirrors, Touring Electra Glide Ultra Limited Mirrors, Sportster 1200 Iron 883 Forty Eight Mirrors, Street glide mirrors chromeRoad King Classic Mirrors, LiveWire Mirrors, Dyna Street Bob Mirrors, CVO Road Glide Mirrors, Tri Glide Freewheeler Mirrors, Deluxe Fatboy Breakout Mirrors, Heritage Softail Mirrors, Touring Electra Glide Ultra Limited Mirrors, Sportster\u2026   See more",
+        "Classic",
+        "Loose Fit",
+        "Athletic Fit",
+        "Relaxed"
+      ]
+    },
+    {
+      "name": "Water Resistance Level",
+      "occurrence": 199,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Waterproof",
+        "Water Resistant",
+        "Not Water Resistant"
+      ]
+    },
+    {
+      "name": "Surface Recommendation",
+      "occurrence": 199,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Wood",
+        "Hard Floor",
+        "Metal",
+        "Tile, Hardwood",
+        "Hardwood",
+        "Guitar",
+        "Floor",
+        "Wall",
+        "Plastic",
+        "guitar",
+        "Paper",
+        "Cloth",
+        "Wood, Metal",
+        "Multi-Surface",
+        "Any Flat Smooth Surface"
+      ]
+    },
+    {
+      "name": "Whats in the box",
+      "occurrence": 193,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Microphone",
+        "1",
+        "not included",
+        "woofer",
+        "Not included",
+        "Woofer",
+        "Battery",
+        "Kickstand",
+        "Xawy",
+        "microphone",
+        "Screen Protector",
+        "Case",
+        "no",
+        "with case",
+        "battery"
+      ]
+    },
+    {
+      "name": "Fabric Type",
+      "occurrence": 193,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Polyester",
+        "Microfiber",
+        "Stretch Jacquard Knitted Fabric",
+        "Cotton",
+        "Velvet",
+        "Nylon",
+        "Plastic",
+        "100% Cotton",
+        "Faux Leather",
+        "100% Polyester",
+        "Leather",
+        "polyester",
+        "Burlap",
+        "Fleece",
+        "Wood"
+      ]
+    },
+    {
+      "name": "Seat Height",
+      "occurrence": 193,
+      "frequency_pct": 0.09,
+      "examples": [
+        "19 Inches",
+        "19.5 Inches",
+        "20 Inches",
+        "22 Inches",
+        "18.5 Inches",
+        "21 Inches",
+        "18.9 Inches",
+        "19.3 Inches",
+        "24 Inches",
+        "18 Inches",
+        "17 Inches",
+        "19.7 Inches",
+        "19.6 Inches",
+        "25 Inches",
+        "23 Inches"
+      ]
+    },
+    {
+      "name": "Load Capacity",
+      "occurrence": 192,
+      "frequency_pct": 0.09,
+      "examples": [
+        "132 pound",
+        "110 pound",
+        "50 pound",
+        "60 pound",
+        "100 pound",
+        "80 pound",
+        "150 pound",
+        "200 pound",
+        "20 pound",
+        "22 pound",
+        "120 pound",
+        "90 pound",
+        "130 pound",
+        "500 pound",
+        "40 pound"
+      ]
+    },
+    {
+      "name": "Target Audience",
+      "occurrence": 189,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Adult",
+        "Unisex Adult",
+        "Unisex-Adults",
+        "Women",
+        "Teacher, Student",
+        "Unisex Kid",
+        "Women, Girls",
+        "Women, Men",
+        "Men",
+        "Group",
+        "Student",
+        "Business Professional, Parent, Teacher, Student",
+        "Students, Parents",
+        "Women, Men, Boys, Girls",
+        "Unisex"
+      ]
+    },
+    {
+      "name": "Head Style",
+      "occurrence": 185,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Flat",
+        "Hex",
+        "Truss",
+        "Round",
+        "Oval",
+        "Pan",
+        "Phillips",
+        "Box End",
+        "Fixed Square",
+        "Open End",
+        "Box End, Hex",
+        "Round, Truss",
+        "Cup",
+        "Fixed Square, Hex",
+        "Flat, Phillips"
+      ]
+    },
+    {
+      "name": "Number of pieces",
+      "occurrence": 184,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1",
+        "4",
+        "2",
+        "3",
+        "12",
+        "5",
+        "10",
+        "6",
+        "25",
+        "7",
+        "18",
+        "50",
+        "6, 9",
+        "1620",
+        "8"
+      ]
+    },
+    {
+      "name": "Capacity",
+      "occurrence": 184,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1 Liters",
+        "16 Ounces",
+        "4 Liters",
+        "2 Ounces",
+        "55 Gallons",
+        "11 Ounces",
+        "12 Ounces",
+        "120 Milliliters",
+        "8 Pounds",
+        "0.5 Kilograms",
+        "1.5 Pounds",
+        "1 Kilograms",
+        "2 Pounds",
+        "80 Liters",
+        "5 Gallons"
+      ]
+    },
+    {
+      "name": "Orientation",
+      "occurrence": 183,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Portrait",
+        "Landscape",
+        "Front",
+        "Drivers Side",
+        "Vertical",
+        "Rear",
+        "Horizontal"
+      ]
+    },
+    {
+      "name": "Grip Material",
+      "occurrence": 181,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Silicone",
+        "Rubber",
+        "Zinc Alloy",
+        "Aluminum",
+        "Metal",
+        "Plastic",
+        "Bone",
+        "Rosewood",
+        "Wooden",
+        "No application"
+      ]
+    },
+    {
+      "name": "Total USB Ports",
+      "occurrence": 178,
+      "frequency_pct": 0.08,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "8",
+        "5"
+      ]
+    },
+    {
+      "name": "Switch Type",
+      "occurrence": 176,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Push Button",
+        "Touch",
+        "Foot Switch",
+        "Remote",
+        "Decorator",
+        "Slide",
+        "Dimmer",
+        "Rotary",
+        "Kill Switch",
+        "Toggle",
+        "Dimmer Switch",
+        "Foot",
+        "Magnetic",
+        "Touch Switch",
+        "Dimarzio Switch"
+      ]
+    },
+    {
+      "name": "Number Of Pieces",
+      "occurrence": 169,
+      "frequency_pct": 0.08,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "4",
+        "8",
+        "10",
+        "6",
+        "12",
+        "50",
+        "20",
+        "120",
+        "19",
+        "100",
+        "7"
+      ]
+    },
+    {
+      "name": "Light Direction",
+      "occurrence": 169,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Adjustable",
+        "Uplight",
+        "\u53ef\u8c03\u8282",
+        "Up/Down Light",
+        "Downlight",
+        "Adjustment",
+        "360",
+        "Projection",
+        "adjustment",
+        "Asymmetrical Lighting",
+        "Direct",
+        "Light Emitting Diode",
+        "LED&laser",
+        "360degree",
+        "Retroreflector"
+      ]
+    },
+    {
+      "name": "Connectivity Protocol",
+      "occurrence": 164,
+      "frequency_pct": 0.08,
+      "examples": [
+        "X-10",
+        "Bluetooth",
+        "Wi-Fi",
+        "XLR",
+        "Bluetooth, USB",
+        "USB",
+        "Zigbee",
+        "Auxiliary",
+        "Usb",
+        "Bluetooth, Wi-Fi",
+        "DMX DECODER",
+        "HomePlug, ONELINK",
+        "Dmx decoder",
+        "Controller",
+        "Coaxial"
+      ]
+    },
+    {
+      "name": "Connectivity technologies",
+      "occurrence": 162,
+      "frequency_pct": 0.08,
+      "examples": [
+        "USB",
+        "XLR",
+        "Wired",
+        "Auxiliary",
+        "Wireless",
+        "Bluetooth",
+        "Coaxial",
+        "2.4GHz",
+        "Usb",
+        "UHF",
+        "USB, HDMI",
+        "Xlr",
+        "wireless",
+        "USB, XLR",
+        "Bluetooth, USB"
+      ]
+    },
+    {
+      "name": "Frame Type",
+      "occurrence": 162,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Unframed",
+        "Framed",
+        "Wrapped Canvas",
+        "Poster Frame",
+        "Single Picture Frame",
+        "framed",
+        "Floater Frame"
+      ]
+    },
+    {
+      "name": "Output Current",
+      "occurrence": 162,
+      "frequency_pct": 0.08,
+      "examples": [
+        "1 Amps",
+        "2 Amps",
+        "200 Amps",
+        "800 Amps",
+        "1.5 Amps",
+        "12 Amps",
+        "2000 milliamps",
+        "3 Amps",
+        "4 Amps",
+        "500 milliamps",
+        "1.3 Amps",
+        "2.4 Amps",
+        "500 Amps",
+        "55 Amps",
+        "3.42 Amps"
+      ]
+    },
+    {
+      "name": "Wireless Communication Technology",
+      "occurrence": 161,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Bluetooth",
+        "RF",
+        "Wi-Fi",
+        "Infrared",
+        "Wireless",
+        "\u7ea2\u5916\u7ebf",
+        "3.5 mm",
+        "Radio Frequency",
+        "Auxiliary",
+        "3.5 month",
+        "NON WIRELESS TECHNOLOGY",
+        "Clip, Bluetooth, SHELL",
+        "UHF",
+        "Bluetooth, Wi-Fi",
+        "Not Applicable"
+      ]
+    },
+    {
+      "name": "Drive System",
+      "occurrence": 161,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Slotted",
+        "Phillips",
+        "External Hex",
+        "Square",
+        "Cross",
+        "Cross, Phillips",
+        "Star",
+        "Cross, Square, Phillips",
+        "Spline",
+        "External Hex, Star",
+        "Belt",
+        "# 2 Square Drive",
+        "Clutch",
+        "Combination Phillips-Slotted",
+        "External Hex, Internal Hex"
+      ]
+    },
+    {
+      "name": "UPC",
+      "occurrence": 161,
+      "frequency_pct": 0.08,
+      "examples": [
+        "794438225745",
+        "683405472636",
+        "728028216110",
+        "087196907108",
+        "692751006433",
+        "895985000844",
+        "781171998418",
+        "723836221981",
+        "772195622915 747565606406 787734374088",
+        "635635784874",
+        "714453139100 681381955495",
+        "300844006528",
+        "639725928667",
+        "608819244853",
+        "879408001793"
+      ]
+    },
+    {
+      "name": "Vehicle Service Type",
+      "occurrence": 161,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Car",
+        "Motorcycle",
+        "Passenger Car",
+        "Truck",
+        "Automobile",
+        "Bicycle",
+        "Car, Truck",
+        "Watercraft",
+        "Boat",
+        "Guitar",
+        "Zoom H1",
+        "Trailer",
+        "ATV, Car, SUV, Truck",
+        "Passenger Car, Truck, Motorbike",
+        "SUV, Truck"
+      ]
+    },
+    {
+      "name": "Release date",
+      "occurrence": 156,
+      "frequency_pct": 0.07,
+      "examples": [
+        "August 26, 2013",
+        "October 24, 2018",
+        "February 1, 2012",
+        "June 1, 2018",
+        "April 1, 2022",
+        "November 10, 2015",
+        "September 19, 2019",
+        "August 1, 2018",
+        "December 9, 2008",
+        "January 7, 2021",
+        "August 1, 2019",
+        "June 15, 2022",
+        "April 17, 2014",
+        "January 1, 2018",
+        "June 1, 2008"
+      ]
+    },
+    {
+      "name": "Is Customizable",
+      "occurrence": 146,
+      "frequency_pct": 0.07,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Fastener Type",
+      "occurrence": 144,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Slotted",
+        "Machine Screw",
+        "Wing",
+        "Wood Screws",
+        "Flat Washer",
+        "Hex",
+        "Buckle",
+        "Square",
+        "Lock",
+        "Eye Bolt",
+        "Self-Tapping Screw",
+        "Hexagon Bolt",
+        "wing screw",
+        "Knurled",
+        "Square, Standard"
+      ]
+    },
+    {
+      "name": "Shade Color",
+      "occurrence": 139,
+      "frequency_pct": 0.07,
+      "examples": [
+        "White",
+        "Multicolor",
+        "Black",
+        "Red",
+        "black",
+        "Clear",
+        "Silver",
+        "Silver,Yellow,Blue,Green",
+        "Warm White",
+        "multi",
+        "\u5f69\u8272",
+        "Blue,White",
+        "\u84dd\u7eff\u8272",
+        "gray",
+        "Red,Green,Blue"
+      ]
+    },
+    {
+      "name": "International Protection Rating",
+      "occurrence": 135,
+      "frequency_pct": 0.06,
+      "examples": [
+        "IP00",
+        "IP54",
+        "IP65",
+        "IPX5",
+        "IP541",
+        "IPX6",
+        "125 volt",
+        "IPX7",
+        "IP67",
+        "IP65, IPX6, IP68",
+        "IP44"
+      ]
+    },
+    {
+      "name": "Screen Size",
+      "occurrence": 130,
+      "frequency_pct": 0.06,
+      "examples": [
+        "2 Inches",
+        "2",
+        "4 Inches",
+        "3.5 Inches",
+        "5.5 Inches",
+        "1.8 Inches",
+        "2.4 Inches",
+        "17 Inches",
+        "6.1 Inches",
+        "12 Inches",
+        "6 Inches",
+        "3.5",
+        "3.5 Millimeters",
+        "1.25 Inches",
+        "2.4"
+      ]
+    },
+    {
+      "name": "Audio Output Mode",
+      "occurrence": 129,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Stereo",
+        "Surround",
+        "Mono, Stereo",
+        "Mono",
+        "Digital",
+        "Surround, Stereo",
+        "AUX, Stereo",
+        "Surround, Mono, Stereo"
+      ]
+    },
+    {
+      "name": "Seasons",
+      "occurrence": 128,
+      "frequency_pct": 0.06,
+      "examples": [
+        "All Seasons",
+        "All",
+        "All-Season",
+        "Winter",
+        "All Season",
+        "Available all season",
+        "Year Round",
+        "Winter, Summer",
+        "Summer",
+        "Spring/Summer",
+        "Winter, Summer, Fall, Spring",
+        "All, Winter, Summer",
+        "winter, spring"
+      ]
+    },
+    {
+      "name": "Computer Platform",
+      "occurrence": 127,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Win/OSX",
+        "Windows/Mac",
+        "Mac or PC",
+        "Amazon",
+        "PC/MAC",
+        "MAC PC",
+        "Windows/OS X",
+        "Mac",
+        "MAC or PC",
+        "Windows 7, Windows 8, Mac OS X 10.7.5, Mac OS X 10.8",
+        "PC",
+        "amazon",
+        "PC, Mac",
+        "Mac/PC",
+        "Windows 7 , MAC"
+      ]
+    },
+    {
+      "name": "Microphone Operation Mode",
+      "occurrence": 127,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Stereo",
+        "Mono",
+        "Lavalier",
+        "Mono, Stereo"
+      ]
+    },
+    {
+      "name": "Seat Material Type",
+      "occurrence": 122,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Faux Leather",
+        "Vinyl",
+        "Metal",
+        "Leather",
+        "Fabric",
+        "Wood",
+        "Plastic",
+        "Polyurethane",
+        "Foam Cushion covered in Flame Retardant Leather-textured",
+        "Foam",
+        "Polyester",
+        "Padded Vinyal",
+        "Nylon",
+        "Velvet",
+        "Polypropylene"
+      ]
+    },
+    {
+      "name": "Thread Coverage",
+      "occurrence": 120,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Fully Threaded",
+        "Partially Threaded"
+      ]
+    },
+    {
+      "name": "Seating Capacity",
+      "occurrence": 120,
+      "frequency_pct": 0.06,
+      "examples": [
+        "2",
+        "1",
+        "2.00",
+        "1.00"
+      ]
+    },
+    {
+      "name": "Wireless Microphone Frequency",
+      "occurrence": 120,
+      "frequency_pct": 0.06,
+      "examples": [
+        "900",
+        "2.4 GHz",
+        "80 KHz",
+        "20",
+        "48 KHz",
+        "20 KHz",
+        "10",
+        "50",
+        "5.8 GHz",
+        "500 MHz",
+        "1",
+        "900 MHz",
+        "915 MHz",
+        "2.4 KHz",
+        "530 MHz"
+      ]
+    },
+    {
+      "name": "Package Information",
+      "occurrence": 120,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Bottle",
+        "Can",
+        "Box",
+        "Tube",
+        "Vase",
+        "Bag",
+        "Pot",
+        "Carton",
+        "Bag,Bottle",
+        "Flip top Bottle",
+        "Potted",
+        "Can, Bottle",
+        "Bag,Bottle,Syringe",
+        "Bag,Basket",
+        "Cartridge"
+      ]
+    },
+    {
+      "name": "Lamp Type",
+      "occurrence": 118,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Night Light",
+        "LED",
+        "book light",
+        "Desk Lamp",
+        "Book light",
+        "Reading light",
+        "Book",
+        "book lamp,desk lamp",
+        "Table Lamp",
+        "Piano",
+        "book reading",
+        "Music light",
+        "orchestra light",
+        "Orchestra light",
+        "piano lamp"
+      ]
+    },
+    {
+      "name": "Wall Art Form",
+      "occurrence": 117,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Poster",
+        "Art Print",
+        "Painting",
+        "Tapestry",
+        "Wall Panel",
+        "Hanging Sculpture"
+      ]
+    },
+    {
+      "name": "Is Dishwasher Safe",
+      "occurrence": 117,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sport Type",
+      "occurrence": 116,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Football",
+        "Cycling",
+        "Hockey",
+        "Fishing",
+        "Baseball",
+        "Basketball",
+        "Gymnastics",
+        "Billiards",
+        "Olympic",
+        "Yoga",
+        "Exercise and Fitness",
+        "Rifle Shooting",
+        "Baton twirling",
+        "Hunting",
+        "Camping & Hiking"
+      ]
+    },
+    {
+      "name": "Model",
+      "occurrence": 112,
+      "frequency_pct": 0.05,
+      "examples": [
+        "MSD",
+        "RoadPro",
+        "Mini Series",
+        "46128",
+        "98222",
+        "RP-232C",
+        "Earl's 3/8 Banjo Bolt",
+        "OMSR65MC",
+        "NU-CORD 30M50F Rv Dogbone Adapter, 30-Amp Male 50-Amp Female",
+        "Decal/Sticker Sheet",
+        "Crown Tension Link",
+        "33P",
+        "URMIIM",
+        "13-314",
+        "21591"
+      ]
+    },
+    {
+      "name": "Operating Voltage",
+      "occurrence": 110,
+      "frequency_pct": 0.05,
+      "examples": [
+        "200 Volts",
+        "100 Volts",
+        "400 Volts",
+        "24 Volts",
+        "250 Volts",
+        "12 Volts",
+        "630 Volts",
+        "600 Volts",
+        "500 Volts",
+        "9 Volts",
+        "300 Volts",
+        "50 Volts",
+        "450 Volts",
+        "250 Volts (AC), 125 Volts (AC)",
+        "110 Volts"
+      ]
+    },
+    {
+      "name": "Import",
+      "occurrence": 109,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Imported",
+        "Made in USA",
+        "Country as Labeled",
+        "Made in USA or Imported",
+        "Importado",
+        "Made in USA and Imported",
+        "Made in the USA or Imported",
+        "\u8fdb\u53e3",
+        "Made in India"
+      ]
+    },
+    {
+      "name": "Color Temperature",
+      "occurrence": 106,
+      "frequency_pct": 0.05,
+      "examples": [
+        "3000 Kelvin",
+        "5000 Kelvin",
+        "2700 Kelvin",
+        "6500 Kelvin",
+        "6000 Kelvin",
+        "8000 Kelvin",
+        "4000 Kelvin",
+        "5600 Kelvin",
+        "7500 Kelvin",
+        "7000 Kelvin",
+        "2750 Kelvin",
+        "8500 Kelvin",
+        "11000 Kelvin",
+        "5500 Kelvin",
+        "4500 Kelvin"
+      ]
+    },
+    {
+      "name": "Weight",
+      "occurrence": 100,
+      "frequency_pct": 0.05,
+      "examples": [
+        "1 Pounds",
+        "0.03 Pounds",
+        "0.1 Pounds",
+        "20 Pounds",
+        "0.5 Pounds",
+        "13 Pounds",
+        "0.8 Ounces",
+        "2.5 Kilograms",
+        "8 Pounds",
+        "0.01 Ounces",
+        "11 Pounds",
+        "0.71 Pounds",
+        "200 Grams",
+        "150 Pounds",
+        "2.1 Pounds"
+      ]
+    },
+    {
+      "name": "Cable Feature",
+      "occurrence": 98,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Retractable",
+        "Without Cable",
+        "Detachable",
+        "Without Cable, Retractable",
+        "Tangle Free, Retractable",
+        "Tangle Free",
+        "Without Cable, Retractable, Detachable",
+        "Retractable, Detachable"
+      ]
+    },
+    {
+      "name": "Light Type",
+      "occurrence": 97,
+      "frequency_pct": 0.05,
+      "examples": [
+        "LED",
+        "Halogen",
+        "Incandescent",
+        "Metal Halide",
+        "CFL",
+        "Fluorescent",
+        "Neon",
+        "Sirius Hri",
+        "Xenon",
+        "Halogen, LED",
+        "Mercury Vapor",
+        "Any",
+        "Fluorescent, LED"
+      ]
+    },
+    {
+      "name": "Collection Name",
+      "occurrence": 96,
+      "frequency_pct": 0.04,
+      "examples": [
+        "All",
+        "Animal",
+        "Action Figure",
+        "Electric Guitar",
+        "Reptiles",
+        "Gnome",
+        "Christmas",
+        "Guitar",
+        "Christmas Set",
+        "Chicken",
+        "Newsome",
+        "Deity",
+        "Summer",
+        "Humans",
+        "Ghungru"
+      ]
+    },
+    {
+      "name": "Item Volume",
+      "occurrence": 96,
+      "frequency_pct": 0.04,
+      "examples": [
+        "4 Fluid Ounces",
+        "1 Fluid Ounces",
+        "1 Gallons",
+        "2 Fluid Ounces",
+        "8 Fluid Ounces",
+        "13 Fluid Ounces",
+        "16 Fluid Ounces",
+        "60 Milliliters",
+        "1 Quarts",
+        "12 Fluid Ounces",
+        "30 Milliliters",
+        "500 Milliliters",
+        "114 Milliliters",
+        "1.6 Milliliters",
+        "20444 Milliliters"
+      ]
+    },
+    {
+      "name": "Specific Uses",
+      "occurrence": 94,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Indoor use only",
+        "General purpose",
+        "Audiovisual/projector",
+        "Flashlight",
+        "Outdoor use only",
+        "Disco, ballrooms, hotels, skating rink, public square, family gatherings, bar, KTV, party, concert and festival like Christmas, Halloween,Weeding,Banquet",
+        "disco lights for parties",
+        "Widely used on different occasions such as for weddings, concerts, dance halls, KTV, etc.",
+        "Music sync, changing the colors with music rhythm, Timing function, turning on or off like an alarm clock, Perfect length, 50ft is long enough to reach around entire room",
+        "Celebration",
+        "Party,Dj,Clubs,Bar,Stage Light",
+        "Party, Wedding, Live Show, TV Show, Bar",
+        "dj par lights",
+        "Piano Playing",
+        "Senior ornament, Present, Night light"
+      ]
+    },
+    {
+      "name": "Media Type",
+      "occurrence": 91,
+      "frequency_pct": 0.04,
+      "examples": [
+        "CD",
+        "USB",
+        "DVD",
+        "CD, DVD",
+        "SD, USB",
+        "SD",
+        "CD, SVCD, DVD, VCD",
+        "SD, CD, USB",
+        "CD, DVD, VCD",
+        "SD Card",
+        "CD+G",
+        "SD, VCD",
+        "CD, CD+G",
+        "CD, VCD",
+        "DVD, Blu-Ray Disc"
+      ]
+    },
+    {
+      "name": "Sheet Size",
+      "occurrence": 90,
+      "frequency_pct": 0.04,
+      "examples": [
+        "A4",
+        "Letter, A4",
+        "Letter",
+        "5-x-8-inch inches",
+        "19 x 16 Centimeters",
+        "12x9.25 Inches",
+        "Letter A4 Inches",
+        "Legal",
+        "9 x 9 Inches",
+        "11.5*8.2 Inches",
+        "7 x 7 Inches",
+        "A5",
+        "8.5 x 11 Inches",
+        "12.6 x 9.4 x 0.5 inch Inches",
+        "B4, Legal"
+      ]
+    },
+    {
+      "name": "Shell Type",
+      "occurrence": 89,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Soft",
+        "Hard",
+        "Hybrid",
+        "Hard Case",
+        "Softube",
+        "Soft shell"
+      ]
+    },
+    {
+      "name": "Number of Ports",
+      "occurrence": 85,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "5",
+        "8",
+        "12"
+      ]
+    },
+    {
+      "name": "Compatible Material",
+      "occurrence": 82,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Wood",
+        "Metal",
+        "Paper",
+        "Wood, Paper, Leather",
+        "Fabric",
+        "Vinyl",
+        "Leather",
+        "Foam",
+        "Plastic",
+        "Plastic,Rubber",
+        "Alloy Steel, Resin",
+        "Paper,craft,glass,plastics",
+        "Wood, Leather, Plastic, Metal",
+        "Leather, Plastic",
+        "Ceramic"
+      ]
+    },
+    {
+      "name": "Mallet Hardness",
+      "occurrence": 81,
+      "frequency_pct": 0.04,
+      "examples": [
+        "medium",
+        "Medium",
+        "soft",
+        "Hard",
+        "Soft",
+        "hard",
+        "Extra-hard",
+        "extra-hard",
+        "Extremely hard",
+        "Leather",
+        "Extra Hard",
+        "No",
+        "Semi-weighted",
+        "medium hard",
+        "extreme hard"
+      ]
+    },
+    {
+      "name": "Liquid Volume",
+      "occurrence": 81,
+      "frequency_pct": 0.04,
+      "examples": [
+        "2 Fluid Ounces",
+        "0.12 Liters",
+        "5 Fluid Ounces",
+        "1 Fluid Ounces",
+        "4 Fluid Ounces",
+        "37 Milliliters",
+        "1.6 Fluid Ounces",
+        "30 Milliliters",
+        "1 Gallons",
+        "10 Milliliters",
+        "2.5 Fluid Ounces",
+        "1 Liters",
+        "47 Milliliters",
+        "22 Fluid Ounces",
+        "1 Quarts"
+      ]
+    },
+    {
+      "name": "Auto Part Position",
+      "occurrence": 81,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Rear",
+        "Front",
+        "Right",
+        "Front Outer",
+        "Center",
+        "Outside",
+        "Top",
+        "Left",
+        "Inside",
+        "Rear, Front",
+        "Inner",
+        "Outer",
+        "Left, Right",
+        "Bottom"
+      ]
+    },
+    {
+      "name": "Digital Audio Protocol",
+      "occurrence": 80,
+      "frequency_pct": 0.04,
+      "examples": [
+        "ASIO",
+        "MIDI",
+        "USB 2.0",
+        "USB",
+        "UHF",
+        "Support Audio Input",
+        "HID",
+        "all",
+        "Thunderbolt 3",
+        "24 Bit, 44.1kHz and 48kHz sample rates",
+        "DMX512",
+        "*",
+        "Analogy",
+        "iOS5 or later",
+        "Uhf"
+      ]
+    },
+    {
+      "name": "Sport",
+      "occurrence": 79,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Musician",
+        "Drumming",
+        "Gymnastics",
+        "musician",
+        "Golf",
+        "Tennis",
+        "Camping",
+        "Walking",
+        "camping",
+        "Hunting",
+        "Baseball, Camping",
+        "Rifle Shooting",
+        "Camping, Hiking",
+        "Boxing",
+        "Training"
+      ]
+    },
+    {
+      "name": "Insulation Resistance",
+      "occurrence": 78,
+      "frequency_pct": 0.04,
+      "examples": [
+        "100 Megaohms",
+        "500000 Inches",
+        "400 Megaohms"
+      ]
+    },
+    {
+      "name": "Brightness",
+      "occurrence": 78,
+      "frequency_pct": 0.04,
+      "examples": [
+        "3000 Lumen",
+        "5000 Lumen",
+        "50 Lumen",
+        "1000 Lumen",
+        "400 Lumen",
+        "10000 Lumen",
+        "12000 Lumen",
+        "2500 Lumen",
+        "806 Lumen",
+        "7950 Lumen",
+        "859 Lux",
+        "320 Lumen",
+        "2200 Lumen",
+        "6500 Lux",
+        "10000 Lux"
+      ]
+    },
+    {
+      "name": "Number Of Discs",
+      "occurrence": 77,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "name": "Number of Hooks",
+      "occurrence": 76,
+      "frequency_pct": 0.04,
+      "examples": [
+        "2",
+        "3",
+        "1",
+        "4",
+        "5",
+        "6",
+        "10",
+        "50",
+        "8",
+        "12",
+        "Three"
+      ]
+    },
+    {
+      "name": "Model Year",
+      "occurrence": 74,
+      "frequency_pct": 0.03,
+      "examples": [
+        "2014",
+        "2016",
+        "2018",
+        "2015",
+        "2013",
+        "2017",
+        "2022",
+        "2012",
+        "2019",
+        "2009",
+        "2020",
+        "2021",
+        "2004",
+        "2010",
+        "20120000"
+      ]
+    },
+    {
+      "name": "Thread Size",
+      "occurrence": 73,
+      "frequency_pct": 0.03,
+      "examples": [
+        "#10-32",
+        "M6",
+        "10-32",
+        "M10",
+        "M4-0.7",
+        "M 5",
+        "1.5 inches",
+        "6 x 1-1/8",
+        "#6-32",
+        "10/32",
+        "#8-32",
+        "12-24",
+        "2 x 3/8",
+        "# .08",
+        "9"
+      ]
+    },
+    {
+      "name": "Is Stain Resistant",
+      "occurrence": 73,
+      "frequency_pct": 0.03,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Is Discontinued by Manufacturer",
+      "occurrence": 73,
+      "frequency_pct": 0.03,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "occurrence": 73,
+      "frequency_pct": 0.03,
+      "examples": [
+        "The strikethrough price is the List Price. Savings represents a discount off the List Price."
+      ]
+    },
+    {
+      "name": "Tab Cut",
+      "occurrence": 72,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Straight Cut",
+        "2/5 Cut",
+        "1/5 Cut",
+        "1/2 Cut",
+        "Strap",
+        "2"
+      ]
+    },
+    {
+      "name": "Lock Type",
+      "occurrence": 71,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Key Lock",
+        "Toggle",
+        "Key",
+        "Button",
+        "Electronic",
+        "Painted",
+        "Wire",
+        "Ring",
+        "Stainless steel"
+      ]
+    },
+    {
+      "name": "Certification",
+      "occurrence": 69,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Energy Star",
+        "No",
+        "UL",
+        "CE",
+        "FCC",
+        "UL Listed",
+        "ul, etl, rohs",
+        "IPX7",
+        "Csa",
+        "FDA",
+        "Tuv",
+        "Qi",
+        "CE, UL",
+        "Ma",
+        "ASTM A228"
+      ]
+    },
+    {
+      "name": "Leg Style",
+      "occurrence": 69,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Spade",
+        "Straight",
+        "straight",
+        "Adjustable",
+        "X-Style",
+        "Double braced leg",
+        "3 legs",
+        "Triangle",
+        "X Shape",
+        "Chrome finished double-braced legs",
+        "X-style",
+        "Sturdy double support tripod with non-slip",
+        "Single",
+        "Tripod",
+        "Adjustable Leg"
+      ]
+    },
+    {
+      "name": "Weight Limit",
+      "occurrence": 69,
+      "frequency_pct": 0.03,
+      "examples": [
+        "60 Pounds",
+        "400 Pounds",
+        "20 Pounds",
+        "22 Pounds",
+        "50 Pounds",
+        "110 Pounds",
+        "100 Grams",
+        "100 Pounds",
+        "200 Pounds",
+        "15 Kilograms",
+        "55 Pounds",
+        "30 Pounds",
+        "44 Pounds",
+        "6.6 Pounds",
+        "26.5 Pounds"
+      ]
+    },
+    {
+      "name": "Base Material",
+      "occurrence": 66,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Metal",
+        "Alloy Steel",
+        "Wood",
+        "Rubber",
+        "Plastic",
+        "Acrylonitrile Butadiene Styrene",
+        "abs,plastic",
+        "Stainless Steel",
+        "wooden",
+        "Black base",
+        "Abs,plastic",
+        "Clip On",
+        "aluminum alloy",
+        "8.58\"x4.72\"x1.38\"",
+        "Polycarbonate"
+      ]
+    },
+    {
+      "name": "Type of item",
+      "occurrence": 66,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Video Game",
+        "Software Download",
+        "Electronics",
+        "Accessory",
+        "Computer Game",
+        "Office Product",
+        "CD-ROM"
+      ]
+    },
+    {
+      "name": "Plug Format",
+      "occurrence": 65,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Type B",
+        "A- US style",
+        "Type A",
+        "No plug",
+        "TAPE-C",
+        "USB",
+        "12V 3A Power Supply Adapter",
+        "Solar powered",
+        "Straight",
+        "US regulations",
+        "g",
+        "No Plug"
+      ]
+    },
+    {
+      "name": "Number of Sets",
+      "occurrence": 65,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1",
+        "12",
+        "4",
+        "2",
+        "3",
+        "15",
+        "10",
+        "50",
+        "16",
+        "8",
+        "14",
+        "20",
+        "6"
+      ]
+    },
+    {
+      "name": "Audio Output Effects",
+      "occurrence": 65,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Stereo",
+        "Analog",
+        "Headphones",
+        "Speaker",
+        "Speakers",
+        "Bass",
+        "Ukulele",
+        "Guitar",
+        "Auxiliary",
+        "Acoustic",
+        "Amplifier",
+        "Mono",
+        "Harmonizer",
+        "Headphone",
+        "Drum"
+      ]
+    },
+    {
+      "name": "Battery Life",
+      "occurrence": 64,
+      "frequency_pct": 0.03,
+      "examples": [
+        "10 Hours",
+        "20 Hours",
+        "8 Hours",
+        "16 Hours",
+        "29.5 Hours",
+        "6 Hours",
+        "12 Hours",
+        "17.5 Hours",
+        "34 Hours",
+        "15 Hours",
+        "18 Hours",
+        "36 Hours",
+        "1.5 Hours",
+        "1 Hours",
+        "5.5 Hours"
+      ]
+    },
+    {
+      "name": "Series",
+      "occurrence": 63,
+      "frequency_pct": 0.03,
+      "examples": [
+        "mcyiqihaiAADDCC",
+        "TRIPP LITE",
+        "RAZER USA LTD",
+        "FERGRELMAABBCC",
+        "RK8",
+        "HS Series",
+        "Seiren Mini",
+        "PyleUsa",
+        "JV-605PRO",
+        "AXS-43",
+        "302-636L",
+        "SA0280.0001",
+        "PIRIGBTURNIN",
+        "AC-400",
+        "HS Series HS8"
+      ]
+    },
+    {
+      "name": "Number of Pins",
+      "occurrence": 62,
+      "frequency_pct": 0.03,
+      "examples": [
+        "3",
+        "5",
+        "4",
+        "8",
+        "13",
+        "25",
+        "7"
+      ]
+    },
+    {
+      "name": "Maximum Compatible Light Source Wattage",
+      "occurrence": 61,
+      "frequency_pct": 0.03,
+      "examples": [
+        "36 Watts",
+        "10 Watts",
+        "15 Watts",
+        "100 Watts",
+        "200 Watts",
+        "180 Watts",
+        "120 Watts",
+        "6 Watts",
+        "21 Watts",
+        "48 Watts",
+        "80 Watts",
+        "160 Watts",
+        "60 Watts",
+        "220 Watts",
+        "26 Watts"
+      ]
+    },
+    {
+      "name": "Vehicle Speaker Size",
+      "occurrence": 61,
+      "frequency_pct": 0.03,
+      "examples": [
+        "INCH",
+        "12_inch",
+        "4_inch",
+        "10 Inch",
+        "15 inch",
+        "6.5_inch",
+        "3.5 Inch",
+        "8 Inch",
+        "10 inch",
+        "18 inch",
+        "12 Inch",
+        "5_inch",
+        "15_inch",
+        "8 inch",
+        "15 Inch"
+      ]
+    },
+    {
+      "name": "Number of Shelves",
+      "occurrence": 61,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "6",
+        "4",
+        "10"
+      ]
+    },
+    {
+      "name": "Head Type",
+      "occurrence": 59,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Truss",
+        "Oval",
+        "Round",
+        "Pan",
+        "Flat",
+        "Socket",
+        "Hatchet",
+        "Fillister"
+      ]
+    },
+    {
+      "name": "Exterior",
+      "occurrence": 59,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Painted",
+        "Machined",
+        "Chrome",
+        "Polished",
+        "Other",
+        "Nickel",
+        "Black",
+        "Standard",
+        "Brushed",
+        "Brown",
+        "Powdercoat",
+        "Aluminum,Chrome",
+        "Brass",
+        "Metal",
+        "Clear"
+      ]
+    },
+    {
+      "name": "Contact Material",
+      "occurrence": 59,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Gold",
+        "Brass",
+        "Metal",
+        "Nickel",
+        "Copper",
+        "Silver",
+        "Metal.delicate",
+        "Copper,silver",
+        "Metal,silver"
+      ]
+    },
+    {
+      "name": "Color Rendering Index",
+      "occurrence": 56,
+      "frequency_pct": 0.03,
+      "examples": [
+        "80",
+        "75",
+        "80.00",
+        "64",
+        "95",
+        "92.00",
+        "90",
+        "90.00",
+        "85",
+        "70.00",
+        "100",
+        "50",
+        "5050",
+        "70",
+        "5"
+      ]
+    },
+    {
+      "name": "Supported Audio Format",
+      "occurrence": 56,
+      "frequency_pct": 0.03,
+      "examples": [
+        "MP3"
+      ]
+    },
+    {
+      "name": "Maximum Voltage",
+      "occurrence": 55,
+      "frequency_pct": 0.03,
+      "examples": [
+        "200 Volts",
+        "100 Volts",
+        "400 Volts",
+        "250 Volts",
+        "630 Volts",
+        "600 Volts",
+        "500 Volts",
+        "300 Volts",
+        "450 Volts",
+        "1500 Volts",
+        "25 Volts",
+        "350 Volts",
+        "150 Volts",
+        "50 Volts"
+      ]
+    },
+    {
+      "name": "Pile Height",
+      "occurrence": 55,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Low Pile",
+        "High Pile",
+        "Medium Pile",
+        "Mid Pile",
+        "0.25",
+        "Fabric"
+      ]
+    },
+    {
+      "name": "Battery Cell Composition",
+      "occurrence": 54,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Lithium Ion",
+        "NiMH",
+        "Alkaline",
+        "Lithium Polymer",
+        "Lithium-Phosphate",
+        "Lithium",
+        "Sealed Lead Acid",
+        "Lead Acid",
+        "Zinc Carbon",
+        "Lithium-Air"
+      ]
+    },
+    {
+      "name": "Tensile Strength",
+      "occurrence": 54,
+      "frequency_pct": 0.03,
+      "examples": [
+        "220 Pounds",
+        "165 Pounds",
+        "330 Pounds",
+        "66 Pounds",
+        "28 Pounds",
+        "110 Pounds",
+        "60 Pounds",
+        "50 Pounds",
+        "22 Pounds",
+        "75 Pounds",
+        "100 Kilograms",
+        "507 Pounds",
+        "75 Kilograms",
+        "770 Pounds",
+        "20 Kilograms"
+      ]
+    },
+    {
+      "name": "Average Life",
+      "occurrence": 52,
+      "frequency_pct": 0.02,
+      "examples": [
+        "50000 Hours",
+        "30000 Hours",
+        "10000 Hours",
+        "5000 Hours",
+        "100000 Hours",
+        "25000 Hours",
+        "8000 Hours",
+        "49999 Hours",
+        "8 Hours",
+        "900000 Hours",
+        "2000 Hours",
+        "200000 Hours",
+        "20000 Hours"
+      ]
+    },
+    {
+      "name": "Maximum Sample Rate",
+      "occurrence": 52,
+      "frequency_pct": 0.02,
+      "examples": [
+        "192 KHz",
+        "96 KHz",
+        "48 KHz",
+        "384 KHz",
+        "20 KHz",
+        "44.1 KHz",
+        "96 MHz",
+        "15 KHz"
+      ]
+    },
+    {
+      "name": "Switch Style",
+      "occurrence": 51,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Remote",
+        "Push Button",
+        "remote",
+        "Touch",
+        "On/Off Switch",
+        "Dimmer Switch",
+        "Remote Control",
+        "Toggle",
+        "Magnetic",
+        "Button",
+        "Pull Chain",
+        "\u6309\u94ae",
+        "Rotary",
+        "Toggle switch",
+        "Foot Switch"
+      ]
+    },
+    {
+      "name": "Construction Type",
+      "occurrence": 51,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Handmade",
+        "Machine Made",
+        "Rubber",
+        "Braided",
+        "self adhesive",
+        "Forge"
+      ]
+    },
+    {
+      "name": "Our Recommended age",
+      "occurrence": 50,
+      "frequency_pct": 0.02,
+      "examples": [
+        "5 - 20 years",
+        "8 years and up",
+        "36 months - 17 years",
+        "14 years and up"
+      ]
+    },
+    {
+      "name": "Blade Material",
+      "occurrence": 50,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Stainless Steel",
+        "High Speed Steel",
+        "Alloy Steel",
+        "Plastic",
+        "Metal",
+        "Fiberglass",
+        "Acrylonitrile Butadiene Styrene",
+        "Ceramic",
+        "Titanium,Steel",
+        "Polycarbonate",
+        "Carbon Steel",
+        "High Carbon Steel",
+        "Aluminum"
+      ]
+    }
+  ]
+}

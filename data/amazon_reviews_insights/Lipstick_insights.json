@@ -1,0 +1,45 @@
+{
+  "category": "Lipstick",
+  "hidden_dimensions": [
+    {
+      "name": "Lasting Stain",
+      "importance": "High",
+      "description": "How well the lipstick stays on the lips for an extended period, resisting transfer and fading.",
+      "example_vocabulary": [
+        "stain lasts",
+        "long lasting",
+        "stays on"
+      ]
+    },
+    {
+      "name": "Color Accuracy",
+      "importance": "High",
+      "description": "How closely the actual color of the lipstick matches the advertised or expected color.",
+      "example_vocabulary": [
+        "color is lighter",
+        "color",
+        "metallic look"
+      ]
+    },
+    {
+      "name": "Glitter/Sparkle Intensity",
+      "importance": "Medium",
+      "description": "The degree of glitter or sparkle present in the lipstick, and how it corresponds to expectations.",
+      "example_vocabulary": [
+        "sparkly",
+        "glitter",
+        "metallic"
+      ]
+    },
+    {
+      "name": "Texture and Moisture",
+      "importance": "Medium",
+      "description": "The feel of the lipstick on the lips, including its smoothness and moisturizing properties (or lack thereof).",
+      "example_vocabulary": [
+        "smooth",
+        "drying",
+        "matte"
+      ]
+    }
+  ]
+}

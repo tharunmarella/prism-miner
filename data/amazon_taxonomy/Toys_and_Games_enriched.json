@@ -1,0 +1,8833 @@
+{
+  "category": "Toys_and_Games",
+  "total_items_scanned": 890874,
+  "total_unique_keys": 450,
+  "attributes": [
+    {
+      "name": "Manufacturer",
+      "occurrence": 776652,
+      "frequency_pct": 87.18,
+      "examples": [
+        "Mattel",
+        "Hasbro",
+        "Funko",
+        "Wizards of the Coast",
+        "Konami",
+        "LEGO",
+        "Fisher-Price",
+        "Diamond Comic Distributors",
+        "Pokemon USA, Inc.",
+        "Amscan",
+        "Spin Master",
+        "Horizon Hobby",
+        "Traxxas",
+        "Bandai",
+        "Melissa & Doug"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 758614,
+      "frequency_pct": 85.15,
+      "examples": [
+        "0.06 ounces",
+        "3.2 ounces",
+        "1 pounds",
+        "5.6 ounces",
+        "0.32 ounces",
+        "1.6 ounces",
+        "3.52 ounces",
+        "6.4 ounces",
+        "8 ounces",
+        "4.8 ounces",
+        "8.8 ounces",
+        "0.01 ounces",
+        "7 ounces",
+        "1.76 ounces",
+        "9.6 ounces"
+      ]
+    },
+    {
+      "name": "Manufacturer recommended age",
+      "occurrence": 552923,
+      "frequency_pct": 62.07,
+      "examples": [
+        "3 years and up",
+        "14 years and up",
+        "13 years and up",
+        "12 years and up",
+        "6 years and up",
+        "15 years and up",
+        "8 years and up",
+        "5 years and up",
+        "12 months and up",
+        "4 years and up",
+        "16 years and up",
+        "10 years and up",
+        "3 months and up",
+        "36 months - 15 years",
+        "36 months - 6 years"
+      ]
+    },
+    {
+      "name": "Best Sellers Rank",
+      "occurrence": 544178,
+      "frequency_pct": 61.08,
+      "examples": [
+        "{}",
+        "{'Toys & Games': 563432, \"Kids' Party Balloons\": 26241}",
+        "{'Toys & Games': 473625, 'Board Games': 15820}",
+        "{'Toys & Games': 485603, 'Role Playing Dice': 1608}",
+        "{'Toys & Games': 423716, \"Kids' Electric Vehicles\": 902, 'Pre-Kindergarten Toys': 136142}",
+        "{'Toys & Games': 13339, \"Kids' Balance Bikes\": 41}",
+        "{'Toys & Games': 435086, 'Jigsaw Puzzles': 16104, 'Preschool Toys': 160780}",
+        "{'Toys & Games': 497349, 'Kites': 801, 'Pre-Kindergarten Toys': 155568}",
+        "{'Toys & Games': 408995, 'Plug & Play Video Games': 793}",
+        "{'Toys & Games': 836180, 'Toy Figures & Playsets': 73141}",
+        "{'Toys & Games': 537211, 'Magic Kits & Accessories': 2058}",
+        "{'Toys & Games': 351786, 'Preschool Puzzles': 3576, 'Jigsaw Puzzles': 12761}",
+        "{'Toys & Games': 568323, 'Flying Toys': 996}",
+        "{'Toys & Games': 330540, \"Kids' Walkie Talkies\": 252, 'Pre-Kindergarten Toys': 109140}",
+        "{'Toys & Games': 596162, \"Kids' Play Bracelets\": 2022, 'Preschool Toys': 209737}"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 513946,
+      "frequency_pct": 57.69,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "2.5\"L x 2.5\"W x 3.75\"H",
+        "2.5 x 2.5 x 3.75 inches",
+        "2 x 2 x 2 inches",
+        "5 x 5 x 5 inches",
+        "3.54 x 2.95 x 3.54 inches",
+        "6 x 6 x 8 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "3 x 3 x 3 inches",
+        "12 x 12 x 2 inches",
+        "11.61 x 11.61 x 3.35 inches",
+        "4 x 4 x 4 inches",
+        "108\"L x 54\"W",
+        "8 x 8 x 2 inches",
+        "0.1 x 0.1 x 0.1 inches"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 435181,
+      "frequency_pct": 48.85,
+      "examples": [
+        "1",
+        "001",
+        "0",
+        "ABCD",
+        "01",
+        "L2593",
+        "LE",
+        "2",
+        "does not apply",
+        "COBBLE HILL",
+        "3",
+        "RC01",
+        "12",
+        "123",
+        "Educational Digital Printed"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 391200,
+      "frequency_pct": 43.91,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False",
+        "true",
+        "True"
+      ]
+    },
+    {
+      "name": "Brand",
+      "occurrence": 346569,
+      "frequency_pct": 38.9,
+      "examples": [
+        "Funko",
+        "Magic The Gathering",
+        "Pokemon",
+        "Yu-Gi-Oh!",
+        "Generic",
+        "YU-GI-OH!",
+        "Fun Express",
+        "Ravensburger",
+        "Crayola",
+        "Buffalo Games",
+        "Amscan",
+        "Melissa & Doug",
+        "Ultra Pro",
+        "POP",
+        "Disney"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 236941,
+      "frequency_pct": 26.6,
+      "examples": [
+        "1 x 1 x 1 inches; 1 Pounds",
+        "1 x 1 x 1 inches",
+        "6 x 6 x 2 inches",
+        "2 x 2 x 2 inches",
+        "4 x 3 x 1 inches",
+        "4 x 3 x 0.1 inches",
+        "4 x 3 x 0.03 inches",
+        "6 x 4 x 1 inches",
+        "5 x 3 x 1 inches",
+        "3.5 x 2.5 x 0.1 inches",
+        "4 x 4 x 4 inches",
+        "3.8 x 2.8 x 0.1 inches",
+        "3 x 2 x 0.1 inches",
+        "3.99 x 3.99 x 0.25 inches",
+        "3 x 2 x 1 inches"
+      ]
+    },
+    {
+      "name": "Material",
+      "occurrence": 193021,
+      "frequency_pct": 21.67,
+      "examples": [
+        "Plastic",
+        "Paper",
+        "Rubber",
+        "Wood",
+        "Vinyl",
+        "Aluminum",
+        "Cardboard",
+        "Metal",
+        "Polyester",
+        "Polyvinyl Chloride",
+        "Cardstock",
+        "Latex",
+        "Polyvinyl Chloride (PVC)",
+        "Foam",
+        "Nylon"
+      ]
+    },
+    {
+      "name": "Date First Available",
+      "occurrence": 164316,
+      "frequency_pct": 18.44,
+      "examples": [
+        "February 24, 2007",
+        "February 25, 2017",
+        "October 2, 2000",
+        "January 10, 2021",
+        "January 23, 2019",
+        "January 9, 2014",
+        "February 13, 2005",
+        "June 22, 2008",
+        "December 17, 2004",
+        "April 1, 2019",
+        "July 8, 2014",
+        "October 12, 2007",
+        "November 4, 2009",
+        "September 20, 2022",
+        "November 24, 2010"
+      ]
+    },
+    {
+      "name": "Theme",
+      "occurrence": 161475,
+      "frequency_pct": 18.13,
+      "examples": [
+        "Anime",
+        "Cartoon",
+        "Animal",
+        "Number",
+        "Cartoons",
+        "Christmas",
+        "Movie",
+        "Sport",
+        "Fantasy",
+        "Alphabet",
+        "Action",
+        "Game",
+        "Halloween",
+        "Educational",
+        "Animals"
+      ]
+    },
+    {
+      "name": "Color",
+      "occurrence": 142568,
+      "frequency_pct": 16.0,
+      "examples": [
+        "Multicolor",
+        "Black",
+        "Blue",
+        "White",
+        "Red",
+        "Pink",
+        "Green",
+        "Multi",
+        "Multicoloured",
+        "Yellow",
+        "Multicolored",
+        "Assorted",
+        "Gold",
+        "Multi-colored",
+        "Clear"
+      ]
+    },
+    {
+      "name": "Release date",
+      "occurrence": 132632,
+      "frequency_pct": 14.89,
+      "examples": [
+        "January 1, 2020",
+        "January 1, 2021",
+        "June 12, 2006",
+        "January 1, 2018",
+        "January 1, 2019",
+        "August 1, 2018",
+        "June 1, 2018",
+        "January 1, 2022",
+        "July 20, 2017",
+        "January 1, 2017",
+        "July 15, 2020",
+        "July 1, 2018",
+        "August 1, 2021",
+        "January 1, 2016",
+        "August 1, 2017"
+      ]
+    },
+    {
+      "name": "Age Range (Description)",
+      "occurrence": 110183,
+      "frequency_pct": 12.37,
+      "examples": [
+        "Kid",
+        "Adult",
+        "Baby",
+        "Teen",
+        "Children",
+        "Toddler",
+        "Adult,Teen,Kid",
+        "Kid,Adult",
+        "kid",
+        "Child",
+        "3 years and above",
+        "3 years",
+        "36 months to 1200 months",
+        "Kid,Toddler",
+        "Little And Big Kid"
+      ]
+    },
+    {
+      "name": "Item Dimensions LxWxH",
+      "occurrence": 102219,
+      "frequency_pct": 11.47,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "12 x 12 x 2 inches",
+        "8 x 8 x 2 inches",
+        "2.13 x 7.94 x 7.94 inches",
+        "9 x 9 x 2 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "1.75 x 7.94 x 7.94 inches",
+        "7.5 x 3.25 x 7.5 inches",
+        "26.75 x 19.75 x 0.1 inches",
+        "10 x 12 x 2 inches",
+        "14.75 x 10.75 x 2.25 inches",
+        "8 x 8 x 2.25 inches",
+        "2 x 2 x 2 inches",
+        "30 x 24 x 0.25 inches",
+        "5 x 5 x 5 inches"
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "occurrence": 93247,
+      "frequency_pct": 10.47,
+      "examples": [
+        "1",
+        "1000",
+        "500",
+        "2",
+        "100",
+        "7",
+        "50",
+        "12",
+        "300",
+        "4",
+        "6",
+        "8",
+        "24",
+        "10",
+        "3"
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 90319,
+      "frequency_pct": 10.14,
+      "examples": [
+        "China",
+        "USA",
+        "Vietnam",
+        "Germany",
+        "Taiwan",
+        "Mexico",
+        "Hong Kong",
+        "India",
+        "Indonesia",
+        "Poland",
+        "United Kingdom",
+        "Denmark",
+        "Thailand",
+        "Canada",
+        "Turkey"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 76553,
+      "frequency_pct": 8.59,
+      "examples": [
+        "unisex-child",
+        "Unisex-adult",
+        "Unisex-child",
+        "unisex-adult",
+        "Girls",
+        "girls",
+        "Boys",
+        "Womens",
+        "womens",
+        "Mens",
+        "boys",
+        "Unisex",
+        "mens",
+        "Unisex Adult",
+        "Unisex Child"
+      ]
+    },
+    {
+      "name": "Occasion",
+      "occurrence": 59528,
+      "frequency_pct": 6.68,
+      "examples": [
+        "Birthday",
+        "Halloween",
+        "Baby Shower, Birthday",
+        "Christmas",
+        "Graduation",
+        "Valentine's Day",
+        "Wedding, Birthday",
+        "Christmas, Birthday",
+        "Easter",
+        "Anniversary, Birthday",
+        "Party",
+        "Baby Shower",
+        "Wedding",
+        "Wedding, Baby Shower, Birthday",
+        "Wedding, Anniversary, Birthday"
+      ]
+    },
+    {
+      "name": "Unit Count",
+      "occurrence": 56519,
+      "frequency_pct": 6.34,
+      "examples": [
+        "1.0 Count",
+        "1 Count",
+        "1.00 Count",
+        "2.0 Count",
+        "100.0 Count",
+        "12.0 Count",
+        "1.00 count",
+        "50.0 Count",
+        "24.0 Count",
+        "3.0 Count",
+        "2 Count",
+        "6.0 Count",
+        "12 Count",
+        "4.0 Count",
+        "8.0 Count"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 53829,
+      "frequency_pct": 6.04,
+      "examples": [
+        "Round",
+        "Rectangular",
+        "Novelty",
+        "Irregular",
+        "Dodecahedron",
+        "Hexahedron",
+        "Square",
+        "Number",
+        "Heart",
+        "Oval",
+        "Star",
+        "Star, Round",
+        "Letter",
+        "Alphabet",
+        "Cube"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 52192,
+      "frequency_pct": 5.86,
+      "examples": [
+        "Large",
+        "Small",
+        "Medium",
+        "One Size",
+        "1 Count (Pack of 1)",
+        "16mm",
+        "Inches",
+        "1000",
+        "Small, Medium",
+        "12 Count (Pack of 1)",
+        "Standard",
+        "24 Count (Pack of 1)",
+        "54\" x 108\"",
+        "1 EA",
+        "Standard (15mm - 17mm)"
+      ]
+    },
+    {
+      "name": "Style",
+      "occurrence": 51479,
+      "frequency_pct": 5.78,
+      "examples": [
+        "Modern",
+        "Classic",
+        "Unique",
+        "Box",
+        "Round",
+        "Compact",
+        "Portable",
+        "Sports",
+        "Art Deco",
+        "Beads",
+        "Protection",
+        "Custom",
+        "Adjustable",
+        "Durable",
+        "Fashion"
+      ]
+    },
+    {
+      "name": "Cartoon Character",
+      "occurrence": 47672,
+      "frequency_pct": 5.35,
+      "examples": [
+        "Animal",
+        "Bubble",
+        "Halloween",
+        "(-)",
+        "Animals",
+        "Disney",
+        "Anime",
+        "Dinosaur",
+        "American",
+        "Unicorn",
+        "Heart",
+        "PARTYKIT",
+        "Dragon",
+        "Star Wars",
+        "Batman"
+      ]
+    },
+    {
+      "name": "Included Components",
+      "occurrence": 46131,
+      "frequency_pct": 5.18,
+      "examples": [
+        "Cards",
+        "Balloon Arch",
+        "Glue",
+        "Individual Card",
+        "Banner",
+        "Trading Card",
+        "Tape",
+        "Canvas",
+        "Collectible Figure",
+        "Filling Pump",
+        "Booster Pack",
+        "Cord And String",
+        "Diamond",
+        "Dress",
+        "Balloons"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 44692,
+      "frequency_pct": 5.02,
+      "examples": [
+        "1",
+        "2",
+        "12",
+        "3",
+        "4",
+        "6",
+        "24",
+        "8",
+        "100",
+        "5",
+        "20",
+        "10",
+        "50",
+        "30",
+        "16"
+      ]
+    },
+    {
+      "name": "Batteries",
+      "occurrence": 40572,
+      "frequency_pct": 4.55,
+      "examples": [
+        "1 A batteries required.",
+        "1 Lithium Ion batteries required. (included)",
+        "1 Lithium Polymer batteries required. (included)",
+        "3 LR44 batteries required. (included)",
+        "2 AA batteries required. (included)",
+        "3 AA batteries required. (included)",
+        "3 AA batteries required.",
+        "2 AA batteries required.",
+        "2 AAA batteries required. (included)",
+        "3 AAA batteries required. (included)",
+        "2 AAA batteries required.",
+        "3 AAA batteries required.",
+        "2 Lithium Polymer batteries required. (included)",
+        "4 AA batteries required.",
+        "1 Lithium Ion batteries required."
+      ]
+    },
+    {
+      "name": "Manufacturer Minimum Age (MONTHS)",
+      "occurrence": 32452,
+      "frequency_pct": 3.64,
+      "examples": [
+        "36.00",
+        "144.0",
+        "168.0",
+        "168.00",
+        "144.00",
+        "156.00",
+        "96.00",
+        "72.00",
+        "96.0",
+        "12.00",
+        "36.0",
+        "120.0",
+        "156.0",
+        "72.0",
+        "180.00"
+      ]
+    },
+    {
+      "name": "Special Feature",
+      "occurrence": 32362,
+      "frequency_pct": 3.63,
+      "examples": [
+        "Lightweight",
+        "Waterproof",
+        "Reusable",
+        "Durable",
+        "Portable",
+        "Disposable",
+        "Non Toxic",
+        "Washable",
+        "Inflatable",
+        "Foldable",
+        "Time Lapse",
+        "Includes Pop Protector Case",
+        "Lightweight, Foldable",
+        "Non Toxic, Washable",
+        "Bubble maker"
+      ]
+    },
+    {
+      "name": "Number of Players",
+      "occurrence": 25957,
+      "frequency_pct": 2.91,
+      "examples": [
+        "2",
+        "1",
+        "4",
+        "6",
+        "2-4",
+        "2+",
+        "2-6",
+        "1-10",
+        "5",
+        "1+",
+        "8",
+        "2 to 4",
+        "1-4",
+        "2-10",
+        "3"
+      ]
+    },
+    {
+      "name": "Pattern",
+      "occurrence": 24805,
+      "frequency_pct": 2.78,
+      "examples": [
+        "Cartoon",
+        "Solid",
+        "Variety Pack",
+        "Letter Print",
+        "Animal Print",
+        "Check",
+        "Floral",
+        "Heart",
+        "Halloween",
+        "Star",
+        "Letter",
+        "Polka Dots",
+        "Plain",
+        "Striped",
+        "Leaf"
+      ]
+    },
+    {
+      "name": "Puzzle type",
+      "occurrence": 23842,
+      "frequency_pct": 2.68,
+      "examples": [
+        "Jigsaw",
+        "Assembly and Disassembly",
+        "Puzzle Box",
+        "Twisty",
+        "Lock",
+        "Maze",
+        "Sequential Movement",
+        "Disentanglement",
+        "Knob and Pegged",
+        "Sudoku",
+        "Sliding",
+        "Sequential Discovery"
+      ]
+    },
+    {
+      "name": "Brand Name",
+      "occurrence": 20845,
+      "frequency_pct": 2.34,
+      "examples": [
+        "Trademark Poker",
+        "Brybelly",
+        "Ultra Pro",
+        "Bicycle",
+        "Game Room Guys",
+        "Generic",
+        "Funko",
+        "DJI",
+        "Sloosh",
+        "Intex",
+        "ArtCreativity",
+        "JOYIN",
+        "Masterpieces",
+        "BCW",
+        "IDS"
+      ]
+    },
+    {
+      "name": "CPSIA Cautionary Statement",
+      "occurrence": 20606,
+      "frequency_pct": 2.31,
+      "examples": [
+        "Choking Hazard - Balloon",
+        "Choking Hazard - Balloon, No Warning Applicable",
+        "No Warning Applicable",
+        "Choking Hazard - Small Parts",
+        "Choking Hazard - Small Parts, Choking Hazard - Balloon",
+        "Choking Hazard - Small Parts, Choking Hazard - Balloon, No Warning Applicable",
+        "Choking Hazard - Small Parts, No Warning Applicable",
+        "Choking Hazard - Contains Small Ball, Choking Hazard - Balloon",
+        "Contains Small Magnets",
+        "Choking Hazard - Is a Marble, Choking Hazard - Balloon",
+        "Choking Hazard - Contains Small Ball, Choking Hazard - Is a Marble, Choking Hazard - Balloon, Choking Hazard - Contains a MarbleChoking Hazard - Contains Small Ball, Choking Hazard - Is a Marble, Choking Hazard - Balloon, Choking Hazard - Contains a Marble  See more",
+        "Choking Hazard - Contains Small Ball, Choking Hazard - Small Parts, Choking Hazard - Balloon",
+        "Choking Hazard - Contains Small Ball",
+        "Choking Hazard - Contains Small Ball, Choking Hazard - Is a Marble, Choking Hazard - Small Parts, Choking Hazard - Balloon, Choking Hazard - Contains a MarbleChoking Hazard - Contains Small Ball, Choking Hazard - Is a Marble, Choking Hazard - Small Parts, Choking Hazard - Balloon, Choking Hazard - Contains a Marble  See more",
+        "Choking Hazard - Is a Small Ball, Choking Hazard - Balloon"
+      ]
+    },
+    {
+      "name": "Grade Rating",
+      "occurrence": 19289,
+      "frequency_pct": 2.17,
+      "examples": [
+        "Ungraded",
+        "Good",
+        "Mint State",
+        "Fine",
+        "Circulated",
+        "Proof",
+        "See Image",
+        "Near Mint",
+        "Gem Mint",
+        "Mint",
+        "Excellent_mint",
+        "NM/M (Near Mint/Mint)",
+        "Excellent",
+        "ungraded",
+        "PSA"
+      ]
+    },
+    {
+      "name": "Part Number",
+      "occurrence": 18964,
+      "frequency_pct": 2.13,
+      "examples": [
+        "1",
+        "Unknown",
+        "unknown",
+        "001",
+        "Na",
+        "LE",
+        "EYE-ST240-190314",
+        "10",
+        "HD",
+        "Disney Paint with Water",
+        "LLF",
+        "01",
+        "OhradWord",
+        "2",
+        "123"
+      ]
+    },
+    {
+      "name": "Item Package Quantity",
+      "occurrence": 18929,
+      "frequency_pct": 2.12,
+      "examples": [
+        "1",
+        "2",
+        "12",
+        "3",
+        "4",
+        "6",
+        "10",
+        "5",
+        "50",
+        "20",
+        "100",
+        "24",
+        "9",
+        "25",
+        "8"
+      ]
+    },
+    {
+      "name": "Room Type",
+      "occurrence": 18884,
+      "frequency_pct": 2.12,
+      "examples": [
+        "Office, Living Room, Bedroom",
+        "Bedroom",
+        "Classroom",
+        "Living Room, Bedroom",
+        "Living Room",
+        "Office, Living, Bedroom",
+        "Office",
+        "Kid's Room",
+        "Garden",
+        "Usb",
+        "Baby",
+        "Kitchen",
+        "Playroom",
+        "Nursery",
+        "Office, Bedroom"
+      ]
+    },
+    {
+      "name": "Package Weight",
+      "occurrence": 18632,
+      "frequency_pct": 2.09,
+      "examples": [
+        "0.09 Kilograms",
+        "0.14 Kilograms",
+        "0.02 Kilograms",
+        "0.11 Kilograms",
+        "0.2 Kilograms",
+        "0.05 Kilograms",
+        "0.16 Kilograms",
+        "0.07 Kilograms",
+        "0.1 Kilograms",
+        "0.18 Kilograms",
+        "0.23 Kilograms",
+        "0.27 Kilograms",
+        "0.25 Kilograms",
+        "0.32 Kilograms",
+        "0.34 Kilograms"
+      ]
+    },
+    {
+      "name": "Item Package Dimensions L x W x H",
+      "occurrence": 18220,
+      "frequency_pct": 2.05,
+      "examples": [
+        "3.6 x 2.6 x 0.7 inches",
+        "1 x 1 x 1 inches",
+        "3.6 x 2.6 x 0.8 inches",
+        "39.37 x 39.37 x 19.69 inches",
+        "3.7 x 2.6 x 0.7 inches",
+        "3.6 x 2.6 x 0.6 inches",
+        "3.62 x 2.6 x 0.71 inches",
+        "4 x 3 x 1 inches",
+        "7.5 x 5.3 x 0.6 inches",
+        "3.5 x 2.5 x 0.75 inches",
+        "3.62 x 2.6 x 0.75 inches",
+        "13 x 13 x 5 inches",
+        "6 x 5 x 1 inches",
+        "3.54 x 2.6 x 0.71 inches",
+        "3.6 x 2.5 x 0.7 inches"
+      ]
+    },
+    {
+      "name": "Language",
+      "occurrence": 17619,
+      "frequency_pct": 1.98,
+      "examples": [
+        "English",
+        "English, English, English, English, English",
+        "German",
+        "English, English",
+        "Italian",
+        "English, English, English, English",
+        "Spanish",
+        "Multilingual",
+        "French",
+        "English, English, English",
+        "Dutch",
+        "Dutch, German, English, French, Spanish",
+        "Japanese",
+        "Korean",
+        "Spanish, English"
+      ]
+    },
+    {
+      "name": "Assembly Required",
+      "occurrence": 17020,
+      "frequency_pct": 1.91,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False",
+        "true"
+      ]
+    },
+    {
+      "name": "Model Name",
+      "occurrence": 15290,
+      "frequency_pct": 1.72,
+      "examples": [
+        "1",
+        "gear",
+        "Gear",
+        "Kinetic Sand",
+        "Mavic Pro",
+        "Deck Protector",
+        "Deck Box",
+        "Phantom 3",
+        "Mavic 2",
+        "Mavic Mini",
+        "Mavic Air",
+        "Mini 3 Pro",
+        "/",
+        "Mavic 2 Pro",
+        "Airplanes"
+      ]
+    },
+    {
+      "name": "Batteries required",
+      "occurrence": 15205,
+      "frequency_pct": 1.71,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Manufacturer Part Number",
+      "occurrence": 15093,
+      "frequency_pct": 1.69,
+      "examples": [
+        "1",
+        "001",
+        "Unknown",
+        "01",
+        "10-Pack Invitation",
+        "Na",
+        "unknown",
+        "LE",
+        "25 Count Invitations",
+        "GY-WT-0901",
+        "Benedict Harry",
+        "Trading Card Sleeves",
+        "077",
+        "Imagine Ink Coloring Books for Kids",
+        "Que-T"
+      ]
+    },
+    {
+      "name": "Reusability",
+      "occurrence": 14581,
+      "frequency_pct": 1.64,
+      "examples": [
+        "Single Use",
+        "Reusable",
+        "Rechargeable",
+        "Disposable",
+        "Resuable",
+        "Fireproof",
+        "Removable",
+        "Single",
+        "washable",
+        "Durable Plastic",
+        "Reusable Static Stickers",
+        "Slider",
+        "Inches",
+        "Washable",
+        "Recycled"
+      ]
+    },
+    {
+      "name": "Sport",
+      "occurrence": 13399,
+      "frequency_pct": 1.5,
+      "examples": [
+        "Yu-gi-oh",
+        "Magic The Gathering",
+        "Magic",
+        "Pokemon",
+        "Soccer",
+        "Basketball",
+        "Baseball",
+        "Exercise & Fitness",
+        "Catch",
+        "Airsoft",
+        "Softball",
+        "Volleyball",
+        "Handball",
+        "Fishing",
+        "Dodgeball"
+      ]
+    },
+    {
+      "name": "Graded By",
+      "occurrence": 12318,
+      "frequency_pct": 1.38,
+      "examples": [
+        "Certified Collectibles Group",
+        "TCG",
+        "CCG",
+        "CCG, TCG",
+        "Seller",
+        "PSA",
+        "MLB",
+        "Tcg",
+        "CG",
+        "NGC",
+        "GEM 10",
+        "Nintendo",
+        "US Mint",
+        "The Gathering",
+        "Gem Mint"
+      ]
+    },
+    {
+      "name": "Material Type",
+      "occurrence": 12106,
+      "frequency_pct": 1.36,
+      "examples": [
+        "Plastic",
+        "Paper",
+        "Wood",
+        "Rubber",
+        "Plush",
+        "Polypropylene (PP)",
+        "Cotton",
+        "Polyester",
+        "Silicone",
+        "Chalk",
+        "Polyvinyl Chloride (PVC)",
+        "Metal",
+        "Vinyl",
+        "Cardstock",
+        "Foam"
+      ]
+    },
+    {
+      "name": "Product Care Instructions",
+      "occurrence": 11938,
+      "frequency_pct": 1.34,
+      "examples": [
+        "Hand Wash Only",
+        "Machine Wash",
+        "Wipe with Dry Cloth",
+        "Hang It",
+        "Wipe Clean",
+        "Hand Wash",
+        "Machine Wash, Hand Wash Only",
+        "Dry Clean Only",
+        "Wipe with Damp Cloth",
+        "Hang it",
+        "Disposable",
+        "Water",
+        "Not Machine Washable, Hand Wash Only",
+        "Dishwasher Safe",
+        "Not Microwave Safe"
+      ]
+    },
+    {
+      "name": "Is Autographed",
+      "occurrence": 11710,
+      "frequency_pct": 1.31,
+      "examples": [
+        "No",
+        "Yes",
+        "False",
+        "false"
+      ]
+    },
+    {
+      "name": "Batteries Required?",
+      "occurrence": 11627,
+      "frequency_pct": 1.31,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Seasons",
+      "occurrence": 11406,
+      "frequency_pct": 1.28,
+      "examples": [
+        "All Seasons",
+        "All-Season",
+        "Winter",
+        "Year Round",
+        "Summer",
+        "All",
+        "Basic",
+        "All Season",
+        "Fall",
+        "Winter, Summer",
+        "3 Seasons",
+        "Spring",
+        "4 Season",
+        "Light",
+        "Summer, Fall, All Seasons, Spring"
+      ]
+    },
+    {
+      "name": "Educational Objective",
+      "occurrence": 10451,
+      "frequency_pct": 1.17,
+      "examples": [
+        "Color Recognition",
+        "STEM",
+        "Language Skills",
+        "Team Building Skills",
+        "Play",
+        "Creative Thinking",
+        "Creative Skill",
+        "1",
+        "play, Game",
+        "Play, Game",
+        "Science",
+        "Math Skills",
+        "Problem Solving Skill, Dexterity, Hand",
+        "Shape Recognition",
+        "Problem Solving Skill, Hand-Eye Coordination"
+      ]
+    },
+    {
+      "name": "Collection Name",
+      "occurrence": 10448,
+      "frequency_pct": 1.17,
+      "examples": [
+        "Action Figure",
+        "All",
+        "Animal",
+        "Cartoon",
+        "Humans",
+        "Comic",
+        "Reptiles",
+        "Bird",
+        "Summer",
+        "Gnome",
+        "Funko Pop",
+        "Pop! Vinyl",
+        "Christmas",
+        "Deity",
+        "Skeleton"
+      ]
+    },
+    {
+      "name": "Domestic Shipping",
+      "occurrence": 9422,
+      "frequency_pct": 1.06,
+      "examples": [
+        "Item can be shipped within U.S.",
+        "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "This item is available for shipping in the U.S. except for California and to select countries outside the U.S.",
+        "This item can only be shipped to the 48 contiguous states. We regret it cannot be shipped to APO/FPO, Hawaii, Alaska, or Puerto Rico.",
+        "Amazon only ships this item within the contiguous 48 United States. Other Sellers on Amazon may ship this item to Alaska, Hawaii and US Territories."
+      ]
+    },
+    {
+      "name": "International Shipping",
+      "occurrence": 9422,
+      "frequency_pct": 1.06,
+      "examples": [
+        "This item can be shipped to select countries outside of the U.S.  Learn More",
+        "This item is not eligible for international shipping.  Learn More"
+      ]
+    },
+    {
+      "name": "Genre",
+      "occurrence": 9033,
+      "frequency_pct": 1.01,
+      "examples": [
+        "Strategy",
+        "Family",
+        "Wargame",
+        "Party",
+        "Educational",
+        "Strategy, Family",
+        "strategy",
+        "Mystery",
+        "Science Fiction",
+        "Family, Educational",
+        "Cooperative",
+        "Money",
+        "Word",
+        "money",
+        "Trivia"
+      ]
+    },
+    {
+      "name": "Item Dimensions  LxWxH",
+      "occurrence": 8311,
+      "frequency_pct": 0.93,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "2.5 x 2.5 x 3.75 inches",
+        "3 x 3 x 3 inches",
+        "3.5 x 2.5 x 0.5 inches",
+        "5 x 5 x 5 inches",
+        "3 x 3 x 3.75 inches",
+        "3.5 x 3 x 1.5 inches",
+        "3 x 2 x 0.5 inches",
+        "7 x 7 x 7 inches",
+        "6 x 6 x 6 inches",
+        "2.5 x 2.5 x 2.5 inches",
+        "2 x 2 x 2 inches",
+        "11.61 x 11.61 x 3.35 inches",
+        "24 x 14 x 0.01 inches"
+      ]
+    },
+    {
+      "name": "Recommended Uses For Product",
+      "occurrence": 8303,
+      "frequency_pct": 0.93,
+      "examples": [
+        "Drone",
+        "Remote Control Vehicle",
+        "Remote Control Vehicle, Drone",
+        "Modeling",
+        "Home",
+        "Radio",
+        "Scrapbook",
+        "For Trading Cards",
+        "Water Bottle",
+        "Coordinating",
+        "Laptop",
+        "Dining Table",
+        "Pencil",
+        "Game",
+        "Classroom"
+      ]
+    },
+    {
+      "name": "Operation Mode",
+      "occurrence": 8268,
+      "frequency_pct": 0.93,
+      "examples": [
+        "Manual",
+        "Automatic",
+        "Electrical",
+        "Mechanical",
+        "ON-OFF",
+        "Electric",
+        "Air Blower",
+        "Semi-Automatic",
+        "Off",
+        "Manual, found in image",
+        "Hand",
+        "Manual, Automatic",
+        "Automatic,Manual",
+        "Found in image, Manual",
+        "Automatic,Automatically"
+      ]
+    },
+    {
+      "name": "Battery Cell Composition",
+      "occurrence": 7776,
+      "frequency_pct": 0.87,
+      "examples": [
+        "Lithium Polymer",
+        "Lithium Ion",
+        "NiMH",
+        "Lithium",
+        "Polymer",
+        "Alkaline",
+        "NiCAD",
+        "Manganese",
+        "Lithium Metal",
+        "Lithium-Phosphate",
+        "Sealed Lead Acid",
+        "Lithium-Cobalt",
+        "Lead Acid",
+        "Zinc Carbon",
+        "Lithium Manganese Dioxide"
+      ]
+    },
+    {
+      "name": "Are Batteries Included",
+      "occurrence": 7162,
+      "frequency_pct": 0.8,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "True"
+      ]
+    },
+    {
+      "name": "Skill Level",
+      "occurrence": 6933,
+      "frequency_pct": 0.78,
+      "examples": [
+        "Beginner",
+        "All",
+        "Novice",
+        "Expert",
+        "Intermediate",
+        "Advanced",
+        "Beginner, Expert",
+        "1",
+        "Professional",
+        "beginner",
+        "No Skill Required",
+        "expert",
+        "expert, Beginner",
+        "Beginner, Intermediate",
+        "recreational"
+      ]
+    },
+    {
+      "name": "Target Audience",
+      "occurrence": 6852,
+      "frequency_pct": 0.77,
+      "examples": [
+        "Unisex Kid",
+        "Unisex-Adults",
+        "Unisex-Kids",
+        "Unisex Kid, Unisex Adult",
+        "Unisex Adult",
+        "Adult",
+        "Student",
+        "Unisex",
+        "Unisex Children",
+        "Boys,Girls",
+        "Kid",
+        "Child",
+        "Unisex Kid, Teen, Unisex Adult",
+        "Girls",
+        "Kid, Adult"
+      ]
+    },
+    {
+      "name": "Finish Type",
+      "occurrence": 6729,
+      "frequency_pct": 0.76,
+      "examples": [
+        "Powder Coated",
+        "Matte",
+        "Polished",
+        "Glossy",
+        "Painted",
+        "Powder coated",
+        "Unfinished",
+        "Metal",
+        "Gloss",
+        "Metallic",
+        "Brushed",
+        "Plastic",
+        "Adhesive",
+        "Satin",
+        "Shimmery"
+      ]
+    },
+    {
+      "name": "Fabric Type",
+      "occurrence": 6695,
+      "frequency_pct": 0.75,
+      "examples": [
+        "Plastic",
+        "Polyester",
+        "Paper",
+        "Burlap",
+        "Cotton",
+        "Satin",
+        "100% Polyester",
+        "Felt",
+        "Vinyl",
+        "Plush",
+        "100% Cotton",
+        "Cloth",
+        "Latex",
+        "100% Plastic",
+        "Microfiber"
+      ]
+    },
+    {
+      "name": "Item Form",
+      "occurrence": 6266,
+      "frequency_pct": 0.7,
+      "examples": [
+        "Sheet",
+        "Bag",
+        "Liquid",
+        "Solid",
+        "Box",
+        "Powder",
+        "Gel",
+        "Stick",
+        "Aerosol",
+        "Flakes",
+        "Bar",
+        "Pastille",
+        "Oil",
+        "Cream",
+        "Spray"
+      ]
+    },
+    {
+      "name": "Frame Material",
+      "occurrence": 6198,
+      "frequency_pct": 0.7,
+      "examples": [
+        "Plastic",
+        "Alloy Steel",
+        "Wood",
+        "Metal",
+        "Polyvinyl Chloride",
+        "Acrylic",
+        "Fiberglass",
+        "Pvc",
+        "Vinyl",
+        "Aluminum",
+        "Polyethylene",
+        "Carbon Steel",
+        "Stainless Steel",
+        "Cedar",
+        "Metal, Alloy Steel"
+      ]
+    },
+    {
+      "name": "Package Information",
+      "occurrence": 6004,
+      "frequency_pct": 0.67,
+      "examples": [
+        "Box",
+        "Bottle",
+        "Can",
+        "Pack",
+        "Bag",
+        "Tube",
+        "Tin",
+        "Jar",
+        "Palette",
+        "Basket",
+        "Vase",
+        "Bowl",
+        "Pot",
+        "Cup",
+        "Packet"
+      ]
+    },
+    {
+      "name": "Voltage",
+      "occurrence": 5290,
+      "frequency_pct": 0.59,
+      "examples": [
+        "7.4 Volts",
+        "11.1 Volts",
+        "12 Volts",
+        "3.7 Volts",
+        "14.8 Volts",
+        "6 Volts",
+        "5 Volts",
+        "7.2 Volts",
+        "22.2 Volts",
+        "8.4 Volts",
+        "1.5 Volts",
+        "3 Volts",
+        "10 Volts",
+        "9 Volts",
+        "15.2 Volts"
+      ]
+    },
+    {
+      "name": "Installation Type",
+      "occurrence": 5210,
+      "frequency_pct": 0.58,
+      "examples": [
+        "Self-Adhesive",
+        "Stick",
+        "Peel",
+        "Play",
+        "Sticker On",
+        "Free Standing",
+        "Adhesive",
+        "Wall Mount",
+        "Screw In",
+        "Bolt-On",
+        "Tabletop",
+        "Sticks",
+        "Pre-Pasted",
+        "Table Top",
+        "Countertop"
+      ]
+    },
+    {
+      "name": "Closure Type",
+      "occurrence": 4984,
+      "frequency_pct": 0.56,
+      "examples": [
+        "Zipper",
+        "Pull On",
+        "Magnetic",
+        "Snap",
+        "Drawstring",
+        "Flip Top",
+        "Button",
+        "Clip",
+        "Ear Loop",
+        "Buckle",
+        "Hook-and-Loop",
+        "Toggle",
+        "Loop, Hook",
+        "Latch",
+        "Twist On"
+      ]
+    },
+    {
+      "name": "Suggested Users",
+      "occurrence": 4742,
+      "frequency_pct": 0.53,
+      "examples": [
+        "unisex-adult",
+        "Unisex-adult",
+        "Unisex-teen",
+        "unisex-teen",
+        "unisex-child",
+        "Unisex-child",
+        "Unisex",
+        "unisex",
+        "unisex-baby",
+        "Unisex-baby",
+        "\"\"",
+        "Boys",
+        "boys",
+        "Unisex-Adult",
+        "mens"
+      ]
+    },
+    {
+      "name": "Connectivity Technology",
+      "occurrence": 4274,
+      "frequency_pct": 0.48,
+      "examples": [
+        "USB",
+        "Wi Fi",
+        "Wi-Fi",
+        "USB, Wi Fi",
+        "Infrared",
+        "Bluetooth",
+        "Auxiliary",
+        "Wired",
+        "Wireless",
+        "Bluetooth, USB",
+        "Micro USB",
+        "WIFI",
+        "HDMI",
+        "Wi-Fi, USB",
+        "Radio Frequency"
+      ]
+    },
+    {
+      "name": "Number of Batteries",
+      "occurrence": 4226,
+      "frequency_pct": 0.47,
+      "examples": [
+        "1 Lithium Polymer batteries required. (included)",
+        "2 Lithium Polymer batteries required. (included)",
+        "1 Lithium Ion batteries required. (included)",
+        "1 Lithium Polymer batteries required.",
+        "2 Lithium Ion batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "2 AAA batteries required. (included)",
+        "2 AA batteries required. (included)",
+        "2 AA batteries required.",
+        "3 AAA batteries required.",
+        "4 AAA batteries required.",
+        "3 AA batteries required.",
+        "2 AAA batteries required.",
+        "1 Product Specific batteries required. (included)",
+        "1 Lithium Metal batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Power Source",
+      "occurrence": 4192,
+      "frequency_pct": 0.47,
+      "examples": [
+        "Battery Powered",
+        "Corded Electric",
+        "battery powered",
+        "Battery powered",
+        "Handheld",
+        "Wind Powered",
+        "Electric",
+        "Corded Electric, Battery Powered",
+        "PowerSource",
+        "Solar Powered",
+        "Battery",
+        "Hand Powered",
+        "Adapter",
+        "AC",
+        "Manual"
+      ]
+    },
+    {
+      "name": "Ink Color",
+      "occurrence": 4183,
+      "frequency_pct": 0.47,
+      "examples": [
+        "Multicolor",
+        "Blue",
+        "Black",
+        "Multicolored",
+        "White",
+        "Pink",
+        "Blue,Pink",
+        "Red",
+        "Black,Blue",
+        "Green",
+        "Black,Blue,Pink",
+        "Blue,White",
+        "Pastel",
+        "Assorted",
+        "Yellow"
+      ]
+    },
+    {
+      "name": "Surface Recommendation",
+      "occurrence": 4065,
+      "frequency_pct": 0.46,
+      "examples": [
+        "Wall",
+        "Floor",
+        "Window",
+        "Furniture",
+        "Plastic",
+        "Paper",
+        "Hard Floor",
+        "Glass",
+        "Metal",
+        "Door",
+        "Window, Wall",
+        "Window, Wall, Door",
+        "Wall, Door",
+        "Fabric",
+        "window"
+      ]
+    },
+    {
+      "name": "Assembly required",
+      "occurrence": 4033,
+      "frequency_pct": 0.45,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Mounting Type",
+      "occurrence": 3995,
+      "frequency_pct": 0.45,
+      "examples": [
+        "Wall Mount",
+        "Tabletop",
+        "Tabletop Mount",
+        "Hanging",
+        "Floor Mount",
+        "Freestanding",
+        "Door Mount",
+        "Floor Standing",
+        "Adhesive",
+        "Floor Standing, Tabletop Mount",
+        "Ceiling Mount",
+        "Crib Mount",
+        "adhesive",
+        "Handlebar",
+        "Face Mount"
+      ]
+    },
+    {
+      "name": "Sub Brand",
+      "occurrence": 3911,
+      "frequency_pct": 0.44,
+      "examples": [
+        "(-)",
+        "the gathering",
+        "The gathering",
+        "Pokemon",
+        "Barbie",
+        "Nerf",
+        "Emily Rose",
+        "Star Wars",
+        "Sophia's",
+        "pokemon",
+        "Magic: The Gathering",
+        "DreamWorld Collections",
+        "Licensed - Other",
+        "Vanguard",
+        "Spider-Man"
+      ]
+    },
+    {
+      "name": "Batteries Included?",
+      "occurrence": 3832,
+      "frequency_pct": 0.43,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Warranty Description",
+      "occurrence": 3798,
+      "frequency_pct": 0.43,
+      "examples": [
+        "No Warranty",
+        "No warranty.",
+        "No",
+        "All claims must be directed to the P&P IMPORTS, LLC retail dealer from whom the merchandise was originally purchased, along with original delivery receipt., P&P IMPORTS, LLC warrants its Products to be free from defects in material and workmanship for a period of six (6) months from date of delivery to the consumer. Please keep your original delivery receipt, as it will be required for any warranty claim. This warranty is not transferable and does not apply to merchandise purchased \"as is\" (i.e. floor samples or clearance center items). This warranty does not apply to P&P IMPORTS, LLC goods purchased from a non-authorized P&P IMPORTS, LLC dealer or reseller. Please follow all instructions regarding your Product, as failure to do so will void this warranty.",
+        "90 day warranty against manufacturer defects.",
+        "1",
+        "1 year",
+        "90 Day Limited",
+        "1 year warranty against manufacturer defects",
+        "1 year manufacturer",
+        "30 day warranty against manufacturer defects",
+        "None.",
+        "NO",
+        "no",
+        "No warranty"
+      ]
+    },
+    {
+      "name": "Number of pieces",
+      "occurrence": 3726,
+      "frequency_pct": 0.42,
+      "examples": [
+        "1",
+        "2",
+        "12",
+        "1000",
+        "3",
+        "10",
+        "6",
+        "4",
+        "5",
+        "500",
+        "20",
+        "100",
+        "8",
+        "24",
+        "50"
+      ]
+    },
+    {
+      "name": "Video Capture Resolution",
+      "occurrence": 3717,
+      "frequency_pct": 0.42,
+      "examples": [
+        "1080p",
+        "4K",
+        "720p",
+        "4K UHD 2160p",
+        "480p",
+        "FHD 1080p",
+        "1080p, 720p",
+        "4K HD",
+        "2.7K",
+        "HD 720p",
+        "2160p",
+        "1080p, 4K",
+        "2160P",
+        "6K",
+        "2K"
+      ]
+    },
+    {
+      "name": "Control Type",
+      "occurrence": 3650,
+      "frequency_pct": 0.41,
+      "examples": [
+        "Remote Control",
+        "control",
+        "App Control",
+        "Control",
+        "Gesture Control",
+        "Control,rc",
+        "Voice Control",
+        "control,rc",
+        "Knob",
+        "Touch",
+        "Radio Control",
+        "Control,gesture control",
+        "Push Button Control",
+        "Rcstyle",
+        "touch"
+      ]
+    },
+    {
+      "name": "Target gender",
+      "occurrence": 3444,
+      "frequency_pct": 0.39,
+      "examples": [
+        "Unisex",
+        "Female",
+        "Male"
+      ]
+    },
+    {
+      "name": "Number Theme",
+      "occurrence": 3383,
+      "frequency_pct": 0.38,
+      "examples": [
+        "Number 1",
+        "Number 2",
+        "Number 3",
+        "Number 6",
+        "Number 5",
+        "Number 4",
+        "Number 100",
+        "Number 0",
+        "Number 10",
+        "Number 16",
+        "Number 30",
+        "Number 20",
+        "Number 18",
+        "Number 8",
+        "Number 7"
+      ]
+    },
+    {
+      "name": "Specific Uses For Product",
+      "occurrence": 3207,
+      "frequency_pct": 0.36,
+      "examples": [
+        "Indoor",
+        "Drawing,Writing",
+        "Card Storage",
+        "Christmas",
+        "Office",
+        "Interior",
+        "Interior/Exterior",
+        "Party,Indoor,Outdoor",
+        "Home Decor",
+        "Cold Drinks",
+        "Garden",
+        "Outdoor",
+        "Photography",
+        "Party",
+        "Party,Play,Indoor,Outdoor"
+      ]
+    },
+    {
+      "name": "Age Range Description",
+      "occurrence": 3092,
+      "frequency_pct": 0.35,
+      "examples": [
+        "Adult",
+        "Kid",
+        "Little Kid",
+        "Big Kid",
+        "48 months to 72 months",
+        "Toddler",
+        "Baby",
+        "36 months to 48 months",
+        "48 months to 144 months",
+        "36 months to 72 months",
+        "All Ages",
+        "84 months to 96 months",
+        "120 months to 144 months",
+        "3 - 6 years",
+        "24 months to 36 months"
+      ]
+    },
+    {
+      "name": "Remote Control Included?",
+      "occurrence": 3014,
+      "frequency_pct": 0.34,
+      "examples": [
+        "Yes",
+        "No",
+        "True"
+      ]
+    },
+    {
+      "name": "Media Type",
+      "occurrence": 2876,
+      "frequency_pct": 0.32,
+      "examples": [
+        "SD",
+        "Micro SD",
+        "SD, Micro SD",
+        "Micro SDXC",
+        "Flash",
+        "Micro SDHC",
+        "SDHC",
+        "Micro SDHC, Micro SD",
+        "USB",
+        "Digital8",
+        "SDXC",
+        "CD",
+        "SDXC, Micro SDXC",
+        "SD, Micro SDXC",
+        "SD, Micro SDHC, Micro SD"
+      ]
+    },
+    {
+      "name": "Maximum Weight Recommendation",
+      "occurrence": 2801,
+      "frequency_pct": 0.31,
+      "examples": [
+        "220 Pounds",
+        "250 Pounds",
+        "110 Pounds",
+        "300 Pounds",
+        "200 Pounds",
+        "150 Pounds",
+        "440 Pounds",
+        "330 Pounds",
+        "600 Pounds",
+        "100 Pounds",
+        "400 Pounds",
+        "105 Pounds",
+        "700 Pounds",
+        "66 Pounds",
+        "350 Pounds"
+      ]
+    },
+    {
+      "name": "Wireless Communication Technology",
+      "occurrence": 2766,
+      "frequency_pct": 0.31,
+      "examples": [
+        "Wi-Fi",
+        "Cellular",
+        "Radio Frequency",
+        "Bluetooth",
+        "Usb",
+        "Ir",
+        "No",
+        "RF",
+        "Bluetooth, Wi-Fi",
+        "Auxiliary",
+        "Infrared",
+        "Optical Pulse",
+        "usb",
+        "Rf",
+        "rf"
+      ]
+    },
+    {
+      "name": "Water Resistance Level",
+      "occurrence": 2743,
+      "frequency_pct": 0.31,
+      "examples": [
+        "Waterproof",
+        "Water Resistant",
+        "Not Water Resistant",
+        "Water Repellent"
+      ]
+    },
+    {
+      "name": "Number of Sets",
+      "occurrence": 2674,
+      "frequency_pct": 0.3,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "12",
+        "5",
+        "6",
+        "24",
+        "10",
+        "8",
+        "50",
+        "9",
+        "72",
+        "32",
+        "7"
+      ]
+    },
+    {
+      "name": "Contributor",
+      "occurrence": 2627,
+      "frequency_pct": 0.29,
+      "examples": [
+        "Funko",
+        "Funko Pop! Television:",
+        "Funko Pop! Movies:",
+        "Funko Dorbz:",
+        "Funko Pop! Disney:",
+        "Funko Pop! Animation:",
+        "Funko Pop! Games:",
+        "Funko Pop! Star Wars:",
+        "Funko Pop! Marvel:",
+        "Funko Pop! Heroes:",
+        "Funko Pop! Movies",
+        "Funko Rock Candy:",
+        "Funko Pop!:",
+        "Funko Reaction:",
+        "Funko Pop! Television"
+      ]
+    },
+    {
+      "name": "Sport Type",
+      "occurrence": 2493,
+      "frequency_pct": 0.28,
+      "examples": [
+        "Billiards",
+        "Swimming",
+        "Basketball",
+        "Soccer",
+        "Playground",
+        "billiards",
+        "Exercise & Fitness",
+        "Baseball",
+        "Catch",
+        "Lawn Games",
+        "Poker",
+        "Football",
+        "Volleyball",
+        "Play",
+        "Cycling"
+      ]
+    },
+    {
+      "name": "Max Input Sheet Capacity",
+      "occurrence": 2405,
+      "frequency_pct": 0.27,
+      "examples": [
+        "100",
+        "50",
+        "60",
+        "80",
+        "65",
+        "200",
+        "25",
+        "10",
+        "500",
+        "1000",
+        "150",
+        "120",
+        "400",
+        "30",
+        "70"
+      ]
+    },
+    {
+      "name": "Number Of Items",
+      "occurrence": 2398,
+      "frequency_pct": 0.27,
+      "examples": [
+        "1",
+        "12",
+        "2",
+        "4",
+        "24",
+        "3",
+        "6",
+        "10",
+        "5",
+        "8",
+        "7",
+        "48",
+        "16",
+        "50",
+        "20"
+      ]
+    },
+    {
+      "name": "Paint Type",
+      "occurrence": 2389,
+      "frequency_pct": 0.27,
+      "examples": [
+        "Watercolor",
+        "Acrylic",
+        "Decorative",
+        "Tempera",
+        "acrylic",
+        "watercolor",
+        "Oil",
+        "Oliy ink",
+        "oil",
+        "Spray",
+        "Gel",
+        "Enamel",
+        "Tempera, Watercolor",
+        "Found in image, Watercolor",
+        "Watercolor, Acrylic"
+      ]
+    },
+    {
+      "name": "Vehicle Service Type",
+      "occurrence": 2374,
+      "frequency_pct": 0.27,
+      "examples": [
+        "Car",
+        "Truck",
+        "Passenger Car",
+        "Car, Truck",
+        "Cars",
+        "Trucks",
+        "Trucks, Cars",
+        "Bicycle",
+        "Motorcycle",
+        "Tractor",
+        "Passenger Car, Truck",
+        "ATV",
+        "SUV, Truck",
+        "Piggyback",
+        "RC Vehicle"
+      ]
+    },
+    {
+      "name": "Screen Size",
+      "occurrence": 2332,
+      "frequency_pct": 0.26,
+      "examples": [
+        "2 Inches",
+        "2.4 Inches",
+        "3 Inches",
+        "10 Inches",
+        "8.5 Inches",
+        "1.54 Inches",
+        "3.5 Inches",
+        "1.44 Inches",
+        "1.5 Inches",
+        "12 Inches",
+        "7 Inches",
+        "2.5 Inches",
+        "10",
+        "4.3 Inches",
+        "8.5"
+      ]
+    },
+    {
+      "name": "Minimum Age Recomendation",
+      "occurrence": 2260,
+      "frequency_pct": 0.25,
+      "examples": [
+        "96",
+        "168",
+        "144",
+        "72",
+        "36",
+        "120",
+        "8",
+        "156",
+        "60",
+        "12",
+        "84",
+        "48",
+        "10",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "name": "Item Diameter",
+      "occurrence": 2251,
+      "frequency_pct": 0.25,
+      "examples": [
+        "16 Inches",
+        "8.5 Inches",
+        "12 Inches",
+        "3 Inches",
+        "6 Inches",
+        "5 Inches",
+        "2.5 Inches",
+        "7 Inches",
+        "2.2 Inches",
+        "9 Inches",
+        "24 Inches",
+        "1 Inches",
+        "8 Inches",
+        "2.25 Inches",
+        "10 Inches"
+      ]
+    },
+    {
+      "name": "Battery Capacity",
+      "occurrence": 2194,
+      "frequency_pct": 0.25,
+      "examples": [
+        "500 Milliamp Hours",
+        "1800 Milliamp Hours",
+        "2000 Milliamp Hours",
+        "450 Milliamp Hours",
+        "600 Milliamp Hours",
+        "300 Milliamp Hours",
+        "1000 Milliamp Hours",
+        "650 Milliamp Hours",
+        "3000 Milliamp Hours",
+        "800 Milliamp Hours",
+        "1500 Milliamp Hours",
+        "1200 Milliamp Hours",
+        "150 Milliamp Hours",
+        "100 Milliamp Hours",
+        "2500 Milliamp Hours"
+      ]
+    },
+    {
+      "name": "Total Eaches",
+      "occurrence": 2073,
+      "frequency_pct": 0.23,
+      "examples": [
+        "12",
+        "1",
+        "24",
+        "16",
+        "30",
+        "8",
+        "20",
+        "10",
+        "50",
+        "40",
+        "100",
+        "2",
+        "4",
+        "3",
+        "72"
+      ]
+    },
+    {
+      "name": "Controller Type",
+      "occurrence": 2018,
+      "frequency_pct": 0.23,
+      "examples": [
+        "Button Control",
+        "Remote Control",
+        "Push Button",
+        "Joystick, Button Control",
+        "Joystick",
+        "Hand Control",
+        "Ring",
+        "Button",
+        "Push_button",
+        "Android",
+        "push_button",
+        "Battery Powered",
+        "Corded Electric",
+        "Windows",
+        "button"
+      ]
+    },
+    {
+      "name": "Is Dishwasher Safe",
+      "occurrence": 2013,
+      "frequency_pct": 0.23,
+      "examples": [
+        "No",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "UPC",
+      "occurrence": 1997,
+      "frequency_pct": 0.22,
+      "examples": [
+        "609454622402",
+        "719040539202 767563166542 780984176464",
+        "758149713496",
+        "885354075542 839416005725",
+        "782911822178 782911822154",
+        "097138755353",
+        "083717887485",
+        "678634813404",
+        "754502024117 885853407790 885612966421 885512415838",
+        "719886120008 719886120015",
+        "782911822468 782911822475",
+        "011179999163",
+        "798521098858 754295212012",
+        "701466159102 885737899369 701466023014 885457314678",
+        "078257318193"
+      ]
+    },
+    {
+      "name": "Compatible Devices",
+      "occurrence": 1917,
+      "frequency_pct": 0.22,
+      "examples": [
+        "Smartphone",
+        "Camera",
+        "Personal Computer",
+        "Radiator",
+        "Smartphones",
+        "Cameras",
+        "Windows",
+        "Laptop",
+        "Drones",
+        "Tablets",
+        "Game Console",
+        "Smartphone, Speaker",
+        "Controller",
+        "Desktop",
+        "Adapter"
+      ]
+    },
+    {
+      "name": "Form Factor",
+      "occurrence": 1880,
+      "frequency_pct": 0.21,
+      "examples": [
+        "Ultracompact",
+        "Compact",
+        "Case",
+        "Bumper",
+        "In Ear",
+        "Basic Case",
+        "Flip",
+        "Bar",
+        "Handheld",
+        "Slim",
+        "Bag",
+        "Portable",
+        "Cover",
+        "On Ear",
+        "Over Ear"
+      ]
+    },
+    {
+      "name": "Capacity",
+      "occurrence": 1792,
+      "frequency_pct": 0.2,
+      "examples": [
+        "16 Ounces",
+        "9 Ounces",
+        "12 Ounces",
+        "8 Ounces",
+        "1.1 Pounds",
+        "1.3 Pounds",
+        "10 Ounces",
+        "1 Kilograms",
+        "2 Pounds",
+        "312 Gallons",
+        "200 Pounds",
+        "80 Liters",
+        "1 Liters",
+        "2 Liters",
+        "1 Pounds"
+      ]
+    },
+    {
+      "name": "Special Features",
+      "occurrence": 1788,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Portable",
+        "Waterproof",
+        "Non Toxic, Washable",
+        "Non Toxic",
+        "Lightweight",
+        "Durable",
+        "Washable",
+        "Rechargeable",
+        "Sturdy",
+        "Foldable",
+        "Durability",
+        "Stackable",
+        "Color Changing",
+        "Adjustable",
+        "Reusable"
+      ]
+    },
+    {
+      "name": "Corner Style",
+      "occurrence": 1762,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Pleated",
+        "Rounded",
+        "\u6709\u8936",
+        "Rectangle",
+        "No",
+        "\u6298",
+        "Fashion",
+        "\u76f4\u89d2",
+        "table covers",
+        "1",
+        "Spiderman",
+        "Stamp",
+        "\u72ec\u7279",
+        "NO",
+        "rectangular"
+      ]
+    },
+    {
+      "name": "Exterior Finish",
+      "occurrence": 1723,
+      "frequency_pct": 0.19,
+      "examples": [
+        "Aluminum",
+        "Black",
+        "Machined",
+        "Silver",
+        "Gold",
+        "Aluminum,Metal",
+        "Stainless Steel",
+        "Chrome",
+        "Metal",
+        "Brass",
+        "Painted",
+        "Black Oxide",
+        "Plastic",
+        "Zinc",
+        "Polished"
+      ]
+    },
+    {
+      "name": "Maximum Range",
+      "occurrence": 1712,
+      "frequency_pct": 0.19,
+      "examples": [
+        "10 Meters",
+        "30 Feet",
+        "100 Meters",
+        "35 Feet",
+        "20 Feet",
+        "50 Meters",
+        "32 Feet",
+        "300 Meters",
+        "60 Feet",
+        "90 Feet",
+        "75 Feet",
+        "100 Feet",
+        "30 Meters",
+        "40 Feet",
+        "150 Meters"
+      ]
+    },
+    {
+      "name": "Care instructions",
+      "occurrence": 1632,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Hand Wash Only",
+        "Machine Wash",
+        "Hand Wash",
+        "Wipe with Dry Cloth",
+        "Hang It",
+        "Machine wash",
+        "Spot Clean",
+        "Wipe with Damp Cloth",
+        "Clean after Use",
+        "Spot clean",
+        "Wipe clean with damp cloth and mild soap. Do not immerse in water.",
+        "Wipe clean",
+        "Surface clean",
+        "Machine",
+        "Surface washable only. Do not immerse in water."
+      ]
+    },
+    {
+      "name": "Item Firmness Description",
+      "occurrence": 1620,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Plush",
+        "Soft",
+        "Hard",
+        "Sturdy",
+        "Medium",
+        "Extra Soft",
+        "Plush, Medium",
+        "Firm",
+        "\u8d85\u8f6f",
+        "Soft, Firm",
+        "Plush, Firm",
+        "FIRM",
+        "Plush, Extra Soft",
+        "Medium firmness",
+        "Sturdy style"
+      ]
+    },
+    {
+      "name": "Other display features",
+      "occurrence": 1602,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Wireless",
+        "Toy",
+        "Photography",
+        "Automotive Parts and Accessories",
+        "CE",
+        "Speakers",
+        "Sports",
+        "Home Theater",
+        "BISS Basic",
+        "Lawn & Patio",
+        "Watch",
+        "PC Accessory",
+        "Art and Craft Supply",
+        "Hobby",
+        "Home Improvement"
+      ]
+    },
+    {
+      "name": "Life Vest Type",
+      "occurrence": 1581,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Type IV",
+        "Type III",
+        "Type V",
+        "Type I",
+        "Type II",
+        "Floating Toy",
+        "Inflatable",
+        "\u4e0e\u6b64\u5546\u54c1\u4e0d\u76f8\u5173",
+        "Not Mentioned",
+        "No",
+        "Not relevant for this product",
+        "15 Years & Up",
+        "Spring Float Recliner",
+        "Non-lifesaving supplies",
+        "Spring Float Original Pool Lounge"
+      ]
+    },
+    {
+      "name": "Number Of Pieces",
+      "occurrence": 1534,
+      "frequency_pct": 0.17,
+      "examples": [
+        "1",
+        "2",
+        "5",
+        "10",
+        "4",
+        "3",
+        "12",
+        "120",
+        "6",
+        "8",
+        "50",
+        "100",
+        "24",
+        "1000",
+        "9"
+      ]
+    },
+    {
+      "name": "Point Type",
+      "occurrence": 1495,
+      "frequency_pct": 0.17,
+      "examples": [
+        "Fine",
+        "Broad",
+        "Bold",
+        "Medium",
+        "Thick",
+        "Chisel",
+        "Mini",
+        "thick",
+        "Square",
+        "Extra Fine",
+        "Classic",
+        "Micro",
+        "Wide",
+        "Dotted",
+        "Soft"
+      ]
+    },
+    {
+      "name": "Auto Part Position",
+      "occurrence": 1489,
+      "frequency_pct": 0.17,
+      "examples": [
+        "Front",
+        "Rear",
+        "Rear, Front",
+        "Center",
+        "Right",
+        "Outer",
+        "Lower",
+        "Top",
+        "Left",
+        "Upper",
+        "Bottom",
+        "Outside",
+        "Center, Outer",
+        "Inner",
+        "Left, Right"
+      ]
+    },
+    {
+      "name": "Is Microwaveable",
+      "occurrence": 1454,
+      "frequency_pct": 0.16,
+      "examples": [
+        "No",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "Light Source Type",
+      "occurrence": 1439,
+      "frequency_pct": 0.16,
+      "examples": [
+        "LED",
+        "Light Emitting Diode",
+        "Lightning",
+        "Led",
+        "Neon",
+        "Tungsten",
+        "Incandescent",
+        "led",
+        "Fluorescent",
+        "Lighted",
+        "Red, lighted",
+        "Halogen",
+        "Electroluminescent Wire",
+        "Tungsten, LED",
+        "Bulb"
+      ]
+    },
+    {
+      "name": "League",
+      "occurrence": 1371,
+      "frequency_pct": 0.15,
+      "examples": [
+        "Birthday Party",
+        "Backyard Game",
+        "ncaa",
+        "Ncaa",
+        "Cornhole Game",
+        "MMA",
+        "Halloween party",
+        "Easter party",
+        "NBA",
+        "NFL",
+        "Christmas party",
+        "NCAA",
+        "MLB",
+        "World Cup Soccer",
+        "NULL"
+      ]
+    },
+    {
+      "name": "Units",
+      "occurrence": 1350,
+      "frequency_pct": 0.15,
+      "examples": [
+        "1 Count",
+        "1.0 Count",
+        "1.00 Count",
+        "12.0 Count",
+        "24.0 Count",
+        "48.0 Count",
+        "50.0 Count",
+        "6.0 Count",
+        "100.0 Count",
+        "12.00 Count",
+        "20.0 Count",
+        "2.0 Count",
+        "4.0 Count",
+        "3.0 Count",
+        "12 count"
+      ]
+    },
+    {
+      "name": "Input Voltage",
+      "occurrence": 1313,
+      "frequency_pct": 0.15,
+      "examples": [
+        "240 Volts",
+        "5 Volts",
+        "120 Volts",
+        "12 Volts",
+        "16 Volts",
+        "6 Volts",
+        "110 Volts",
+        "18 Volts",
+        "240 Volts (AC)",
+        "24 Volts",
+        "10 Volts",
+        "20 Volts",
+        "220 Volts",
+        "120 Volts (AC)",
+        "3.7 Volts"
+      ]
+    },
+    {
+      "name": "Rechargeable Battery Included",
+      "occurrence": 1293,
+      "frequency_pct": 0.15,
+      "examples": [
+        "Yes",
+        "No",
+        "True"
+      ]
+    },
+    {
+      "name": "Display Type",
+      "occurrence": 1263,
+      "frequency_pct": 0.14,
+      "examples": [
+        "LCD",
+        "Digital",
+        "Analog",
+        "LED",
+        "OLED",
+        "IPS",
+        "AMOLED",
+        "Analog-Digital",
+        "Analog, Digital",
+        "Digital, Analog-Digital",
+        "Digital, Analog",
+        "LCD, Digital",
+        "Walkie talkies for kids",
+        "1",
+        "Lcd,Lcd Screen"
+      ]
+    },
+    {
+      "name": "Import",
+      "occurrence": 1186,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Imported",
+        "Made in USA",
+        "Made in USA or Imported",
+        "Made in USA and Imported",
+        "Country as Labeled",
+        "Made in US",
+        "Importado",
+        "Hecho en USA",
+        "Made in the USA or Imported",
+        "Made in the USA and Imported",
+        "Made in the USA",
+        "\u8fdb\u53e3",
+        "MADE IN THE USA",
+        "Made in China",
+        "China"
+      ]
+    },
+    {
+      "name": "Outer Material",
+      "occurrence": 1185,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Polyester",
+        "Cotton",
+        "Rubber",
+        "Plastic",
+        "Vinyl",
+        "Polyester, Cotton",
+        "PVC",
+        "Nylon",
+        "Microfiber",
+        "Leather",
+        "Polyvinyl Chloride (PVC)",
+        "Aluminum",
+        "Synthetic",
+        "Polyurethane",
+        "plastic"
+      ]
+    },
+    {
+      "name": "Video Capture Format",
+      "occurrence": 1138,
+      "frequency_pct": 0.13,
+      "examples": [
+        "4k",
+        "AVI",
+        "3k",
+        "2k",
+        "MP4",
+        "8k",
+        "ASF",
+        "4k,h.265",
+        "AVCHD",
+        "HD",
+        "4",
+        "MOV",
+        "4k,h.264",
+        "4K",
+        "MP4, h.264"
+      ]
+    },
+    {
+      "name": "Speed",
+      "occurrence": 1107,
+      "frequency_pct": 0.12,
+      "examples": [
+        "50000 RPM",
+        "60000 RPM",
+        "35000 RPM",
+        "30000 RPM",
+        "10000 RPM",
+        "24000 RPM",
+        "10 RPM",
+        "28000 RPM",
+        "18000 RPM",
+        "15000 RPM",
+        "40000 RPM",
+        "1700 RPM",
+        "200 RPM",
+        "21000 RPM",
+        "16000 RPM"
+      ]
+    },
+    {
+      "name": "Handle Material",
+      "occurrence": 1099,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Plastic",
+        "Wood",
+        "Stainless Steel",
+        "Plastic,Stainless Steel",
+        "Rubber",
+        "Alloy Steel",
+        "Metal",
+        "Aluminum",
+        "Foam",
+        "Brass",
+        "Polyvinyl Chloride (PVC)",
+        "Acrylonitrile Butadiene Styrene (ABS)",
+        "default",
+        "Nylon",
+        "Acrylonitrile Butadiene Styrene"
+      ]
+    },
+    {
+      "name": "Item Volume",
+      "occurrence": 1086,
+      "frequency_pct": 0.12,
+      "examples": [
+        "2 Fluid Ounces",
+        "16 Fluid Ounces",
+        "50 Milliliters",
+        "4 Fluid Ounces",
+        "8 Fluid Ounces",
+        "12 Milliliters",
+        "0.5 Fluid Ounces",
+        "10 Milliliters",
+        "30 Milliliters",
+        "3 Fluid Ounces",
+        "1 Fluid Ounces",
+        "17 Milliliters",
+        "1 Gallons",
+        "100 Milliliters",
+        "20 Milliliters"
+      ]
+    },
+    {
+      "name": "Maximum number of compatible seats",
+      "occurrence": 1040,
+      "frequency_pct": 0.12,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "1.00",
+        "4",
+        "2.00",
+        "6",
+        "4.00",
+        "7",
+        "5.00",
+        "8",
+        "5",
+        "3.00",
+        "3.01",
+        "10"
+      ]
+    },
+    {
+      "name": "Fill Material",
+      "occurrence": 1025,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Polyester",
+        "Cotton",
+        "Polypropylene",
+        "Foam",
+        "Down",
+        "Memory Foam",
+        "Down, Cotton",
+        "PP Cotton",
+        "Rubber",
+        "Polystyrene (PS)",
+        "Polyester, Cotton",
+        "Feather",
+        "PP cotton",
+        "Plush",
+        "\u805a\u4e19\u70ef"
+      ]
+    },
+    {
+      "name": "Package Type",
+      "occurrence": 1008,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Standard Packaging",
+        "Bottle",
+        "Palette",
+        "Box",
+        "Tube",
+        "Stick",
+        "Bulk",
+        "Traditional",
+        "Frustration-Free Packaging",
+        "Frustration Free",
+        "Pouch",
+        "Soft Pack",
+        "Jar",
+        "Shrink Wrap",
+        "Existing Frustration Free"
+      ]
+    },
+    {
+      "name": "Effective Still Resolution",
+      "occurrence": 1005,
+      "frequency_pct": 0.11,
+      "examples": [
+        "12 MP",
+        "20 MP",
+        "8 MP",
+        "2 MP",
+        "5 MP",
+        "0.3 MP",
+        "16 MP",
+        "48 MP",
+        "12",
+        "40 MP",
+        "18 MP",
+        "14 MP",
+        "4",
+        "4 MP",
+        "48"
+      ]
+    },
+    {
+      "name": "Auto Focus Technology",
+      "occurrence": 981,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Contrast Detection",
+        "Phase Detection",
+        "Multi area, Contrast Detection, Sensor",
+        "Multi area, Contrast Detection, sensor",
+        "Face Detection",
+        "Phase Detection, Contrast Detection",
+        "NOT APPICABLE",
+        "1",
+        "Face recognition"
+      ]
+    },
+    {
+      "name": "Color Name",
+      "occurrence": 976,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Black",
+        "Multicolor",
+        "Pink",
+        "Blue",
+        "White",
+        "Red",
+        "Green",
+        "Natural",
+        "Purple",
+        "Silver",
+        "Orange",
+        "Yellow",
+        "black",
+        "Assorted",
+        "Rose Gold"
+      ]
+    },
+    {
+      "name": "Sheet Count",
+      "occurrence": 965,
+      "frequency_pct": 0.11,
+      "examples": [
+        "96",
+        "24",
+        "80",
+        "30",
+        "50",
+        "20",
+        "12",
+        "40",
+        "100",
+        "200",
+        "48",
+        "25",
+        "1",
+        "4",
+        "64"
+      ]
+    },
+    {
+      "name": "Binding",
+      "occurrence": 952,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Toy",
+        "Unknown Binding",
+        "Office Product",
+        "Kitchen",
+        "Misc.",
+        "Spiral-bound",
+        "Hardcover",
+        "Board book",
+        "Diary",
+        "Paperback",
+        "Baby Product",
+        "Accessory",
+        "Health and Beauty",
+        "Tools & Home Improvement",
+        "Calendar"
+      ]
+    },
+    {
+      "name": "Closure",
+      "occurrence": 918,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Snap",
+        "Twist",
+        "Zipper",
+        "Pull On",
+        "Retractable",
+        "Click-Off Cap",
+        "Magnetic",
+        "Button",
+        "Screw Off Cap",
+        "Slip On",
+        "snap",
+        "Velcro",
+        "Washable",
+        "button",
+        "Tic"
+      ]
+    },
+    {
+      "name": "Hardware Interface",
+      "occurrence": 895,
+      "frequency_pct": 0.1,
+      "examples": [
+        "USB",
+        "HDMI",
+        "Secure Digital Card",
+        "MicroSD",
+        "USB, Secure Digital Card",
+        "MicroSD, Secure Digital Card",
+        "VGA",
+        "MicroSD, USB",
+        "MicroSD, USB, Secure Digital Card",
+        "USB, HDMI",
+        "Lightning",
+        "USB, USB 2.0",
+        "3.5mm Audio",
+        "VGA, USB",
+        "USB Type C"
+      ]
+    },
+    {
+      "name": "Paper Finish",
+      "occurrence": 890,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Smooth",
+        "Glossy",
+        "Watercolor",
+        "Matte",
+        "Coated",
+        "Metallic",
+        "Uncoated",
+        "Tracing",
+        "Satin",
+        "Premium Matte",
+        "Translucent",
+        "Wove",
+        "Semi-Gloss",
+        "Soft Gloss",
+        "Ultra Smooth"
+      ]
+    },
+    {
+      "name": "Occupancy",
+      "occurrence": 860,
+      "frequency_pct": 0.1,
+      "examples": [
+        "1 Person",
+        "7 person",
+        "3 person",
+        "2 person",
+        "6 person",
+        "5 person",
+        "4 person",
+        "3 Person",
+        "4 Person",
+        "5 Person",
+        "6 Person",
+        "7 Person",
+        "2 Person",
+        "1 person",
+        "8 person"
+      ]
+    },
+    {
+      "name": "Model Year",
+      "occurrence": 841,
+      "frequency_pct": 0.09,
+      "examples": [
+        "2022",
+        "2019",
+        "2016",
+        "2018",
+        "2021",
+        "2023",
+        "2017",
+        "2020",
+        "2015",
+        "2013",
+        "2014",
+        "2012",
+        "2010",
+        "2000",
+        "2003"
+      ]
+    },
+    {
+      "name": "Video Output Resolution",
+      "occurrence": 830,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1920x1080 Pixels",
+        "1280x720 Pixels",
+        "1920x1080 pixels",
+        "1280x720 pixels",
+        "854x480 Pixels",
+        "4K HD",
+        "5.4K HD",
+        "1080 Pixels",
+        "2560x1440 Pixels",
+        "3850",
+        "854x480 pixels",
+        "2048 x 1080p",
+        "800\u00d7600 Pixels",
+        "20 MP"
+      ]
+    },
+    {
+      "name": "Horsepower",
+      "occurrence": 826,
+      "frequency_pct": 0.09,
+      "examples": [
+        "900 Watts",
+        "1200 Watts",
+        "1 hp",
+        "600 Watts",
+        "820 Watts",
+        "300 Watts",
+        "2 hp",
+        "800 Watts",
+        "200 Watts",
+        "45 Watts",
+        "1800 Watts",
+        "4 Watts",
+        "2800 Watts",
+        "1400 Watts",
+        "2 Watts"
+      ]
+    },
+    {
+      "name": "Flash Memory Type",
+      "occurrence": 819,
+      "frequency_pct": 0.09,
+      "examples": [
+        "SD Card",
+        "Micro SD",
+        "SD Card, Micro SD",
+        "SD",
+        "TF Card",
+        ";;;",
+        "USB",
+        "Micro SDHC",
+        "SDXC",
+        "SDXC, Micro SD",
+        "Micro SD, SD",
+        "SD, Memory Stick",
+        "MicroSDHC",
+        "SDHC",
+        "SD, Micro SD"
+      ]
+    },
+    {
+      "name": "Country/Region of origin",
+      "occurrence": 796,
+      "frequency_pct": 0.09,
+      "examples": [
+        "China",
+        "USA",
+        "Vietnam",
+        "India",
+        "Germany",
+        "Taiwan",
+        "Egypt",
+        "Bangladesh",
+        "Indonesia",
+        "Latvia",
+        "Switzerland",
+        "Mexico",
+        "Korea, Republic of",
+        "Spain",
+        "Philippines"
+      ]
+    },
+    {
+      "name": "Indoor/Outdoor Usage",
+      "occurrence": 791,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Outdoor, Indoor",
+        "Indoor",
+        "Outdoor"
+      ]
+    },
+    {
+      "name": "Scent",
+      "occurrence": 762,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Unscented",
+        "Orange",
+        "Strawberry",
+        "Berry",
+        "Aloe Vera",
+        "Citrus",
+        "Food",
+        "Lemon",
+        "Lavender",
+        "Coconut",
+        "Honey",
+        "Festive",
+        "Non Scented",
+        "Vanilla",
+        "Purple"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "occurrence": 759,
+      "frequency_pct": 0.09,
+      "examples": [
+        "The strikethrough price is the List Price. Savings represents a discount off the List Price."
+      ]
+    },
+    {
+      "name": "Ruling Type",
+      "occurrence": 758,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Plain",
+        "Ruled",
+        "Squared",
+        "Dotted",
+        "College",
+        "Lined & Blank",
+        "Legal",
+        "ruled",
+        "Half Ruled for Writing and Half Blank for Drawing",
+        "Pointed"
+      ]
+    },
+    {
+      "name": "Target Gender",
+      "occurrence": 749,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Unisex",
+        "Female",
+        "Male"
+      ]
+    },
+    {
+      "name": "Model",
+      "occurrence": 732,
+      "frequency_pct": 0.08,
+      "examples": [
+        "RCAWD RC Shocks",
+        "/",
+        "Mini 3 Pro",
+        "Mini 2",
+        "Mini 3 pro",
+        "Mavic 3",
+        "Fuzzy Dice",
+        "gear",
+        "Shocks Absorber",
+        "Mavic Mini",
+        "mini 3 pro",
+        "Gear",
+        "TXMS024N",
+        "Mavic Air 2",
+        "Damper Servo"
+      ]
+    },
+    {
+      "name": "Number of Channels",
+      "occurrence": 723,
+      "frequency_pct": 0.08,
+      "examples": [
+        "22",
+        "1",
+        "2",
+        "8",
+        "4",
+        "3",
+        "6",
+        "16",
+        "5",
+        "9",
+        "7",
+        "20",
+        "10",
+        "38",
+        "40"
+      ]
+    },
+    {
+      "name": "Opening Mechanism",
+      "occurrence": 719,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Lift Off Lid",
+        "Zipper",
+        "Snap",
+        "Hinge",
+        "Attribute not applicable for product",
+        "Buckle",
+        "Sliding",
+        "Open-Top",
+        "Latch",
+        "zipper",
+        "buckle",
+        "Manual Lift",
+        "Slide",
+        "hinged",
+        "hinges,latch"
+      ]
+    },
+    {
+      "name": "Cover Material",
+      "occurrence": 706,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Cotton",
+        "Polyester",
+        "Paper",
+        "Faux Leather",
+        "Plastic",
+        "Leather",
+        "Glass",
+        "Microfiber, Polyester",
+        "Cardboard",
+        "Cotton, Polyester",
+        "Velvet, Cotton",
+        "Fur",
+        "Silk, Cotton",
+        "Chenille",
+        "Velvet"
+      ]
+    },
+    {
+      "name": "Hand Orientation",
+      "occurrence": 689,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Ambidextrous",
+        "Right",
+        "Left Hand",
+        "Right Hand",
+        "Left",
+        "Left Hand, Right Hand",
+        "Right Hand Throw",
+        "left, right",
+        "Both",
+        "fruit pool float set inflatable ring tube",
+        "Left, Right",
+        "right, left",
+        "free",
+        "water play toy summer kids teenage",
+        "Pair"
+      ]
+    },
+    {
+      "name": "Is Discontinued by Manufacturer",
+      "occurrence": 663,
+      "frequency_pct": 0.07,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Expanded ISO Maximum",
+      "occurrence": 656,
+      "frequency_pct": 0.07,
+      "examples": [
+        "25600",
+        "400",
+        "51200",
+        "2592",
+        "12800",
+        "3200",
+        "40",
+        "1200",
+        "5472"
+      ]
+    },
+    {
+      "name": "Frame Type",
+      "occurrence": 652,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Framed",
+        "Unframed",
+        "Poster Frame",
+        "Full Rim",
+        "Single Picture Frame",
+        "Wrapped Canvas",
+        "Collage Picture Frame",
+        "Magnetic Frame",
+        "Rectangular",
+        "Standard-sized Trading Cards",
+        "Chritmas, birthday gift",
+        "Rectangle",
+        "Square",
+        "Floater Frame",
+        "Fit for standard sized trading cards"
+      ]
+    },
+    {
+      "name": "Current Rating",
+      "occurrence": 646,
+      "frequency_pct": 0.07,
+      "examples": [
+        "1 Amps",
+        "10 Amps",
+        "2 Amps",
+        "6 Amps",
+        "3 Amps",
+        "5 Amps",
+        "0.5 Amps",
+        "20 Amps",
+        "0.8 Amps",
+        "8 Amps",
+        "12 Amps",
+        "4 Amps",
+        "30 Amps",
+        "0.6 Amps",
+        "1.5 Amps"
+      ]
+    },
+    {
+      "name": "Ply Rating",
+      "occurrence": 630,
+      "frequency_pct": 0.07,
+      "examples": [
+        "2-Ply",
+        "3-Ply",
+        "3 ply",
+        "2",
+        "3",
+        "4-Ply",
+        "10-Ply",
+        "1-Ply",
+        "4 ply",
+        "2 ply",
+        "6-Ply",
+        "16-Ply",
+        "14-Ply",
+        "7 ply",
+        "5 ply"
+      ]
+    },
+    {
+      "name": "Wheel Size",
+      "occurrence": 629,
+      "frequency_pct": 0.07,
+      "examples": [
+        "12 Inches",
+        "2.8 Inches",
+        "2.2 Inches",
+        "12 Millimeters",
+        "10 Inches",
+        "16 Inches",
+        "1.9 Inches",
+        "1 Inches",
+        "6 Inches",
+        "20 Inches",
+        "3.8 Inches",
+        "8 Inches",
+        "17 Millimeters",
+        "3 Inches",
+        "14 Inches"
+      ]
+    },
+    {
+      "name": "Sheet Size",
+      "occurrence": 626,
+      "frequency_pct": 0.07,
+      "examples": [
+        "5-x-8-inch inches",
+        "A5",
+        "8.5-x-11-inch inches",
+        "A4",
+        "5 x 7 inches",
+        "8.5-x-11-inch Inches",
+        "5-x-7-inch",
+        "9 x 12 inches",
+        "4x6 inches",
+        "8.5-x-11-inch",
+        "8.5 x 11 inches",
+        "5 x 7 Inches",
+        "A4 (8-1/4 x 11-3/4)",
+        "8 x 10.75 inches",
+        "2-x-3-Inch"
+      ]
+    },
+    {
+      "name": "Map Type",
+      "occurrence": 621,
+      "frequency_pct": 0.07,
+      "examples": [
+        "World Map",
+        "political",
+        "Political",
+        "World",
+        "Physical",
+        "topographic",
+        "Topographic",
+        "Satellite Map",
+        "Celestial",
+        "Political Map",
+        "Topographic, Political",
+        "Satellite",
+        "celestial",
+        "physical",
+        "Physical, Political"
+      ]
+    },
+    {
+      "name": "Type of item",
+      "occurrence": 620,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Video Game",
+        "Toy",
+        "CD-ROM",
+        "Accessory",
+        "Unknown Binding",
+        "Personal Computers",
+        "DVD-ROM",
+        "Misc.",
+        "Kitchen",
+        "Product Bundle",
+        "Software Download",
+        "Electronics",
+        "Home",
+        "DVD",
+        "Wireless Phone Accessory"
+      ]
+    },
+    {
+      "name": "Focus Type",
+      "occurrence": 607,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Manual Focus",
+        "Auto Focus",
+        "Fixed Focus",
+        "automatic_only",
+        "Center Focus",
+        "\u5b9a\u7126",
+        "Individual Focus",
+        "Individual Focus, Fixed Focus",
+        "00",
+        "focus-free",
+        "Individual",
+        "Automatic_only"
+      ]
+    },
+    {
+      "name": "Item Length",
+      "occurrence": 606,
+      "frequency_pct": 0.07,
+      "examples": [
+        "8 Inches",
+        "84 Inches",
+        "118.11 Inches",
+        "9 Inches",
+        "10 Inches",
+        "108 Inches",
+        "96 Inches",
+        "72 Inches",
+        "120 Inches",
+        "2.56 Inches",
+        "8.7 Inches",
+        "7 Inches",
+        "6 Inches",
+        "11 Inches",
+        "2.5 Inches"
+      ]
+    },
+    {
+      "name": "material_composition",
+      "occurrence": 606,
+      "frequency_pct": 0.07,
+      "examples": [
+        "100% Polyester",
+        "Polyester",
+        "Plastic",
+        "100% Cotton",
+        "Cotton",
+        "100% plastic",
+        "ABS",
+        "100% Plastic",
+        "Wood",
+        "Other",
+        "Silicone",
+        "100% Pine Wood",
+        "plastic 100",
+        "Plush",
+        "Polyester Blend"
+      ]
+    },
+    {
+      "name": "Unit Grouping",
+      "occurrence": 603,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Single",
+        "Set",
+        "Single Coin"
+      ]
+    },
+    {
+      "name": "Compatible Phone Models",
+      "occurrence": 594,
+      "frequency_pct": 0.07,
+      "examples": [
+        "DRONES FPV RC CARS JET",
+        "IPhone",
+        "DJI Mini 2 Drone",
+        "Iphone",
+        "Tablets, Telephones",
+        "Samsung Galaxy S20",
+        "iPhone",
+        "Samsung Galaxy S10",
+        "DJI Spark",
+        "Mavic",
+        "parrot bebop 2",
+        "Not compatible with phones",
+        "Samsung Galaxy S8",
+        "S1",
+        "Audiovox CDM3000"
+      ]
+    },
+    {
+      "name": "Our Recommended age",
+      "occurrence": 568,
+      "frequency_pct": 0.06,
+      "examples": [
+        "8 years and up",
+        "5 - 20 years",
+        "4 years and up",
+        "3 years and up",
+        "15 - 15 years",
+        "24 months and up",
+        "5 years and up",
+        "12 months and up",
+        "15 years and up",
+        "13 years and up",
+        "14 years and up",
+        "18 months and up",
+        "36 months - 4 years",
+        "6 years and up",
+        "12 years and up"
+      ]
+    },
+    {
+      "name": "Additional product features",
+      "occurrence": 562,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Portable",
+        "Lightweight",
+        "Non Toxic",
+        "Machine Washable",
+        "Washable",
+        "Waterproof",
+        "Musical",
+        "Durable",
+        "Reusable",
+        "Battery Operated",
+        "Wrinkle Resistant",
+        "Inflatable",
+        "Premium",
+        "Full Control",
+        "Soft cover"
+      ]
+    },
+    {
+      "name": "Orientation",
+      "occurrence": 559,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Landscape",
+        "Portrait",
+        "Drivers Side",
+        "Front, Back",
+        "Front",
+        "Vertical, Horizontal",
+        "Passengers Side",
+        "Horizontal",
+        "Vertical",
+        "Rear",
+        "Dual",
+        "Mandalorian Baby Yoda Room Decor Party Supplies",
+        "Both",
+        "Spiderman Room Decor Party Supplies",
+        "Forward Facing"
+      ]
+    },
+    {
+      "name": "Shade Material",
+      "occurrence": 559,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Plastic",
+        "Metal",
+        "Acrylonitrile Butadiene Styrene",
+        "Aluminum",
+        "Glass",
+        "Paper",
+        "Metal,plastic",
+        "Acrylic",
+        "Polyvinyl Chloride",
+        "Acrylonitrile Butadiene Styrene, Plastic",
+        "Crystal",
+        "Wood",
+        "metal,plastic",
+        "Shell",
+        "Resin"
+      ]
+    },
+    {
+      "name": "Compatible Mountings",
+      "occurrence": 553,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Micro Four Thirds",
+        "Microscope",
+        "Nikon 1",
+        "Microphone",
+        "MacRO",
+        "Nikon F",
+        "Kid",
+        "Micro USB",
+        "DJI",
+        "Clock",
+        "Canon EF, Canon EF-S",
+        "Minnie Mouse",
+        "Disney",
+        "Fisher Price",
+        "LMCCd"
+      ]
+    },
+    {
+      "name": "Finish",
+      "occurrence": 551,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Matte",
+        "Gloss",
+        "Metallic",
+        "Finish",
+        "Powder Coated",
+        "Polished",
+        "Painted",
+        "Brushed",
+        "Unfinished",
+        "Satin",
+        "Semi-Gloss",
+        "White",
+        "Black",
+        "Tempera",
+        "Leather"
+      ]
+    },
+    {
+      "name": "Special features",
+      "occurrence": 551,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Scratch Resistant",
+        "Lightweight",
+        "Portable",
+        "Shock-Absorbent",
+        "Waterproof",
+        "Camera",
+        "Heavy Duty Protection",
+        "Foldable",
+        "Anti-Slip",
+        "9H Surface Hardness, Scratch Resistant",
+        "Lanyard",
+        "Screen Protector",
+        "Adjustable",
+        "9H Surface Hardness",
+        "Rotatable"
+      ]
+    },
+    {
+      "name": "Finderscope",
+      "occurrence": 549,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Reflex",
+        "Straight-Through"
+      ]
+    },
+    {
+      "name": "Embellishment",
+      "occurrence": 548,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Glitter",
+        "Crystal",
+        "Bow",
+        "Flower",
+        "Lace",
+        "Glitter, Sequin",
+        "\u8936\u8fb9",
+        "Sequin",
+        "No",
+        "\u82b1\u74e3\u5f62",
+        "\u857e\u4e1d",
+        "Embroidery",
+        "20 Plates & 20 Napkins",
+        "\u6c34\u6676",
+        "Magnetic"
+      ]
+    },
+    {
+      "name": "Connector Type",
+      "occurrence": 539,
+      "frequency_pct": 0.06,
+      "examples": [
+        "USB",
+        "USB Type A",
+        "Barrel Connector",
+        "Usb",
+        "3.5 mm Jack",
+        "Quick Connect",
+        "USB Type C",
+        "USB, 3.5 mm Jack",
+        "Micro USB",
+        "barrel connector",
+        "Plug In",
+        "Auxiliary",
+        "3.5mm Jack",
+        "Barrel connector",
+        "USB, 3.5mm Jack"
+      ]
+    },
+    {
+      "name": "Finish types",
+      "occurrence": 534,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Polished",
+        "Glossy",
+        "Painted",
+        "Matte",
+        "Powder Coated",
+        "Metal",
+        "Plastic",
+        "Lacquered",
+        "Metallic",
+        "Metal,Plastic",
+        "Powder coated",
+        "Unfinished",
+        "Aluminum",
+        "Wood",
+        "Chrome"
+      ]
+    },
+    {
+      "name": "Target Species",
+      "occurrence": 526,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Dog",
+        "Fish",
+        "Butterfly",
+        "Cat",
+        "Ant",
+        "Bass, Trout",
+        "Cat, Dog",
+        "Mouse",
+        "Fly",
+        "Bird",
+        "Chicken",
+        "Cockroach",
+        "Butterflies",
+        "Panfish",
+        "Crappie Trout Panfish"
+      ]
+    },
+    {
+      "name": "Blade Material",
+      "occurrence": 525,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Stainless Steel",
+        "Plastic",
+        "Metal",
+        "High Speed Steel",
+        "Carbon Steel",
+        "Acrylonitrile Butadiene Styrene",
+        "Alloy Steel",
+        "Aluminum",
+        "Stainless,Stainless Steel,Titanium,Steel",
+        "Steel",
+        "Titanium",
+        "Wood",
+        "Polycarbonate",
+        "Acrylonitrile Butadiene Styr",
+        "Foam"
+      ]
+    },
+    {
+      "name": "Battery Weight",
+      "occurrence": 521,
+      "frequency_pct": 0.06,
+      "examples": [
+        "20 Grams",
+        "10 Grams",
+        "5 Grams",
+        "14 Grams",
+        "15 Grams",
+        "14.3 Grams",
+        "13 Grams",
+        "14.5 Grams",
+        "8 Grams",
+        "2 Grams",
+        "30 Grams",
+        "50 Grams",
+        "29 Grams",
+        "9 Grams",
+        "6 Grams"
+      ]
+    },
+    {
+      "name": "Cross section shape",
+      "occurrence": 519,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Round",
+        "Hollow"
+      ]
+    },
+    {
+      "name": "Is portable",
+      "occurrence": 516,
+      "frequency_pct": 0.06,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Metal Type",
+      "occurrence": 511,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Aluminum",
+        "Alloy Steel",
+        "Stainless Steel",
+        "Zinc",
+        "Silver",
+        "Brass",
+        "No Metal Type",
+        "Iron",
+        "Silicone",
+        "Copper",
+        "silicone",
+        "Carbon Steel",
+        "Alloy",
+        "Stainless Steel,Plastic",
+        "Nickel"
+      ]
+    },
+    {
+      "name": "Specification Met",
+      "occurrence": 503,
+      "frequency_pct": 0.06,
+      "examples": [
+        "CE, FCC",
+        "Reach",
+        "UL",
+        "FCC",
+        "ETL",
+        "Oem",
+        "CE, FCC, RoHS",
+        "CE",
+        "Ma",
+        "Certified frustration-free",
+        "certified frustration-free",
+        "ABEC 3",
+        "CE, RoHS",
+        "RoHS",
+        "energy"
+      ]
+    },
+    {
+      "name": "Athlete",
+      "occurrence": 500,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Pokemon",
+        "Yu Gi Oh",
+        "joe flacco",
+        "mickey mantle",
+        "mike williams",
+        "Joe montana",
+        "tom brady",
+        "Easter",
+        "Football",
+        "HIGH SCHOOL",
+        "Baseball",
+        "Cartoon",
+        "Derek jeter",
+        "Pete Alonso, Bryce Harper, Ronald Acuna, Juan Soto",
+        "Yusei Kikuchi, Kyle Seager, Dee Gordon, Nola"
+      ]
+    },
+    {
+      "name": "Base Type",
+      "occurrence": 497,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Pedestal",
+        "Legs",
+        "Stand",
+        "Leg",
+        "Candelabra",
+        "Casters",
+        "Sled",
+        "legs",
+        "Folding",
+        "E12",
+        "E27",
+        "Pin Type",
+        "Fixed",
+        "Legged"
+      ]
+    },
+    {
+      "name": "Fastener Type",
+      "occurrence": 494,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Buckle",
+        "Wheel",
+        "Machine Screw",
+        "Carabiner Clip",
+        "Lock",
+        "Hex",
+        "Socket Screws",
+        "Wheel, Hex",
+        "Flat Washer",
+        "Hook",
+        "Hexagon Bolt",
+        "Coupling",
+        "Flange",
+        "Lock, Hex",
+        "Carabiner"
+      ]
+    },
+    {
+      "name": "Seat Depth",
+      "occurrence": 479,
+      "frequency_pct": 0.05,
+      "examples": [
+        "40 inches",
+        "5.5 inches",
+        "32 inches",
+        "24 inches",
+        "12 inches",
+        "5 inches",
+        "11 inches",
+        "1 inches",
+        "6.7 inches",
+        "6 inches",
+        "10 inches",
+        "30 inches",
+        "16 inches",
+        "11.8 inches",
+        "8 inches"
+      ]
+    },
+    {
+      "name": "Pump type",
+      "occurrence": 479,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Manual",
+        "Wind",
+        "Automatic",
+        "Crank",
+        "Pull-Back",
+        "Plug,Manual",
+        "Auto"
+      ]
+    },
+    {
+      "name": "Magnification Maximum",
+      "occurrence": 477,
+      "frequency_pct": 0.05,
+      "examples": [
+        "8 x",
+        "1200 x",
+        "4 x",
+        "400 x",
+        "1000 x",
+        "40 x",
+        "900 x",
+        "30 x",
+        "200 x",
+        "100 x",
+        "5 x",
+        "20 x",
+        "10 x",
+        "120 x",
+        "3 x"
+      ]
+    },
+    {
+      "name": "Is Customizable",
+      "occurrence": 475,
+      "frequency_pct": 0.05,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Continuous Shooting Speed",
+      "occurrence": 466,
+      "frequency_pct": 0.05,
+      "examples": [
+        "30 fps",
+        "5 fps",
+        "3 fps",
+        "8 fps",
+        "10 fps",
+        "2 fps",
+        "6.00",
+        "6 fps",
+        "0.5 fps",
+        "3",
+        "4 fps",
+        "6.5 fps",
+        "1 fps",
+        "15 fps"
+      ]
+    },
+    {
+      "name": "Model Number",
+      "occurrence": 464,
+      "frequency_pct": 0.05,
+      "examples": [
+        "C3",
+        "D6",
+        "X2",
+        "C8",
+        "1",
+        "kids camera",
+        "R10",
+        "DC501",
+        "C\u00e1mara",
+        "ABS-190",
+        "1212",
+        "2707067",
+        "001",
+        "A5257",
+        "C16"
+      ]
+    },
+    {
+      "name": "Scale",
+      "occurrence": 457,
+      "frequency_pct": 0.05,
+      "examples": [
+        "1/32",
+        "1:24",
+        "1:35",
+        "1:25",
+        "1:72",
+        "1/35",
+        "1:12",
+        "8\"X8\"",
+        "1:32",
+        "1:48",
+        "1:3",
+        "No",
+        "1/48",
+        "HO",
+        "1/24"
+      ]
+    },
+    {
+      "name": "Pillow Type",
+      "occurrence": 453,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Throw Pillow",
+        "Furniture Cushion",
+        "Bed Pillow",
+        "Floor Pillow",
+        "Hammock Pillow"
+      ]
+    },
+    {
+      "name": "Material Feature",
+      "occurrence": 451,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Compostable",
+        "Recyclable",
+        "Natural",
+        "Non-Toxic",
+        "Durable",
+        "Biodegradable",
+        "Insulated",
+        "Biodegradable Warning",
+        "Is Food Safe",
+        "Reusable",
+        "Organic",
+        "Lightweight",
+        "Compostable Warning",
+        "Cruelty Free",
+        "Heirloom"
+      ]
+    },
+    {
+      "name": "Platform",
+      "occurrence": 451,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Linux",
+        "Android",
+        "Xbox",
+        "PlayStation 3",
+        "Windows",
+        "Electronic Game",
+        "Game Boy",
+        "Nintendo Switch",
+        "Not Machine Specific",
+        "No Operating System",
+        "Nintendo NES",
+        "Sony PSP",
+        "PlayStation",
+        "Game Boy Color, Game Boy Advance",
+        "Nintendo DS"
+      ]
+    },
+    {
+      "name": "Objective Lens Diameter",
+      "occurrence": 447,
+      "frequency_pct": 0.05,
+      "examples": [
+        "30 Millimeters",
+        "21 Millimeters",
+        "50 Millimeters",
+        "25 Millimeters",
+        "70 Millimeters",
+        "60 Millimeters",
+        "35 Millimeters",
+        "50.8 Millimeters",
+        "22 Millimeters",
+        "42 \tmonths",
+        "55 Millimeters",
+        "42 Millimeters",
+        "30 \tmonths",
+        "50 \tmonths",
+        "38 Millimeters"
+      ]
+    },
+    {
+      "name": "Hair Type",
+      "occurrence": 445,
+      "frequency_pct": 0.05,
+      "examples": [
+        "All",
+        "Straight",
+        "Curly",
+        "Wavy",
+        "Dry",
+        "Color",
+        "Fine",
+        "Coily",
+        "Long",
+        "Wavy, Curly",
+        "long",
+        "Purple",
+        "Normal",
+        "Short",
+        "Chemically Treated"
+      ]
+    },
+    {
+      "name": "Product Name",
+      "occurrence": 442,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Party Supplies",
+        "Plates",
+        "Dinner Plate",
+        "Decorative Plates",
+        "Paper Plates",
+        "Round Paper Plates",
+        "Party Favor",
+        "tableware",
+        "Plate",
+        "Party Goods",
+        "Party Plates",
+        "Kids' Toys",
+        "Dessert Plates",
+        "childrens-party-plates",
+        "Tableware"
+      ]
+    },
+    {
+      "name": "Video Standard",
+      "occurrence": 427,
+      "frequency_pct": 0.05,
+      "examples": [
+        "AVI",
+        "MPEG 4",
+        "MOV",
+        "JPG",
+        "MPEG-4",
+        "XAVC S",
+        "MPEG-4, AVI",
+        "MP3"
+      ]
+    },
+    {
+      "name": "Tuner Technology",
+      "occurrence": 422,
+      "frequency_pct": 0.05,
+      "examples": [
+        "UHF",
+        "FRS",
+        "FM",
+        "VHF",
+        "FM, AM",
+        "GMRS/FRS",
+        "HD Radio",
+        "Internet Radio",
+        "Superheterodyne, AM, FM",
+        "ATSC",
+        "AM"
+      ]
+    },
+    {
+      "name": "Writing Instrument Form",
+      "occurrence": 421,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Crayon",
+        "Colored Pencil",
+        "Chalk",
+        "Marker Pen",
+        "Ballpoint Pen",
+        "Graphite Pencil",
+        "Pastel Pencil",
+        "Multifunction Writing Instruments",
+        "Grease Pencil",
+        "Roller Ball Pen",
+        "Watercolor Pencil",
+        "Charcoal Pencil",
+        "Technical Pen",
+        "Pastel Stick",
+        "Dip Pen"
+      ]
+    },
+    {
+      "name": "Pre-printed",
+      "occurrence": 401,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Birthday party",
+        "birthday party",
+        "Letter",
+        "happy birthday,thank you",
+        "birthday party,rsvp",
+        "Happy birthday",
+        "happy birthday",
+        "Numbers",
+        "Happy birthday,thank you",
+        "rsvp",
+        "Birthday party,rsvp",
+        "Rsvp",
+        "Birthday party,thank you",
+        "thank you",
+        "Thank you"
+      ]
+    },
+    {
+      "name": "Bearing Type",
+      "occurrence": 400,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Ball Bearing",
+        "Pinion Bearing"
+      ]
+    },
+    {
+      "name": "Wattage",
+      "occurrence": 390,
+      "frequency_pct": 0.04,
+      "examples": [
+        "5 watts",
+        "10 watts",
+        "3 watts",
+        "1 watts",
+        "50 watts",
+        "6 watts",
+        "60 watts",
+        "1.5 watts",
+        "18 watts",
+        "20 watts",
+        "350 watts",
+        "1.4 watts",
+        "100 watts",
+        "15 watts",
+        "120 watts"
+      ]
+    },
+    {
+      "name": "Fit Type",
+      "occurrence": 387,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Vehicle Specific Fit",
+        "Universal Fit",
+        "Regular",
+        "Regular Fit",
+        "Universal",
+        "Classic Fit",
+        "Vehicle Specific",
+        "Standard",
+        "Custom Fit",
+        "Standard Fit",
+        "universal fit, Universal Fit",
+        "Comfortable",
+        "1",
+        "Classic Fit, Standard Fit",
+        "Loose Fit"
+      ]
+    },
+    {
+      "name": "Lens Type",
+      "occurrence": 385,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Zoom",
+        "Macro",
+        "Wide Angle",
+        "Telephoto",
+        "Single Lens",
+        "Prime",
+        "Wide-Angle",
+        "\u5e7f\u89d2",
+        "Fisheye",
+        "Close-up",
+        "Fixed",
+        "Close-Up",
+        "Standard",
+        "1",
+        "zoom"
+      ]
+    },
+    {
+      "name": "Team Name",
+      "occurrence": 377,
+      "frequency_pct": 0.04,
+      "examples": [
+        "No Team",
+        "mit",
+        "NULL",
+        "Basketball",
+        "Miami Heat",
+        "All Teams",
+        "World Cup",
+        "Football",
+        "INTEX",
+        "New York Yankees",
+        "Pittsburgh Steelers",
+        "Green Bay Packers",
+        "Volleyball",
+        "[None]",
+        "Theme supplies decoration birthday floties"
+      ]
+    },
+    {
+      "name": "Bearing Number",
+      "occurrence": 367,
+      "frequency_pct": 0.04,
+      "examples": [
+        "52100",
+        "RC",
+        "5116",
+        "MR115 2RS",
+        "688 2RS",
+        "6700 2RS",
+        "5119",
+        "5114",
+        "608",
+        "SCX10",
+        "6701-2RS",
+        "TT 02B",
+        "R025",
+        "TRX 4",
+        "608 2RS"
+      ]
+    },
+    {
+      "name": "Year",
+      "occurrence": 367,
+      "frequency_pct": 0.04,
+      "examples": [
+        "2021",
+        "2022",
+        "2020",
+        "2023",
+        "2019",
+        "2013",
+        "2018",
+        "2017",
+        "2016",
+        "2014",
+        "2015",
+        "2012",
+        "1795",
+        "2011",
+        "2010"
+      ]
+    },
+    {
+      "name": "Viewfinder Type",
+      "occurrence": 366,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Optical",
+        "Electronic",
+        "fixed LCD",
+        "1",
+        "flexible LCD",
+        "None"
+      ]
+    },
+    {
+      "name": "Maximum Supported Lines",
+      "occurrence": 364,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1",
+        "3",
+        "2",
+        "5",
+        "6",
+        "4",
+        "7",
+        "11"
+      ]
+    },
+    {
+      "name": "Body Material",
+      "occurrence": 358,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Wood",
+        "Plastic",
+        "Alloy Steel",
+        "Basswood",
+        "Metal",
+        "plastic",
+        "Bass Wood",
+        "Select Wood",
+        "Iron",
+        "Rosewood",
+        "Stainless Steel",
+        "plastic,wood",
+        "Steel",
+        "Abs",
+        "Sycamore"
+      ]
+    },
+    {
+      "name": "Connector Gender",
+      "occurrence": 357,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Male-to-Male",
+        "Male-to-Female",
+        "Female-to-Male",
+        "Female-to-Female",
+        "Male",
+        "/",
+        "Genderless",
+        "Female-to-Male, Male-to-Female"
+      ]
+    },
+    {
+      "name": "Whats in the box",
+      "occurrence": 356,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Item Skin",
+        "skin",
+        "Skin",
+        "1",
+        "Only Products",
+        "TPE",
+        "Screen Protector",
+        "Lanyard",
+        "Cards",
+        "Xawy",
+        "no",
+        "Iphone/samsung",
+        "iphone/samsung",
+        "No",
+        "One Skin"
+      ]
+    },
+    {
+      "name": "Suspension Type",
+      "occurrence": 345,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Rigid",
+        "Rear, Front",
+        "Front",
+        "Dual",
+        "Rear",
+        "Front Suspension",
+        "NO",
+        "Rear, Dual",
+        "Rear Suspension",
+        "Dual Suspension",
+        "Front, Dual",
+        "\u575a\u56fa",
+        "2 Front shocks, 1 Rear shock",
+        "Double",
+        "suspension"
+      ]
+    },
+    {
+      "name": "Mirror Adjustment",
+      "occurrence": 345,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Remote Control",
+        "control",
+        "Control",
+        "Control,rc",
+        "App Control",
+        "Voice Control",
+        "remote",
+        "Gesture Control",
+        "rcstyle",
+        "Remote",
+        "rc,touch",
+        "rc",
+        "One key switch",
+        "rc,rc/,rc/rc",
+        "Remote control"
+      ]
+    },
+    {
+      "name": "Pencil Lead Degree (Hardness)",
+      "occurrence": 345,
+      "frequency_pct": 0.04,
+      "examples": [
+        "HB",
+        "H",
+        "F",
+        "Soft",
+        "Hard",
+        "F, HB",
+        "B",
+        "Writing Fluently",
+        "Hb",
+        "Harry Potter stationary set, Harry Potter sketch",
+        "6B",
+        "4B",
+        "Fine",
+        "Multipack single"
+      ]
+    },
+    {
+      "name": "Number of Wheels",
+      "occurrence": 344,
+      "frequency_pct": 0.04,
+      "examples": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "name": "Flavor",
+      "occurrence": 343,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Chocolate",
+        "Assorted",
+        "Unflavored",
+        "Orange",
+        "Mint",
+        "Strawberry",
+        "Cherry",
+        "Fruit",
+        "Seafood",
+        "Cola",
+        "Chicken",
+        "Cinnamon",
+        "Green",
+        "Mustard",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Format",
+      "occurrence": 343,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Advent Calendar",
+        "Wall Calendar",
+        "WAV",
+        "CD-ROM",
+        "Organizer",
+        "Notebook",
+        "DVD",
+        "Color",
+        "Original recording",
+        "DVD-ROM",
+        "WMA",
+        "Notebook, Organizer",
+        "WMA, WAV",
+        "CD",
+        "Day to Day Calendar"
+      ]
+    },
+    {
+      "name": "Brake Style",
+      "occurrence": 339,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Coaster",
+        "Linear Pull",
+        "Disc",
+        "Rear Braking",
+        "U Brake",
+        "Caliper",
+        "Drum",
+        "Foot Brake",
+        "Your feet",
+        "No brake",
+        "Rim Brake",
+        "Rear Braking, Front Braking",
+        "Balance Bike",
+        "Mechanical Rim",
+        "Front Braking"
+      ]
+    },
+    {
+      "name": "Bike Type",
+      "occurrence": 334,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Balance Bike",
+        "Kids Bike",
+        "Electric Bike",
+        "Balance Bike, Kids Bike",
+        "Tricycle",
+        "BMX Bike",
+        "Road Bike, Balance Bike",
+        "City Bike",
+        "Cruiser Bike",
+        "Balance Bike, Hybrid Bike",
+        "Road Bike",
+        "Adult Tricycle",
+        "Baby Balance Bike",
+        "Road Bike, Balance Bike, Hybrid Bike",
+        "Road Bike, Balance Bike, Folding Bike"
+      ]
+    },
+    {
+      "name": "Assembled Length",
+      "occurrence": 318,
+      "frequency_pct": 0.04,
+      "examples": [
+        "22 centimeters",
+        "6 inches",
+        "16.5 centimeters",
+        "8 inches",
+        "14 inches",
+        "1 inches",
+        "4 inches",
+        "3 inches",
+        "16 inches",
+        "6.69 inches",
+        "28 inches",
+        "15 centimeters",
+        "17 centimeters",
+        "12 inches",
+        "5 inches"
+      ]
+    },
+    {
+      "name": "Assembled Width",
+      "occurrence": 313,
+      "frequency_pct": 0.04,
+      "examples": [
+        "18 centimeters",
+        "12 centimeters",
+        "4 inches",
+        "2 inches",
+        "1 inches",
+        "6 inches",
+        "4.72 inches",
+        "4.5 inches",
+        "3 inches",
+        "5 inches",
+        "4.3 inches",
+        "8 inches",
+        "7 inches",
+        "2.5 inches",
+        "4 centimeters"
+      ]
+    },
+    {
+      "name": "Shooting Modes",
+      "occurrence": 311,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Easy",
+        "Manual",
+        "Automatic",
+        "Underwater",
+        "Time Lapse",
+        "Time-Lapse",
+        "Sports",
+        "Movie",
+        "Shutter Priority",
+        "Scene",
+        "Night",
+        "Macro",
+        "\u5feb\u95e8\u4f18\u5148",
+        "Auto focos",
+        "Manual, Automatic"
+      ]
+    },
+    {
+      "name": "Temperature Rating",
+      "occurrence": 310,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Comfort",
+        "To 40 degrees",
+        "257 degree fahrenheit",
+        "16 to 30 degrees Celsius",
+        "Lower Limit",
+        "221 degree celsius",
+        "Summer",
+        "40",
+        "No",
+        "46 degrees Celsius and above",
+        "6 to 15 degrees Celsius",
+        "1 to 5 degrees Celsius",
+        "31 to 45 degrees Celsius",
+        "125 degree celsius",
+        "To 14 degrees"
+      ]
+    },
+    {
+      "name": "Dishwasher safe",
+      "occurrence": 310,
+      "frequency_pct": 0.03,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Assembled Height",
+      "occurrence": 308,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1 centimeters",
+        "1 inches",
+        "4 centimeters",
+        "0.5 inches",
+        "1.5 inches",
+        "2 inches",
+        "3 inches",
+        "5 inches",
+        "30 inches",
+        "12 inches",
+        "2.5 inches",
+        "1.18 inches",
+        "1.57 inches",
+        "1.2 inches",
+        "2.2 inches"
+      ]
+    },
+    {
+      "name": "Maximum weight recommendation",
+      "occurrence": 303,
+      "frequency_pct": 0.03,
+      "examples": [
+        "96 Pounds",
+        "25 Pounds",
+        "50 Pounds",
+        "40 Pounds",
+        "20 Pounds",
+        "100 Pounds",
+        "200 Pounds",
+        "110 Pounds",
+        "55 Pounds",
+        "30 Pounds",
+        "75 Pounds",
+        "35 Pounds",
+        "26 Pounds",
+        "33 Pounds",
+        "0.02 Pounds"
+      ]
+    },
+    {
+      "name": "Talking Range Maximum",
+      "occurrence": 301,
+      "frequency_pct": 0.03,
+      "examples": [
+        "3 Kilometers",
+        "3 Miles",
+        "5 Kilometers",
+        "3 Kilometer",
+        "3 Mile",
+        "2 Miles",
+        "1 Kilometers",
+        "2 Kilometers",
+        "1.86 Miles",
+        "1000 Meter",
+        "1000 Feet",
+        "150 Meters",
+        "500 Feet",
+        "4 Kilometers",
+        "16 Miles"
+      ]
+    },
+    {
+      "name": "Coverage",
+      "occurrence": 301,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Full",
+        "Opaque",
+        "Paper",
+        "Full Well Tips",
+        "Medium",
+        "opaque",
+        "Light",
+        "16 oz.",
+        "128 oz.",
+        "Partial",
+        "Varies",
+        "000",
+        "Resealable",
+        "Sheer",
+        "Buildable"
+      ]
+    },
+    {
+      "name": "Volume",
+      "occurrence": 300,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1000 Milliliters",
+        "1 Milliliters",
+        "1656 Cubic Centimeters",
+        "200 Milliliters",
+        "25500 Milliliters",
+        "12 Milliliters",
+        "16 Fluid Ounces",
+        "100 Milliliters",
+        "1 Fluid Ounces",
+        "1 Cubic Centimeters",
+        "1 Liters",
+        "2 Milliliters",
+        "24 Milliliters",
+        "0.01 Cubic Meters",
+        "0.1 Milliliters"
+      ]
+    },
+    {
+      "name": "Optical Zoom",
+      "occurrence": 296,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1 x",
+        "4 x",
+        "8 x",
+        "2 x",
+        "16 x",
+        "3 x",
+        "4",
+        "0.01 x",
+        "5 x",
+        "1",
+        "20 x",
+        "5",
+        "3",
+        "6 x",
+        "2.5 x"
+      ]
+    },
+    {
+      "name": "Grip Type",
+      "occurrence": 295,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Ergonomic",
+        "Shaped",
+        "Contoured",
+        "Putter",
+        "Wrap",
+        "Hexagonal",
+        "ergonomic",
+        "Soft",
+        "shaped",
+        "Full Wells",
+        "wrap-free",
+        "Cylinder-shaped",
+        "Training, Putter",
+        "foam",
+        "Foam"
+      ]
+    },
+    {
+      "name": "Exterior",
+      "occurrence": 292,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Aluminum",
+        "Black",
+        "Painted",
+        "Machined",
+        "Stainless Steel",
+        "Aluminum,Metal",
+        "Chrome",
+        "Metal",
+        "Silver",
+        "Brushed",
+        "Polished",
+        "Glossy",
+        "Carbon Fiber",
+        "Smooth",
+        "Aluminum,Plastic"
+      ]
+    },
+    {
+      "name": "Refill",
+      "occurrence": 289,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Polyester",
+        "Cotton",
+        "Polypropylene",
+        "Down",
+        "cotton",
+        "Foam",
+        "Polyester, Cotton",
+        "Down, Cotton",
+        "Memory Foam",
+        "Wood",
+        "PP cotton",
+        "Polyester, Polystyrene",
+        "Banners and flags of textile",
+        "Down, Synthetic, Cotton",
+        "ABS plastic"
+      ]
+    },
+    {
+      "name": "Objective Lens Description",
+      "occurrence": 288,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Achromatic",
+        "\u6d88\u8272\u5dee",
+        "fully-multi-coated",
+        "Semi-Plan",
+        "Aspherical lens"
+      ]
+    },
+    {
+      "name": "Optical Sensor Technology",
+      "occurrence": 284,
+      "frequency_pct": 0.03,
+      "examples": [
+        "CMOS",
+        "CCD",
+        "X4",
+        "x4",
+        "x3",
+        "Live",
+        "mos",
+        "X3",
+        "cmo",
+        "2",
+        "Cmos,xmas",
+        "Other",
+        "1",
+        "live",
+        "x1"
+      ]
+    },
+    {
+      "name": "Number of Shelves",
+      "occurrence": 280,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1",
+        "3",
+        "2",
+        "4",
+        "5",
+        "6",
+        "10",
+        "8",
+        "7",
+        "9",
+        "24",
+        "20"
+      ]
+    },
+    {
+      "name": "Memory Storage Capacity",
+      "occurrence": 279,
+      "frequency_pct": 0.03,
+      "examples": [
+        "32 GB",
+        "8 GB",
+        "16 GB",
+        "64 GB",
+        "512 MB",
+        "2 GB",
+        "4 GB",
+        "1 GB",
+        "128 GB",
+        "128 MB",
+        "2 MB",
+        "16 MB",
+        "256 GB",
+        "4 MB",
+        "8 MB"
+      ]
+    },
+    {
+      "name": "Real Angle of View",
+      "occurrence": 278,
+      "frequency_pct": 0.03,
+      "examples": [
+        "45 Degrees",
+        "30 Degrees",
+        "100 Degrees",
+        "40 Degrees",
+        "60 Degrees",
+        "90 Degrees",
+        "180 Degrees",
+        "360 Degrees",
+        "10",
+        "38 Degrees",
+        "160 Degrees",
+        "170 Degrees",
+        "120 Degrees",
+        "6.5",
+        "25 Degrees"
+      ]
+    },
+    {
+      "name": "Variety",
+      "occurrence": 277,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Art Coin",
+        "Challenge Coin",
+        "Art Coin,Challenge Coin",
+        "Commemorative",
+        "Silver",
+        "Art Coin,Marine Corps",
+        "Body Pillow",
+        "Neck Pillow",
+        "Ancient",
+        "Neck Pillow,Travel Pillow",
+        "Art Coin,Silver",
+        "Replica",
+        "Challenge Coin,Commemorative",
+        "Replica,Silver",
+        "Travel Pillow,Bed Pillow"
+      ]
+    },
+    {
+      "name": "Compatible Material",
+      "occurrence": 273,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Paper",
+        "Wood",
+        "Wood, Paper",
+        "Plastic",
+        "Metal",
+        "Rubber",
+        "Stone",
+        "Decorating",
+        "Fabric",
+        "Glue",
+        "Wood, Plastic, Metal",
+        "Glass",
+        "Paper, Fabric",
+        "Alloy Steel",
+        "Cotton"
+      ]
+    },
+    {
+      "name": "JPEG quality level",
+      "occurrence": 270,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Basic",
+        "Normal",
+        "Fine, Normal",
+        "Fine",
+        "Basic, Fine, Normal"
+      ]
+    },
+    {
+      "name": "Rim Size",
+      "occurrence": 268,
+      "frequency_pct": 0.03,
+      "examples": [
+        "2.8 Inches",
+        "1.9 Inches",
+        "3 Inches",
+        "2.2 Inches",
+        "1 Inches",
+        "17 Inches",
+        "3.8 Inches",
+        "24 Inches",
+        "14 Inches",
+        "10 Inches",
+        "16 Inches",
+        "4 Inches",
+        "12 Inches",
+        "2 Inches",
+        "18 Inches"
+      ]
+    },
+    {
+      "name": "Body Shape",
+      "occurrence": 267,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Round",
+        "Square",
+        "Oval",
+        "Heart",
+        "Triangular"
+      ]
+    },
+    {
+      "name": "Charging Time",
+      "occurrence": 265,
+      "frequency_pct": 0.03,
+      "examples": [
+        "60 minutes",
+        "90 minutes",
+        "80 minutes",
+        "110 minutes",
+        "70 minutes",
+        "100 minutes",
+        "3 Hours",
+        "2 Hours",
+        "1.5 Hours",
+        "4 Hours",
+        "50 minutes",
+        "65 minutes",
+        "6 Hours",
+        "1 Hours",
+        "8 Hours"
+      ]
+    },
+    {
+      "name": "Number of Labels",
+      "occurrence": 260,
+      "frequency_pct": 0.03,
+      "examples": [
+        "100",
+        "24",
+        "1",
+        "20",
+        "12",
+        "3",
+        "500",
+        "2",
+        "40",
+        "50",
+        "15",
+        "60",
+        "30",
+        "216",
+        "8"
+      ]
+    },
+    {
+      "name": "Tick-repellent material",
+      "occurrence": 253,
+      "frequency_pct": 0.03,
+      "examples": [
+        "100% Cotton",
+        "Plastic",
+        "Vinyl",
+        "ABS",
+        "plastic",
+        "50% cotton",
+        "Acrylic",
+        "Wood",
+        "Resin",
+        "100% cotton",
+        "Paper",
+        "vinyl",
+        "100% plastic",
+        "resin",
+        "PVC"
+      ]
+    },
+    {
+      "name": "Weight",
+      "occurrence": 251,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1 Pounds",
+        "0.25 Kilograms",
+        "2 Pounds",
+        "0.1 Kilograms",
+        "4 Pounds",
+        "5 Pounds",
+        "3 Pounds",
+        "100 Grams",
+        "0.05 Pounds",
+        "6 Pounds",
+        "8 Pounds",
+        "0.35 Pounds",
+        "9 Pounds",
+        "2.5 Pounds",
+        "64 Pounds"
+      ]
+    },
+    {
+      "name": "Maximum recommended load",
+      "occurrence": 249,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1 Kilograms",
+        "2 Kilograms",
+        "20 Milligrams",
+        "2 Pounds",
+        "10 Kilograms",
+        "176 Pounds",
+        "250 Grams",
+        "1 Pounds",
+        "50 Pounds",
+        "130 Pounds",
+        "8 Ounces",
+        "3 Pounds",
+        "1.5 Pounds",
+        "100 Kilograms",
+        "0.8 Pounds"
+      ]
+    },
+    {
+      "name": "Caster Type",
+      "occurrence": 248,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Pneumatic",
+        "Swivel",
+        "Ball",
+        "Pneumatic, Ball",
+        "\u65cb\u8f6c",
+        "Rigid",
+        "Stem"
+      ]
+    },
+    {
+      "name": "Wall Art Form",
+      "occurrence": 247,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Poster",
+        "Painting",
+        "Plaque",
+        "Art Print",
+        "Photograph",
+        "Tapestry",
+        "Wall Hanging Decor"
+      ]
+    },
+    {
+      "name": "Skin Type",
+      "occurrence": 240,
+      "frequency_pct": 0.03,
+      "examples": [
+        "All",
+        "All Skin",
+        "Dry",
+        "Universal",
+        "Sensitive",
+        "Combination",
+        "Normal",
+        "Oily, Dry",
+        "combination",
+        "Default",
+        "Combination,Dry"
+      ]
+    },
+    {
+      "name": "Compatible Lubricant",
+      "occurrence": 238,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Grease",
+        "Oil"
+      ]
+    },
+    {
+      "name": "Rated",
+      "occurrence": 232,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Everyone",
+        "Everyone 10+",
+        "Rating Pending",
+        "Teen",
+        "Kids to Adults",
+        "Early Childhood",
+        "Adults Only"
+      ]
+    },
+    {
+      "name": "Top Material Type",
+      "occurrence": 230,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Wood",
+        "Plastic",
+        "Basswood",
+        "Acrylic",
+        "Engineered Wood",
+        "Spruce",
+        "Select Wood",
+        "Alloy Steel",
+        "Aluminum",
+        "Sycamore",
+        "plastic",
+        "Glass",
+        "Paulownia Wood",
+        "wood",
+        "Mahogany"
+      ]
+    },
+    {
+      "name": "Position",
+      "occurrence": 225,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Front",
+        "Rear",
+        "Rear, Front",
+        "Right",
+        "Center",
+        "Outer, Inner",
+        "Upper",
+        "Left, Right",
+        "Top",
+        "Left",
+        "Bottom",
+        "Lower",
+        "Center, Top",
+        "Center, Inside",
+        "Inside"
+      ]
+    },
+    {
+      "name": "Head Style",
+      "occurrence": 222,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Hex",
+        "Flat",
+        "Flat, Button, Socket, Hex",
+        "Socket",
+        "Button",
+        "Flat, Hex",
+        "Cup",
+        "Fixed Square",
+        "Round",
+        "Button, Hex",
+        "Socket, Hex",
+        "Box End",
+        "Dome",
+        "Flat, Button, Socket",
+        "Binding"
+      ]
+    },
+    {
+      "name": "Load Capacity",
+      "occurrence": 216,
+      "frequency_pct": 0.02,
+      "examples": [
+        "250 pound",
+        "440 pound",
+        "300 pound",
+        "200 pound",
+        "6 ton",
+        "2000 pound",
+        "800 pound",
+        "6 tons",
+        "330 pound",
+        "220 pound",
+        "9 Pounds",
+        "250 Pounds",
+        "2200 pound",
+        "66 Pounds",
+        "5000 pound"
+      ]
+    },
+    {
+      "name": "Base Material",
+      "occurrence": 212,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Wood",
+        "Plastic",
+        "Metal",
+        "Plastic, Wood",
+        "Resin",
+        "Rubber",
+        "abs,plastic",
+        "Stainless Steel",
+        "Alloy Steel",
+        "Engineered Wood",
+        "Metal, Wood",
+        "Acrylonitrile Butadiene Styrene (ABS)",
+        "Aluminum",
+        "Polyester",
+        "plastic,polyester"
+      ]
+    },
+    {
+      "name": "Number of Light Sources",
+      "occurrence": 210,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "2",
+        "10",
+        "3",
+        "4",
+        "12",
+        "30",
+        "20",
+        "6",
+        "40",
+        "60",
+        "50",
+        "100",
+        "9",
+        "5"
+      ]
+    },
+    {
+      "name": "Output Voltage",
+      "occurrence": 209,
+      "frequency_pct": 0.02,
+      "examples": [
+        "12 Volts",
+        "6 Volts",
+        "5 Volts",
+        "24 Volts",
+        "20 Volts",
+        "12 Volts (DC)",
+        "15 Volts",
+        "7.4 Volts",
+        "3.7 Volts",
+        "9 Volts",
+        "7 Volts",
+        "30 Volts (DC)",
+        "4.2 Volts",
+        "7.2 Volts",
+        "13.2 Volts"
+      ]
+    },
+    {
+      "name": "Bristle Type",
+      "occurrence": 209,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Flagged Bristle",
+        "Natural",
+        "Synthetic",
+        "Unflagged Bristle",
+        "Vegan",
+        "natural",
+        "Crimped Wire",
+        "Round, Flat"
+      ]
+    },
+    {
+      "name": "Fastener Material",
+      "occurrence": 207,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Stainless Steel",
+        "Alloy Steel",
+        "Carbon Steel",
+        "Polyester",
+        "Rubber",
+        "Aluminum",
+        "High Strength Steel",
+        "Plastic",
+        "Metal",
+        "hemp",
+        "polyester"
+      ]
+    },
+    {
+      "name": "Standing screen display size",
+      "occurrence": 206,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1.54 Inches",
+        "1.44 Inches",
+        "7 Inches",
+        "8.5 Inches",
+        "4.3 Inches",
+        "10 Inches",
+        "1.5 Inches",
+        "3.5 Inches",
+        "1 Inches",
+        "1.7 Inches",
+        "40 Millimeters",
+        "2.7 Inches",
+        "1.69 Inches",
+        "11 Inches",
+        "42.5 Millimeters"
+      ]
+    },
+    {
+      "name": "Line Size",
+      "occurrence": 205,
+      "frequency_pct": 0.02,
+      "examples": [
+        "0.5 months",
+        "1 months",
+        "2mm and Above",
+        "0.7mm",
+        "3",
+        "0.5mm",
+        "1.0-1.9mm",
+        "0.3mm Millimeters",
+        "0.5 millimeters",
+        "2 Millimeters",
+        "2",
+        "0.3mm",
+        "2mm and Above Millimeters",
+        "1",
+        "0.7 Millimeters"
+      ]
+    },
+    {
+      "name": "Number of Speeds",
+      "occurrence": 204,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "3",
+        "2",
+        "7",
+        "5",
+        "8",
+        "24",
+        "6"
+      ]
+    },
+    {
+      "name": "Safety warning",
+      "occurrence": 203,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Warning: Choking hazard. Not suitable for Children under 36 months.",
+        "CAUTION: Choking Hazard. Small Parts. Some toys may not be suitable for children under 3. Parental supervision advised.",
+        "Recommended for Ages 3+",
+        "No warning applicable",
+        "Do not eat plush toys.",
+        "Please read all product packaging literature and product labels before use.",
+        "CHOKING HAZARD\u2014Small parts. Not for children under 3 yrs.",
+        "No_warning_applicable",
+        "3+ Small Parts Warning",
+        "no_warning_applicable",
+        "CHOKING HAZARD-Small parts Not for children under 3 years",
+        "consult with instruction manual",
+        "To be used under the direct supervision of an adult",
+        "No safety warning",
+        "WARNING"
+      ]
+    },
+    {
+      "name": "Polar Pattern",
+      "occurrence": 203,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Unidirectional",
+        "Omnidirectional",
+        "Bidirectional",
+        "Inflatable",
+        "Echo Sound Effect, 5 Voice Changers"
+      ]
+    },
+    {
+      "name": "Control Method",
+      "occurrence": 198,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Remote",
+        "Touch",
+        "App",
+        "Voice",
+        "Remote, Touch"
+      ]
+    },
+    {
+      "name": "Photo Sensor Technology",
+      "occurrence": 197,
+      "frequency_pct": 0.02,
+      "examples": [
+        "CMOS",
+        "CCD",
+        "BSI CMOS",
+        "Other",
+        "BSI",
+        "MOS",
+        "/",
+        "other",
+        "VGA CMOS",
+        "1",
+        "NMOS",
+        "Cmos"
+      ]
+    },
+    {
+      "name": "Assembly time",
+      "occurrence": 191,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1 Hours",
+        "15 minutes",
+        "10 minutes",
+        "5 minutes",
+        "5 days",
+        "1 minutes",
+        "2 Hours",
+        "2 days",
+        "2 minutes",
+        "60 minutes",
+        "30 minutes",
+        "3 minutes",
+        "1",
+        "3 Hours",
+        "4 minutes"
+      ]
+    },
+    {
+      "name": "Light Color",
+      "occurrence": 191,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Multicolor",
+        "Warm White",
+        "Bright White",
+        "Green",
+        "Red",
+        "Orange",
+        "White",
+        "Blue",
+        "Yellow",
+        "Purple",
+        "Pink",
+        "white",
+        "RGB",
+        "Orange, Green",
+        "Red, Green"
+      ]
+    },
+    {
+      "name": "White balance settings",
+      "occurrence": 189,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Auto",
+        "Flash use",
+        "Flash torch",
+        "Custom",
+        "Auto, White fluorescent light, Daylight, Cloudy, Flash use",
+        "Auto, Daylight, Cloudy, Flash torch",
+        "Auto, Daylight, White fluorescent light, Cloudy, Flash use",
+        "Auto, Flash use",
+        "Daylight",
+        "Auto, Custom",
+        "Auto, White fluorescent light, Daylight, Cloudy",
+        "Auto, Flourescent, Daylight, Cloudy, Flash use",
+        "Daylight, Cloudy, Flash use",
+        "Auto, Flourescent, Daylight, Cloudy, Flash torch",
+        "Shade"
+      ]
+    },
+    {
+      "name": "Ruling",
+      "occurrence": 189,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Plain",
+        "Ruled",
+        "Dotted",
+        "Squared",
+        "Specialized"
+      ]
+    },
+    {
+      "name": "Usage",
+      "occurrence": 184,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Card Storage",
+        "Interior",
+        "Interior/Exterior",
+        "Pans",
+        "Exterior",
+        "Lego Storage",
+        "Toy",
+        "Inside, Outside",
+        "Inside; Professional",
+        "Professional",
+        "Inside",
+        "Bathtub",
+        "Baby,Bathroom",
+        "Cold Drinks",
+        "Dice Storage Box"
+      ]
+    },
+    {
+      "name": "Hardware Platform",
+      "occurrence": 183,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Karaoke Machine",
+        "Tablet, Smartphone",
+        "Pc",
+        "165993011",
+        "PC",
+        "Android",
+        "pc",
+        "Smartphone",
+        "Windows",
+        "Desktop",
+        "Tablet",
+        "Not Specified",
+        "Tablet, Karaoke Machine",
+        "Linux",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "Speaker Count",
+      "occurrence": 180,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "name": "Back Material Type",
+      "occurrence": 179,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Rubber",
+        "Wood",
+        "Basswood",
+        "Plastic",
+        "Polyester",
+        "Ethylene Vinyl Acetate",
+        "Cotton",
+        "Select Wood",
+        "Vinyl",
+        "Sycamore",
+        "Mahogany",
+        "Acrylic",
+        "Paulownia",
+        "Agathis Wood",
+        "Acrylonitrile Butadiene Styrene, Wood"
+      ]
+    },
+    {
+      "name": "Import Designation",
+      "occurrence": 175,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Imported",
+        "Made in USA or Imported",
+        "Made in USA",
+        "Made in the USA or Imported",
+        "Made in USA and Imported",
+        "Made in the USA and Imported",
+        "IMPORTED",
+        "Made in Shenzhen"
+      ]
+    },
+    {
+      "name": "Weight Limit",
+      "occurrence": 174,
+      "frequency_pct": 0.02,
+      "examples": [
+        "150 Pounds",
+        "200 Pounds",
+        "120 Pounds",
+        "110 Pounds",
+        "75 Pounds",
+        "300 Pounds",
+        "100 Pounds",
+        "55 Pounds",
+        "250 Pounds",
+        "220 Pounds",
+        "350 Pounds",
+        "35 Pounds",
+        "165 Pounds",
+        "500 Pounds",
+        "330 Pounds"
+      ]
+    },
+    {
+      "name": "Minimum weight recommendation",
+      "occurrence": 174,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1 Pounds",
+        "3.5 Kilograms",
+        "12 Pounds",
+        "20 Pounds",
+        "5 Pounds",
+        "0.02 Pounds",
+        "15 Pounds",
+        "2.5 Pounds",
+        "22 Pounds",
+        "9 Pounds",
+        "8 Pounds",
+        "16 Ounces",
+        "40 Pounds",
+        "10 Pounds",
+        "3 Kilograms"
+      ]
+    },
+    {
+      "name": "Drive System",
+      "occurrence": 174,
+      "frequency_pct": 0.02,
+      "examples": [
+        "External Hex",
+        "Phillips",
+        "Internal Hex",
+        "Hex",
+        "Cross",
+        "Spline",
+        "External Hex, Cross",
+        "Pozidriv",
+        "Slotted",
+        "Torx",
+        "Chain",
+        "Hex Socket",
+        "Nutsetter",
+        "External Hex, Phillips",
+        "Star"
+      ]
+    },
+    {
+      "name": "Microphone Form Factor",
+      "occurrence": 174,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Handheld",
+        "Built-In",
+        "Mini",
+        "Table Array",
+        "Built-in",
+        "Mini, Built-In",
+        "Microphone Only",
+        "Microphone only"
+      ]
+    },
+    {
+      "name": "Switch Type",
+      "occurrence": 172,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Remote",
+        "Touch",
+        "Push Button",
+        "Slide",
+        "Decorator",
+        "Magnetic",
+        "Foot Switch",
+        "Kill Switch",
+        "Rotary",
+        "Foot",
+        "slide",
+        "MOSFET, Flow Switch",
+        "Flow Switch",
+        "Dimmer",
+        "Rocker"
+      ]
+    },
+    {
+      "name": "Shell Type",
+      "occurrence": 170,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Hard",
+        "Soft",
+        "Hybrid",
+        "hard,soft",
+        "Hard,soft",
+        "Hard Protective Case",
+        "\u6df7\u5408\u5f0f",
+        "Hard shell"
+      ]
+    },
+    {
+      "name": "International Protection Rating",
+      "occurrence": 169,
+      "frequency_pct": 0.02,
+      "examples": [
+        "IP65",
+        "IP54",
+        "IP00",
+        "IP44",
+        "IPX4",
+        "IP66",
+        "3 km",
+        "20 volt",
+        "IP68",
+        "50 amp",
+        "5 mile",
+        "IP67",
+        "70 amp",
+        "IP541",
+        "40 amp"
+      ]
+    },
+    {
+      "name": "Specific instructions for use",
+      "occurrence": 167,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Indoor",
+        "Garden",
+        "Christmas",
+        "Other",
+        "Learning, Personal, Education",
+        "Outdoor",
+        "Inside",
+        "Collection",
+        "Marble Game",
+        "Party",
+        "Decoration",
+        "Stacking & Sorting",
+        "Display",
+        "party decoration",
+        "Magic Tricks, Performance, Learning"
+      ]
+    },
+    {
+      "name": "Human Interface Input",
+      "occurrence": 165,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Buttons",
+        "Touchscreen",
+        "Dial",
+        "Unknown",
+        "Touchscreen, Buttons",
+        "Microphone",
+        "Touchscreen, Microphone, Keyboard",
+        "Touchscreen, Dial, Buttons",
+        "Touchscreen, Microphone",
+        "Keyboard, Buttons",
+        "Keyboard",
+        "Numeric Keypad",
+        "Dial, Buttons",
+        "Touchscreen with Stylus Support"
+      ]
+    },
+    {
+      "name": "Perfume",
+      "occurrence": 165,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Unscented",
+        "3",
+        "5",
+        "16",
+        "13",
+        "10",
+        "22",
+        "Fresh",
+        "Original",
+        "17",
+        "Chocolate",
+        "Summer Outdoor",
+        "Festive",
+        "6th birthday girl,6 birthday crown",
+        "4"
+      ]
+    },
+    {
+      "name": "Shade Color",
+      "occurrence": 162,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Multicolor",
+        "White",
+        "Red",
+        "Black",
+        "Yellow",
+        "Blue",
+        "Pink",
+        "Green",
+        "\u9ed1\u8272",
+        "Gray",
+        "Pink Kids Night Light",
+        "Wihte",
+        "Orange",
+        "16 colors",
+        "Clear"
+      ]
+    },
+    {
+      "name": "Pages",
+      "occurrence": 161,
+      "frequency_pct": 0.02,
+      "examples": [
+        "50 Pages",
+        "160 Pages",
+        "80 Pages",
+        "20 Pages",
+        "208 Pages",
+        "40 Pages",
+        "60 Pages",
+        "50",
+        "160",
+        "80",
+        "20",
+        "100 Pages Per Sheet",
+        "32 Pages",
+        "14 Pages",
+        "5 Pages"
+      ]
+    },
+    {
+      "name": "Number of Compartments",
+      "occurrence": 159,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "3",
+        "4",
+        "2",
+        "6",
+        "10",
+        "5",
+        "8",
+        "24",
+        "25",
+        "17",
+        "7"
+      ]
+    },
+    {
+      "name": "Removable Memory",
+      "occurrence": 159,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Secure Digital Card",
+        "MicroSD",
+        "MicroSD, Secure Digital Card",
+        "microSDHC",
+        "Multimedia Card"
+      ]
+    },
+    {
+      "name": "Tread Type",
+      "occurrence": 159,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Non-Directional",
+        "Directional",
+        "Asymmetrical",
+        "Slick",
+        "Symmetrical",
+        "Hex",
+        "Semi-Slick",
+        "Short",
+        "Knobby",
+        "R1"
+      ]
+    },
+    {
+      "name": "Battery type",
+      "occurrence": 156,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Lithium Ion",
+        "Alkaline",
+        "Lithium",
+        "Lithium Polymer",
+        "Lithium Metal",
+        "Zinc Carbon",
+        "Lithium Ion Polymer",
+        "2 AAA batteries required (not included)",
+        "Nickel-Iron",
+        "Polymer",
+        "Battery_type_aa",
+        "No",
+        "3 AA",
+        "AA",
+        "Lithium-Ion, Nickel-Metal Hydride (NiMH)"
+      ]
+    },
+    {
+      "name": "Thread Coverage",
+      "occurrence": 156,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Fully Threaded",
+        "Partially Threaded"
+      ]
+    },
+    {
+      "name": "Eye Piece Lens Description",
+      "occurrence": 151,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Glass",
+        "Barlow",
+        "Kellner",
+        "Plossl",
+        "glass",
+        "Prism",
+        "Galilean",
+        "Achromatic",
+        "Huygens",
+        "Erfle",
+        "No Eye Lens Description Available.",
+        "DF",
+        "NauticalMart",
+        "Monocentric",
+        "No Lens Description Available."
+      ]
+    },
+    {
+      "name": "Number of Strings",
+      "occurrence": 148,
+      "frequency_pct": 0.02,
+      "examples": [
+        "6",
+        "4",
+        "3",
+        "8",
+        "7",
+        "5"
+      ]
+    },
+    {
+      "name": "Maximum Webcam Image Resolution",
+      "occurrence": 148,
+      "frequency_pct": 0.02,
+      "examples": [
+        "12 MP",
+        "48 MP",
+        "5 MP",
+        "20 MP",
+        "40 MP",
+        "8 MP",
+        "2 MP",
+        "1 MP",
+        "1080 MP",
+        "13 MP",
+        "16 MP",
+        "18 MP",
+        "3 MP",
+        "43.98 MP",
+        "0.3 MP"
+      ]
+    },
+    {
+      "name": "Liquid Volume",
+      "occurrence": 146,
+      "frequency_pct": 0.02,
+      "examples": [
+        "2 Fluid Ounces",
+        "0.12 Liters",
+        "1 Fluid Ounces",
+        "4 Fluid Ounces",
+        "10 Milliliters",
+        "30 Milliliters",
+        "20 Milliliters",
+        "50 Milliliters",
+        "1 Liters",
+        "5 Fluid Ounces",
+        "100 Milliliters",
+        "5 Milliliters",
+        "1 Quarts",
+        "4 Liters",
+        "0.19 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Clasp Type",
+      "occurrence": 145,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Buckle",
+        "no clasp type",
+        "Snap",
+        "No clasp type",
+        "Lobster Claw",
+        "Pin",
+        "Toggle",
+        "Spring Ring",
+        "Slide",
+        "Magnetic",
+        "Fold Over",
+        "S Hook",
+        "Easy Hook",
+        "Pin-stem-with-safety",
+        "Butterfly"
+      ]
+    },
+    {
+      "name": "Plant or Animal Product Type",
+      "occurrence": 143,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Roses",
+        "Rose",
+        "Flower",
+        "Bread",
+        "roses",
+        "Succulent",
+        "Palm",
+        "Fish",
+        "Sunflower",
+        "Maple",
+        "\u30ed\u30fc\u30ba",
+        "Apple",
+        "\u9c7c",
+        "Grass",
+        "Lucky bamboo"
+      ]
+    },
+    {
+      "name": "Assembly Time",
+      "occurrence": 143,
+      "frequency_pct": 0.02,
+      "examples": [
+        "5 minutes",
+        "1 Hours",
+        "20 minutes",
+        "10 minutes",
+        "30 minutes",
+        "3 minutes",
+        "2 minutes",
+        "0.2 Hours",
+        "10",
+        "1 minutes",
+        "15 minutes",
+        "0.5 Hours",
+        "25 minutes",
+        "2 Hours",
+        "8 minutes"
+      ]
+    },
+    {
+      "name": "Strap Type",
+      "occurrence": 141,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Shoulder",
+        "Adjustable",
+        "Head Strap",
+        "Shoulder Strap",
+        "Adjustable Strap",
+        "Split Strap",
+        "Shoulder Strap, Adjustable Strap",
+        "Drawstring",
+        "Detachable",
+        "Removable",
+        "Adjustable,Shoulder",
+        "Shoulders, Waist, and Chest Strap",
+        "Wrist Strap",
+        "Shoulder Strap, Chest Strap",
+        "Convertible"
+      ]
+    },
+    {
+      "name": "Battery life",
+      "occurrence": 141,
+      "frequency_pct": 0.02,
+      "examples": [
+        "144 Hours",
+        "2 Hours",
+        "96 Hours",
+        "90 Hours",
+        "100 Hours",
+        "3 Hours",
+        "5 Hours",
+        "2.25 Hours",
+        "24 Hours",
+        "12 Hours",
+        "6 Hours",
+        "300 Hours",
+        "20 Hours",
+        "25 Hours",
+        "48 Hours"
+      ]
+    },
+    {
+      "name": "Furniture Finish",
+      "occurrence": 140,
+      "frequency_pct": 0.02,
+      "examples": [
+        "White",
+        "Unfinished",
+        "Wood",
+        "Black",
+        "Alloy Steel",
+        "Birch",
+        "Chrome",
+        "Metal",
+        "Pine",
+        "Non-toxic",
+        "Aluminum",
+        "non-toxic",
+        "Brown",
+        "Beech",
+        "Cherry"
+      ]
+    },
+    {
+      "name": "Blanket Form",
+      "occurrence": 140,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Throw Blanket",
+        "Comforter",
+        "Travel Blanket",
+        "Quilt",
+        "Swaddle",
+        "Receiving Blanket",
+        "Emergency Blanket",
+        "Weighted Blanket"
+      ]
+    },
+    {
+      "name": "Material Type Free",
+      "occurrence": 140,
+      "frequency_pct": 0.02,
+      "examples": [
+        "BPA Free",
+        "Non-toxic",
+        "Odorless",
+        "Alcohol Free",
+        "Bisphenol-A (BPA) Free",
+        "BPA Free, Phthalate Free, Lead Free",
+        "BPA Free, Phthalate Free, Latex Free, Lead Free",
+        "Nitrosamine Free",
+        "PVC Free",
+        "Bisphenol-A (BPA) Free, Phthalate Free, Latex Free, Lead Free",
+        "Lead Free",
+        "Chemical Free",
+        "\u65e0\u7532\u919b",
+        "Parabens, Ethyl Alcohol, Phenoxyethanol, DEA, BPA/Phthalates",
+        "No Harsh Chemicals,Odorless"
+      ]
+    },
+    {
+      "name": "Maximum Height Recommendation",
+      "occurrence": 134,
+      "frequency_pct": 0.02,
+      "examples": [
+        "37 Inches",
+        "6.2 Feet",
+        "5 Feet",
+        "6 Feet",
+        "40 Inches",
+        "4 Feet",
+        "5.5 Feet",
+        "6 Inches",
+        "9 Inches",
+        "7 Feet",
+        "55 Inches",
+        "60 Inches",
+        "36 Inches",
+        "5.4 Feet",
+        "18 Inches"
+      ]
+    },
+    {
+      "name": "Blade Edge",
+      "occurrence": 131,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Straight",
+        "Plain",
+        "Serrated",
+        "Bevel",
+        "Convex",
+        "Smooth",
+        "SadoTech",
+        "Stainless Steel",
+        "Contoured",
+        "Plain and Serrated",
+        "Curved edge",
+        "Plain, Serrated",
+        "V-Grind",
+        "Paring Knife",
+        "Curved"
+      ]
+    },
+    {
+      "name": "Number of Keyboard Keys",
+      "occurrence": 129,
+      "frequency_pct": 0.01,
+      "examples": [
+        "61",
+        "37",
+        "49",
+        "4",
+        "25",
+        "54",
+        "88",
+        "6",
+        "8",
+        "16",
+        "2",
+        "44",
+        "30",
+        "24",
+        "32"
+      ]
+    },
+    {
+      "name": "Fill Material Type",
+      "occurrence": 126,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Polyester",
+        "Cotton",
+        "Foam",
+        "Down",
+        "Polystyrene (PS)",
+        "Air",
+        "Stainless Steel",
+        "Down, Cotton",
+        "plush cotton",
+        "Polyester, Cotton",
+        "Spiderman Super Heroes Duplo Spider-Man Super sho",
+        "PET",
+        "Synthetic",
+        "Nylon"
+      ]
+    },
+    {
+      "name": "Material free",
+      "occurrence": 125,
+      "frequency_pct": 0.01,
+      "examples": [
+        "BPA Free",
+        "BPA Free, Phthalate Free, Latex Free, Lead Free",
+        "Bisphenol-A (BPA) Free",
+        "Bisphenol-A (BPA) Free, Phthalate Free, Latex Free, Lead Free",
+        "BPA Free, Phthalate Free, Lead Free",
+        "Bpa-free",
+        "Phthalate Free",
+        "Bpa Free",
+        "Bisphenol-A (BPA) Free, Phthalate Free, Lead Free",
+        "BPA Free, Phthalate Free",
+        "Nitrosamine Free",
+        "BPA Free, Lead Free",
+        "Bisphenol-A (BPA) Free, Phthalate Free",
+        "Phthalate-free",
+        "Nitrosamine"
+      ]
+    },
+    {
+      "name": "Paper Weight",
+      "occurrence": 124,
+      "frequency_pct": 0.01,
+      "examples": [
+        "80",
+        "20",
+        "120",
+        "90",
+        "61",
+        "110",
+        "10",
+        "18",
+        "28",
+        "7",
+        "24",
+        "70",
+        "4",
+        "67",
+        "22"
+      ]
+    },
+    {
+      "name": "Blade Length",
+      "occurrence": 123,
+      "frequency_pct": 0.01,
+      "examples": [
+        "24 Inches",
+        "8 Inches",
+        "4 Inches",
+        "20 Inches",
+        "5 Inches",
+        "10 Inches",
+        "7 Inches",
+        "2 Inches",
+        "9 Inches",
+        "3 Feet",
+        "17 Inches",
+        "26 Inches",
+        "28.5 Inches",
+        "40 Inches",
+        "5.5 Centimeters"
+      ]
+    },
+    {
+      "name": "Connectivity Protocol",
+      "occurrence": 122,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Wi-Fi",
+        "X-10",
+        "Usb",
+        "Bluetooth",
+        "wi-fi",
+        "Auxiliary",
+        "Coaxial"
+      ]
+    },
+    {
+      "name": "Lamp Type",
+      "occurrence": 122,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Night Light",
+        "Desk Lamp",
+        "Table Lamp",
+        "Mood Light",
+        "LED",
+        "Moon Lamp",
+        "Night lights",
+        "Lava Lamp",
+        "ball lamp",
+        "Tiffany",
+        "desk lamp,lamp,table lamp",
+        "Controllable LED",
+        "Grow lights for indoor plants",
+        "Desk lamp,table lamp",
+        "book light"
+      ]
+    },
+    {
+      "name": "Is Stain Resistant",
+      "occurrence": 121,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Is Waterproof",
+      "occurrence": 121,
+      "frequency_pct": 0.01,
+      "examples": [
+        "True",
+        "False",
+        "FALSE",
+        "Dry Sanding, Personal, Business, Amateur",
+        "TRUE"
+      ]
+    },
+    {
+      "name": "Battery Description",
+      "occurrence": 120,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Lithium Ion",
+        "Lithium",
+        "metal",
+        "Metal",
+        "Alkaline",
+        "Lithium-Ion",
+        "AA",
+        "AAA",
+        "Lithium-Ion Polymer",
+        "3 x LR44 batteries (included)",
+        "4 AAA Batteries",
+        "18650",
+        "Lithium-ion polymer battery",
+        "LED",
+        "AA x 3"
+      ]
+    },
+    {
+      "name": "Thread Size",
+      "occurrence": 120,
+      "frequency_pct": 0.01,
+      "examples": [
+        "M 4",
+        "M3",
+        "M 2",
+        "M 5",
+        "M 3",
+        "M4",
+        "M5",
+        "#4-40",
+        "#2-56",
+        "3x15",
+        "M2",
+        "3x10",
+        "M2.5",
+        "6",
+        "MT410"
+      ]
+    },
+    {
+      "name": "Zoom Type",
+      "occurrence": 119,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Digital Zoom",
+        "Digital",
+        "Optical Zoom",
+        "4X digital zoom"
+      ]
+    },
+    {
+      "name": "Color Code",
+      "occurrence": 119,
+      "frequency_pct": 0.01,
+      "examples": [
+        "#000000",
+        "Multi",
+        "Assorted",
+        "Yellow",
+        "Red",
+        "Blue",
+        "White",
+        "Multicolor",
+        "1",
+        "Multicolored",
+        "Violet",
+        "Green",
+        "Magenta",
+        "multi",
+        "Silver"
+      ]
+    },
+    {
+      "name": "Number of Keys",
+      "occurrence": 116,
+      "frequency_pct": 0.01,
+      "examples": [
+        "61",
+        "37",
+        "49",
+        "88",
+        "25",
+        "32",
+        "30",
+        "54",
+        "16",
+        "24",
+        "44",
+        "8",
+        "3",
+        "104",
+        "4"
+      ]
+    },
+    {
+      "name": "Handle Diameter",
+      "occurrence": 115,
+      "frequency_pct": 0.01,
+      "examples": [
+        "26 month",
+        "38 month",
+        "1 inch",
+        "10cm",
+        "22 86 month",
+        "35 56 month",
+        "0.94 inch",
+        "3.1 inch",
+        "1.6 inch",
+        "10 cm",
+        "12cm",
+        "1 5 inch",
+        "5.5 inch",
+        "1.5",
+        "1 3 inch"
+      ]
+    },
+    {
+      "name": "Instrument",
+      "occurrence": 115,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Ukulele",
+        "Guitar, Ukulele",
+        "Guitar",
+        "Piano",
+        "Harp",
+        "Drum",
+        "Banjo",
+        "Cello",
+        "Piano, Electronic keyboard",
+        "Digital Piano",
+        "Piano, Digital Piano",
+        "Trumpet",
+        "Saxophone",
+        "Attribute not applicable for product",
+        "ukulele"
+      ]
+    },
+    {
+      "name": "Type of Bulb",
+      "occurrence": 112,
+      "frequency_pct": 0.01,
+      "examples": [
+        "LED",
+        "Light Emitting Diode",
+        "Led",
+        "led",
+        "Neon",
+        "led_aquarium_light",
+        "Sun light",
+        "Energy Efficient",
+        "Neon, Fluorescent",
+        "Fluorescent",
+        "Led Lights",
+        "1",
+        "solar",
+        "No light",
+        "Red, lighted"
+      ]
+    },
+    {
+      "name": "Display Resolution Maximum",
+      "occurrence": 111,
+      "frequency_pct": 0.01,
+      "examples": [
+        "FHD",
+        "FHD, HD",
+        "HD",
+        "1080 Pixels",
+        "1920*1080 Pixels",
+        "1920\u00d71080 Pixels",
+        "800 x 480 Pixels",
+        "1080 MP",
+        "1024 x 600",
+        "8 MP",
+        "1024x600 Pixels",
+        "1280*720",
+        "13M Pixels",
+        "640x480 Pixels",
+        "20 MP"
+      ]
+    },
+    {
+      "name": "Cable Type",
+      "occurrence": 111,
+      "frequency_pct": 0.01,
+      "examples": [
+        "USB",
+        "Coaxial",
+        "USB, Lightning",
+        "HDMI",
+        "USB, AUX",
+        "\u5176\u5b83",
+        "silicone cable",
+        "AUX",
+        "Silicone cable",
+        "\u6df7\u5408\u7269",
+        "Flexible",
+        "RC Lipo Battery Charger Adapter Connector",
+        "rc charger leads",
+        "flexible",
+        "other"
+      ]
+    },
+    {
+      "name": "Telescope Mount Description",
+      "occurrence": 111,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Altazimuth Mount",
+        "Equatorial Mount",
+        "Handheld",
+        "Non-Mountable Or No-Mounting Required.",
+        "Fixed Mount",
+        "Fixed",
+        "\u8d64\u9053\u4eea",
+        "Hand Vintage Telescope Pirate Decore",
+        "No Power Required",
+        "Tabletop tripod",
+        "\u4e0d\u9002\u7528",
+        "Extendable Altazimuth",
+        "Non-Mounting",
+        "Tripod Mount",
+        "Fits Vixen Super Polaris mounts."
+      ]
+    },
+    {
+      "name": "Band Color",
+      "occurrence": 110,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Black",
+        "Pink",
+        "black",
+        "blue",
+        "Blue",
+        "pink",
+        "Green",
+        "green",
+        "Orange",
+        "Purple",
+        "White, Red, Blue",
+        "Red",
+        "red",
+        "Multicolor",
+        "White"
+      ]
+    },
+    {
+      "name": "Expanded ISO Minimum",
+      "occurrence": 105,
+      "frequency_pct": 0.01,
+      "examples": [
+        "80",
+        "100"
+      ]
+    },
+    {
+      "name": "Maximum Rotational Speed",
+      "occurrence": 105,
+      "frequency_pct": 0.01,
+      "examples": [
+        "28000 RPM",
+        "16000 RPM",
+        "1800 RPM",
+        "27000 RPM",
+        "3500 RPM",
+        "2500 RPM",
+        "21000 RPM",
+        "10000 RPM",
+        "12000 RPM",
+        "6800 RPM",
+        "32000 RPM",
+        "14000 RPM",
+        "20000 RPM",
+        "17000 RPM",
+        "25000 RPM"
+      ]
+    },
+    {
+      "name": "Head Type",
+      "occurrence": 105,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Flat",
+        "Button",
+        "Socket",
+        "Hex",
+        "Round",
+        "Battle",
+        "Variety Pack",
+        "Hatchet",
+        "Cap",
+        "Foil",
+        "Rotary",
+        "Pan"
+      ]
+    },
+    {
+      "name": "Photo Sensor Size",
+      "occurrence": 104,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1/4-inch",
+        "1/2-inch",
+        "1-inch",
+        "Full Frame (35mm)",
+        "1.5-inch",
+        "1/1.2-inch",
+        "Smaller than 1/4-inch",
+        "1/3-inch",
+        "1/2.4-inch",
+        "2",
+        "APS-C",
+        "1/4-\u82f1\u5bf8",
+        "1/1.8-inch",
+        "CX",
+        "1/6.5-inch"
+      ]
+    },
+    {
+      "name": "Optical Tube Length",
+      "occurrence": 104,
+      "frequency_pct": 0.01,
+      "examples": [
+        "6 Inches",
+        "18 Inches",
+        "15 Inches",
+        "14 Inches",
+        "711 Millimeters",
+        "381 Millimeters",
+        "32 Inches",
+        "290 Millimeters",
+        "457 Millimeters",
+        "16 Inches",
+        "38 Millimeters",
+        "342 Millimeters",
+        "10 Inches",
+        "65 Inches",
+        "45 Millimeters"
+      ]
+    },
+    {
+      "name": "Headphones Jack",
+      "occurrence": 104,
+      "frequency_pct": 0.01,
+      "examples": [
+        "3 5mm Jack",
+        "Usb",
+        "3.5 mm Jack",
+        "USB",
+        "3.5 millimeters",
+        "3x",
+        "2.5 mm Jack",
+        "Micro usb",
+        "3 pin",
+        "Rca",
+        "Plug in",
+        "3-pin",
+        "Coaxial",
+        "Component"
+      ]
+    },
+    {
+      "name": "Item Thickness",
+      "occurrence": 103,
+      "frequency_pct": 0.01,
+      "examples": [
+        "2 Millimeters",
+        "1 Inches",
+        "2.5 Inches",
+        "3 Inches",
+        "4 Inches",
+        "10 Inches",
+        "8 Inches",
+        "5 Inches",
+        "10 Centimeters",
+        "2 Inches",
+        "12.38 Inches",
+        "7 Inches",
+        "4.7 Inches",
+        "6 Inches",
+        "0.5 Millimeters"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "occurrence": 102,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Android",
+        "Windows",
+        "Linux",
+        "IOS",
+        "Windows 7",
+        "Android 4.4 KitKat",
+        "Embedded",
+        "Android 2.3 Gingerbread",
+        "See Description",
+        "Windows 10",
+        "Electronic Games",
+        "Android 11",
+        "\u65e0",
+        "android",
+        "Android 5.1"
+      ]
+    },
+    {
+      "name": "Noise Level",
+      "occurrence": 101,
+      "frequency_pct": 0.01,
+      "examples": [
+        "50 dB",
+        "30 dB",
+        "25 dB",
+        "65 dB",
+        "20 dB",
+        "120 dB",
+        "1 dB",
+        "118 dB",
+        "70 dB",
+        "49 dB",
+        "105 dB",
+        "115 dB",
+        "60 dB",
+        "11857 dB",
+        "52 dB"
+      ]
+    },
+    {
+      "name": "Battery Cell Type",
+      "occurrence": 100,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Alkaline",
+        "Lithium Polymer",
+        "NiMH",
+        "Lithium Ion",
+        "Lithium",
+        "Polymer",
+        "Lithium Manganese Dioxide",
+        "Lithium Metal",
+        "Zinc",
+        "Silver Oxide",
+        "NiCAD",
+        "Zinc Carbon",
+        "Nickel Oxyhydroxide",
+        "Lead Acid",
+        "Lithium-Nickel Manganese Cobalt (NMC)"
+      ]
+    },
+    {
+      "name": "Image Stabilization",
+      "occurrence": 99,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Digital",
+        "\u5149\u5b66",
+        "\u6570\u5b57",
+        "Optical",
+        "None",
+        "NOT APPICABLE",
+        "\u4f20\u611f\u5668\u79fb\u4f4d",
+        "electronic"
+      ]
+    },
+    {
+      "name": "Best uses",
+      "occurrence": 98,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Dollhouse Decor",
+        "Toy Storage, Organization, Bathtub Holder, Shower Caddy, Misc Item Storage",
+        "reading",
+        "Reading",
+        "Party",
+        "Chewing, Sensory Play, Babywearing",
+        "Bath Toy Organizer",
+        "reading, board book, literacy",
+        "Car Toy",
+        "Promotes peacful and tranquil sleep",
+        "Entertainment",
+        "Dollhouse Decor, Pretend play",
+        "Mickey flash cards, educational flashcards, Mickey learning toys, minnie colors and shapes, mickey numbers and counting, early learning toys, basic concept flashcard, flashcards for toddlers 2-4, flashcards for kids, learning flash cards, mickey and friends learning, disney educational toys,",
+        "Bath Toys, Bath Scrub, Sensory Toy, Fidget Toy, Bathtub Toy",
+        "toy story book, toy story books, toy story books for toddlers, toy story books for kids, toy story book set, toy story book collection, toy story coloring book, toy story board book, toy story board books, toy story birthday party, toy story party supplies, toy story party favors, toy story gifts, my first books, my first book set, disney my first, disney board books, disney board books for toddlers, disney board books for babies, disney book set, disney books for toddlers, pixar books for toddlers, pixar board books, board books for toddler boys, board books for toddlers"
+      ]
+    },
+    {
+      "name": "Memory Slots Available",
+      "occurrence": 97,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "SD CARD SLOT"
+      ]
+    },
+    {
+      "name": "Battery Life",
+      "occurrence": 97,
+      "frequency_pct": 0.01,
+      "examples": [
+        "3 Hours",
+        "4 Hours",
+        "8 Hours",
+        "6 Hours",
+        "3 \tyears",
+        "2 Hours",
+        "20 seconds",
+        "5 Hours",
+        "1 Hours",
+        "2.5 Hours",
+        "4 \tyears",
+        "60 Hours",
+        "9 Hours",
+        "24 Hours",
+        "2 \tyears"
+      ]
+    },
+    {
+      "name": "Construction Type",
+      "occurrence": 97,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Handmade",
+        "Machine Made",
+        "Forged",
+        "Machine Wash",
+        "Coated",
+        "Cut-off Wheels",
+        "Inches",
+        "Stamped",
+        "rubber",
+        "Selfie",
+        "Rubber",
+        "Battery",
+        "battery",
+        "Floatie fun summer Raft Large swimsuit water pump gift sea lake"
+      ]
+    },
+    {
+      "name": "Number of Handles",
+      "occurrence": 96,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "name": "Gauge",
+      "occurrence": 96,
+      "frequency_pct": 0.01,
+      "examples": [
+        "14.0",
+        "22.0",
+        "16.0",
+        "20.0",
+        "10.0",
+        "26.0",
+        "18.0",
+        "12.0",
+        "24.0",
+        "8.0",
+        "23.0",
+        "12 NaN",
+        "30.0"
+      ]
+    },
+    {
+      "name": "Alarm Clock",
+      "occurrence": 95,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Grip Material",
+      "occurrence": 95,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Ethylene Vinyl Acetate Foam",
+        "Rubber",
+        "Plastic",
+        "Urethane",
+        "Acrylonitrile Butadiene Styrene",
+        "Silicone",
+        "Thermoplastic Elastomers",
+        "Soft",
+        "soft",
+        "Foam",
+        "Hard",
+        "Textured handle",
+        "Beach balls pool floats Inflatable water",
+        "Nylon",
+        "Synthetic Rubber"
+      ]
+    },
+    {
+      "name": "Lock Type",
+      "occurrence": 95,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Key Lock",
+        "Key",
+        "Push Button",
+        "Combination Lock",
+        "Slide",
+        "Wire",
+        "Flip",
+        "Combination",
+        "Screw",
+        "Electronic",
+        "Twist",
+        "Quick",
+        "Electronic, Key",
+        "Combination, Electronic",
+        "Combination, Key"
+      ]
+    },
+    {
+      "name": "Frequency Range",
+      "occurrence": 94,
+      "frequency_pct": 0.01,
+      "examples": [
+        "400 - 470 MHz",
+        "462.5625- 462.7125 MHz",
+        "FRS",
+        "400 470 mhz",
+        "462.5625",
+        "462-467MHz",
+        "60 hertz",
+        "500 mhz",
+        "462.55 - 462.725",
+        "446.00625MHz - 446.09375MHz, 467.5625MHz - 467.7125MHz, 462.5625MHz - 462.7250MHz",
+        "400 stopa",
+        "462.5625MHz~ 462.7125MHz",
+        "462 mhz",
+        "462.5500-462.7250MHz ,467.5625-467.7125MHz",
+        "5 8 ghz"
+      ]
+    },
+    {
+      "name": "Is Electric",
+      "occurrence": 94,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Number of Drawers",
+      "occurrence": 93,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "5",
+        "6",
+        "3",
+        "10",
+        "9",
+        "1, 2",
+        "200",
+        "500",
+        "16",
+        "3, 4",
+        "2, 4",
+        "4",
+        "100"
+      ]
+    },
+    {
+      "name": "Item Hardness",
+      "occurrence": 93,
+      "frequency_pct": 0.01,
+      "examples": [
+        "9H",
+        "HB",
+        "H",
+        "soft",
+        "2B",
+        "Soft"
+      ]
+    },
+    {
+      "name": "Antenna",
+      "occurrence": 91,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Radio",
+        "Television",
+        "fpv antenna",
+        "Fpv antenna",
+        "Internal Antenna",
+        "Television, Satellite",
+        "Satellite",
+        "Radio, Satellite",
+        "Triple Feed Patch Antenna"
+      ]
+    },
+    {
+      "name": "Is Oven Safe",
+      "occurrence": 91,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Main Power Connector Type",
+      "occurrence": 90,
+      "frequency_pct": 0.01,
+      "examples": [
+        "2 Pin",
+        "2 pin",
+        "USB",
+        "Auxillary Power Outlet"
+      ]
+    },
+    {
+      "name": "Lens Coating Description",
+      "occurrence": 90,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Fully Coated",
+        "Coated",
+        "Multi-Coated",
+        "Anti-Fog Coating",
+        "Fully Multi-Coated",
+        "Aluminum & Silicon Dioxide",
+        "Ultra-High Transmission Coated",
+        "Polished",
+        "Uncoated",
+        "Impact Resistant Coating"
+      ]
+    },
+    {
+      "name": "Series",
+      "occurrence": 87,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Warhammer 40k",
+        "AoS",
+        "Model VS 3001",
+        "Skin For DJI Mini 3 Pro",
+        "FBA_K000007",
+        "Warhammer 40000",
+        "RC Stunt Car",
+        "Newnaivete LCD Writing Tablet for Kids",
+        "Baby Dolls",
+        "RG351V",
+        "10920",
+        "Games Workshop - Warhammer 40,000 - Sector Imperialis Ruins",
+        "Magic Deer 1000 Piece Adult Puzzle",
+        "Warhammer",
+        "IPad 10.2 inch 2019 / 2020"
+      ]
+    },
+    {
+      "name": "Shaft Material",
+      "occurrence": 87,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Graphite",
+        "Wood",
+        "Alloy Steel",
+        "Metal",
+        "Stainless Steel",
+        "Plastic",
+        "Bamboo",
+        "Aluminum,Graphite",
+        "Aluminum",
+        "Steel",
+        "Aluminum, Carbon Fiber",
+        "Polypropylene",
+        "Plastic, Metal",
+        "Oak",
+        "Acrylonitrile Butadiene Styrene"
+      ]
+    },
+    {
+      "name": "Extended Length",
+      "occurrence": 86,
+      "frequency_pct": 0.01,
+      "examples": [
+        "110 Millimeters",
+        "40 Inches",
+        "150 Centimeters",
+        "105 Millimeters",
+        "110 Centimeters",
+        "37 Inches",
+        "36 Inches",
+        "115 Millimeters",
+        "51 Inches",
+        "100 Centimeters",
+        "90 Millimeters",
+        "97 Centimeters",
+        "43 Inches",
+        "110 Inches",
+        "100 Millimeters"
+      ]
+    },
+    {
+      "name": "Inner Material",
+      "occurrence": 86,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Nylon",
+        "Wood",
+        "Metal",
+        "Rubber",
+        "Leather",
+        "Foam",
+        "Expanded Polystyrene",
+        "Cotton",
+        "Polyester",
+        "Plastic",
+        "Metal, Wood",
+        "Nylon,Rubber",
+        "plastic",
+        "Aluminum",
+        "Silicone"
+      ]
+    },
+    {
+      "name": "Capacity Total",
+      "occurrence": 86,
+      "frequency_pct": 0.01,
+      "examples": [
+        "17 Liters",
+        "20 Liters",
+        "3.5 Liters",
+        "16 Liters",
+        "3 Gallons",
+        "5 Liters",
+        "11 Liters",
+        "1 Liters",
+        "30 Liters",
+        "10 Liters",
+        "23 Liters",
+        "34 Liters",
+        "3456 Cubic Inches",
+        "4 Liters",
+        "11.8 Liters"
+      ]
+    },
+    {
+      "name": "Instrument Key",
+      "occurrence": 86,
+      "frequency_pct": 0.01,
+      "examples": [
+        "A",
+        "Tunable",
+        "C",
+        "G",
+        "D",
+        "E Flat",
+        "4 Tone",
+        "A-flat"
+      ]
+    },
+    {
+      "name": "Ultraviolet Light Protection",
+      "occurrence": 84,
+      "frequency_pct": 0.01,
+      "examples": [
+        "True",
+        "UV Protection",
+        "False",
+        "uv protection",
+        "Anti UV",
+        "UV ray",
+        "Yes",
+        "Uv protection",
+        "50+",
+        "true"
+      ]
+    },
+    {
+      "name": "Max Number of Supported Devices",
+      "occurrence": 84,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "8",
+        "2"
+      ]
+    },
+    {
+      "name": "Tread Depth",
+      "occurrence": 84,
+      "frequency_pct": 0.01,
+      "examples": [
+        "12 Millimeters",
+        "3 Inches",
+        "1 Inches",
+        "10 32nds",
+        "11 32nds",
+        "1 32nds",
+        "1.5 Inches",
+        "16 32nds",
+        "18 Millimeters",
+        "8 Millimeters",
+        "9 32nds",
+        "11.6 32nds",
+        "16.1 32nds",
+        "9.6 32nds",
+        "12 32nds"
+      ]
+    },
+    {
+      "name": "Display resolution",
+      "occurrence": 82,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1024 x 600",
+        "1024x600",
+        "3840\u00d72160"
+      ]
+    },
+    {
+      "name": "Remote Control Technology",
+      "occurrence": 82,
+      "frequency_pct": 0.01,
+      "examples": [
+        "WIFI",
+        "IR",
+        "Radio",
+        "2.4G",
+        "2.4GHz",
+        "Bluetooth",
+        "1",
+        "radio",
+        "Remote Control",
+        "Wifi",
+        "2.4 GHz WiFi",
+        "2.4GHz Remote Controller",
+        "RC",
+        "Wi-Fi",
+        "wifi"
+      ]
+    },
+    {
+      "name": "Warranty",
+      "occurrence": 80,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1 year limited warranty",
+        "1 year warranty",
+        "1 Year",
+        "limited 1 year warranty",
+        "1",
+        "2 year",
+        "30-day Money Back & 12-Month Defect Warranty.",
+        "1 year",
+        "All FOREDOM walkie talkies have 1 year warranty, 100% satisfaction and zero hassle returns guaranteed.",
+        "30 days manufacturer",
+        "One year warranty",
+        "Manufacturer warranty for 2 years from date of purchase.",
+        "1 YEAR",
+        "30-day money-back guarantee for any reason, 18-month warranty for quality-related issues.",
+        "18 months"
+      ]
+    },
+    {
+      "name": "Item Display Dimensions",
+      "occurrence": 79,
+      "frequency_pct": 0.01,
+      "examples": [
+        "5 x 3 x 0.2 inches",
+        "3.15 x 3.15 x 3.15 inches",
+        "39.37 x 39.37 x 39.37 x 19.69 inches",
+        "3 x 4 x 5 inches",
+        "11.5 x 8.5 x 0.25 inches",
+        "3.15 x 1.97 x 5 x 2 inches",
+        "0.39 inches",
+        "1.5 x 6.5 x 8.9 inches",
+        "6 x 4.5 x 1.3 inches",
+        "1.18 x 2.17 x 1.57 inches",
+        "4 x 0.5 x 4 inches",
+        "1 x 1 x 1 inches",
+        "0.3 x 2 x 9.5 inches",
+        "11.81 x 11.81 x 1.18 inches",
+        "3 x 3 x 2.34 x 2.5 inches"
+      ]
+    },
+    {
+      "name": "Zoom Ratio",
+      "occurrence": 79,
+      "frequency_pct": 0.01,
+      "examples": [
+        "10 multiplier x",
+        "20 multiplier x",
+        "12 multiplier x",
+        "15 multiplier x",
+        "30 multiplier x",
+        "40 multiplier x",
+        "25 multiplier x",
+        "8 multiplier x",
+        "42 multiplier x",
+        "150 multiplier x",
+        "18 multiplier x",
+        "8 multiplier_x",
+        "120 multiplier x",
+        "9 multiplier x",
+        "640 multiplier x"
+      ]
+    },
+    {
+      "name": "Screen Surface Description",
+      "occurrence": 79,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Glossy",
+        "Smooth",
+        "Matte",
+        "smooth",
+        "Super Clear"
+      ]
+    },
+    {
+      "name": "Diameter",
+      "occurrence": 79,
+      "frequency_pct": 0.01,
+      "examples": [
+        "12 Inches",
+        "9 Inches",
+        "8 Inches",
+        "4 Inches",
+        "13 Inches",
+        "10 Inches",
+        "11 Inches",
+        "4.5 Inches",
+        "3 Inches",
+        "2.5 Inches",
+        "15.5 Centimeters",
+        "6 Inches",
+        "7 Inches",
+        "16 Inches",
+        "2 Inches"
+      ]
+    },
+    {
+      "name": "Wheel Type",
+      "occurrence": 78,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Solid",
+        "Aluminium",
+        "Inline Skate Wheel",
+        "Pneumatic",
+        "Polyurethane",
+        "Roller Skate Wheel",
+        "Alloy Steel",
+        "Rollerboard",
+        "Plastic"
+      ]
+    },
+    {
+      "name": "Is Foldable",
+      "occurrence": 78,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Wheel Material",
+      "occurrence": 77,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Polyurethane",
+        "Rubber",
+        "Ethylene Vinyl Acetate (EVA)",
+        "Polypropylene (PP)",
+        "Alloy Steel",
+        "Polypropylene",
+        "Polyvinyl Chloride (PVC)",
+        "PU",
+        "Aluminum",
+        "ABS",
+        "Deck only - wheels not included"
+      ]
+    },
+    {
+      "name": "Digital Zoom",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "4 x",
+        "8 x",
+        "4.00",
+        "1 x",
+        "3 x",
+        "10 x",
+        "20 x",
+        "8 Millimeters",
+        "4.0",
+        "0.1",
+        "8.00",
+        "2 x",
+        "3.00",
+        "4",
+        "6.0"
+      ]
+    },
+    {
+      "name": "Total USB Ports",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "name": "OEM Part Number",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "IN-26/2020",
+        "345",
+        "VPADICEDGYL",
+        "8610",
+        "95550-39000",
+        "E301520400",
+        "8880",
+        "581103",
+        "90999-00085",
+        "7460R",
+        "0",
+        "8995A",
+        "6832G",
+        "27-0005",
+        "8133"
+      ]
+    },
+    {
+      "name": "Proficiency Level",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Beginner",
+        "All",
+        "Novice",
+        "Intermediate",
+        "Expert",
+        "Student, Teacher, Kids",
+        "Piano,music",
+        "Guitar\uff0cUkulele\uff0cmusic",
+        "Girls, Children, Kids, Boys, Toddlers",
+        "Girls, boys, kids, toddlers, children",
+        "boys, girls, kids, toddlers, children",
+        "Professional",
+        "Preschoolers to adults"
+      ]
+    },
+    {
+      "name": "Breed Recommendation",
+      "occurrence": 74,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Small Breeds",
+        "All Breed Sizes",
+        "Large Breeds",
+        "Medium Breeds",
+        "Medium Breeds, Small Breeds",
+        "Large Breeds, Medium Breeds",
+        "Toy Breeds",
+        "Large Breeds, Small Breeds",
+        "\u6240\u6709\u54c1\u79cd\u89c4\u683c",
+        "Small Breed, Medium Breeds",
+        "Small",
+        "Large BreedS, Medium Breeds, Small"
+      ]
+    },
+    {
+      "name": "Audio Input",
+      "occurrence": 73,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Microphone",
+        "RCA"
+      ]
+    },
+    {
+      "name": "Built-in Light",
+      "occurrence": 73,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Pile Height",
+      "occurrence": 73,
+      "frequency_pct": 0.01,
+      "examples": [
+        "High Pile",
+        "Low Pile",
+        "Medium Pile",
+        "Small Pile",
+        "2",
+        "Inches",
+        "\u77ed\u7ed2"
+      ]
+    },
+    {
+      "name": "Lift Type",
+      "occurrence": 73,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Manual",
+        "Automatic",
+        "Power",
+        "manual",
+        "Push",
+        "Friction",
+        "ON-OFF",
+        "Electric",
+        "FLY"
+      ]
+    },
+    {
+      "name": "Edition",
+      "occurrence": 72,
+      "frequency_pct": 0.01,
+      "examples": [
+        "First Edition",
+        "2nd Edition",
+        "Standard Edition",
+        "Classic Edition",
+        "Family Edition",
+        "Kids Edition",
+        "Special Edition",
+        "Destination: Space",
+        "Standard",
+        "6th Edition",
+        "2015 Newly Revised and Updated Version",
+        "Gold & Silver Edition",
+        "1982",
+        "ENGLISH",
+        "Without LED Light"
+      ]
+    },
+    {
+      "name": "Cooling Method",
+      "occurrence": 72,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Air",
+        "Water",
+        "Water, Air",
+        "\u98ce\u6247",
+        "Wind"
+      ]
+    },
+    {
+      "name": "Back Material",
+      "occurrence": 71,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Basswood",
+        "Acrylonitrile Butadiene Styrene",
+        "Wood",
+        "Select Wood",
+        "Plastic",
+        "Sycamore",
+        "Mahogany",
+        "Acrylic",
+        "Paulownia",
+        "Rosewood, Mahogany Wood",
+        "Agathis Wood",
+        "Hardwood",
+        "Acrylonitrile Butadiene Styrene, Wood",
+        "birch",
+        "Mahogany Wood"
+      ]
+    },
+    {
+      "name": "Band Material Type",
+      "occurrence": 71,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Silicone",
+        "Aluminum",
+        "Plastic,Silicone",
+        "Dow Corning food grade silicone",
+        "Nylon",
+        "Cotton",
+        "Polyester",
+        "PVC",
+        "Silicon",
+        "Leather",
+        "Metal",
+        "Metal,Silicone",
+        "Rubber",
+        "Acrylic",
+        "Aluminum Alloy"
+      ]
+    },
+    {
+      "name": "Water Resistance Depth",
+      "occurrence": 70,
+      "frequency_pct": 0.01,
+      "examples": [
+        "100 Meters",
+        "30 Meters",
+        "100 Feet",
+        "98 Feet",
+        "0.01 Meters",
+        "50 Feet",
+        "50 Meters",
+        "200 Meters"
+      ]
+    },
+    {
+      "name": "Connectivity technologies",
+      "occurrence": 69,
+      "frequency_pct": 0.01,
+      "examples": [
+        "USB",
+        "Wired",
+        "Ethernet",
+        "Cellular",
+        "Wi-Fi",
+        "Bluetooth",
+        "Infrared",
+        "Bluetooth, USB",
+        "Cellular, USB",
+        "Cellular, USB, GPS",
+        "USB, GPS",
+        "Bluetooth, wireless",
+        "Bluetooth 4.0",
+        "HDMI",
+        "Waterproof"
+      ]
+    },
+    {
+      "name": "Handlebar Type",
+      "occurrence": 68,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Adjustable",
+        "Fixed",
+        "Detachable"
+      ]
+    },
+    {
+      "name": "Minimum Height",
+      "occurrence": 68,
+      "frequency_pct": 0.01,
+      "examples": [
+        "3 Feet",
+        "2 Feet",
+        "5.5 Inches",
+        "3.5 Feet",
+        "7.5 Centimeters",
+        "100 Centimeters",
+        "5 Feet",
+        "73 Millimeters",
+        "4 Feet",
+        "76 Centimeters",
+        "35.8 Inches",
+        "30 Inches",
+        "5.5 Feet",
+        "45 Inches",
+        "63 Inches"
+      ]
+    },
+    {
+      "name": "Input Device",
+      "occurrence": 68,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Gamepad",
+        "Joystick",
+        "Gamepad, Joystick"
+      ]
+    },
+    {
+      "name": "Handle Type",
+      "occurrence": 68,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Web Handle",
+        "Manual-Retractable",
+        "Pull Handle",
+        "Lever",
+        "Knob",
+        "Long, Adjustable",
+        "Knob, Pull Handle",
+        "Wrap Handle",
+        "Ergonomical",
+        "short",
+        "shorter handle",
+        "Push Handles",
+        "Triangular Handle",
+        "Telescopic Handle",
+        "Sensor, Lever"
+      ]
+    },
+    {
+      "name": "Focal Length Description",
+      "occurrence": 68,
+      "frequency_pct": 0.01,
+      "examples": [
+        "400 millimeters",
+        "600 millimeters",
+        "360 millimeters",
+        "170 millimeters",
+        "700 millimeters",
+        "40 millimeters",
+        "1000 millimeters",
+        "300 millimeters",
+        "350 millimeters",
+        "9 millimeters",
+        "32 millimeters",
+        "1200 millimeters",
+        "1400 millimeters",
+        "700 month",
+        "Convex lens"
+      ]
+    },
+    {
+      "name": "String Material",
+      "occurrence": 67,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Nylon",
+        "Alloy Steel",
+        "Steel",
+        "Nickel",
+        "Phosphor Bronze",
+        "Stainless Steel",
+        "Brass",
+        "Bronze"
+      ]
+    },
+    {
+      "name": "Product Benefits",
+      "occurrence": 67,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Softening",
+        "Clean",
+        "Brightening",
+        "Moisturizing",
+        "Smoothing",
+        "Detangle",
+        "Relaxing,Soothing",
+        "Soothing,Clean",
+        "Smoothening",
+        "Softening,Cold",
+        "Stress Relief",
+        "Smudge Proof,Long Lasting",
+        "Shine",
+        "Flawless",
+        "Allergic"
+      ]
+    },
+    {
+      "name": "Specification met",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Certified frustration-free",
+        "certified frustration-free",
+        "(unset)",
+        "No"
+      ]
+    },
+    {
+      "name": "National Stock Number",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "pop toy",
+        "0",
+        "N95 MASK CONTACT LENSE GUNS Insecticide",
+        "7520-01-507-6965",
+        "fidget spinner",
+        "7820-01-628-9433",
+        "7520-01-316-5991",
+        "123",
+        "3439-00-132-1331",
+        "7035-01-580-3349",
+        "5935-01-608-5591",
+        "dancing cactus",
+        "7510-01-540-2301",
+        "SDKJK-SDKJL-64564",
+        "130"
+      ]
+    },
+    {
+      "name": "Specifications",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Certified frustration-free",
+        "certified frustration-free",
+        "(unset)",
+        "AS",
+        "ASTM",
+        "CPSIA, ASTM, F963-17",
+        "CPC",
+        "CE, FCC",
+        "Dsm"
+      ]
+    },
+    {
+      "name": "Top Material",
+      "occurrence": 64,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Basswood",
+        "Medium",
+        "Spruce",
+        "Select Wood",
+        "Acrylic",
+        "Plastic",
+        "Sycamore",
+        "Rosewood",
+        "Paulownia Wood",
+        "Wood",
+        "Durable Plastic Costruction",
+        "Mahogany",
+        "plastic",
+        "Aluminum",
+        "Rose Wood, Spruce Plywood, Mahogany Wood, Spruce Wood"
+      ]
+    },
+    {
+      "name": "Number of Ports",
+      "occurrence": 64,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "8",
+        "5",
+        "7",
+        "6"
+      ]
+    },
+    {
+      "name": "With Lid",
+      "occurrence": 64,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Denomination Unit",
+      "occurrence": 64,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Half Dollar",
+        "Dollar",
+        "Quarter",
+        "GP",
+        "Penny",
+        "Cent",
+        "Nickel",
+        "Rupee",
+        "6",
+        "6c"
+      ]
+    },
+    {
+      "name": "String Material Type",
+      "occurrence": 63,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Nylon",
+        "Alloy Steel",
+        "Nickel",
+        "Steel",
+        "Phosphor Bronze",
+        "Bronze",
+        "Attribute not applicable for product",
+        "Stainless Steel",
+        "Brass"
+      ]
+    },
+    {
+      "name": "Pitch Circle Diameter",
+      "occurrence": 63,
+      "frequency_pct": 0.01,
+      "examples": [
+        "127 Millimeters",
+        "100 Millimeters",
+        "110 Millimeters",
+        "120 Millimeters",
+        "108 Millimeters",
+        "90 Millimeters",
+        "17 Millimeters",
+        "1 Inches",
+        "115 Millimeters",
+        "130 Millimeters",
+        "114 Millimeters",
+        "8 Millimeters",
+        "96 Millimeters",
+        "170 Millimeters",
+        "111 Millimeters"
+      ]
+    },
+    {
+      "name": "Bulb Features",
+      "occurrence": 63,
+      "frequency_pct": 0.01,
+      "examples": [
+        "remote control",
+        "flashing",
+        "Flashing",
+        "Remote control",
+        "led flashing",
+        "Led flashing",
+        "3 Light Modes",
+        "flashing,remote control",
+        "rgb led",
+        "Flashing,remote control",
+        "2-way switching",
+        "Led flashing,remote control",
+        "Flashing,rgb",
+        "flashingblinkylights",
+        "vibrant colors"
+      ]
+    },
+    {
+      "name": "Measurement System",
+      "occurrence": 61,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Metric",
+        "Imperial",
+        "Inch",
+        "metric",
+        "inch",
+        "English",
+        "Inch/Metric",
+        "card binder",
+        "Inch, Metric"
+      ]
+    },
+    {
+      "name": "Amperage",
+      "occurrence": 60,
+      "frequency_pct": 0.01,
+      "examples": [
+        "20 Amps",
+        "2 Amps",
+        "22 Amps",
+        "1 Amps",
+        "40 Amps",
+        "3.7 Amps",
+        "1000 Milliamps",
+        "15 Amps",
+        "16 Amps",
+        "4 Amps",
+        "12 Amps",
+        "5 Amps",
+        "10 Amps",
+        "30 Amps",
+        "0.5 Amps"
+      ]
+    },
+    {
+      "name": "Grade",
+      "occurrence": 60,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Ungraded",
+        "A",
+        "2",
+        "Circulated",
+        "Not Rated",
+        "Good",
+        "Mint State"
+      ]
+    },
+    {
+      "name": "Specialty",
+      "occurrence": 60,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Non Toxic",
+        "Vegan",
+        "Vegetarian",
+        "Organic",
+        "Edible",
+        "Certified Organic",
+        "Kosher",
+        "No Preservatives",
+        "natural",
+        "Garlic",
+        "Soup",
+        "Fat Gravy",
+        "Coconut",
+        "Natural",
+        "Hypoallergenic"
+      ]
+    },
+    {
+      "name": "Exposure Control Type",
+      "occurrence": 59,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Automatic",
+        "\u81ea\u52a8",
+        "Manual",
+        "Manual, Automatic",
+        "NOT APPICABLE"
+      ]
+    },
+    {
+      "name": "Maximum Focal Length",
+      "occurrence": 59,
+      "frequency_pct": 0.01,
+      "examples": [
+        "50 Millimeters",
+        "45 Millimeters",
+        "20 Millimeters",
+        "60 Millimeters",
+        "75 Millimeters",
+        "100 Millimeters",
+        "105 Millimeters",
+        "16 Millimeters",
+        "140 Millimeters",
+        "42 Millimeters",
+        "23 Millimeters",
+        "55 Millimeters",
+        "80 Millimeters",
+        "1",
+        "30 Millimeters"
+      ]
+    },
+    {
+      "name": "Use for",
+      "occurrence": 59,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Neck",
+        "Back",
+        "Whole Body",
+        "Ankle",
+        "Face",
+        "Hand",
+        "Hands",
+        "Shoulders, Neck",
+        "Head",
+        "Feet",
+        "Back, Neck",
+        "Stomach",
+        "Legs, Back",
+        "Head, Back",
+        "Body"
+      ]
+    },
+    {
+      "name": "Number of settings",
+      "occurrence": 57,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "42",
+        "5",
+        "25",
+        "7",
+        "20",
+        "8"
+      ]
+    },
+    {
+      "name": "Neck Material Type",
+      "occurrence": 56,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Maple",
+        "Mahogany",
+        "Wood",
+        "Plastic",
+        "Acrylic",
+        "Rock Maple",
+        "Birch",
+        "Basswood",
+        "Solid Maple",
+        "Nato Wood",
+        "Hardwood",
+        "Silicone",
+        "Ads",
+        "Catalpa Wood",
+        "Nato"
+      ]
+    },
+    {
+      "name": "Has Image Stabilization",
+      "occurrence": 55,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Guitar Bridge System",
+      "occurrence": 54,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Fixed",
+        "Adjustable",
+        "Standard",
+        "Standard Acoustic",
+        "Individual Adjustable Bridge System",
+        "Hard Tail",
+        "Yes",
+        "Plastic",
+        "Wood",
+        "Tune-o-Matic w/String-Thru-Body",
+        "Compensated Wraparound",
+        "Hardtail String-Thru Body",
+        "Bigsby B-50 Vibrato w/Adjustable Roller Saddle Tune-o-Matic",
+        "Stop Tail",
+        "bridge"
+      ]
+    },
+    {
+      "name": "Rounds",
+      "occurrence": 54,
+      "frequency_pct": 0.01,
+      "examples": [
+        "6",
+        "10",
+        "20",
+        "12",
+        "8",
+        "100",
+        "5",
+        "50",
+        "1500",
+        "2",
+        "72",
+        "15",
+        "300"
+      ]
+    },
+    {
+      "name": "Bowl Material",
+      "occurrence": 53,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Plastic",
+        "Wood",
+        "Ceramic",
+        "Stoneware",
+        "Glass",
+        "Porcelain",
+        "Bamboo",
+        "Polypropylene, polyethylene terephthalate",
+        "Polyester",
+        "Paper",
+        "Silicone",
+        "Aluminum",
+        "Stone"
+      ]
+    },
+    {
+      "name": "Operating Voltage",
+      "occurrence": 53,
+      "frequency_pct": 0.01,
+      "examples": [
+        "12 Volts",
+        "250 Volts",
+        "6 Volts",
+        "5 Volts",
+        "120 Volts",
+        "125 Volts",
+        "20 Volts",
+        "12 Volts (DC)",
+        "35 Volts",
+        "1.2 Volts",
+        "175 Volts",
+        "22.8 Volts",
+        "9 Volts",
+        "380 Volts",
+        "63 Volts"
+      ]
+    },
+    {
+      "name": "Label",
+      "occurrence": 53,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Funko",
+        "EBE EmmasbyEmma",
+        "VeryMerryMakering",
+        "Qeho",
+        "S&J Brands LLC",
+        "Papo",
+        "FANTASY FLIGHT GAMES",
+        "BAZIC Products",
+        "Intex Recreation Corp.",
+        "Tanlling",
+        "Bazic Stationery/Bangkit USA Corporation",
+        "Flocovers",
+        "EmmasByEmma",
+        "Top Race",
+        "Asmodee"
+      ]
+    },
+    {
+      "name": "Lens Color",
+      "occurrence": 52,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Clear",
+        "Red",
+        "Blue",
+        "Green",
+        "White, Green, Blue, Red, Ice Blue, Yellow, Purple, Cyan",
+        "Multicolor",
+        "Transparent",
+        "White",
+        "Yellow",
+        "Smoke"
+      ]
+    },
+    {
+      "name": "Insulation Material",
+      "occurrence": 52,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Polyvinyl Chloride",
+        "Vinyl",
+        "Plastic",
+        "Nylon",
+        "nylon"
+      ]
+    },
+    {
+      "name": "Seat Material Type",
+      "occurrence": 51,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Wood",
+        "Vinyl",
+        "Plastic",
+        "Polyester",
+        "Foam",
+        "Leather",
+        "Polyethylene (PE)",
+        "Memory Foam",
+        "PU Leather + Foam",
+        "Nylon",
+        "Polycarbonate",
+        "Rattan",
+        "Stainless Steel",
+        "Fabric"
+      ]
+    },
+    {
+      "name": "Installation Method",
+      "occurrence": 51,
+      "frequency_pct": 0.01,
+      "examples": [
+        "InstallationMethod",
+        "Pre-Pasted",
+        "Stick",
+        "self-adhesive",
+        "Self-Adhesive",
+        "Click",
+        "Peel and Stick",
+        "Tabletop",
+        "Double",
+        "floating",
+        "Undermount, Drop In",
+        "Adhesive",
+        "Centerpiece",
+        "Freestanding",
+        "Tape"
+      ]
+    },
+    {
+      "name": "RAM",
+      "occurrence": 51,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1 GB",
+        "8 GB",
+        "16 GB",
+        "2 KB",
+        "64 GB",
+        "8 KB",
+        "1 GB DRAM",
+        "8",
+        "2 GB DDR4",
+        "LPDDR4",
+        "16 KB",
+        "1",
+        "1 MB",
+        "DDR4",
+        "32 MB"
+      ]
+    },
+    {
+      "name": "Distinctive feature",
+      "occurrence": 50,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Non Toxic",
+        "Gluten-free",
+        "Vegetarian",
+        "Natural",
+        "Biodegradable",
+        "Nature",
+        "21st birthday gifts for women, 21st birthday party"
+      ]
+    },
+    {
+      "name": "Section Width",
+      "occurrence": 50,
+      "frequency_pct": 0.01,
+      "examples": [
+        "235 Millimeters",
+        "225 Millimeters",
+        "265 Millimeters",
+        "245 Millimeters",
+        "275 Millimeters",
+        "12.5 Inches",
+        "255 Millimeters",
+        "145 Millimeters",
+        "15 Inches",
+        "180 Millimeters",
+        "10 Inches",
+        "295 Inches",
+        "10.9 Inches",
+        "8.9 Millimeters",
+        "8.98 Millimeters"
+      ]
+    }
+  ]
+}

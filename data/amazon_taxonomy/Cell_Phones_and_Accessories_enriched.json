@@ -1,0 +1,5976 @@
+{
+  "category": "Cell_Phones_and_Accessories",
+  "total_items_scanned": 1288490,
+  "total_unique_keys": 300,
+  "attributes": [
+    {
+      "name": "Date First Available",
+      "occurrence": 1232166,
+      "frequency_pct": 95.63,
+      "examples": [
+        "June 16, 2016",
+        "July 26, 2016",
+        "July 28, 2018",
+        "October 11, 2016",
+        "January 27, 2015",
+        "May 24, 2018",
+        "October 7, 2016",
+        "December 8, 2016",
+        "January 10, 2021",
+        "September 14, 2016",
+        "June 11, 2019",
+        "October 27, 2016",
+        "October 12, 2016",
+        "November 4, 2018",
+        "July 31, 2018"
+      ]
+    },
+    {
+      "name": "Manufacturer",
+      "occurrence": 1147494,
+      "frequency_pct": 89.06,
+      "examples": [
+        "PopSockets",
+        "Generic",
+        "CoverON",
+        "Samsung",
+        "Asuwish",
+        "BENTOBEN",
+        "MyBat",
+        "KW-Commerce",
+        "Skinomi",
+        "OtterBox",
+        "Zizo",
+        "Skinit",
+        "Incipio",
+        "Spigen",
+        "Eagle Cell"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 1059194,
+      "frequency_pct": 82.2,
+      "examples": [
+        "2.39 ounces",
+        "3.2 ounces",
+        "1.6 ounces",
+        "1.76 ounces",
+        "0.48 ounces",
+        "2.08 ounces",
+        "0.8 ounces",
+        "0.023 ounces",
+        "1.58 ounces",
+        "0.353 ounces",
+        "0.634 ounces",
+        "1.44 ounces",
+        "0.81 ounces",
+        "2.4 ounces",
+        "3.52 ounces"
+      ]
+    },
+    {
+      "name": "Other display features",
+      "occurrence": 1018001,
+      "frequency_pct": 79.01,
+      "examples": [
+        "Wireless",
+        "CE",
+        "Wireless Phone Accessory",
+        "Book",
+        "Sports",
+        "Network Media Player",
+        "Apparel",
+        "PC Accessory",
+        "Photography",
+        "Personal Computer",
+        "Home",
+        "BISS Basic",
+        "Speakers",
+        "Beauty",
+        "Office Product"
+      ]
+    },
+    {
+      "name": "Brand",
+      "occurrence": 816850,
+      "frequency_pct": 63.4,
+      "examples": [
+        "Generic",
+        "Asuwish",
+        "OtterBox",
+        "MYBAT",
+        "SAMSUNG",
+        "BENTOBEN",
+        "CoverON",
+        "Spigen",
+        "Supershieldz",
+        "Head Case Designs",
+        "Skinomi",
+        "Incipio",
+        "Eagle Cell",
+        "Harryshell",
+        "J&D"
+      ]
+    },
+    {
+      "name": "Color",
+      "occurrence": 740359,
+      "frequency_pct": 57.46,
+      "examples": [
+        "Black",
+        "Blue",
+        "Clear",
+        "Red",
+        "White",
+        "Pink",
+        "Purple",
+        "Green",
+        "Rose Gold",
+        "Silver",
+        "black",
+        "Brown",
+        "Gold",
+        "Transparent",
+        "Gray"
+      ]
+    },
+    {
+      "name": "Compatible Phone Models",
+      "occurrence": 653380,
+      "frequency_pct": 50.71,
+      "examples": [
+        "IPhone 11",
+        "iPhone 11",
+        "Samsung Galaxy S9",
+        "IPhone XR",
+        "iPhone XR",
+        "Samsung Galaxy S10",
+        "Samsung Galaxy S7",
+        "Iphone",
+        "Samsung Galaxy S8",
+        "iPhone 12 Pro Max",
+        "IPhone 12 Pro Max",
+        "Samsung Galaxy S9 Plus",
+        "Samsung Galaxy Note 9",
+        "IPhone 6S, IPhone 6",
+        "iPhone 6S, iPhone 6"
+      ]
+    },
+    {
+      "name": "Material",
+      "occurrence": 644819,
+      "frequency_pct": 50.04,
+      "examples": [
+        "Thermoplastic Polyurethane",
+        "Tempered Glass",
+        "Silicone",
+        "Polycarbonate, Thermoplastic Polyurethane",
+        "Plastic",
+        "Faux Leather",
+        "Leather",
+        "Polycarbonate",
+        "TPU",
+        "TPU, Polycarbonate",
+        "Glass",
+        "Faux Leather, Leather",
+        "Rubber",
+        "Silicone, Polycarbonate",
+        "Silicone, Thermoplastic Polyurethane"
+      ]
+    },
+    {
+      "name": "Special features",
+      "occurrence": 630287,
+      "frequency_pct": 48.92,
+      "examples": [
+        "Shock-Absorbent",
+        "Expandable,Waterproof,Wireless Charger,Wireless Charging",
+        "Kickstand",
+        "Lightweight, Shock-Absorbent",
+        "Scratch Resistant",
+        "Lightweight",
+        "Screen Protector",
+        "Card Slot",
+        "Magnetic",
+        "Kickstand, Magnetic, Card Slot",
+        "Kickstand, Magnetic, Shock-Absorbent",
+        "9H Surface Hardness, Scratch Resistant",
+        "Durable",
+        "Kickstand, Shock-Absorbent",
+        "9H Surface Hardness"
+      ]
+    },
+    {
+      "name": "Form Factor",
+      "occurrence": 612484,
+      "frequency_pct": 47.54,
+      "examples": [
+        "Bumper",
+        "Case",
+        "Flip",
+        "Basic Case",
+        "Wallet",
+        "Pouch",
+        "Smartphone",
+        "Bumper, Flip",
+        "Pouch, Flip",
+        "Armband",
+        "Slate",
+        "In Ear",
+        "Bar",
+        "Pouch, Dry Bag",
+        "Cover"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 550596,
+      "frequency_pct": 42.73,
+      "examples": [
+        "15.99 x 8.99 x 1 inches",
+        "1.6 x 0.5 x 0.3 inches",
+        "11.5 x 1.1 x 5.8 inches",
+        "4.5 x 0.5 x 2.5 inches",
+        "6 x 4 x 1 inches",
+        "6 x 3 x 0.5 inches",
+        "15.9 x 7.9 x 1 inches",
+        "8 x 1 x 4 inches",
+        "6.97 x 3.94 x 0.67 inches",
+        "7.5 x 4.72 x 0.79 inches",
+        "7.09 x 3.94 x 0.59 inches",
+        "6.3 x 3.15 x 0.39 inches",
+        "5 x 3 x 0.5 inches",
+        "1 x 1 x 1 inches",
+        "5.91 x 3.15 x 0.39 inches"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 540629,
+      "frequency_pct": 41.96,
+      "examples": [
+        "260027",
+        "Other case",
+        "NTECeaq",
+        "KZ-02",
+        "1",
+        "iPhone 11",
+        "iPhone XR",
+        "iPhone 12 Pro Max",
+        "ntfdfh",
+        "iPhone 13 Pro Max",
+        "iPhone 11 Pro Max",
+        "Design Iphone Samsung Phone Case",
+        "TOOGOO",
+        "ipad mini",
+        "KZ-01"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 509464,
+      "frequency_pct": 39.54,
+      "examples": [
+        "4.3 x 3.4 x 0.3 inches",
+        "7.75 x 4.75 x 0.75 inches",
+        "7 x 4 x 1 inches",
+        "6 x 3 x 0.5 inches",
+        "1 x 1 x 1 inches",
+        "7 x 4 x 0.5 inches",
+        "6.3 x 3.94 x 0.59 inches",
+        "6 x 4 x 0.5 inches",
+        "7.09 x 3.94 x 0.59 inches",
+        "5 x 3 x 0.5 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "6 x 4 x 1 inches",
+        "5 x 3 x 1 inches",
+        "3 x 2 x 1 inches",
+        "1.57 x 0.79 x 0.39 inches"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 444033,
+      "frequency_pct": 34.46,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False",
+        "true",
+        "True"
+      ]
+    },
+    {
+      "name": "Best Sellers Rank",
+      "occurrence": 411609,
+      "frequency_pct": 31.95,
+      "examples": [
+        "{}",
+        "{'Cell Phones & Accessories': 114108, 'Smartwatch Bands': 6989}",
+        "{'Cell Phones & Accessories': 103077, 'Smartwatch Cases': 900}",
+        "{'Cell Phones & Accessories': 242000, 'Smartwatch Bands': 14011}",
+        "{'Cell Phones & Accessories': 131913, 'Cell Phone Basic Cases': 60000}",
+        "{'Cell Phones & Accessories': 257762, 'Cell Phone Basic Cases': 120680}",
+        "{'Cell Phones & Accessories': 321698, 'Cell Phone Basic Cases': 151454}",
+        "{'Cell Phones & Accessories': 249805, 'Flip Cell Phone Cases': 19327}",
+        "{'Cell Phones & Accessories': 136497, 'Cell Phone Basic Cases': 62482}",
+        "{'Cell Phones & Accessories': 342387, 'Flip Cell Phone Cases': 27124}",
+        "{'Cell Phones & Accessories': 3890, 'Cell Phone Basic Cases': 1181}",
+        "{'Cell Phones & Accessories': 169300, 'Smartwatch Bands': 9879}",
+        "{'Cell Phones & Accessories': 582600, 'Cell Phone Basic Cases': 282165}",
+        "{'Cell Phones & Accessories': 1172098, 'Cell Phone Basic Cases': 588658}",
+        "{'Cell Phones & Accessories': 535136, 'Cell Phone Basic Cases': 257965}"
+      ]
+    },
+    {
+      "name": "Whats in the box",
+      "occurrence": 342249,
+      "frequency_pct": 26.56,
+      "examples": [
+        "Kickstand",
+        "Screen Protector",
+        "PopSockets",
+        "Card Holder",
+        "Kickstand, Card Holder",
+        "Kickstand, Belt Clip",
+        "Belt Clip",
+        "Wallet",
+        "Case",
+        "Lanyard",
+        "Phone case",
+        "phone case",
+        "case",
+        "1",
+        "Screen protector"
+      ]
+    },
+    {
+      "name": "Compatible Devices",
+      "occurrence": 199580,
+      "frequency_pct": 15.49,
+      "examples": [
+        "Cellphone",
+        "Smartphones",
+        "Smartwatches",
+        "Smartphone",
+        "Watch",
+        "Cellular Phones",
+        "Smartwatch",
+        "Tablets",
+        "Tablet",
+        "Apple iphone 5",
+        "apple iphone 5",
+        "Earphones",
+        "apple iphone 4",
+        "Apple iphone 4",
+        "Mobile Phone"
+      ]
+    },
+    {
+      "name": "Special Feature",
+      "occurrence": 192186,
+      "frequency_pct": 14.92,
+      "examples": [
+        "Expandable,Waterproof,Wireless Charger,Wireless Charging",
+        "Scratch Resistant",
+        "Shock-Absorbent",
+        "9H Surface Hardness, Scratch Resistant",
+        "9H Surface Hardness",
+        "Screen Protector",
+        "Lightweight",
+        "Scratch resistant",
+        "Fast Charging",
+        "scratch resistant",
+        "Kickstand",
+        "Magnetic",
+        "Durable",
+        "Flexible",
+        "Card Slot"
+      ]
+    },
+    {
+      "name": "Pattern",
+      "occurrence": 125194,
+      "frequency_pct": 9.72,
+      "examples": [
+        "Solid",
+        "Floral",
+        "Cartoon",
+        "Animal Print",
+        "Marble",
+        "Striped",
+        "Geometric",
+        "Galaxy",
+        "Checkered",
+        "Stars",
+        "Polka Dots",
+        "Hearts",
+        "Animal",
+        "Camouflage",
+        "Chevron"
+      ]
+    },
+    {
+      "name": "Screen Size",
+      "occurrence": 79596,
+      "frequency_pct": 6.18,
+      "examples": [
+        "5.5 Inches",
+        "4.7 Inches",
+        "6.1 Inches",
+        "6.7 Inches",
+        "5.8 Inches",
+        "6.5 Inches",
+        "6.8 Inches",
+        "6.4 Inches",
+        "6.2 Inches",
+        "6 Inches",
+        "5 Inches",
+        "6.9 Inches",
+        "6.3 Inches",
+        "4 Inches",
+        "5.7 Inches"
+      ]
+    },
+    {
+      "name": "Screen Surface Description",
+      "occurrence": 68246,
+      "frequency_pct": 5.3,
+      "examples": [
+        "Glossy",
+        "Matte",
+        "Smooth",
+        "smooth",
+        "Smooth, Matte",
+        "9H",
+        "Scratch Resistant",
+        "Clear, Transparent",
+        "Glossy, Smooth",
+        "Glass Glossy",
+        "Clear, HD Clarity, Super Smooth",
+        "Glossy, Matte",
+        "Clear",
+        "Ballistic Tempered Glass",
+        "HD, anti-scratch, anti-fingerprint, anti-glare."
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 65135,
+      "frequency_pct": 5.06,
+      "examples": [
+        "China",
+        "USA",
+        "Korea, Republic of",
+        "Taiwan",
+        "Hong Kong",
+        "India",
+        "Vietnam",
+        "Germany",
+        "Turkey",
+        "United Kingdom",
+        "Australia",
+        "Lithuania",
+        "Poland",
+        "Canada",
+        "Ukraine"
+      ]
+    },
+    {
+      "name": "Theme",
+      "occurrence": 56189,
+      "frequency_pct": 4.36,
+      "examples": [
+        "No Theme",
+        "Floral",
+        "Animal",
+        "Insect",
+        "Space",
+        "Cartoon",
+        "Love",
+        "Anime",
+        "Skull",
+        "Sport",
+        "Flag",
+        "Bird",
+        "Car",
+        "Sparkle",
+        "Rainbow"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 55539,
+      "frequency_pct": 4.31,
+      "examples": [
+        "2",
+        "1",
+        "3",
+        "6",
+        "4",
+        "5",
+        "8",
+        "10",
+        "12",
+        "100",
+        "9",
+        "20",
+        "50",
+        "200",
+        "7"
+      ]
+    },
+    {
+      "name": "Item Hardness",
+      "occurrence": 54258,
+      "frequency_pct": 4.21,
+      "examples": [
+        "9H",
+        "4H",
+        "3H",
+        "Soft",
+        "6H",
+        "2H",
+        "soft",
+        "5H",
+        "Tougher than 9H",
+        "10H",
+        "7H",
+        "8H",
+        "Hard",
+        "hard",
+        "Soft film"
+      ]
+    },
+    {
+      "name": "Item Dimensions LxWxH",
+      "occurrence": 54238,
+      "frequency_pct": 4.21,
+      "examples": [
+        "1.6 x 0.5 x 0.3 inches",
+        "11.5 x 1.1 x 5.8 inches",
+        "4.5 x 0.5 x 2.5 inches",
+        "6 x 4 x 1 inches",
+        "6 x 3 x 0.5 inches",
+        "8 x 1 x 4 inches",
+        "15.99 x 8.99 x 1 inches",
+        "6.97 x 3.94 x 0.67 inches",
+        "3 x 1 x 5 inches",
+        "9 x 0.1 x 6 inches",
+        "6 x 4 x 2 inches",
+        "2 x 4 x 6 inches",
+        "5.85 x 2.96 x 0.35 inches",
+        "6 x 1 x 3 inches",
+        "1 x 1 x 1 inches"
+      ]
+    },
+    {
+      "name": "Unit Count",
+      "occurrence": 49745,
+      "frequency_pct": 3.86,
+      "examples": [
+        "1.0 Count",
+        "1 Count",
+        "2.0 Count",
+        "3.0 Count",
+        "6.0 Count",
+        "2 Count",
+        "1.00 Count",
+        "4.0 Count",
+        "3 Count",
+        "5.0 Count",
+        "1 count",
+        "2 count",
+        "4 Count",
+        "3 count",
+        "1.0 Ounce"
+      ]
+    },
+    {
+      "name": "Connector Type",
+      "occurrence": 40440,
+      "frequency_pct": 3.14,
+      "examples": [
+        "USB Type C",
+        "USB",
+        "Micro USB",
+        "Usb",
+        "Wireless",
+        "USB Type A",
+        "Lightning",
+        "USB, Micro USB",
+        "MagSafe",
+        "Micro USB, USB 2.0",
+        "USB Type C, Micro USB",
+        "usb",
+        "USB Type C, USB Type A",
+        "USB Type C, USB 2.0",
+        "3.5mm Jack"
+      ]
+    },
+    {
+      "name": "Connectivity Technology",
+      "occurrence": 37484,
+      "frequency_pct": 2.91,
+      "examples": [
+        "USB",
+        "Wi-Fi",
+        "Wireless",
+        "Bluetooth",
+        "Usb",
+        "Bluetooth, Wi-Fi",
+        "Bluetooth, USB",
+        "Bluetooth, Wi-Fi, USB",
+        "Wired",
+        "Usb,Wireless",
+        "Usb C",
+        "Bluetooth, Wi-Fi, USB, NFC",
+        "NFC",
+        "Lightning,Usb",
+        "USB, Lightning"
+      ]
+    },
+    {
+      "name": "Mounting Type",
+      "occurrence": 36585,
+      "frequency_pct": 2.84,
+      "examples": [
+        "Wall Mount",
+        "Tabletop Mount",
+        "Vent",
+        "Dashboard",
+        "Tabletop",
+        "Adhesive",
+        "Handlebar",
+        "Dashboard, Windshield",
+        "Pop Socket",
+        "Windshield",
+        "Dashboard, Vent, Windshield",
+        "Dashboard, Vent",
+        "Phone Mount",
+        "Vent Mount",
+        "Holder Cup"
+      ]
+    },
+    {
+      "name": "Finish Type",
+      "occurrence": 32998,
+      "frequency_pct": 2.56,
+      "examples": [
+        "Matte",
+        "Glossy",
+        "Oil Rubbed",
+        "9H Surface Hardness",
+        "Polished",
+        "9H",
+        "Tempered",
+        "\u4eae\u5149",
+        "Scratch Resistant",
+        "Smooth",
+        "Brushed",
+        "Powder Coated",
+        "Transparent",
+        "Tempered Glass",
+        "Bright"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 31696,
+      "frequency_pct": 2.46,
+      "examples": [
+        "Womens",
+        "Unisex-adult",
+        "womens",
+        "unisex-adult",
+        "Unisex Adult",
+        "Mens",
+        "mens",
+        "Cell Phones & Accessories",
+        "Wireless",
+        "Cellular Phones",
+        "Unisex",
+        "Girls",
+        "girls",
+        "Electronics",
+        "Boys"
+      ]
+    },
+    {
+      "name": "Connectivity technologies",
+      "occurrence": 29268,
+      "frequency_pct": 2.27,
+      "examples": [
+        "Wi-Fi",
+        "USB",
+        "Wireless",
+        "Bluetooth",
+        "Bluetooth, Wi-Fi",
+        "Usb",
+        "wireless",
+        "Bluetooth, Wi-Fi, USB",
+        "Wired",
+        "Bluetooth, USB",
+        "Bluetooth, Wi-Fi, USB, NFC",
+        "NFC",
+        "Usb,Wireless",
+        "Infrared",
+        "Wi-Fi, USB"
+      ]
+    },
+    {
+      "name": "Installation Type",
+      "occurrence": 26074,
+      "frequency_pct": 2.02,
+      "examples": [
+        "Swappable Top",
+        "Self Adhesive",
+        "Adhesive Mount",
+        "Self Adhesive,Swappable Top",
+        "Swappable",
+        "Self-Adhesive",
+        "Tabletop",
+        "Outdoor",
+        "Portable",
+        "Surface Mount",
+        "Magnetic Mount",
+        "Swappable Top,Tabletop",
+        "Countertop,Self Adhesive",
+        "Self Adhesive,Tabletop",
+        "Self Adhesive,Swappable"
+      ]
+    },
+    {
+      "name": "Included Components",
+      "occurrence": 25024,
+      "frequency_pct": 1.94,
+      "examples": [
+        "Kickstand",
+        "Card Holder",
+        "Kickstand, Card Holder",
+        "Kickstand, Belt Clip",
+        "Screen Protector",
+        "Belt Clip",
+        "Headband",
+        "1",
+        "Cable",
+        "Instruction manual",
+        "Case",
+        "Wallet",
+        "Adapter",
+        "charging station",
+        "Cell Phone Case"
+      ]
+    },
+    {
+      "name": "Batteries",
+      "occurrence": 22670,
+      "frequency_pct": 1.76,
+      "examples": [
+        "1 Lithium Ion batteries required. (included)",
+        "1 Lithium Polymer batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "1 Lithium Polymer batteries required.",
+        "1 Lithium Metal batteries required. (included)",
+        "1 Product Specific batteries required. (included)",
+        "2 Lithium Polymer batteries required. (included)",
+        "2 Lithium Ion batteries required. (included)",
+        "1 A batteries required. (included)",
+        "1 AA batteries required.",
+        "1 CR2 batteries required. (included)",
+        "1 Unknown batteries required.",
+        "1 A batteries required.",
+        "1 Lithium Metal batteries required.",
+        "1 AAA batteries required. (included)"
+      ]
+    },
+    {
+      "name": "OS",
+      "occurrence": 21684,
+      "frequency_pct": 1.68,
+      "examples": [
+        "Android",
+        "IOS",
+        "iOS",
+        "Android 10.0",
+        "android",
+        "Android 4.4",
+        "Android 9.0",
+        "IOS, Android",
+        "iOS, Android",
+        "Android 11.0",
+        "Android 6.0",
+        "google_android",
+        "Google_android",
+        "Android 5.1",
+        "Android 4.2"
+      ]
+    },
+    {
+      "name": "Fastener Type",
+      "occurrence": 20473,
+      "frequency_pct": 1.59,
+      "examples": [
+        "Clip On",
+        "Clip On, Magnetic",
+        "Clip On, Snap",
+        "Magnetic",
+        "Clip On, Snap, Magnetic",
+        "Clip On, Hook and Loop",
+        "Hook and Loop",
+        "Snap",
+        "Snap, Magnetic",
+        "Lobster Clasp",
+        "Clip On, Magnetic, Hook and Loop",
+        "Velcro",
+        "Belt Clip",
+        "Machine Screw",
+        "Snap, Hook and Loop"
+      ]
+    },
+    {
+      "name": "Package Type",
+      "occurrence": 20398,
+      "frequency_pct": 1.58,
+      "examples": [
+        "Standard Packaging",
+        "Frustration-Free Packaging",
+        "Box",
+        "3 pack",
+        "Pouch",
+        "Retail Packaging",
+        "Standard Package",
+        "Tube",
+        "1 pack",
+        "2-Pack",
+        "Standard_packaging",
+        "Samsung Galaxy S21 Plus (ONLY)",
+        "Galaxy Watch 5 44MM - 3 PACK",
+        "Anti-Fingerprint",
+        "Glass Elite Plus"
+      ]
+    },
+    {
+      "name": "Clarity",
+      "occurrence": 20196,
+      "frequency_pct": 1.57,
+      "examples": [
+        "99.99",
+        "99.9",
+        "99",
+        "100",
+        "96",
+        "1.00",
+        "1",
+        "98",
+        "99.00",
+        "95",
+        "100.00",
+        "0.99",
+        "94",
+        "90",
+        "0.9"
+      ]
+    },
+    {
+      "name": "Human Interface Input",
+      "occurrence": 15949,
+      "frequency_pct": 1.24,
+      "examples": [
+        "Touchscreen",
+        "Buttons",
+        "Keyboard",
+        "Touchscreen, Buttons",
+        "Microphone",
+        "Keypad",
+        "Touchscreen with Stylus Support",
+        "Microphone, Buttons",
+        "Touchscreen, Microphone",
+        "Touchscreen, Keyboard",
+        "Dial",
+        "Touchscreen, Microphone, Buttons",
+        "Dial, Buttons",
+        "Touchscreen, Keypad",
+        "Keyboard, Keypad"
+      ]
+    },
+    {
+      "name": "Wireless communication technologies",
+      "occurrence": 15690,
+      "frequency_pct": 1.22,
+      "examples": [
+        "Cellular",
+        "Bluetooth",
+        "Bluetooth, Cellular, Wi-Fi",
+        "Bluetooth, Cellular",
+        "Cellular, Wi-Fi",
+        "Bluetooth, Wi-Fi",
+        "Wi-Fi",
+        "Bluetooth, Cellular, Wi-Fi, NFC",
+        "Cellular, NFC",
+        "Cellular, Bluetooth, Wi-Fi",
+        "NFC",
+        "Bluetooth, Wi-Fi, NFC",
+        "Cellular, Bluetooth",
+        "Bluetooth, Cellular, NFC",
+        "Cellular, Wi-Fi, NFC"
+      ]
+    },
+    {
+      "name": "Total USB Ports",
+      "occurrence": 15154,
+      "frequency_pct": 1.18,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "5",
+        "7",
+        "8",
+        "10",
+        "20",
+        "24",
+        "15",
+        "12",
+        "30",
+        "40"
+      ]
+    },
+    {
+      "name": "Other camera features",
+      "occurrence": 14753,
+      "frequency_pct": 1.14,
+      "examples": [
+        "Front",
+        "Rear, Front",
+        "Rear",
+        "8 MP",
+        "8 MP Back Camera, 1.2 MP Front Camera",
+        "13 MP",
+        "5 MP",
+        "8.0",
+        "13.0",
+        "5.0",
+        "16 MP",
+        "12.0",
+        "2 MP, 1600 x 1200 pixels",
+        "16.0",
+        "12 MP Back Camera, 5 MP Front Camera"
+      ]
+    },
+    {
+      "name": "Memory Storage Capacity",
+      "occurrence": 14411,
+      "frequency_pct": 1.12,
+      "examples": [
+        "32 GB",
+        "16 GB",
+        "128 GB",
+        "8 GB",
+        "64 GB",
+        "4 GB",
+        "256 GB",
+        "512 MB",
+        "2 GB",
+        "512 GB",
+        "1 GB",
+        "6 GB",
+        "32 MB",
+        "128 MB",
+        "64 MB"
+      ]
+    },
+    {
+      "name": "Standing screen display size",
+      "occurrence": 14250,
+      "frequency_pct": 1.11,
+      "examples": [
+        "5.5 Inches",
+        "5 Inches",
+        "4 Inches",
+        "6.5 Inches",
+        "5.7 Inches",
+        "4.7 Inches",
+        "6 Inches",
+        "2.4 Inches",
+        "6.4 Inches",
+        "4.5 Inches",
+        "6.7 Inches",
+        "5.2 Inches",
+        "6.1 Inches",
+        "6.3 Inches",
+        "6.2 Inches"
+      ]
+    },
+    {
+      "name": "Model Name",
+      "occurrence": 14063,
+      "frequency_pct": 1.09,
+      "examples": [
+        "5S",
+        "5C",
+        "Galaxy S5",
+        "Galaxy S",
+        "Galaxy S6",
+        "6 Plus",
+        "Note 9",
+        "language _ tag",
+        "Language _ tag",
+        "Galaxy S8",
+        "Galaxy S7",
+        "Galaxy S7 edge",
+        "4S",
+        "Moto X",
+        "Galaxy S4"
+      ]
+    },
+    {
+      "name": "Input Voltage",
+      "occurrence": 13931,
+      "frequency_pct": 1.08,
+      "examples": [
+        "240 Volts",
+        "9 Volts",
+        "5 Volts",
+        "12 Volts",
+        "24 Volts",
+        "120 Volts",
+        "110 Volts",
+        "220 Volts",
+        "240 Volts (AC)",
+        "12 Volts (DC)",
+        "120 Volts (AC)",
+        "110 Volts (AC)",
+        "9 Volts (DC)",
+        "24 Volts (DC)",
+        "5 Volts (DC)"
+      ]
+    },
+    {
+      "name": "Wireless network technology",
+      "occurrence": 13782,
+      "frequency_pct": 1.07,
+      "examples": [
+        "GSM",
+        "GSM, LTE",
+        "LTE",
+        "GSM, Wi-Fi, CDMA, LTE",
+        "GSM, Wi-Fi",
+        "GSM, Wi-Fi, LTE",
+        "Wi-Fi",
+        "GSM, CDMA, LTE",
+        "CDMA",
+        "GSM, CDMA",
+        "Wi-Fi, LTE",
+        "GSM, UMTS, LTE",
+        "GSM, UMTS",
+        "GSM, UMTS, CDMA, LTE",
+        "GSM, Wi-Fi, CDMA"
+      ]
+    },
+    {
+      "name": "Wireless Carrier",
+      "occurrence": 13287,
+      "frequency_pct": 1.03,
+      "examples": [
+        "Unlocked",
+        "T-Mobile",
+        "AT&T",
+        "Unlocked for All Carriers",
+        "Verizon",
+        "T-Mobile, AT&T",
+        "T-Mobile, Unlocked",
+        "T-Mobile, Unlocked, Straight Talk",
+        "Tracfone",
+        "Sprint",
+        "T-Mobile, Unlocked, Verizon, Sprint",
+        "VoiceStream Wireless Provider Type",
+        "Virgin Mobile",
+        "Verizon Wireless",
+        "Straight Talk"
+      ]
+    },
+    {
+      "name": "Cellular Technology",
+      "occurrence": 13164,
+      "frequency_pct": 1.02,
+      "examples": [
+        "4G",
+        "2G",
+        "LTE",
+        "3G",
+        "5G",
+        "4G, 3G, 2G",
+        "3G, 2G",
+        "4G, 2G",
+        "GSM",
+        "CDMA",
+        "5G, 4G, 3G, 2G",
+        "2G, 3G, 4G",
+        "4G, 3G",
+        "2G, 3G, 4G, 5G",
+        "UMTS"
+      ]
+    },
+    {
+      "name": "Shell Type",
+      "occurrence": 12676,
+      "frequency_pct": 0.98,
+      "examples": [
+        "Soft",
+        "Hard",
+        "Hybrid",
+        "PC",
+        "hard,soft",
+        "Hard,soft",
+        "\u6df7\u5408\u5f0f",
+        "Leather",
+        "Silicone",
+        "Hard,hybrid",
+        "soft,softer",
+        "hard,hybrid",
+        "TPU",
+        "Flexible",
+        "PU Leather"
+      ]
+    },
+    {
+      "name": "Cable Type",
+      "occurrence": 12423,
+      "frequency_pct": 0.96,
+      "examples": [
+        "USB",
+        "Micro USB",
+        "Type-C",
+        "USB, Lightning",
+        "Lightning",
+        "Type-C, Micro USB",
+        "Type-C, Type-A",
+        "AUX",
+        "Type-A, Micro USB",
+        "HDMI",
+        "USB, HDMI",
+        "Composite",
+        "HDMI, Micro USB",
+        "Coaxial",
+        "Type-C, Type-A, Micro USB"
+      ]
+    },
+    {
+      "name": "Water Resistance Level",
+      "occurrence": 11847,
+      "frequency_pct": 0.92,
+      "examples": [
+        "Waterproof",
+        "Water Resistant",
+        "Water Repellent",
+        "Not Water Resistant"
+      ]
+    },
+    {
+      "name": "Weight",
+      "occurrence": 11735,
+      "frequency_pct": 0.91,
+      "examples": [
+        "0.01 Ounces",
+        "0.02 Pounds",
+        "0.3 Pounds",
+        "0.5 Pounds",
+        "1 Pounds",
+        "0.2 Pounds",
+        "0.4 Pounds",
+        "0.25 Pounds",
+        "0.1 Pounds",
+        "0.35 Pounds",
+        "0.8 Pounds",
+        "100 Grams",
+        "0.64 Grams",
+        "0.38 Pounds",
+        "0.01 Pounds"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "occurrence": 11086,
+      "frequency_pct": 0.86,
+      "examples": [
+        "Android",
+        "Android 10.0",
+        "android",
+        "Android 9.0",
+        "Android 4.4",
+        "Android 11.0",
+        "Android 6.0",
+        "Android 5.1",
+        "google_android",
+        "Android 4.2",
+        "Google_android",
+        "Android 8.1",
+        "Android 7.0",
+        "Android 4.1",
+        "Android 5.0"
+      ]
+    },
+    {
+      "name": "Connector Gender",
+      "occurrence": 10336,
+      "frequency_pct": 0.8,
+      "examples": [
+        "Male-to-Male",
+        "Male-to-Female",
+        "Male",
+        "Female-to-Female",
+        "Female-to-Male",
+        "USB Type C",
+        "Male, Female",
+        "USB",
+        "USB C to Male",
+        "Female, Male",
+        "USB Cable",
+        "Female-to-Female, Male-to-Female",
+        "USB Male, USB Type C Male",
+        "USB C to Lightning",
+        "\u516c\u5bf9\u516c"
+      ]
+    },
+    {
+      "name": "Wattage",
+      "occurrence": 8803,
+      "frequency_pct": 0.68,
+      "examples": [
+        "10 watts",
+        "20 watts",
+        "15 watts",
+        "18 watts",
+        "7.5 watts",
+        "5 watts",
+        "30 watts",
+        "12 watts",
+        "45 watts",
+        "25 watts",
+        "24 watts",
+        "3 watts",
+        "60 watts",
+        "36 watts",
+        "65 watts"
+      ]
+    },
+    {
+      "name": "Brand Name",
+      "occurrence": 8797,
+      "frequency_pct": 0.68,
+      "examples": [
+        "NALIA",
+        "Keyscaper",
+        "FOCO",
+        "YZKJ",
+        "Elaikement",
+        "Siskiyou Sports",
+        "HHUAN",
+        "WONMILLE",
+        "Adepoy",
+        "Rain gold",
+        "Generic",
+        "GameWear",
+        "Guard Dog",
+        "Secbolt",
+        "FnKer"
+      ]
+    },
+    {
+      "name": "Battery Capacity",
+      "occurrence": 8078,
+      "frequency_pct": 0.63,
+      "examples": [
+        "5000 Milliamp Hours",
+        "3000 Milliamp Hours",
+        "10000 Milliamp Hours",
+        "4000 Milliamp Hours",
+        "20000 Milliamp Hours",
+        "4500 Milliamp Hours",
+        "3300 Milliamp Hours",
+        "3500 Milliamp Hours",
+        "6000 Milliamp Hours",
+        "30000 Milliamp Hours",
+        "26800 Milliamp Hours",
+        "2600 Milliamp Hours",
+        "2000 Milliamp Hours",
+        "2800 Milliamp Hours",
+        "8000 Milliamp Hours"
+      ]
+    },
+    {
+      "name": "Batteries Required?",
+      "occurrence": 7621,
+      "frequency_pct": 0.59,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Display technology",
+      "occurrence": 7488,
+      "frequency_pct": 0.58,
+      "examples": [
+        "LCD",
+        "AMOLED",
+        "LED",
+        "LCD, LED",
+        "OLED",
+        "AMOLED, LED",
+        "LED, AMOLED",
+        "e",
+        "E",
+        "OLED, AMOLED",
+        "Super AMOLED, LED",
+        "Super AMOLED",
+        "OLED, LED",
+        "touch screen",
+        "LCD, AMOLED"
+      ]
+    },
+    {
+      "name": "RAM",
+      "occurrence": 7301,
+      "frequency_pct": 0.57,
+      "examples": [
+        "4 GB",
+        "1 GB",
+        "8 GB",
+        "2 GB",
+        "6 GB",
+        "3 GB",
+        "16 GB",
+        "32 GB",
+        "512 MB",
+        "64 GB",
+        "12 GB",
+        "1",
+        "128 GB",
+        "0.2 GB",
+        "1024 MB"
+      ]
+    },
+    {
+      "name": "Are Batteries Included",
+      "occurrence": 7096,
+      "frequency_pct": 0.55,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 6268,
+      "frequency_pct": 0.49,
+      "examples": [
+        "Round",
+        "Rectangular",
+        "Irregular",
+        "Square",
+        "Flat",
+        "Heart",
+        "Apple",
+        "Novelty",
+        "Oval",
+        "Rectangle",
+        "Flower",
+        "Diamond",
+        "Cable",
+        "Elephant",
+        "Stemles"
+      ]
+    },
+    {
+      "name": "Age Range (Description)",
+      "occurrence": 6258,
+      "frequency_pct": 0.49,
+      "examples": [
+        "Adult",
+        "Kid",
+        "Youth",
+        "All Ages",
+        "Teen",
+        "Baby",
+        "All Age Groups",
+        "adult",
+        "ALL",
+        "Adults",
+        "Child",
+        "18",
+        "Adult,Kid",
+        "All Life Stages",
+        "Youth; kid"
+      ]
+    },
+    {
+      "name": "Part Number",
+      "occurrence": 6100,
+      "frequency_pct": 0.47,
+      "examples": [
+        "unknown",
+        "Other case",
+        "Unknown",
+        "NTECeaq",
+        "KZ-02",
+        "1",
+        "Aug0819",
+        "YP-1",
+        "Filoto-001",
+        "ENANYN-01",
+        "HTD020060200",
+        "SB-520",
+        "36535124214",
+        "YIUES-001",
+        "SWB-10-31"
+      ]
+    },
+    {
+      "name": "Package Weight",
+      "occurrence": 6010,
+      "frequency_pct": 0.47,
+      "examples": [
+        "0.02 Kilograms",
+        "0.05 Kilograms",
+        "0.01 Kilograms",
+        "0.07 Kilograms",
+        "0.09 Kilograms",
+        "0.02 Pounds",
+        "0.15 Pounds",
+        "0.03 Kilograms",
+        "0.11 Kilograms",
+        "0.1 Pounds",
+        "0.05 Pounds",
+        "0.04 Kilograms",
+        "0.06 Kilograms",
+        "0.2 Pounds",
+        "0.14 Kilograms"
+      ]
+    },
+    {
+      "name": "Item Package Dimensions L x W x H",
+      "occurrence": 5895,
+      "frequency_pct": 0.46,
+      "examples": [
+        "8.25 x 4.19 x 0.75 inches",
+        "8 x 4 x 1 inches",
+        "5.7 x 3.5 x 0.5 inches",
+        "1 x 1 x 1 inches",
+        "11 x 8 x 1 inches",
+        "5.4 x 3.2 x 0.7 inches",
+        "7.5 x 3.4 x 0.8 inches",
+        "8.5 x 3.7 x 0.8 inches",
+        "5.7 x 3.4 x 0.8 inches",
+        "6.8 x 3.4 x 0.8 inches",
+        "7.5 x 3.4 x 0.7 inches",
+        "6.7 x 3.4 x 0.8 inches",
+        "7 x 3.8 x 0.7 inches",
+        "5.8 x 3.4 x 0.8 inches",
+        "7 x 4 x 1 inches"
+      ]
+    },
+    {
+      "name": "Style",
+      "occurrence": 5828,
+      "frequency_pct": 0.45,
+      "examples": [
+        "Modern",
+        "Sport",
+        "Classic",
+        "Bracelet",
+        "Retro",
+        "Minimalist",
+        "Vintage",
+        "Compact",
+        "Exquisite,Sport",
+        "Classic,Sport",
+        "Bracelet,Sport",
+        "Bracelet,Classic",
+        "Sports",
+        "Mesh",
+        "Casual"
+      ]
+    },
+    {
+      "name": "Scanner Resolution",
+      "occurrence": 5822,
+      "frequency_pct": 0.45,
+      "examples": [
+        "1920 x 1080",
+        "1280 x 720",
+        "2560 x 1440",
+        "240 x 320",
+        "720 x 1440",
+        "1440 x 2560",
+        "1080 x 2340",
+        "480 x 800",
+        "1080 x 2400",
+        "720 x 1520",
+        "1440 x 2960",
+        "1080 x 2160",
+        "320 x 240",
+        "2340 x 1080",
+        "2400 x 1080"
+      ]
+    },
+    {
+      "name": "Recommended Uses For Product",
+      "occurrence": 5209,
+      "frequency_pct": 0.4,
+      "examples": [
+        "Phone",
+        "Iphone",
+        "Watch",
+        "Tablet",
+        "Laptop",
+        "Iphone,Watch",
+        "Camera",
+        "Cellular Phone",
+        "Laptop, Tablet",
+        "Home",
+        "Radio",
+        "Galaxy",
+        "Indoor/Outdoor",
+        "Cellular Phone,Iphone",
+        "Cooling"
+      ]
+    },
+    {
+      "name": "SIM card slot count",
+      "occurrence": 4911,
+      "frequency_pct": 0.38,
+      "examples": [
+        "Dual SIM",
+        "Single SIM",
+        "Triple SIM"
+      ]
+    },
+    {
+      "name": "Item Dimensions  LxWxH",
+      "occurrence": 4908,
+      "frequency_pct": 0.38,
+      "examples": [
+        "11.5 x 1.1 x 5.8 inches",
+        "7.5 x 0.75 x 3.38 inches",
+        "9 x 0.1 x 6 inches",
+        "15.99 x 8.99 x 1 inches",
+        "5.91 x 2.56 x 0.51 inches",
+        "3 x 3 x 0.01 inches",
+        "7 x 1 x 4 inches",
+        "7.47 x 1.2 x 0.07 inches",
+        "2.72 x 0.32 x 5.42 inches",
+        "7.48 x 0.8 x 0.07 inches",
+        "1 x 1 x 1 inches",
+        "2.8 x 0.4 x 5.5 inches",
+        "1.97 x 0.08 x 3.94 inches",
+        "11 x 8 x 1 inches",
+        "7 x 4 x 0.5 inches"
+      ]
+    },
+    {
+      "name": "Specification Met",
+      "occurrence": 4832,
+      "frequency_pct": 0.38,
+      "examples": [
+        "Qi",
+        "UL",
+        "CE, FCC, RoHS",
+        "MFI",
+        "Qualcomm",
+        "CE",
+        "CE, UL, FCC",
+        "CE, RoHS",
+        "FCC",
+        "No",
+        "RoHS",
+        "CE, FCC",
+        "CE, UL, FCC, RoHS",
+        "Oem",
+        "ETL"
+      ]
+    },
+    {
+      "name": "Battery Cell Composition",
+      "occurrence": 4809,
+      "frequency_pct": 0.37,
+      "examples": [
+        "Lithium Ion",
+        "Lithium Polymer",
+        "Polymer",
+        "NiMH",
+        "Lithium",
+        "NiCAD",
+        "Alkaline",
+        "Sealed Lead Acid",
+        "Lithium Metal",
+        "Manganese",
+        "Lithium-Nickel Manganese Cobalt (NMC)",
+        "Silver Oxide",
+        "Lead Acid",
+        "Lithium Manganese Dioxide",
+        "Lithium-Cobalt"
+      ]
+    },
+    {
+      "name": "Embellishment",
+      "occurrence": 4589,
+      "frequency_pct": 0.36,
+      "examples": [
+        "Glitter",
+        "Crystal",
+        "Kickstand",
+        "Polished",
+        "No",
+        "Logo",
+        "Card slot",
+        "Skull",
+        "Pearl",
+        "Lace",
+        "Marble",
+        "Lightweight",
+        "Magnetic",
+        "Slim",
+        "Carbon fiber"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 4535,
+      "frequency_pct": 0.35,
+      "examples": [
+        "One Size",
+        "Small",
+        "Large",
+        "38mm/40mm",
+        "Medium",
+        "42mm/44mm",
+        "42mm",
+        "38mm",
+        "38mm/40mm/41mm",
+        "Galaxy S10 Plus",
+        "iPhone XR",
+        "Galaxy S10",
+        "1 Count (Pack of 1)",
+        "42MM/44MM/45MM M/L",
+        "Queen"
+      ]
+    },
+    {
+      "name": "Number of Batteries",
+      "occurrence": 4302,
+      "frequency_pct": 0.33,
+      "examples": [
+        "1 Lithium Ion batteries required. (included)",
+        "1 Lithium Polymer batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "1 Product Specific batteries required. (included)",
+        "1 Lithium Polymer batteries required.",
+        "1 A batteries required. (included)",
+        "1 Lithium Metal batteries required. (included)",
+        "1 AAAA batteries required. (included)",
+        "1 Product Specific batteries required.",
+        "1 AAA batteries required. (included)",
+        "1 A batteries required.",
+        "1 Lithium Metal batteries required.",
+        "1 AA batteries required. (included)",
+        "2 Lithium Ion batteries required. (included)",
+        "1 AA batteries required."
+      ]
+    },
+    {
+      "name": "Power Source",
+      "occurrence": 4216,
+      "frequency_pct": 0.33,
+      "examples": [
+        "Corded Electric",
+        "Battery Powered",
+        "Solar Powered",
+        "Battery Powered,Corded Electric",
+        "AC",
+        "Corded Electric, Battery Powered",
+        "ac",
+        "Ac",
+        "DC",
+        "Battery",
+        "Dc",
+        "dc",
+        "Solar Powered, Battery Powered",
+        "Battery-powered",
+        "Manual"
+      ]
+    },
+    {
+      "name": "Indoor/Outdoor Usage",
+      "occurrence": 3563,
+      "frequency_pct": 0.28,
+      "examples": [
+        "Outdoor, Indoor",
+        "Outdoor",
+        "Indoor"
+      ]
+    },
+    {
+      "name": "Phone Talk Time",
+      "occurrence": 3525,
+      "frequency_pct": 0.27,
+      "examples": [
+        "6 Hours",
+        "5 Hours",
+        "24 Hours",
+        "14 Hours",
+        "10 Hours",
+        "3 Hours",
+        "8 Hours",
+        "4 Hours",
+        "12 Hours",
+        "9 Hours",
+        "300 minutes",
+        "18 Hours",
+        "7 Hours",
+        "15 Hours",
+        "25 Hours"
+      ]
+    },
+    {
+      "name": "Data Transfer Rate",
+      "occurrence": 3427,
+      "frequency_pct": 0.27,
+      "examples": [
+        "0.48 Gigabits Per Second",
+        "5 Gigabits Per Second",
+        "480 Megabits Per Second",
+        "700 MHz",
+        "480 Megabytes Per Second",
+        "10 Gigabits Per Second",
+        "1900 MHz",
+        "2100 MHz",
+        "3 Gigabits Per Second",
+        "2.4 GHz",
+        "850 MHz",
+        "6 Gigabits Per Second",
+        "5 Gigabytes Per Second",
+        "4.8 Gigabits Per Second",
+        "2700 MHz"
+      ]
+    },
+    {
+      "name": "Units",
+      "occurrence": 3026,
+      "frequency_pct": 0.23,
+      "examples": [
+        "1 Count",
+        "3 Count",
+        "4 Count",
+        "1.0 Count",
+        "2 Count",
+        "1.00 Count",
+        "1 count",
+        "5 Count",
+        "6 Count",
+        "10 Count",
+        "2.00 Fl Oz",
+        "2 count",
+        "10 count",
+        "3.2 Ounce",
+        "2.0 Count"
+      ]
+    },
+    {
+      "name": "Manufacturer Part Number",
+      "occurrence": 3014,
+      "frequency_pct": 0.23,
+      "examples": [
+        "Moioee-Charger 2",
+        "1",
+        "Sunroyal",
+        "A20006",
+        "Wallet Case",
+        "TIX89",
+        "NONE",
+        "Unknown",
+        "NTECeaq",
+        "2014-F-520-1",
+        "AUKEPO-Start Ring",
+        "n",
+        "OfficeProducts",
+        "N",
+        "87856V_"
+      ]
+    },
+    {
+      "name": "Headphones Jack",
+      "occurrence": 2729,
+      "frequency_pct": 0.21,
+      "examples": [
+        "Usb",
+        "Lightning",
+        "Micro usb",
+        "3.5 mm Jack",
+        "Mini usb",
+        "USB",
+        "2.5 mm Jack",
+        "3 5mm Jack",
+        "Rca",
+        "Male",
+        "usb",
+        "Hdmi",
+        "lightning",
+        "3.5 mm",
+        "Coaxial"
+      ]
+    },
+    {
+      "name": "Material Type",
+      "occurrence": 2715,
+      "frequency_pct": 0.21,
+      "examples": [
+        "Faux Leather",
+        "Thermoplastic Polyurethane",
+        "Faux Leather, Leather",
+        "Leather",
+        "Plastic",
+        "Rubber, Thermoplastic Polyurethane",
+        "Tempered Glass",
+        "Faux Leather, TPU",
+        "Rubber",
+        "Silicone",
+        "Metal",
+        "Aluminum",
+        "TPU",
+        "Silicone, Rubber, Thermoplastic Polyurethane",
+        "Polycarbonate"
+      ]
+    },
+    {
+      "name": "Audio Jack",
+      "occurrence": 2642,
+      "frequency_pct": 0.21,
+      "examples": [
+        "3.5 mm",
+        "3.5 mm Jack",
+        "USB",
+        "3.5 millimeters",
+        "2.5 mm",
+        "Usb",
+        "usb",
+        "2.5 mm Jack",
+        "Wireless",
+        "Micro USB",
+        "3.5 mm x 1",
+        "Lightning",
+        "Type C",
+        "3.5mm",
+        "3.5"
+      ]
+    },
+    {
+      "name": "Voltage",
+      "occurrence": 2530,
+      "frequency_pct": 0.2,
+      "examples": [
+        "3.7 Volts",
+        "5 Volts",
+        "3.8 Volts",
+        "12 Volts",
+        "3.85 Volts",
+        "120 Volts",
+        "3.6 Volts",
+        "110 Volts",
+        "3.82 Volts",
+        "240 Volts",
+        "125 Volts",
+        "7.4 Volts",
+        "1.5 Volts",
+        "3 Volts",
+        "24 Volts"
+      ]
+    },
+    {
+      "name": "Battery Power Rating",
+      "occurrence": 2459,
+      "frequency_pct": 0.19,
+      "examples": [
+        "5000",
+        "5000 Milliamp Hours",
+        "5000 Milliampere Hour (mAh)",
+        "750",
+        "3600",
+        "4000",
+        "4000 Milliamp Hours",
+        "850",
+        "4500",
+        "900",
+        "650",
+        "3000",
+        "4500 Milliamp Hours",
+        "4500 Milliampere Hour (mAh)",
+        "4200"
+      ]
+    },
+    {
+      "name": "Grip Type",
+      "occurrence": 2457,
+      "frequency_pct": 0.19,
+      "examples": [
+        "Ring Grip",
+        "Pop Grip",
+        "Strap Grip",
+        "Ergonomic",
+        "Phone Grip Not Included",
+        "Rubber",
+        "Putter",
+        "Apple watch cuff bracelet",
+        "popgrip",
+        "Wrap",
+        "Durable Ring Grip",
+        "Foldable",
+        "Popgrip",
+        "iPhone XS MAX (Clear)",
+        "Ribbed"
+      ]
+    },
+    {
+      "name": "Item Package Quantity",
+      "occurrence": 2249,
+      "frequency_pct": 0.17,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "12",
+        "6",
+        "5",
+        "10",
+        "16",
+        "100",
+        "8",
+        "50",
+        "24",
+        "20",
+        "36"
+      ]
+    },
+    {
+      "name": "Phone Standby Time (with data)",
+      "occurrence": 2202,
+      "frequency_pct": 0.17,
+      "examples": [
+        "2 \tyears",
+        "300 hours",
+        "250 hours",
+        "200 hours",
+        "384 hours",
+        "240 hours",
+        "600 hours",
+        "360 hours",
+        "500 hours",
+        "400 hours",
+        "144 hours",
+        "150 hours",
+        "48 hours",
+        "432 hours",
+        "350 hours"
+      ]
+    },
+    {
+      "name": "Amperage",
+      "occurrence": 2158,
+      "frequency_pct": 0.17,
+      "examples": [
+        "3 Amps",
+        "2 Amps",
+        "1 Amps",
+        "2.1 Amps",
+        "2.4 Amps",
+        "1.5 Amps",
+        "5 Amps",
+        "15 Amps",
+        "10 Amps",
+        "3.1 Amps",
+        "6 Amps",
+        "4.8 Amps",
+        "3.4 Amps",
+        "4 Amps",
+        "1.67 Amps"
+      ]
+    },
+    {
+      "name": "GPS",
+      "occurrence": 2103,
+      "frequency_pct": 0.16,
+      "examples": [
+        "True",
+        "Geotagging",
+        "GLONASS",
+        "AGPS",
+        "GPS receiver",
+        "GPS,Glonass",
+        "GPS Enabled",
+        "False",
+        "Gps enabled",
+        "GPS Glonass Galileo",
+        "GPS",
+        "Geotagging, GPS-Enabled, Location Capture",
+        "Location Capture",
+        "GPS,Glonass,Galileo",
+        "Matching GPS Stamps to Geotags"
+      ]
+    },
+    {
+      "name": "Batteries required",
+      "occurrence": 2048,
+      "frequency_pct": 0.16,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Reusability",
+      "occurrence": 2003,
+      "frequency_pct": 0.16,
+      "examples": [
+        "Rechargeable",
+        "Single Use",
+        "Reusable",
+        "Disposable",
+        "Replacement Part",
+        "Repairable",
+        "True"
+      ]
+    },
+    {
+      "name": "Hardware Interface",
+      "occurrence": 1947,
+      "frequency_pct": 0.15,
+      "examples": [
+        "USB",
+        "Bluetooth, USB",
+        "Bluetooth",
+        "USB Type C",
+        "Lightning",
+        "USB, USB Type C",
+        "USB 2.0",
+        "USB 3.0",
+        "USB, USB 2.0",
+        "HDMI",
+        "USB, Lightning",
+        "MicroSD",
+        "USB, USB 3.0",
+        "USB, USB 1.1",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Charging Time",
+      "occurrence": 1660,
+      "frequency_pct": 0.13,
+      "examples": [
+        "2 Hours",
+        "1 Hours",
+        "12 Hours",
+        "3 Hours",
+        "1.5 Hours",
+        "0.3 Hours",
+        "4 Hours",
+        "2",
+        "2.5 Hours",
+        "60 minutes",
+        "4",
+        "0.5 Hours",
+        "90 minutes",
+        "3.5 Hours",
+        "5 Hours"
+      ]
+    },
+    {
+      "name": "Display resolution",
+      "occurrence": 1653,
+      "frequency_pct": 0.13,
+      "examples": [
+        "720 x 1280 pixels",
+        "1080 x 1920 pixels",
+        "1920 x 1080 pixels",
+        "1280 x 720 pixels",
+        "480x800 pixels",
+        "1440 x 2560 pixels",
+        "2560 x 1440 pixels",
+        "480 x 854 pixels",
+        "540x960 pixels",
+        "320 x 240 pixels",
+        "2960 x 1440 pixels",
+        "750 x 1334 pixels",
+        "1080",
+        "640 x 1136 pixels",
+        "854 x 480 pixels"
+      ]
+    },
+    {
+      "name": "Domestic Shipping",
+      "occurrence": 1635,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Item can be shipped within U.S.",
+        "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      ]
+    },
+    {
+      "name": "International Shipping",
+      "occurrence": 1635,
+      "frequency_pct": 0.13,
+      "examples": [
+        "This item can be shipped to select countries outside of the U.S.  Learn More",
+        "This item is not eligible for international shipping.  Learn More"
+      ]
+    },
+    {
+      "name": "Special Features",
+      "occurrence": 1553,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Adjustable",
+        "Rotatable",
+        "Portable",
+        "Shock-Absorbent",
+        "Magnetic",
+        "Lightweight",
+        "Waterproof",
+        "Card Slot",
+        "Fast Charging",
+        "Rotatable, Adjustable",
+        "Flexible",
+        "Non-slip",
+        "Adjustable,Magnetic",
+        "Durable",
+        "Lightweight, Shock-Absorbent"
+      ]
+    },
+    {
+      "name": "Vehicle Service Type",
+      "occurrence": 1519,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Automobile",
+        "Car",
+        "Passenger Car",
+        "Bicycle",
+        "Motorcycle",
+        "Car, Truck",
+        "Bike",
+        "Passenger Car, SUV",
+        "Motorcycle, Bicycle",
+        "Truck",
+        "Suvs,Trucks,Vans",
+        "Bike,Motorcycle",
+        "Automobile, Bicycle",
+        "Boat",
+        "Passenger Car, SUV, Truck"
+      ]
+    },
+    {
+      "name": "Main Power Connector Type",
+      "occurrence": 1385,
+      "frequency_pct": 0.11,
+      "examples": [
+        "2 pin",
+        "2 Pin",
+        "USB Type C",
+        "Auxillary Power Outlet",
+        "MagSafe",
+        "3 pin",
+        "USB Type A",
+        "3 Pin",
+        "Solar Powered",
+        "4 pin"
+      ]
+    },
+    {
+      "name": "Has Self-Timer",
+      "occurrence": 1267,
+      "frequency_pct": 0.1,
+      "examples": [
+        "No",
+        "Yes",
+        "False",
+        "false"
+      ]
+    },
+    {
+      "name": "Team Name",
+      "occurrence": 1228,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Samsung",
+        "Lg",
+        "Htc",
+        "sold out",
+        "samsung galaxy s6",
+        "Alcatel",
+        "Dallas Cowboys",
+        "Seattle Seahawks",
+        "Apple",
+        "samsung galaxy",
+        "samsung galaxy s7 edge",
+        "Samsung galaxy j7",
+        "Samsung galaxy s7",
+        "Samsung galaxy s7 edge",
+        "Blackberry"
+      ]
+    },
+    {
+      "name": "Resolution",
+      "occurrence": 1228,
+      "frequency_pct": 0.1,
+      "examples": [
+        "1920 x 1080",
+        "1280 x 720",
+        "2560 x 1440",
+        "240 x 320",
+        "1920 \u00d7 1080",
+        "320 x 240",
+        "720 x 1440",
+        "1080 x 2160",
+        "1440 x 2560",
+        "2340 x 1080",
+        "480 x 800",
+        "960 x 540",
+        "1440 x 2960",
+        "720 x 1520",
+        "480 x 272"
+      ]
+    },
+    {
+      "name": "Ram Memory Installed Size",
+      "occurrence": 1199,
+      "frequency_pct": 0.09,
+      "examples": [
+        "8 GB",
+        "4 GB",
+        "6 GB",
+        "12 GB",
+        "3 GB",
+        "1 GB",
+        "2 GB",
+        "16 GB",
+        "128 GB",
+        "512 MB",
+        "32 GB",
+        "256 GB",
+        "64 GB",
+        "1.5 GB",
+        "512 GB"
+      ]
+    },
+    {
+      "name": "Lens Type",
+      "occurrence": 1187,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Macro",
+        "Telephoto",
+        "Macro, Wide Angle",
+        "Fisheye",
+        "Fisheye, Macro, Wide Angle",
+        "Wide Angle",
+        "Fisheye, Macro",
+        "Fisheye, Telephoto, Macro, Wide Angle",
+        "Fisheye, Telephoto, Macro",
+        "Standard",
+        "Telephoto, Macro",
+        "Zoom",
+        "Telephoto, Macro, Wide Angle",
+        "Telephoto, Wide Angle",
+        "Zoom Lens"
+      ]
+    },
+    {
+      "name": "Output Voltage",
+      "occurrence": 1164,
+      "frequency_pct": 0.09,
+      "examples": [
+        "5 Volts",
+        "12 Volts",
+        "9 Volts",
+        "24 Volts",
+        "20 Volts",
+        "5.2 Volts",
+        "4.2 Volts",
+        "15 Volts",
+        "3 Volts",
+        "9.5 Volts",
+        "110 Volts",
+        "19 Volts",
+        "240 Volts",
+        "3.7 Volts",
+        "19.5 Volts"
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "occurrence": 1156,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "4",
+        "5",
+        "12",
+        "10",
+        "8",
+        "9",
+        "100",
+        "20",
+        "50",
+        "24",
+        "16"
+      ]
+    },
+    {
+      "name": "Wireless Communication Technology",
+      "occurrence": 1144,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Bluetooth",
+        "USB",
+        "Optical Pulse",
+        "Radio Frequency",
+        "Bluetooth, NFC",
+        "Wi-Fi",
+        "Wireless",
+        "Auxiliary",
+        "Infrared",
+        "Bluetooth, USB",
+        "Bluetooth, Infrared",
+        "night light",
+        "Cellular",
+        "Cellular, Bluetooth",
+        "Bluetooth, Wi-Fi"
+      ]
+    },
+    {
+      "name": "Language",
+      "occurrence": 1125,
+      "frequency_pct": 0.09,
+      "examples": [
+        "English",
+        "English, English, English, English, English",
+        "English, English, English, English",
+        "English, French",
+        "German",
+        "English, English, French",
+        "English, French, Spanish",
+        "Spanish",
+        "English, English, English",
+        "French",
+        "Italian",
+        "Turkish",
+        "English, French, German, Spanish",
+        "German, English",
+        "English, Spanish, French"
+      ]
+    },
+    {
+      "name": "Number Of Items",
+      "occurrence": 1116,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "50",
+        "5",
+        "8",
+        "200",
+        "10",
+        "15",
+        "20",
+        "5000",
+        "300",
+        "18",
+        "140"
+      ]
+    },
+    {
+      "name": "Platform",
+      "occurrence": 1076,
+      "frequency_pct": 0.08,
+      "examples": [
+        "IOS, Android",
+        "Meta Quest 2",
+        "Meta",
+        "iOS, Android",
+        "Android",
+        "iOS",
+        "IOS",
+        "Windows",
+        "Meta Quest",
+        "Meta Rift",
+        "Meta Quest 2, Meta Quest",
+        "No Operating System",
+        "PlayStation 4",
+        "PlayStation VR",
+        "Meta Quest 2, Meta, Meta Quest"
+      ]
+    },
+    {
+      "name": "Dimensions",
+      "occurrence": 1058,
+      "frequency_pct": 0.08,
+      "examples": [
+        "11.5 x 1.1 x 5.8 inches",
+        "6 x 4 x 1 inches",
+        "6 x 1 x 4 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "7.17 x 0.47 x 3.15 inches",
+        "6.69 x 1.18 x 3.54 inches",
+        "6.35 x 0.74 x 3.25 inches",
+        "6.14 x 2.76 x 0.08 inches",
+        "5 x 1 x 3 inches",
+        "6 x 1 x 9 inches",
+        "5 x 0.25 x 3 inches",
+        "5.61 x 2.97 x 0.36 inches",
+        "6.69 x 3.54 x 1.18 inches",
+        "3.94 x 3.15 x 0.79 inches",
+        "11.9 x 1.1 x 5.9 inches"
+      ]
+    },
+    {
+      "name": "Batteries Included?",
+      "occurrence": 1041,
+      "frequency_pct": 0.08,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Biometric Security Feature",
+      "occurrence": 977,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Fingerprint Recognition",
+        "Face Recognition",
+        "Voice Recognition",
+        "Keypad",
+        "Iris Recognition",
+        "Microbytes per second",
+        "Jawbone",
+        "Single Fingerprint",
+        "Digital Recognition",
+        "Speech recognition"
+      ]
+    },
+    {
+      "name": "Suggested Users",
+      "occurrence": 945,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Unisex",
+        "Unisex-adult",
+        "unisex-adult",
+        "unisex",
+        "Womens",
+        "Mens",
+        "womens",
+        "mens",
+        "boys",
+        "Unisex Adult",
+        "Boys",
+        "Unisex-Adult",
+        "\"\"",
+        "unisex-adult (luggage only)",
+        "Womens, Boys, Mens, Unisex, Girls"
+      ]
+    },
+    {
+      "name": "Color Name",
+      "occurrence": 941,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Black",
+        "Rose Gold",
+        "Pink",
+        "Silver",
+        "White",
+        "Gold",
+        "Purple",
+        "Blue",
+        "Clear",
+        "Red",
+        "Green",
+        "Grey",
+        "Gold, Pink",
+        "Sea",
+        "Skull"
+      ]
+    },
+    {
+      "name": "Closure Type",
+      "occurrence": 936,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Zipper",
+        "Hook & Loop",
+        "Pull On",
+        "Buckle",
+        "Snap",
+        "Magnetic",
+        "Button",
+        "Clip",
+        "Drawstring",
+        "Velcro",
+        "Hook",
+        "Ear Loop",
+        "Envelope",
+        "Elastic",
+        "Flap"
+      ]
+    },
+    {
+      "name": "Current Rating",
+      "occurrence": 924,
+      "frequency_pct": 0.07,
+      "examples": [
+        "2.1 Amps",
+        "2 Amps",
+        "1 Amps",
+        "3 Amps",
+        "2.4 Amps",
+        "3.1 Amps",
+        "3 Amps, 2 Amps, 1.5 Amps",
+        "1.5 Amps",
+        "1 Amps, 2 Amps",
+        "4.8 Amps",
+        "0.5 Amps",
+        "1 Amps, 2.1 Amps",
+        "2.4 Amps, 3 Amps, 2 Amps, 1.5 Amps",
+        "2.4 Amps, 2.1 Amps",
+        "10 Amps"
+      ]
+    },
+    {
+      "name": "Cartoon Character",
+      "occurrence": 897,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Bubble",
+        "Stitch",
+        "American",
+        "Batman",
+        "R2-D2",
+        "Darth Vader",
+        "Apple",
+        "hello kitty",
+        "Anime",
+        "Skull",
+        "Butterfly",
+        "Penguin",
+        "Animal",
+        "The Flash",
+        "Joker"
+      ]
+    },
+    {
+      "name": "Controller Type",
+      "occurrence": 850,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Button Control",
+        "Remote Control",
+        "Touchpad Control",
+        "Joystick",
+        "Gamepad",
+        "Battery Powered",
+        "Ring",
+        "Push Button",
+        "Android",
+        "Button",
+        "ring",
+        "Remote Control, Button Control",
+        "Hand Control",
+        "Gamepad, Joystick",
+        "Knob Control"
+      ]
+    },
+    {
+      "name": "Sport Type",
+      "occurrence": 792,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Running",
+        "Football",
+        "Baseball",
+        "Cycling",
+        "Hockey",
+        "Swimming",
+        "Camping & Hiking",
+        "Multi-Sport",
+        "Hunting",
+        "Running, Swimming",
+        "Cycling, Running",
+        "Exercise & Fitness",
+        "Boating, Fishing, Outdoor Lifestyle",
+        "Golf",
+        "Walking"
+      ]
+    },
+    {
+      "name": "Lens Design",
+      "occurrence": 772,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Zoom",
+        "Prime",
+        "\u5b9a\u7126",
+        "Fixed Zoom",
+        "Small",
+        "Wide Angel",
+        "Multi-lens case exclusive for iPhone 12 Pro Max",
+        "Large",
+        "Telephoto",
+        "Telephoto/Fisheye/Macro/Wide angle lens",
+        "Wide Angle+Macro+Fisheye+Kaleidoscope+CPL",
+        "Macro",
+        "Fish Eye"
+      ]
+    },
+    {
+      "name": "UPC",
+      "occurrence": 764,
+      "frequency_pct": 0.06,
+      "examples": [
+        "069055832950 069055850442",
+        "050948038207",
+        "856930004003 721352052010",
+        "713440075780",
+        "760124561732",
+        "650905776137 650905776113",
+        "715547391336 715547391183 715547391374",
+        "885382655747 885585736762",
+        "650905773945 757536160073",
+        "711707004252 709872206601",
+        "712201005301",
+        "885305140503 885636494283 778890127748",
+        "663401193230 799975364476",
+        "794421412220",
+        "190203237676"
+      ]
+    },
+    {
+      "name": "Camera Lens Description",
+      "occurrence": 752,
+      "frequency_pct": 0.06,
+      "examples": [
+        "8",
+        "7",
+        "12",
+        "10",
+        "4",
+        "11",
+        "6",
+        "13",
+        "9",
+        "37 millimetres",
+        "18",
+        "20 month",
+        "37 month",
+        "60 millimetres",
+        "17"
+      ]
+    },
+    {
+      "name": "Year",
+      "occurrence": 744,
+      "frequency_pct": 0.06,
+      "examples": [
+        "2018",
+        "2019",
+        "2009",
+        "2010",
+        "2017",
+        "2016",
+        "2012",
+        "2020",
+        "2014",
+        "2015",
+        "2013",
+        "2021",
+        "2011",
+        "2022",
+        "2008"
+      ]
+    },
+    {
+      "name": "Weight Limit",
+      "occurrence": 739,
+      "frequency_pct": 0.06,
+      "examples": [
+        "6.6 Pounds",
+        "2.2 Pounds",
+        "1 Kilograms",
+        "1.1 Pounds",
+        "4.4 Pounds",
+        "2 Kilograms",
+        "3.3 Pounds",
+        "0.6 Ounces",
+        "0.5 Kilograms",
+        "11 Pounds",
+        "1.5 Kilograms",
+        "1 Pounds",
+        "0.9 Ounces",
+        "5 Pounds",
+        "4 Pounds"
+      ]
+    },
+    {
+      "name": "Model number",
+      "occurrence": 718,
+      "frequency_pct": 0.06,
+      "examples": [
+        "2",
+        "Apple iPod Touch 4th Generation",
+        "Apple iPod Touch 5th Generation",
+        "AQGG",
+        "Alcatel Volta 5002R (5.5\")",
+        "NTECeaq",
+        "1",
+        "MIVOLI - 04",
+        "Umidigi A11S (6.53\")",
+        "BLU G91 G0410WW (6.5\")",
+        "800010093 HTC Micro USB 73H0033135M",
+        "GK157939",
+        "Doogee S98 Pro (6.3\")",
+        "G670",
+        "Xiaomi Redmi Note 10 (6.43\")"
+      ]
+    },
+    {
+      "name": "Maximum Height",
+      "occurrence": 673,
+      "frequency_pct": 0.05,
+      "examples": [
+        "67 Inches",
+        "130 Centimeters",
+        "60 Inches",
+        "62 Inches",
+        "12 Inches",
+        "54 Inches",
+        "40 Inches",
+        "51 Inches",
+        "55 Inches",
+        "27 Centimeters",
+        "64 Inches",
+        "10 Inches",
+        "28 Centimeters",
+        "105 Centimeters",
+        "30 Centimeters"
+      ]
+    },
+    {
+      "name": "Number of Ports",
+      "occurrence": 670,
+      "frequency_pct": 0.05,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "4",
+        "5",
+        "10",
+        "7",
+        "8",
+        "22",
+        "13"
+      ]
+    },
+    {
+      "name": "League",
+      "occurrence": 632,
+      "frequency_pct": 0.05,
+      "examples": [
+        "NCAA",
+        "NFL",
+        "ncaa-teams",
+        "Ncaa-teams",
+        "Ncaa",
+        "ncaa",
+        "MLB",
+        "nfl-teams",
+        "Nfl-teams",
+        "NHL",
+        "nba-teams",
+        "NBA",
+        "mlb-teams",
+        "Nba-teams",
+        "Cornhole Game"
+      ]
+    },
+    {
+      "name": "Service Provider",
+      "occurrence": 587,
+      "frequency_pct": 0.05,
+      "examples": [
+        "T Mobile",
+        "T-Mobile",
+        "Verizon",
+        "SpeedTalk Mobile",
+        "AT&T",
+        "Lycamobile",
+        "Vodafone",
+        "T-mobile",
+        "H2o-wireless",
+        "straight-talk",
+        "h2o-wireless",
+        "TracFone",
+        "AT & T",
+        "Cricket",
+        "At&t"
+      ]
+    },
+    {
+      "name": "Specific Uses For Product",
+      "occurrence": 553,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Camera",
+        "Cell Phone",
+        "TV",
+        "Personal",
+        "personal",
+        "Sports and Exercise",
+        "Stationery",
+        "Speaker",
+        "Cell Phone/tablet",
+        "Microphone",
+        "Monitor",
+        "Gaming",
+        "Tv",
+        "Showers",
+        "Bathroom,Kitchen,Shower"
+      ]
+    },
+    {
+      "name": "Product Care Instructions",
+      "occurrence": 541,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Hand Wash Only",
+        "Machine Wash",
+        "Hand Wash",
+        "Wipe with Dry Cloth",
+        "Machine Wash, Hand Wash Only",
+        "Dry Cloth Clean",
+        "Wet Wipe Clean",
+        "Dishwasher Safe",
+        "Wipe Clean",
+        "Spot Clean",
+        "Wipe with Damp Cloth",
+        "Water",
+        "Dry Clean Only",
+        "Machine Wash, Microwave\u00a0Safe",
+        "Dishwasher_safe"
+      ]
+    },
+    {
+      "name": "Target Audience",
+      "occurrence": 534,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Unisex Adult",
+        "Adult",
+        "Unisex Children",
+        "Women",
+        "Men,Women",
+        "Unisex adult",
+        "Unisex Adults",
+        "Women, Men",
+        "Men",
+        "Unisex-Adults",
+        "Kid, Adult",
+        "Child",
+        "Teacher",
+        "Women, Girls",
+        "Men, Boys, Father"
+      ]
+    },
+    {
+      "name": "Tripod Head Type",
+      "occurrence": 518,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Ball Heads",
+        "Pan Heads",
+        "Rotation head",
+        "Gimbal Heads",
+        "Pistol Grip Heads",
+        "Adjustable head",
+        "Gooseneck",
+        "Geared Heads",
+        "Swivel head",
+        "Pan Heads, Ball Heads",
+        "Gooseneck Head",
+        "\u4e07\u5411\u673a\u5934",
+        "360\u00b0 Gimbal Heads",
+        "Grip Heads",
+        "Magnetic head"
+      ]
+    },
+    {
+      "name": "Colour",
+      "occurrence": 511,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Black",
+        "Blue",
+        "Red",
+        "Purple",
+        "Pink",
+        "Green",
+        "White",
+        "Gray",
+        "Clear",
+        "Silver",
+        "Brown",
+        "black",
+        "Crystal Clear",
+        "Gold",
+        "Grey"
+      ]
+    },
+    {
+      "name": "Control Method",
+      "occurrence": 481,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Touch",
+        "App",
+        "Remote",
+        "Voice",
+        "Touch, Voice",
+        "App, Touch",
+        "App, Remote",
+        "Remote, Touch",
+        "Remote, Voice",
+        "App, Remote, Voice",
+        "Remote, Touch, Voice"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "occurrence": 480,
+      "frequency_pct": 0.04,
+      "examples": [
+        "The strikethrough price is the List Price. Savings represents a discount off the List Price."
+      ]
+    },
+    {
+      "name": "Maximum Weight Recommendation",
+      "occurrence": 474,
+      "frequency_pct": 0.04,
+      "examples": [
+        "280 Grams",
+        "1 Kilograms",
+        "200 Grams",
+        "210 Grams",
+        "300 Grams",
+        "2 Kilograms",
+        "250 Grams",
+        "400 Grams",
+        "260 Grams",
+        "485 Grams",
+        "0.62 Pounds",
+        "5 Grams",
+        "500 Grams",
+        "360 Grams",
+        "235 Grams"
+      ]
+    },
+    {
+      "name": "Room Type",
+      "occurrence": 461,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Bedroom",
+        "Office",
+        "Bathroom",
+        "Office, Living Room, Bedroom",
+        "Living Room, Bedroom",
+        "Living Room",
+        "Usb",
+        "Kitchen",
+        "Dormitory, Laundry Room, Bedroom",
+        "Tent",
+        "Home Office",
+        "Indoor & Outdoor",
+        "Office, Bedroom",
+        "Patio",
+        "Home"
+      ]
+    },
+    {
+      "name": "Item Form",
+      "occurrence": 458,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Liquid",
+        "Cream",
+        "Gel",
+        "Strip",
+        "Sheet",
+        "Powder",
+        "Bar",
+        "Spray",
+        "Stick",
+        "Lotion",
+        "Bag",
+        "Oil",
+        "Capsule",
+        "Wipes",
+        "Clip"
+      ]
+    },
+    {
+      "name": "Warranty Description",
+      "occurrence": 448,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1 year",
+        "90 day warranty",
+        "Manufacturer Warranty",
+        "All keyscaper products are covered by a full 1 year warranty against defect.",
+        "1 year manufacturer",
+        "Xawy",
+        "No",
+        "6 months",
+        "1",
+        "2 year manufacturer",
+        "Limited Lifetime",
+        "No Warranty",
+        "90 days warranty",
+        "1 Year",
+        "Xawy."
+      ]
+    },
+    {
+      "name": "Battery Description",
+      "occurrence": 433,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Lithium",
+        "Alkaline",
+        "Lithium-Ion",
+        "Lithium-Ion Polymer",
+        "Lithium Ion",
+        "Lithium-Ion, Lithium",
+        "AAA",
+        "AAAA battery",
+        "battery_type_aa",
+        "Lithium-Ion, Alkaline",
+        "Alkaline, Lithium",
+        "2000 mah",
+        "Lithium-Polymer"
+      ]
+    },
+    {
+      "name": "Manufacturer recommended age",
+      "occurrence": 385,
+      "frequency_pct": 0.03,
+      "examples": [
+        "12 years and up",
+        "3 years and up",
+        "15 years and up",
+        "13 years and up",
+        "12 months and up",
+        "6 years and up",
+        "8 years and up",
+        "7 years and up",
+        "5 months and up",
+        "14 years and up",
+        "6 months and up",
+        "4 years and up",
+        "5 years and up",
+        "0 months and up",
+        "4 - 13 years"
+      ]
+    },
+    {
+      "name": "Display Type",
+      "occurrence": 378,
+      "frequency_pct": 0.03,
+      "examples": [
+        "LCD",
+        "Digital",
+        "AMOLED",
+        "LED",
+        "Analog",
+        "OLED",
+        "High Definition",
+        "LCD, LED",
+        "Analog-Digital",
+        "Light",
+        "Touch",
+        "Led",
+        "Laptop",
+        "Retina",
+        "NO"
+      ]
+    },
+    {
+      "name": "Model",
+      "occurrence": 372,
+      "frequency_pct": 0.03,
+      "examples": [
+        "car phone holder",
+        "1",
+        "MobileSpec",
+        "Cellphone Mount",
+        "Car cup holder expander",
+        "Gv8.5microbag",
+        "Simply Shade",
+        "Car Phone Holder Mount",
+        "BTI-635-1",
+        "Multi-Mount",
+        "1043",
+        "FBA_Bicycle handlebar holder",
+        "Wireless Charger",
+        "CT000052",
+        "A0252US_Green"
+      ]
+    },
+    {
+      "name": "Type of item",
+      "occurrence": 371,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Video Game",
+        "Electronics",
+        "Wireless Phone Accessory",
+        "Apparel",
+        "Unknown Binding",
+        "Accessory",
+        "Sports",
+        "Personal Computers",
+        "Toy",
+        "CD-ROM",
+        "DVD",
+        "Office Product",
+        "Misc.",
+        "Software Download",
+        "Hardcover"
+      ]
+    },
+    {
+      "name": "Battery Average Life Standby",
+      "occurrence": 367,
+      "frequency_pct": 0.03,
+      "examples": [
+        "720 Hours",
+        "20 Hours",
+        "365 days",
+        "4320 Hours",
+        "30 days",
+        "1 \tyears",
+        "12 Hours",
+        "90 days",
+        "180 Hours",
+        "180 days",
+        "10 Hours",
+        "417 days",
+        "12 \tmonths",
+        "3 \tmonths",
+        "3 \tyears"
+      ]
+    },
+    {
+      "name": "Minimum Focal Length",
+      "occurrence": 365,
+      "frequency_pct": 0.03,
+      "examples": [
+        "10 Millimeters",
+        "1 Millimeters",
+        "10",
+        "18 Millimeters",
+        "35 Millimeters",
+        "17 Millimeters",
+        "12 Millimeters",
+        "25 Millimeters",
+        "15 Millimeters",
+        "40 Millimeters",
+        "50 Millimeters",
+        "1",
+        "37 Millimeters",
+        "20 Millimeters",
+        "13 Millimeters"
+      ]
+    },
+    {
+      "name": "Gauge",
+      "occurrence": 358,
+      "frequency_pct": 0.03,
+      "examples": [
+        "21.0",
+        "22.0",
+        "23.0",
+        "24.0",
+        "28.0",
+        "20.0",
+        "1.00",
+        "10.00",
+        "18.0",
+        "6.6",
+        "26.0",
+        "21.00",
+        "6.00",
+        "2.00",
+        "6"
+      ]
+    },
+    {
+      "name": "Minimum Height",
+      "occurrence": 356,
+      "frequency_pct": 0.03,
+      "examples": [
+        "12 Inches",
+        "17 Inches",
+        "40 Centimeters",
+        "18 Inches",
+        "10 Centimeters",
+        "8 Inches",
+        "10 Inches",
+        "30 Centimeters",
+        "6.5 Inches",
+        "11 Inches",
+        "20 Centimeters",
+        "19 Inches",
+        "27 Inches",
+        "16 Inches",
+        "6.5 Centimeters"
+      ]
+    },
+    {
+      "name": "Field Of View",
+      "occurrence": 344,
+      "frequency_pct": 0.03,
+      "examples": [
+        "120 Degrees",
+        "360 Degrees",
+        "90 Degrees",
+        "100 Degrees",
+        "110 Degrees",
+        "110",
+        "100",
+        "105 Degrees",
+        "103 Degrees",
+        "96 Degrees",
+        "102 Degrees",
+        "120",
+        "101 Degrees",
+        "170 Degrees",
+        "90"
+      ]
+    },
+    {
+      "name": "Maximum Focal Length",
+      "occurrence": 343,
+      "frequency_pct": 0.03,
+      "examples": [
+        "18 Millimeters",
+        "30",
+        "50 Millimeters",
+        "25 Millimeters",
+        "20 Millimeters",
+        "23 Millimeters",
+        "16 Millimeters",
+        "17 Millimeters",
+        "30 Millimeters",
+        "15 Millimeters",
+        "105 Millimeters",
+        "1 Millimeters",
+        "1",
+        "40 Millimeters",
+        "70 Millimeters"
+      ]
+    },
+    {
+      "name": "Real Angle of View",
+      "occurrence": 343,
+      "frequency_pct": 0.03,
+      "examples": [
+        "170 Degrees",
+        "120 Degrees",
+        "180 Degrees",
+        "198 Degrees",
+        "140 Degrees",
+        "150 Degrees",
+        "30 Degrees",
+        "90 Degrees",
+        "130 Degrees",
+        "110 Degrees",
+        "360 Degrees",
+        "350 Degrees",
+        "6 Degrees",
+        "290 Degrees",
+        "149 Degrees"
+      ]
+    },
+    {
+      "name": "Video Capture Resolution",
+      "occurrence": 342,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1080p",
+        "720p",
+        "480p",
+        "2160p",
+        "1440p",
+        "600",
+        "4K",
+        "1296p",
+        "420",
+        "FHD 1080p",
+        "492p",
+        "2.7K",
+        "1080p, 720p",
+        "520",
+        "1000"
+      ]
+    },
+    {
+      "name": "Auto Part Position",
+      "occurrence": 340,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Rear",
+        "Front",
+        "Inside",
+        "Center",
+        "Top",
+        "Right",
+        "Left",
+        "Bottom",
+        "Left, Right",
+        "Rear, Front",
+        "Lower",
+        "Front Inside",
+        "Outside",
+        "Rear Left",
+        "Center, Front"
+      ]
+    },
+    {
+      "name": "Thickness",
+      "occurrence": 340,
+      "frequency_pct": 0.03,
+      "examples": [
+        "2 Millimeters",
+        "3 Millimeters",
+        "1 Millimeters",
+        "4 Millimeters",
+        "0.1 Inches",
+        "1.5 Millimeters",
+        "3.3 Millimeters",
+        "0.2 Centimeters",
+        "0.19 Inches",
+        "3.5 Millimeters",
+        "0.08 Inches",
+        "1.8 Millimeters",
+        "2.3 Millimeters",
+        "0.25 Inches",
+        "3.8 Millimeters"
+      ]
+    },
+    {
+      "name": "Occasion",
+      "occurrence": 336,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Christmas",
+        "Birthday",
+        "Engagement, Mother's Day, Wedding, Birthday",
+        "Wedding",
+        "Wedding, Christmas, Birthday, Valentine's Day",
+        "Wedding, Birthday",
+        "New Year, Birthday",
+        "Home",
+        "Grandparents Day, New Year, Retirement",
+        "Halloween",
+        "Wedding, Anniversary, Birthday",
+        "Holiday",
+        "Valentine's Day",
+        "Wedding, Christmas",
+        "Christmas, Halloween"
+      ]
+    },
+    {
+      "name": "Battery Life",
+      "occurrence": 324,
+      "frequency_pct": 0.03,
+      "examples": [
+        "2 Hours",
+        "3 Hours",
+        "1.5 Hours",
+        "8 Hours",
+        "5 Hours",
+        "12 Hours",
+        "1 Hours",
+        "7 Hours",
+        "1 \tyears",
+        "2 \tyears",
+        "4 Hours",
+        "0.75 Hours",
+        "24 Hours",
+        "10 Hours",
+        "60 minutes"
+      ]
+    },
+    {
+      "name": "Series",
+      "occurrence": 319,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Galaxy",
+        "Powered",
+        "FBA_Mifi2200",
+        "Samsung Galaxy s22 ultra",
+        "Google Pixel Watch Screen Protector Case",
+        "Samsung Galaxy Z Flip 3 5G Case",
+        "FBA_GS09023",
+        "T4000E",
+        "Full Leather Wallet Case",
+        "For Samsung Galaxy Z Fold 3 5G Case",
+        "1",
+        "LG101",
+        "Touch",
+        "Apple watch Case Series SE 6 5 4 44mm",
+        "for Samsung Galaxy Z Fold 3 5G Case"
+      ]
+    },
+    {
+      "name": "Accessory Connection Type",
+      "occurrence": 311,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Clip Holder",
+        "Bracket",
+        "Sticky Pad",
+        "Magnetic",
+        "Suction Cup",
+        "Tabletop",
+        "1/4 Inch",
+        "Screw",
+        "Default",
+        "1 Step Assembly"
+      ]
+    },
+    {
+      "name": "Orientation",
+      "occurrence": 295,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Drivers Side",
+        "Landscape",
+        "Portrait",
+        "Front",
+        "Rear",
+        "Front and Rear",
+        "Vertical"
+      ]
+    },
+    {
+      "name": "Focus Type",
+      "occurrence": 293,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Manual Focus",
+        "Auto Focus",
+        "Manual Focus, Auto Focus",
+        "Individual Focus",
+        "Auto/Manual",
+        "Auto & Manual",
+        "automatic_only",
+        "Focus-free",
+        "manual_only"
+      ]
+    },
+    {
+      "name": "Range",
+      "occurrence": 279,
+      "frequency_pct": 0.02,
+      "examples": [
+        "4000 Square Feet",
+        "2000 Square Feet",
+        "5000 Square Feet",
+        "4500 Square Feet",
+        "3000 Square Feet",
+        "2500 Square Feet",
+        "5500 Square Feet",
+        "1500 Square Feet",
+        "2800 Square Feet",
+        "4 Feet",
+        "500 Square Feet",
+        "100 Feet",
+        "4500 Square Feet, 100 Feet",
+        "2700 MHz",
+        "4000 Square Feet, 3500 Square Feet"
+      ]
+    },
+    {
+      "name": "Lens Coating Description",
+      "occurrence": 262,
+      "frequency_pct": 0.02,
+      "examples": [
+        "HD Coating",
+        "Nano AR Coating",
+        "ZERO Coating",
+        "Anti-reflective coating",
+        "Super Integrated Coating",
+        "UV",
+        "Nano Coating",
+        "Scratch Resistant Coating",
+        "Super Protect Coating",
+        "Nano Coated",
+        "SF Coating",
+        "Multi-layer",
+        "Oop Coating"
+      ]
+    },
+    {
+      "name": "Hardware Platform",
+      "occurrence": 256,
+      "frequency_pct": 0.02,
+      "examples": [
+        "PC",
+        "Smartphone",
+        "Camera, Smartphone",
+        "Nintendo Switch",
+        "Android",
+        "Mac",
+        "PC, Mac",
+        "Pc",
+        "Gaming Console",
+        "Tablet, Camera, Smartphone",
+        "Tablet",
+        "Tablet, Smartphone",
+        "Laptop",
+        "pc",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Model Year",
+      "occurrence": 249,
+      "frequency_pct": 0.02,
+      "examples": [
+        "2014",
+        "2015",
+        "2016",
+        "2012",
+        "2013",
+        "2017",
+        "2011",
+        "2019",
+        "2018",
+        "2010",
+        "2020",
+        "2009",
+        "2021",
+        "2007",
+        "1"
+      ]
+    },
+    {
+      "name": "Finish types",
+      "occurrence": 243,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Matte",
+        "Smooth",
+        "White, Purple",
+        "white, purple",
+        "Polished",
+        "Oil Rubbed",
+        "Painted",
+        "Glossy",
+        "Chrome",
+        "Bronze",
+        "Brushed",
+        "9H Surface Hardness",
+        "White",
+        "Powder Coated",
+        "Brown"
+      ]
+    },
+    {
+      "name": "Publisher",
+      "occurrence": 239,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Graphics and More",
+        "MINITURTLE",
+        "Bocianelli (December 12, 2018)",
+        "Asgard Press (September 15, 2014)",
+        "Asgard Press (August 1, 2012)",
+        "Intermedia Outdoors (August 1, 2012)",
+        "MoonshineStillPro",
+        "NextKin",
+        "Blingy's\u00ae",
+        "Acedining; 1st edition (January 1, 2019)",
+        "EGO",
+        "Asgard Press",
+        "ROBERT DEMONTAGNAC",
+        "Diyphonecase",
+        "baby_chenge"
+      ]
+    },
+    {
+      "name": "Fabric Type",
+      "occurrence": 216,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Cotton",
+        "100% Cotton",
+        "polyester",
+        "Polyester",
+        "100% Polyester",
+        "Vinyl",
+        "Microfiber",
+        "Nylon",
+        "Fleece",
+        "100% Microfiber",
+        "Bamboo",
+        "Linen",
+        "Velvet",
+        "TPU",
+        "Glass"
+      ]
+    },
+    {
+      "name": "Flash Memory Type",
+      "occurrence": 213,
+      "frequency_pct": 0.02,
+      "examples": [
+        "SD",
+        "Micro SD",
+        "USB",
+        "MicroSD",
+        "TF",
+        "SD, Micro SD",
+        "SDHC",
+        "Micro SDXC",
+        "Micro SDHC",
+        "Micro SD, SDXC",
+        "SD Card",
+        "Micro SDXC, Micro SD, SDXC",
+        "SD, Micro SDHC",
+        "SD, SDHC",
+        "MMC"
+      ]
+    },
+    {
+      "name": "Number of leg sections",
+      "occurrence": 207,
+      "frequency_pct": 0.02,
+      "examples": [
+        "3",
+        "4",
+        "5",
+        "2",
+        "1",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "name": "Capacity",
+      "occurrence": 201,
+      "frequency_pct": 0.02,
+      "examples": [
+        "12 Ounces",
+        "1 Liters",
+        "16 Fluid Ounces",
+        "1.1 Pounds",
+        "30 Fluid Ounces",
+        "20 Fluid Ounces",
+        "3 Liters",
+        "10 Liters",
+        "2 Pounds",
+        "1.3 Pounds",
+        "14 Fluid Ounces",
+        "0.5 Liters",
+        "2.5 Pounds",
+        "1.5 Liters",
+        "15 Ounces"
+      ]
+    },
+    {
+      "name": "Import",
+      "occurrence": 201,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Imported",
+        "Country as Labeled",
+        "Made in USA or Imported",
+        "Made in USA",
+        "Importado",
+        "Made in US",
+        "Hecho en EE. UU. e importado",
+        "Hecho en USA",
+        "Made in USA and Imported",
+        "Made in the USA and Imported"
+      ]
+    },
+    {
+      "name": "Assembly required",
+      "occurrence": 201,
+      "frequency_pct": 0.02,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Is Autographed",
+      "occurrence": 197,
+      "frequency_pct": 0.02,
+      "examples": [
+        "No"
+      ]
+    },
+    {
+      "name": "Number of pieces",
+      "occurrence": 195,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "5",
+        "12",
+        "8",
+        "66",
+        "60",
+        "85",
+        "18",
+        "120",
+        "38",
+        "7"
+      ]
+    },
+    {
+      "name": "Folded Size",
+      "occurrence": 193,
+      "frequency_pct": 0.01,
+      "examples": [
+        "7.7 inches",
+        "7.6 inches",
+        "7.5 inches",
+        "7.2 inches",
+        "12",
+        "11.8 inch",
+        "10 inches",
+        "7.56 inches",
+        "11 Inches",
+        "12 inches",
+        "7.3 inches",
+        "7.6 inch",
+        "5.52 X 2.13 X 1.42 inches",
+        "7.48 inches",
+        "17"
+      ]
+    },
+    {
+      "name": "Surface Recommendation",
+      "occurrence": 192,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Wall",
+        "Window",
+        "Metal",
+        "Glass",
+        "Plastic",
+        "Door",
+        "Hard Floor",
+        "Floor",
+        "wall",
+        "Outdoor, Indoor, Plastic, Glass, Metal",
+        "Stone",
+        "Wood, Glass, Plastic, Metal",
+        "Hardwood",
+        "Carpet",
+        "Furniture"
+      ]
+    },
+    {
+      "name": "Light Source Type",
+      "occurrence": 187,
+      "frequency_pct": 0.01,
+      "examples": [
+        "LED",
+        "Candle",
+        "Halogen",
+        "Light Emitting Diode",
+        "Low Beam: H11 Excluded, High Beam: 9005 Excluded",
+        "HPS, LED",
+        "hid",
+        "Incandescent, LED",
+        "Cree Led,Led Flashlight",
+        "Incandence",
+        "Xenon",
+        "Fluorescent",
+        "Incandescent Lamp / Energy-saving Lamp / LED",
+        "Electroluminescent Wire",
+        "light"
+      ]
+    },
+    {
+      "name": "Frequency Band Class",
+      "occurrence": 185,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Single-Band",
+        "Dual-Band",
+        "Tri-Band",
+        "Quad-Band"
+      ]
+    },
+    {
+      "name": "Item Diameter",
+      "occurrence": 184,
+      "frequency_pct": 0.01,
+      "examples": [
+        "9 Millimeters",
+        "9.5 Millimeters",
+        "9.8 Millimeters",
+        "8.5 Millimeters",
+        "1.5 Millimeters",
+        "8 Millimeters",
+        "10 Millimeters",
+        "0.25 Inches",
+        "0.5 Inches",
+        "0.36 Inches",
+        "0.5 Centimeters",
+        "10.5 Millimeters",
+        "5 Inches",
+        "3 Inches",
+        "0.28 Inches"
+      ]
+    },
+    {
+      "name": "Band Color",
+      "occurrence": 182,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Black",
+        "black",
+        "Silver",
+        "pink",
+        "Blue",
+        "White",
+        "Pink",
+        "blue",
+        "white",
+        "Gold",
+        "Green",
+        "red",
+        "Brown",
+        "green",
+        "Peach"
+      ]
+    },
+    {
+      "name": "Networking Feature",
+      "occurrence": 172,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Automobiles, Indoor, Home, Aircraft, Indoor-outdoor",
+        "automobiles, indoor-outdoor, aircraft, indoor, home",
+        "apple, 4g, phone, iphone, accessory",
+        "Travel, Construction, Home, Sports",
+        "automobiles, indoor-outdoor, travel, home, air-craft",
+        "Apple, 4g, 4, Iphone, Case",
+        "Business Gifts",
+        "apple, 4g, 4, iphone, case",
+        "Indoor Outdoor",
+        "running, on-the-go, sports, walking, indoor-outdoor",
+        "unisex-adult",
+        "Calling friends family people business jobs everyone surfing the web internet shopping movies video, Protect camping outdoor construction wireless coverage safe surfing park driving fishing sailing, Smart cell mobile phone accessories protection safeguard protector defender for kids men girls women, Skateboarding recording mp3 mp4 facebook twitter instagram snapchat social media devices handheld, Cooking having fun peace of mind flying running working out exercice dancing music listening texting",
+        "Unisex-adult",
+        "outdoor, indoor-outdoor, indoor, travel, home",
+        "Kitchen, Indoor Outdoor, Automobiles, Home"
+      ]
+    },
+    {
+      "name": "Operation Mode",
+      "occurrence": 163,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Manual",
+        "Electrical",
+        "ON-OFF",
+        "Automatic",
+        "Mechanical",
+        "Found in image, Manual",
+        "Acoustic",
+        "ON OFF",
+        "Power",
+        "Start",
+        "Pneumatic, Mechanical, Electric",
+        "Hand",
+        "Electric",
+        "Atomic",
+        "Pneumatic"
+      ]
+    },
+    {
+      "name": "Sport",
+      "occurrence": 163,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Fitness",
+        "Golf",
+        "Running",
+        "Fishing",
+        "Cycling",
+        "Walking",
+        "Soccer",
+        "Hunting",
+        "Surfing, Fitness",
+        "Swimming",
+        "Exercise and Fitness",
+        "Running, Camping",
+        "Walking, Running, Camping, Hiking",
+        "Body Building",
+        "Camping, Hiking"
+      ]
+    },
+    {
+      "name": "Image Stabilization",
+      "occurrence": 149,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Optical",
+        "Digital",
+        "Hybrid",
+        "digital,optical"
+      ]
+    },
+    {
+      "name": "Frame Material",
+      "occurrence": 143,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Wood",
+        "Metal",
+        "Plastic",
+        "Aluminum",
+        "Alloy Steel",
+        "Acrylonitrile Butadiene Styrene",
+        "Glass",
+        "Stainless Steel",
+        "Unframed",
+        "Acrylic",
+        "Vinyl",
+        "Engineered Wood",
+        "Iron",
+        "Resin",
+        "Plastic, Glass"
+      ]
+    },
+    {
+      "name": "Speaker Type",
+      "occurrence": 140,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Outdoor",
+        "Subwoofer",
+        "Soundbar",
+        "Computer",
+        "Coaxial",
+        "Surround Sound",
+        "Woofer",
+        "Component",
+        "3D",
+        "Tweeter",
+        "Stereo",
+        "Portable Speakers",
+        "Portable",
+        "Multimedia",
+        "Tower"
+      ]
+    },
+    {
+      "name": "Input Device Interface",
+      "occurrence": 139,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Bluetooth",
+        "Bluetooth, USB",
+        "Bluetooth, USB, 3.5mm Jack",
+        "Bluetooth, 3.5mm Jack",
+        "Bluetooth, TF Card",
+        "USB",
+        "USB, 3.5mm Jack",
+        "Bluetooth, USB, TF Card",
+        "TF Card"
+      ]
+    },
+    {
+      "name": "Answering System Type",
+      "occurrence": 138,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Digital",
+        "Microcassette"
+      ]
+    },
+    {
+      "name": "Handle Material",
+      "occurrence": 137,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Acrylic",
+        "Plastic",
+        "Stainless Steel",
+        "Wood",
+        "Abs",
+        "Abs,Acrylic",
+        "Silicone",
+        "Metal",
+        "Rubber",
+        "Acrylonitrile Butadiene Styrene",
+        "Ceramic",
+        "Brass",
+        "Steel",
+        "Glass",
+        "Foam"
+      ]
+    },
+    {
+      "name": "Band Material Type",
+      "occurrence": 135,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Silicone",
+        "Leather",
+        "Stainless Steel",
+        "TPU",
+        "Silver",
+        "Nylon",
+        "Polyester, Spandex",
+        "Rubber",
+        "Rubber,Silicone",
+        "Aluminum,Silver,Stainless Steel",
+        "Spandex",
+        "Thermoplastic Polyurethane",
+        "Aluminum,Stainless Steel",
+        "aluminum",
+        "Stainless Steel, Silicone"
+      ]
+    },
+    {
+      "name": "Release date",
+      "occurrence": 134,
+      "frequency_pct": 0.01,
+      "examples": [
+        "August 21, 2017",
+        "March 7, 2019",
+        "March 15, 2012",
+        "May 1, 2018",
+        "January 15, 2018",
+        "April 6, 2020",
+        "March 1, 2014",
+        "January 1, 2012",
+        "January 1, 2021",
+        "January 20, 2018",
+        "September 15, 2020",
+        "February 13, 2017",
+        "January 8, 2019",
+        "January 8, 2018",
+        "October 15, 2017"
+      ]
+    },
+    {
+      "name": "Antenna",
+      "occurrence": 133,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Cellular",
+        "Radio",
+        "Television",
+        "Television, Satellite",
+        "5G LTE 4G 3G 2G GSM",
+        "Satellite",
+        "Television, Radio",
+        "cellular",
+        "4G/5G Omni-Directional Outdoor MIMO Antenna",
+        "5G 4G",
+        "\u624b\u673a\u901a\u4fe1",
+        "Wireless",
+        "149.99"
+      ]
+    },
+    {
+      "name": "Lining Description",
+      "occurrence": 131,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Leather",
+        "Faux Leather",
+        "Polyester",
+        "Metal",
+        "Nylon",
+        "Aluminum",
+        "Lycra",
+        "Stainless Steel",
+        "Polycarbonate",
+        "fabric",
+        "Vinyl"
+      ]
+    },
+    {
+      "name": "Package Information",
+      "occurrence": 131,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Bottle",
+        "Box",
+        "Tube",
+        "Can",
+        "Bag",
+        "Jar",
+        "Pouch",
+        "Vase",
+        "Kettle",
+        "Can, Tube",
+        "Carton",
+        "Canister",
+        "Bottle,Pouch",
+        "Tub",
+        "Cup"
+      ]
+    },
+    {
+      "name": "Color Screen",
+      "occurrence": 131,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No"
+      ]
+    },
+    {
+      "name": "Display size",
+      "occurrence": 130,
+      "frequency_pct": 0.01,
+      "examples": [
+        "0.25 inches",
+        "0.5 inches",
+        "0.75 inches",
+        "100 centimeters",
+        "12 centimeters",
+        "1 centimeters",
+        "2.5 inches",
+        "1.5 inches",
+        "2 centimeters",
+        "3.7 centimeters",
+        "0 centimeters",
+        "0.93 centimeters",
+        "0.1 inches",
+        "6 centimeters",
+        "1.5 centimeters"
+      ]
+    },
+    {
+      "name": "Assembly Required",
+      "occurrence": 130,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Finish",
+      "occurrence": 130,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Matte",
+        "Polished",
+        "Powder Coated",
+        "Painted",
+        "Oil Rubbed",
+        "Smooth",
+        "White",
+        "antique",
+        "Unfinished",
+        "Matte Finish",
+        "Chrome",
+        "9H Surface Hardness",
+        "Glossy",
+        "Black",
+        "Metal"
+      ]
+    },
+    {
+      "name": "Cable Feature",
+      "occurrence": 130,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Retractable",
+        "Without Cable",
+        "Detachable",
+        "Tangle Free",
+        "Without Cable, Retractable",
+        "Without Cable, Detachable",
+        "Handsfree",
+        "USB C cable",
+        "Charging"
+      ]
+    },
+    {
+      "name": "Flavor",
+      "occurrence": 129,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Chocolate",
+        "Unflavored",
+        "Chicken",
+        "Fruit",
+        "Coconut",
+        "Dark Chocolate",
+        "Vanilla",
+        "Mint",
+        "Pork",
+        "Mustard",
+        "Almond",
+        "Blueberry",
+        "Milk Chocolate",
+        "Peppermint",
+        "Peanut Butter"
+      ]
+    },
+    {
+      "name": "Compatible Mountings",
+      "occurrence": 123,
+      "frequency_pct": 0.01,
+      "examples": [
+        "ALL iPhone models Samsung Galaxy and Note Google Pixel Huawei and more",
+        "Iphone x",
+        "Canon EF",
+        "4/3",
+        "iphone xs max",
+        "Iphone 6",
+        "iphone 7",
+        "IPhone Samsung Android",
+        "Micro Four Thirds",
+        "IPhone XS MAX XS XR X 8 Plus 8 7 Plus 7 6 Plus 6 Samsung Galaxy S9 Plus S9 S8 Plus S8 S7 Edge S7 S6 Edge+ S6 Edge S6 Google Pixel 3 XL 3 2 XL 2 XL LG iPad Motorola HTC One Plus HUAWEI and other Android phonesIPhone XS MAX XS XR X 8 Plus 8 7 Plus 7 6 Plus 6 Samsung Galaxy S9 Plus S9 S8 Plus S8 S7 Edge S7 S6 Edge+ S6 Edge S6 Google Pixel 3 XL 3 2 XL 2 XL LG iPad Motorola HTC One Plus HUAWEI and other Android p\u2026  See more",
+        "Canon EF-S",
+        "Tripod",
+        "T Mount",
+        "IPhone XS MAX XS XR X 8 Plus 8 7 Plus 7 6 Plus 6 5S 5C 5 4S Samsung Galaxy S9 Plus S9 S8 Plus S8 S7 Edge S7 S6 Edge+ S6 Edge S6 Google Pixel 3 XL 3 2 XL 2 XL LG iPad Motorola HTC One Plus HUAWEI and other Android phonesIPhone XS MAX XS XR X 8 Plus 8 7 Plus 7 6 Plus 6 5S 5C 5 4S Samsung Galaxy S9 Plus S9 S8 Plus S8 S7 Edge S7 S6 Edge+ S6 Edge S6 Google Pixel 3 XL 3 2 XL 2 XL LG iPad Motorola HTC One Plus HUAWEI and oth\u2026  See more",
+        "Other"
+      ]
+    },
+    {
+      "name": "Seasons",
+      "occurrence": 123,
+      "frequency_pct": 0.01,
+      "examples": [
+        "All",
+        "All Seasons",
+        "Winter",
+        "All-Season",
+        "All Season",
+        "4 Season",
+        "3 Season",
+        "Summer",
+        "Spring/Summer",
+        "Year Round",
+        "spring, fall, all",
+        "\u56db\u5b63"
+      ]
+    },
+    {
+      "name": "Ink Color",
+      "occurrence": 119,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Black",
+        "Blue",
+        "White",
+        "Multicolor",
+        "Silver",
+        "Orange",
+        "Purple",
+        "Black,Silver",
+        "Turquoise",
+        "Black,Blue",
+        "Black,White",
+        "Pink",
+        "Green",
+        "White, Black",
+        "Black/Red"
+      ]
+    },
+    {
+      "name": "Additional product features",
+      "occurrence": 119,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Screen Protector",
+        "9H Surface Hardness, Oil Resistant, Anti Glare, Scratch Resistant",
+        "Shock-Absorbent",
+        "Rotatable",
+        "Oil Resistant, Scratch Resistant",
+        "Scratch resistant",
+        "Lightweight",
+        "Kickstand, Magnetic, Card Slot",
+        "Magnetic",
+        "Scratch Resistant",
+        "Foldable",
+        "flexible",
+        "Flexible, Waterproof, Durable",
+        "9H Surface Hardness",
+        "Portable, Handle"
+      ]
+    },
+    {
+      "name": "Optical Sensor Technology",
+      "occurrence": 114,
+      "frequency_pct": 0.01,
+      "examples": [
+        "CMOS",
+        "CCD",
+        "CCD, CMOS"
+      ]
+    },
+    {
+      "name": "Hand Orientation",
+      "occurrence": 113,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Ambidextrous",
+        "Right",
+        "Left",
+        "Left/Right",
+        "Worn on left hand",
+        "Left Hand",
+        "Apple watch cuff bracelet",
+        "universal",
+        "Left and right",
+        "product supports left or right hand bows",
+        "apple watch cuff bracelet",
+        "Right and left",
+        "left or right"
+      ]
+    },
+    {
+      "name": "Max. compatible device size",
+      "occurrence": 112,
+      "frequency_pct": 0.01,
+      "examples": [
+        "13 Inches",
+        "10.1 Inches",
+        "10.9 Inches",
+        "10.2 Inches",
+        "14 Inches",
+        "6 Inches",
+        "10.4 Inches",
+        "4 Centimeters",
+        "2 Centimeters",
+        "11 Inches"
+      ]
+    },
+    {
+      "name": "Scent",
+      "occurrence": 111,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Unscented",
+        "Fresh",
+        "Aloe Vera",
+        "Coconut",
+        "Citrus",
+        "Scented",
+        "Honey",
+        "Vanilla",
+        "Rose",
+        "Lemon",
+        "Aloe",
+        "Lavender",
+        "Natural",
+        "Mango",
+        "unscented"
+      ]
+    },
+    {
+      "name": "Is Dishwasher Safe",
+      "occurrence": 111,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Output Current",
+      "occurrence": 110,
+      "frequency_pct": 0.01,
+      "examples": [
+        "2 Amps",
+        "1 Amps",
+        "3 Amps",
+        "15 Amps",
+        "2.1 Amps",
+        "5 Amps",
+        "0.5 Amps",
+        "12 Amps",
+        "9 Amps",
+        "0.1 Amps",
+        "3.1 Amps",
+        "4.5 Amps",
+        "1.2 Amps",
+        "3.25 Amps",
+        "2.7 Amps"
+      ]
+    },
+    {
+      "name": "Compatible products",
+      "occurrence": 110,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Cellphone",
+        "Smartphones",
+        "Smartphones, Tablets",
+        "IPhone 7 Plus, 5.5 inch",
+        "Tablets",
+        "Apple iPhone 6",
+        "Samsung Galaxy S6 Edge",
+        "Apple iPhone 5",
+        "Monitors",
+        "Apple iPhone 5, Apple iPhone 5S",
+        "Apple iphone 5",
+        "Apple iPhone 6 Plus",
+        "Samsung Galaxy S7",
+        "Personal Computer",
+        "Samsung galaxy s3"
+      ]
+    },
+    {
+      "name": "ISBN 10",
+      "occurrence": 110,
+      "frequency_pct": 0.01,
+      "examples": [
+        "0942396499",
+        "1490398902",
+        "1588465934",
+        "847645256X",
+        "1482072637",
+        "1259290972",
+        "1682962431",
+        "1465082255",
+        "163036052X",
+        "193891399X",
+        "8888837329",
+        "8179041050",
+        "1905334796",
+        "149961490X",
+        "1629078360"
+      ]
+    },
+    {
+      "name": "ISBN 13",
+      "occurrence": 109,
+      "frequency_pct": 0.01,
+      "examples": [
+        "978-0942396492",
+        "978-1490398907",
+        "978-1588465931",
+        "978-8476452561",
+        "978-1482072631",
+        "978-1259290978",
+        "978-1682962435",
+        "978-1465082251",
+        "978-1630360528",
+        "978-1938913990",
+        "978-8888837321",
+        "978-8179041055",
+        "978-1905334797",
+        "978-1499614909",
+        "978-1629078366"
+      ]
+    },
+    {
+      "name": "Fit Type",
+      "occurrence": 107,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Universal Fit",
+        "Vehicle Specific Fit",
+        "Slim",
+        "Custom Fit",
+        "Slim Fit",
+        "\u4e07\u80fd\u88c5\u914d",
+        "Skinny",
+        "Vehicle Specific",
+        "Standard",
+        "Universal",
+        "Regular Fit",
+        "In Ear"
+      ]
+    },
+    {
+      "name": "Warranty",
+      "occurrence": 106,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Lifetime",
+        "1 year",
+        "2 Year",
+        "ONE YEAR",
+        "Manufacturer Warranty",
+        "1",
+        "Backed by Scosche\u2019s Lifetime Tech Support and 3 Year Warranty",
+        "1- YEAR",
+        "2-Year Limited Warranty",
+        "Comes with Manufacturer Warranty.",
+        "1 Year",
+        "Backed by Scosche\u2019s Lifetime Tech Support and 1 Year Warranty",
+        "1 YEAR LIMITED WARRANTY",
+        "1 year manufacturer",
+        "3 Year Warranty"
+      ]
+    },
+    {
+      "name": "Frequency",
+      "occurrence": 106,
+      "frequency_pct": 0.01,
+      "examples": [
+        "60 Hz",
+        "5 GHz",
+        "50 Hz",
+        "2.4 GHz",
+        "108 MHz",
+        "2100 MHz",
+        "900",
+        "700 MHz",
+        "1900 MHz",
+        "2600 MHz",
+        "0.02 MHz",
+        "0.33 MHz",
+        "850 MHz",
+        "1900 Millihertz",
+        "174 MHz"
+      ]
+    },
+    {
+      "name": "Speakers Maximum Output Power",
+      "occurrence": 106,
+      "frequency_pct": 0.01,
+      "examples": [
+        "100 Watts",
+        "10 Watts",
+        "6 Watts",
+        "3 Watts",
+        "200 Watts",
+        "50 Watts",
+        "5 Watts",
+        "2 Watts",
+        "15 Watts",
+        "600 Watts",
+        "25 Watts",
+        "60 Watts",
+        "300 Watts",
+        "450 Watts",
+        "150 Watts"
+      ]
+    },
+    {
+      "name": "Impedance",
+      "occurrence": 105,
+      "frequency_pct": 0.01,
+      "examples": [
+        "50 Ohm",
+        "75 Ohm",
+        "4 Ohm",
+        "2000 Ohm",
+        "16 Ohm",
+        "2200 Ohm",
+        "32 Ohm"
+      ]
+    },
+    {
+      "name": "Microphone Form Factor",
+      "occurrence": 105,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Built-In",
+        "Shotgun",
+        "Microphone System",
+        "Boom",
+        "Mini",
+        "Lavalier",
+        "Handheld",
+        "In-Line",
+        "Mini, Handheld",
+        "Hands-Free",
+        "Microphone Only",
+        "Plug On",
+        "Headset",
+        "Mini, Plug On"
+      ]
+    },
+    {
+      "name": "Frame Type",
+      "occurrence": 104,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Framed",
+        "Unframed",
+        "Wrapped Canvas",
+        "Poster Frame",
+        "Beveled",
+        "Full Rim"
+      ]
+    },
+    {
+      "name": "Keyboard Description",
+      "occurrence": 101,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Bluetooth",
+        "Wireless",
+        "USB",
+        "Micro USB",
+        "Gaming",
+        "Flexible",
+        "Indoor",
+        "Ergonomic",
+        "Membrane",
+        "bluetooth",
+        "Qwerty",
+        "English Keyboard"
+      ]
+    },
+    {
+      "name": "Ringtones",
+      "occurrence": 100,
+      "frequency_pct": 0.01,
+      "examples": [
+        "10 polyphonic",
+        "Many distinct patterns including melodies, and user defined styles of alerting/ringing.",
+        "5 ring tones and 7 melodies",
+        "35 ringtones",
+        "25 (10 standard / 15 polyphonic)",
+        "10 picture messages",
+        "32 ringer locations, plus built-in melody composer.",
+        "30 polyphonic (MIDI) ring tones and 5 picture messages",
+        "Phone has both ring tones and melodies and has 5 memory locations for downloadable melodies",
+        "40 pre-programmed ringing tones, plus downloadable\ufffd",
+        "10 preprogrammed melodies, additional ringtones may be downloaded (subject to available memory)",
+        "20 pre-programmed ringing tones, plus downloadable",
+        "Java functionality and ringtone ID",
+        "25 pre-programmed tones"
+      ]
+    },
+    {
+      "name": "Exterior",
+      "occurrence": 98,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Painted",
+        "Machined",
+        "Smooth",
+        "PLASTIC & Aluminum Alloy",
+        "Polished",
+        "Textured",
+        "Chrome",
+        "Black",
+        "Alcantara flocking material",
+        "Unpainted",
+        "PC",
+        "Molded satin black",
+        "steel",
+        "Yellow",
+        "Chrome, Painted, Polished"
+      ]
+    },
+    {
+      "name": "Is Waterproof",
+      "occurrence": 94,
+      "frequency_pct": 0.01,
+      "examples": [
+        "FALSE",
+        "TRUE",
+        "True"
+      ]
+    },
+    {
+      "name": "Battery Type",
+      "occurrence": 94,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Alkaline",
+        "Lithium",
+        "Lithium-Ion",
+        "Lithium Ion",
+        "Lithium-Polymer",
+        "Battery_type_lithium_ion",
+        "Lithium-Ion Polymer",
+        "1300 mah Battery",
+        "AAA",
+        "AAAA",
+        "AAAA battery",
+        "Lithium_ion"
+      ]
+    },
+    {
+      "name": "Warranty Type",
+      "occurrence": 93,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Limited",
+        "Lifetime",
+        "Manufacturer",
+        "90 days limited warranty",
+        "12 months",
+        "One year warranty",
+        "Lifetime Warranty",
+        "12 month warranty",
+        "\u6269\u5c55",
+        "manufacturer",
+        "Seller",
+        "Product warranty",
+        "Lifetime, Extended",
+        "18-month warranty",
+        "Lifetime, Limited"
+      ]
+    },
+    {
+      "name": "Polar Pattern",
+      "occurrence": 92,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Unidirectional",
+        "Omnidirectional",
+        "Unidirectional, Omnidirectional"
+      ]
+    },
+    {
+      "name": "Number Of Pieces",
+      "occurrence": 91,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "5",
+        "100",
+        "10",
+        "80",
+        "62",
+        "6",
+        "67",
+        "12",
+        "30",
+        "40",
+        "8"
+      ]
+    },
+    {
+      "name": "Wireless Communication Standard",
+      "occurrence": 90,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Radio Frequency",
+        "Bluetooth",
+        "802.11b",
+        "802.11bgn",
+        "2.4 GHz Radio Frequency",
+        "802.11n",
+        "802.11ac",
+        "802.11n, 802.11b, 802.11g, 2.4 GHz Radio Frequency",
+        "802.11n, 802.11b, 802.11g",
+        "802.11a/b/g/n/ac",
+        "5 GHz Radio Frequency, 2.4 GHz Radio Frequency",
+        "802.11a/b/g/n",
+        "5 GHz Radio Frequency",
+        "Infrared",
+        "802.11n, 802.11g"
+      ]
+    },
+    {
+      "name": "Skin Type",
+      "occurrence": 90,
+      "frequency_pct": 0.01,
+      "examples": [
+        "All",
+        "Dry",
+        "Sensitive",
+        "Combination",
+        "Sensitive, Dry",
+        "All Skin",
+        "Oily, Sensitive, Dry",
+        "Oily, Normal",
+        "Oily",
+        "Normal",
+        "Dry, Normal"
+      ]
+    },
+    {
+      "name": "Cable Length",
+      "occurrence": 89,
+      "frequency_pct": 0.01,
+      "examples": [
+        "3 Inches",
+        "4 Feet",
+        "5 Millimeters",
+        "6 Feet",
+        "4 Inches",
+        "5 Inches",
+        "3 Feet",
+        "33 Millimeters",
+        "5 Feet",
+        "0.8 Inches",
+        "7 Inches",
+        "0.2 Inches",
+        "2 Inches",
+        "3 Millimeters",
+        "6.6 Feet"
+      ]
+    },
+    {
+      "name": "Outer Material",
+      "occurrence": 88,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Military Grade PE",
+        "Polyester",
+        "Silicone",
+        "Neoprene",
+        "Nylon",
+        "Plastic",
+        "Glass",
+        "BRASS",
+        "Polypropylene",
+        "Foam, Gel",
+        "Aluminum",
+        "Leather",
+        "TPU",
+        "Faux Leather",
+        "Apple watch cuff bracelet"
+      ]
+    },
+    {
+      "name": "Display Technology",
+      "occurrence": 87,
+      "frequency_pct": 0.01,
+      "examples": [
+        "LCD",
+        "LED",
+        "OLED",
+        "AMOLED",
+        "Electronic Ink"
+      ]
+    },
+    {
+      "name": "Control Type",
+      "occurrence": 86,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Media Control",
+        "Volume Control",
+        "Voice Control",
+        "Remote Control",
+        "Siri",
+        "in-line microphone",
+        "touch",
+        "In-line microphone",
+        "In-line remote control",
+        "remote",
+        "Call Control",
+        "App Control",
+        "Touch",
+        "Button Control",
+        "in-line remote control"
+      ]
+    },
+    {
+      "name": "Closure",
+      "occurrence": 86,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Snap",
+        "Twist",
+        "Retractable",
+        "Buckle",
+        "Magnetic",
+        "Zipper",
+        "Velcro",
+        "Button",
+        "Clip",
+        "button",
+        "Magnetic Closure",
+        "Slip-On",
+        "Hook & Loop, Snap, Clip",
+        "Hook & Loop",
+        "Magnet"
+      ]
+    },
+    {
+      "name": "Focal Length Description",
+      "occurrence": 86,
+      "frequency_pct": 0.01,
+      "examples": [
+        "37 mm",
+        "16 mm",
+        "198\u00b0Fisheye Lens, 15X Macro Lens, Wide Angle Lens",
+        "Telephoto/Fisheye/Macro/Wide angle lens-Wait",
+        "100 mm",
+        "60 mm",
+        "Telephoto, Wide-angle, Macro, Fisheye",
+        "35-70mm",
+        "18 mm",
+        "20 mm",
+        "14",
+        "Telephoto, Fisheye, Macro, Wide Angle, CPL, Kaleid",
+        "12X / 24X Macro Lens",
+        "Bumper",
+        "add-on lens for smartphone and tablet"
+      ]
+    },
+    {
+      "name": "Head Style",
+      "occurrence": 83,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Pentalobe",
+        "Hex",
+        "Tri-Point",
+        "Pentalobe, Phillips, Torx",
+        "Phillips, Torx",
+        "Phillips",
+        "Pentalobe, Torx",
+        "Flat",
+        "Flat, Tri-Angle, Hex, Torx",
+        "Pentalobe, Phillips",
+        "Flat, Pentalobe, Tri-Wing",
+        "Tri-Angle, Pentalobe, Phillips",
+        "Phillips, Tri-Point",
+        "Tri-Wing, Pentalobe, Phillips",
+        "Torx"
+      ]
+    },
+    {
+      "name": "Point Type",
+      "occurrence": 83,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Medium",
+        "Fine",
+        "Broad",
+        "Chisel",
+        "Bold",
+        "Flat",
+        "Soft",
+        "Extra Fine",
+        "Micro",
+        "medium",
+        "Retractable",
+        "Diamond",
+        "M \u7801\uff08\u4e2d\u7801\uff09",
+        "0.5mm",
+        "Variety"
+      ]
+    },
+    {
+      "name": "Lux rating",
+      "occurrence": 83,
+      "frequency_pct": 0.01,
+      "examples": [
+        "0.1 Lux",
+        "0.1",
+        "0.5",
+        "0.01",
+        "1",
+        "0.2",
+        "1 Lux",
+        "0.3",
+        "0.01 Lux",
+        "0, 1",
+        "0.2, 0.5",
+        "0.05"
+      ]
+    },
+    {
+      "name": "Binding",
+      "occurrence": 82,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Office Product",
+        "Wireless Phone Accessory",
+        "Paperback",
+        "Unknown Binding",
+        "Electronics",
+        "Toy",
+        "Calendar",
+        "Spiral-bound",
+        "Diary",
+        "Home",
+        "Leather Bound",
+        "Health and Beauty",
+        "Hardcover",
+        "Kitchen",
+        "Vinyl Bound"
+      ]
+    },
+    {
+      "name": "Lens Material",
+      "occurrence": 80,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Acrylic",
+        "Glass",
+        "Resin"
+      ]
+    },
+    {
+      "name": "Compatible Material",
+      "occurrence": 78,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Glass",
+        "Rubber",
+        "Metal",
+        "Wood",
+        "Plastic",
+        "Paper",
+        "Wood, Glass, Cement, Metal",
+        "Foam, Paper",
+        "Wood, Leather, Plastic, Metal",
+        "Decorations,Acrylic,Metal",
+        "Acrylic",
+        "Wood, Glass, Leather, Plastic, Metal, Rubber",
+        "Vinyl, Alloy Steel",
+        "Automotive",
+        "Glass, Paper, Metal, Rubber"
+      ]
+    },
+    {
+      "name": "Number of Compartments",
+      "occurrence": 78,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "8",
+        "35",
+        "6",
+        "10",
+        "64",
+        "3",
+        "20",
+        "28",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "name": "Number of Sets",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "5",
+        "4",
+        "2",
+        "10",
+        "3",
+        "8",
+        "100",
+        "9",
+        "20",
+        "6"
+      ]
+    },
+    {
+      "name": "Computer Memory Type",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "DDR3 SDRAM",
+        "72-Pin EDO SIMM Memory",
+        "DDR2 SDRAM",
+        "Unknown",
+        "SDRAM",
+        "DDR4 SDRAM",
+        "DIMM",
+        "DDR DRAM",
+        "DRAM",
+        "DDR3L-1600 SDRAM",
+        "PC2-6000",
+        "PC2-4300",
+        "PC1066",
+        "GDDR3"
+      ]
+    },
+    {
+      "name": "Ear Placement",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "In Ear",
+        "On Ear",
+        "Over Ear",
+        "Open Ear"
+      ]
+    },
+    {
+      "name": "Caller Identification",
+      "occurrence": 74,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Map Type",
+      "occurrence": 73,
+      "frequency_pct": 0.01,
+      "examples": [
+        "North America",
+        "Topographical",
+        "Satellite",
+        "Street, North America",
+        "Worldwide",
+        "Freshwater",
+        "Europe",
+        "South Africa, North America",
+        "Topographical, Satellite, North America",
+        "Topographical-map-form|north-america",
+        "Nautical",
+        "Satellite, Street, North America",
+        "Trail",
+        "Global",
+        "South America, Europe, North America"
+      ]
+    },
+    {
+      "name": "Certification",
+      "occurrence": 73,
+      "frequency_pct": 0.01,
+      "examples": [
+        "UL",
+        "Qi",
+        "CE, UL, FCC",
+        "Qualcomm",
+        "certified frustration-free",
+        "CE, FCC, RoHS",
+        "not_applicable",
+        "CE",
+        "Certified frustration-free",
+        "oem",
+        "UL Listed",
+        "UL, ETL",
+        "Not_applicable",
+        "Ma",
+        "No"
+      ]
+    },
+    {
+      "name": "Total Power Outlets",
+      "occurrence": 71,
+      "frequency_pct": 0.01,
+      "examples": [
+        "4",
+        "6",
+        "1",
+        "3",
+        "5",
+        "2",
+        "8",
+        "10",
+        "11",
+        "7",
+        "12"
+      ]
+    },
+    {
+      "name": "Number of Channels",
+      "occurrence": 70,
+      "frequency_pct": 0.01,
+      "examples": [
+        "4",
+        "1",
+        "2",
+        "6",
+        "40",
+        "8",
+        "100",
+        "150",
+        "22",
+        "256",
+        "5"
+      ]
+    },
+    {
+      "name": "Age Range Description",
+      "occurrence": 69,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Adult",
+        "Toddler",
+        "Kid",
+        "Baby",
+        "Children"
+      ]
+    },
+    {
+      "name": "Dialer Type",
+      "occurrence": 68,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Single Keypad"
+      ]
+    },
+    {
+      "name": "Wireless Remote",
+      "occurrence": 67,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No"
+      ]
+    },
+    {
+      "name": "Number of Players",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "1-4",
+        "2-6",
+        "1-10",
+        "6"
+      ]
+    },
+    {
+      "name": "Item Volume",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "8 Fluid Ounces",
+        "1.7 Fluid Ounces",
+        "2 Milliliters",
+        "50 Milliliters",
+        "5 Milliliters",
+        "4 Fluid Ounces",
+        "100 Milliliters",
+        "30 Milliliters",
+        "6.7 Fluid Ounces",
+        "500 Milliliters",
+        "17 Milliliters",
+        "16 Fluid Ounces",
+        "0.5 Fluid Ounces",
+        "10 Milliliters",
+        "60 Milliliters"
+      ]
+    },
+    {
+      "name": "Switch Type",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Push Button",
+        "Touch",
+        "Rocker, Temperature Switch",
+        "Slide",
+        "Rocker",
+        "Decorator",
+        "Toggle",
+        "Magnetic",
+        "Touch Switch",
+        "Kill Switch",
+        "Temperature Switch",
+        "Mute Switch",
+        "Remote",
+        "Dimmer",
+        "Slide switch"
+      ]
+    },
+    {
+      "name": "Number of Buttons",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "16",
+        "78",
+        "10",
+        "4",
+        "104",
+        "6",
+        "2",
+        "80",
+        "8",
+        "14",
+        "19",
+        "5"
+      ]
+    },
+    {
+      "name": "Shade Material",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Glass",
+        "Metal",
+        "Plastic",
+        "Crystal",
+        "fabric",
+        "Acrylonitrile Butadiene Styrene",
+        "Silk",
+        "Aluminum, Polycarbonate, Shell",
+        "Brass",
+        "Metal, Polycarbonate",
+        "Glass, Crystal",
+        "Linen",
+        "Iphone 8 plus",
+        "Metal, Iron",
+        "Aluminum"
+      ]
+    },
+    {
+      "name": "Number Of Pockets",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "2",
+        "1",
+        "3",
+        "8",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "name": "Type of Bulb",
+      "occurrence": 64,
+      "frequency_pct": 0.0,
+      "examples": [
+        "LED",
+        "led",
+        "Led",
+        "Halogen",
+        "61518",
+        "Xenon",
+        "White Led",
+        "Krypton",
+        "Cover",
+        "NO",
+        "Fluorescent",
+        "UV Light",
+        "Energy Efficient",
+        "krypton",
+        "incandescent"
+      ]
+    },
+    {
+      "name": "Number of Processors",
+      "occurrence": 63,
+      "frequency_pct": 0.0,
+      "examples": [
+        "1",
+        "4",
+        "2",
+        "8",
+        "5"
+      ]
+    },
+    {
+      "name": "Assembled Height",
+      "occurrence": 62,
+      "frequency_pct": 0.0,
+      "examples": [
+        "17 inches",
+        "0.21 centimeters",
+        "6 inches",
+        "18 inches",
+        "2.6 inches",
+        "4 inches",
+        "5.91 inches",
+        "0.59 inches",
+        "6.3 inches",
+        "21 inches",
+        "0.6 inches",
+        "20.47 inches",
+        "15 millimeters",
+        "14.5 inches",
+        "2 centimeters"
+      ]
+    },
+    {
+      "name": "Target Species",
+      "occurrence": 62,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Dog",
+        "Bass",
+        "Cat, Dog",
+        "Cat",
+        "Fish",
+        "Poke",
+        "Buzz",
+        "Hamster",
+        "Squirrel",
+        "Chicken",
+        "Moth",
+        "Bird",
+        "Insects",
+        "Fly",
+        "Panfish Bass"
+      ]
+    },
+    {
+      "name": "Water Resistance Depth",
+      "occurrence": 62,
+      "frequency_pct": 0.0,
+      "examples": [
+        "30 Meters",
+        "100 Meters",
+        "330 Feet",
+        "660 Feet",
+        "165 Feet",
+        "3280 Feet",
+        "50 Meters",
+        "99 Feet",
+        "1 Meters",
+        "33 Feet",
+        "200 Meters",
+        "300 Meters"
+      ]
+    },
+    {
+      "name": "Media Type",
+      "occurrence": 61,
+      "frequency_pct": 0.0,
+      "examples": [
+        "SD Card, Micro SD",
+        "SD",
+        "Micro SD",
+        "SD Card",
+        "Micro SDXC, SD Card, Micro SDHC, Micro SD",
+        "Paper",
+        "microSD, SD Card",
+        "MicroSD, SD Card",
+        "MMC",
+        "CD R",
+        "SDHC, SD Card, Micro SD",
+        "Mini SD, MMC, Memory Stick Micro, Memory Stick, SDHC, Micro SD",
+        "Micro SDHC, Micro SD",
+        "Slide",
+        "Business Card"
+      ]
+    },
+    {
+      "name": "Audio Output Mode",
+      "occurrence": 61,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Stereo",
+        "Surround",
+        "Mono, Stereo",
+        "Surround, Stereo",
+        "Speaker",
+        "AUX, Speaker"
+      ]
+    },
+    {
+      "name": "Strap Type",
+      "occurrence": 60,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Adjustable",
+        "Removable",
+        "Shoulder",
+        "Detachable",
+        "Adjustable,Shoulder",
+        "Adjustable,Shoulder Strap,Removable",
+        "Wrist Strap",
+        "Split Strap"
+      ]
+    },
+    {
+      "name": "Telephone Type",
+      "occurrence": 60,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Corded",
+        "Cordless",
+        "Landline",
+        "Wireless",
+        "Handset",
+        "Wireless Flip Phone",
+        "SIM"
+      ]
+    },
+    {
+      "name": "Recording Capacity",
+      "occurrence": 59,
+      "frequency_pct": 0.0,
+      "examples": [
+        "16 minutes",
+        "17 minutes",
+        "22 minutes",
+        "18 minutes",
+        "15 minutes",
+        "5 minutes",
+        "12 minutes",
+        "14 minutes",
+        "10 minutes",
+        "8 Hours",
+        "90 minutes",
+        "250 Hours",
+        "4.8 Hours",
+        "300 minutes",
+        "2.5 Hours"
+      ]
+    },
+    {
+      "name": "Format",
+      "occurrence": 58,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Wall Calendar",
+        "WMA",
+        "MPEG",
+        "WMA, WAV",
+        "CD",
+        "Desk Calendar",
+        "MP3 Audio",
+        "Organizer",
+        "WAV",
+        "DVD-ROM",
+        "PAL",
+        "Notebook",
+        "CD-ROM",
+        "Student Calendar",
+        "Clean"
+      ]
+    },
+    {
+      "name": "Top Style",
+      "occurrence": 58,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Rod Pocket",
+        "Grommet",
+        "Tight Top",
+        "Bumper",
+        "Country",
+        "Tank Top",
+        "Case",
+        "Elephant",
+        "Scroll",
+        "Rod Pocket, Tab Top",
+        "Mushroom Mount",
+        "Fields",
+        "Shark Girl",
+        "G750"
+      ]
+    },
+    {
+      "name": "Adjustable Length",
+      "occurrence": 56,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Position",
+      "occurrence": 56,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Rear",
+        "Front",
+        "Inside",
+        "Center",
+        "Left",
+        "Right",
+        "Inner",
+        "Bottom",
+        "Rear, Front",
+        "Front Inside",
+        "Front Right Inner",
+        "Front Left"
+      ]
+    },
+    {
+      "name": "Pencil Lead Degree (Hardness)",
+      "occurrence": 56,
+      "frequency_pct": 0.0,
+      "examples": [
+        "9H",
+        "402H",
+        "2H",
+        "F",
+        "3H"
+      ]
+    },
+    {
+      "name": "Hair Type",
+      "occurrence": 56,
+      "frequency_pct": 0.0,
+      "examples": [
+        "All",
+        "Curly",
+        "Dry",
+        "Wavy",
+        "Straight",
+        "Frizzy",
+        "Color Treated",
+        "Oily, Dry, Normal",
+        "Fine",
+        "Frizzy, Damaged",
+        "Thin-0.3mm",
+        "Bluetooth",
+        "All,Thick,Thin",
+        "Long",
+        "Wavy, Curly"
+      ]
+    },
+    {
+      "name": "National Stock Number",
+      "occurrence": 55,
+      "frequency_pct": 0.0,
+      "examples": [
+        "5961-00-849-1549",
+        "NO",
+        "5805-01-609-6253",
+        "5805-01-614-5637",
+        "5996-01-623-8237",
+        "5805-01-618-7358",
+        "4920-01-518-6413",
+        "6130-01-381-0828",
+        "5940-01-630-1334",
+        "5965-01-467-1872",
+        "5962-01-193-5887",
+        "5820-01-591-7999",
+        "4730-01-526-2556, 6510-01-588-1937",
+        "7510-01-630-2390",
+        "5985-01-553-2395"
+      ]
+    },
+    {
+      "name": "Usage",
+      "occurrence": 54,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Stationery",
+        "Personal",
+        "Brush,Paint Brush",
+        "1",
+        "Indoor Use Only, In-Wall Use Only",
+        "Inside, Outside",
+        "Bathroom,Kitchen,Shower",
+        "Samsung Galaxy S5 bamboo cover",
+        "absorb the sweat",
+        "Stinger 2020, ProTac HL 5-X USB, PolyTac 90 X USB, Right Angle Light, PolyTac X USB, ProTac 90 X USB, ProTac HL USB, ProTac HL-X USB, ProTac HL USB Headlamp, Siege X USB, ProTac 2L-X USB, and Vantage 180 X USB",
+        "Iphone4/4s armband",
+        "Wedding",
+        "Suitable for Handyman Project holding tool for screws, drills, nails, pins, and wrenches. Best Gifts for men, father, dad, women, mother, guys and girls.",
+        "Phone addiction",
+        "Portable AC Power Bank for Camping/Laptop Power Bank/Battery Power Bank/Portable Charger for Laptop"
+      ]
+    },
+    {
+      "name": "Assembled Width",
+      "occurrence": 53,
+      "frequency_pct": 0.0,
+      "examples": [
+        "7 centimeters",
+        "22 inches",
+        "12 inches",
+        "0 inches",
+        "4.5 inches",
+        "5 inches",
+        "0.1 inches",
+        "3.35 inches",
+        "1.5 inches",
+        "6.3 inches",
+        "3.5 inches",
+        "6.5 inches",
+        "4.3 inches",
+        "7.48 inches",
+        "4.33 inches"
+      ]
+    },
+    {
+      "name": "Specifications",
+      "occurrence": 53,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Qi",
+        "Certified frustration-free",
+        "certified frustration-free",
+        "Ma",
+        "CE",
+        "Oe",
+        "tissue box holder",
+        "CE, RoHS",
+        "Certified Frustration-free",
+        "IP",
+        "Hard floor, Short-pile Carpet, Dual action",
+        "qi",
+        "Energy Star",
+        "ma"
+      ]
+    },
+    {
+      "name": "Inner Material",
+      "occurrence": 53,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Leather",
+        "Wood",
+        "Metal",
+        "Polyester",
+        "Nylon",
+        "Foam",
+        "Microfiber",
+        "Silk",
+        "Cotton",
+        "Faux Leather",
+        "PC",
+        "Thermoplastic Polyurethane",
+        "Metal, Leather",
+        "Ceramic",
+        "Engineered Wood"
+      ]
+    },
+    {
+      "name": "Surround Sound Channel Configuration",
+      "occurrence": 52,
+      "frequency_pct": 0.0,
+      "examples": [
+        "3.0",
+        "2.0",
+        "1.0",
+        "4 Channel",
+        "4 channel",
+        "2.1",
+        "4",
+        "4.2",
+        "2 Channel",
+        "2.1 channel",
+        "10.1",
+        "2 channel",
+        "5.1 channel",
+        "7 1",
+        "6.1"
+      ]
+    },
+    {
+      "name": "GPU",
+      "occurrence": 52,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Intel",
+        "Phone holder , stands smartphone ,desktop stand",
+        "Adreno 320",
+        "Apple",
+        "quicktime",
+        "Adreno 405",
+        "iphone 6 case otterbox",
+        "Nvidia",
+        "no",
+        "Adreno 205",
+        "Quicktime",
+        "nvidia",
+        "ARMv8 Cortex-A53 Adreno(TM)306",
+        "Adreno 220",
+        "Qualcomm"
+      ]
+    },
+    {
+      "name": "Material Feature",
+      "occurrence": 52,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Natural",
+        "Insulated",
+        "Compostable Warning",
+        "Biodegradable Warning",
+        "Organic, Natural",
+        "Cruelty Free",
+        "Vegan",
+        "Certified Organic",
+        "Reusable",
+        "Antibacterial",
+        "Natural, Non Comedogenic",
+        "Antioxidant",
+        "Compostable",
+        "Vegetarian",
+        "Formaldehyde free, Cruelty Free"
+      ]
+    },
+    {
+      "name": "Blade Material",
+      "occurrence": 52,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Stainless Steel",
+        "Alloy Steel",
+        "High Speed Steel",
+        "Metal",
+        "Plastic",
+        "High Carbon Steel",
+        "Carbon Steel",
+        "Ceramic",
+        "Carbon"
+      ]
+    },
+    {
+      "name": "Output Wattage",
+      "occurrence": 51,
+      "frequency_pct": 0.0,
+      "examples": [
+        "100 Watts",
+        "50 Watts",
+        "200 Watts",
+        "300 Watts",
+        "250 Watts",
+        "10 Watts",
+        "18 Watts",
+        "5 Watts",
+        "20 Watts",
+        "400 Watts",
+        "80 Watts",
+        "500 Watts",
+        "27 Watts",
+        "120 Watts",
+        "350 Watts"
+      ]
+    },
+    {
+      "name": "OEM Part Number",
+      "occurrence": 51,
+      "frequency_pct": 0.0,
+      "examples": [
+        "84-21-2-218-390",
+        "024189",
+        "355032",
+        "Compatible with all smartphones: for iPhone XR XS Max X,for iPhone 11/8/7 Plus/8/7/6/6 Plus,for Galaxy S10/S10+/S10e/ S9/S9 Plus/S8/S8 Plus/S7/S7 Edge/Note 9 8,for LG G7 G6,for Pixel/2,for Pixel XL/2 XL,for HTC,for Xperia, for Nokia, for Nexus",
+        "clip on backseat Backseat car center console door",
+        "10363178",
+        "Fit 2015 2016 2017 2018 2019 Audi A3 S3 RS3, Mounting Bracket Fit 4.0-6.5\" Cellphone",
+        "Fit BMW 2018-up G01 Gen3 X3 and 2019-up G02 Gen2 X4, Mounting Bracket Fit 4.0-6.5\" Cellphone",
+        "PS-IP5#",
+        "50000-50220",
+        "24206391",
+        "Fit 2017 2018 2019 2020 17 18 19 20 and up Mercedes Benz E Class, W213 C238 A238 E250 E300 E400 E500 E43 E63 AMG, etc, Mounting Bracket Fit 4.0-6.5\" Cellphone",
+        "GP-MH-4-KB",
+        "321-1130 334-2460 10463688 10480170, 8216-5 AL8720X",
+        "M2164"
+      ]
+    },
+    {
+      "name": "Battery Cell Type",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Lithium Ion",
+        "Lithium Polymer",
+        "NiMH",
+        "NiCAD",
+        "Alkaline",
+        "Lithium",
+        "Silver Oxide",
+        "Polymer"
+      ]
+    },
+    {
+      "name": "Assembled Length",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "15.6 centimeters",
+        "0 inches",
+        "11 inches",
+        "5.91 inches",
+        "4.5 inches",
+        "10 centimeters",
+        "24 inches",
+        "7.03 inches",
+        "4.1 inches",
+        "6.3 inches",
+        "22 inches",
+        "9 inches",
+        "8.2 inches",
+        "7.48 inches",
+        "1.8 inches"
+      ]
+    },
+    {
+      "name": "Noise Control",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Active Noise Cancellation",
+        "Sound Isolation",
+        "Active Noise Cancellation, Sound Isolation",
+        "None"
+      ]
+    },
+    {
+      "name": "Is Stain Resistant",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "No",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "CPU Manufacturer",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Qualcomm",
+        "Apple",
+        "Intel",
+        "Mediatek",
+        "Motorola",
+        "samsung",
+        "ARM",
+        "Samsung",
+        "MTK6575"
+      ]
+    }
+  ]
+}

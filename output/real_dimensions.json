@@ -1,0 +1,440 @@
+{
+  "source": "mongodb_real_reviews",
+  "reviews_processed": 100,
+  "reviews_with_patterns": 90,
+  "unique_patterns": 429,
+  "total_occurrences": 461,
+  "top_patterns": [
+    {
+      "unit": "quality: great",
+      "count": 4,
+      "percentage": 4.4,
+      "rank": 1
+    },
+    {
+      "unit": "issue: other",
+      "count": 3,
+      "percentage": 3.3,
+      "rank": 2
+    },
+    {
+      "unit": "size: same",
+      "count": 3,
+      "percentage": 3.3,
+      "rank": 3
+    },
+    {
+      "unit": "reviews: other",
+      "count": 3,
+      "percentage": 3.3,
+      "rank": 4
+    },
+    {
+      "unit": "time: same",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 5
+    },
+    {
+      "unit": "weather: cold",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 6
+    },
+    {
+      "unit": "deal: great",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 7
+    },
+    {
+      "unit": "socks: athletic",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 8
+    },
+    {
+      "unit": "time: long",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 9
+    },
+    {
+      "unit": "size: smaller",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 10
+    },
+    {
+      "unit": "threads: loose",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 11
+    },
+    {
+      "unit": "head: small",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 12
+    },
+    {
+      "unit": "reviewers: other",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 13
+    },
+    {
+      "unit": "quality: good",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 14
+    },
+    {
+      "unit": "feet: narrow",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 15
+    },
+    {
+      "unit": "socks: tight",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 16
+    },
+    {
+      "unit": "price: great",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 17
+    },
+    {
+      "unit": "reason: only",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 18
+    },
+    {
+      "unit": "style: cute",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 19
+    },
+    {
+      "unit": "material: thick",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 20
+    },
+    {
+      "unit": "fit: good",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 21
+    },
+    {
+      "unit": "look: warm",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 22
+    },
+    {
+      "unit": "quality: soft",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 23
+    },
+    {
+      "unit": "weight: comfortable",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 24
+    },
+    {
+      "unit": "weight: light",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 25
+    },
+    {
+      "unit": "sizing: fit great",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 26
+    },
+    {
+      "unit": "walks: long",
+      "count": 2,
+      "percentage": 2.2,
+      "rank": 27
+    },
+    {
+      "unit": "bag: other",
+      "count": 1,
+      "percentage": 1.1,
+      "rank": 28
+    },
+    {
+      "unit": "locker: dark",
+      "count": 1,
+      "percentage": 1.1,
+      "rank": 29
+    },
+    {
+      "unit": "locker: high",
+      "count": 1,
+      "percentage": 1.1,
+      "rank": 30
+    }
+  ],
+  "dimensions": {
+    "dimensions": [
+      {
+        "name": "Size Accuracy & Fit",
+        "importance": "Medium",
+        "description": "Measures how true-to-size the item runs and whether it fits as expected (tight, small, larger, or fits great). Customers care because incorrect sizing leads to returns and discomfort.",
+        "positive_vocabulary": [
+          "size: same",
+          "fit: good",
+          "sizing: fit great",
+          "size: smaller",
+          "fit great",
+          "size: true"
+        ],
+        "negative_vocabulary": [
+          "size: smaller",
+          "size: same",
+          "size: tight",
+          "size: small",
+          "size: narrow",
+          "size: awkward"
+        ],
+        "recommendation": "Add a detailed size guide badge and filter for 'True to Size' to help shoppers choose the correct size."
+      },
+      {
+        "name": "Comfort & Feel",
+        "importance": "Medium",
+        "description": "Encompasses overall comfort, weight, and how the garment feels during wear (light, comfortable, comfy, tight, etc.). Comfort drives purchase satisfaction and repeat buying.",
+        "positive_vocabulary": [
+          "comfortable",
+          "comfy",
+          "light",
+          "weight: comfortable",
+          "weight: light",
+          "cushioning: magnificent",
+          "fit: good",
+          "soft"
+        ],
+        "negative_vocabulary": [
+          "tight",
+          "small",
+          "awkward",
+          "tight",
+          "narrow",
+          "heavy",
+          "uncomfortable",
+          "bad"
+        ],
+        "recommendation": "Display a 'Comfort Rating' badge and allow filtering by 'Lightweight' or 'Extra Comfort'."
+      },
+      {
+        "name": "Warmth & Insulation",
+        "importance": "Medium",
+        "description": "Refers to how well the product retains heat in cold weather (warm, thick, cold, chilly). Important for outerwear and winter accessories.",
+        "positive_vocabulary": [
+          "warm",
+          "thick",
+          "warmth: great",
+          "look: warm",
+          "cushioning: magnificent",
+          "comfy",
+          "great",
+          "excellent"
+        ],
+        "negative_vocabulary": [
+          "cold",
+          "cold toes",
+          "weather: cold",
+          "weather: colder",
+          "cold",
+          "cold feet",
+          "cold toes",
+          "cold"
+        ],
+        "recommendation": "Add a 'Warmth Level' badge (e.g., Light, Medium, Heavy) and filter for cold\u2011weather suitability."
+      },
+      {
+        "name": "Waterproof & Weather Resistance",
+        "importance": "Medium",
+        "description": "Covers the product's ability to keep water out and resist wind or snow. Shoppers rely on this for outdoor activities.",
+        "positive_vocabulary": [
+          "waterproof",
+          "great",
+          "excellent",
+          "comfy boots",
+          "cushioning: magnificent",
+          "good",
+          "great"
+        ],
+        "negative_vocabulary": [
+          "not waterproof",
+          "air coming into toe",
+          "wet surprise",
+          "water: much",
+          "cold toes",
+          "issue: other",
+          "issue: big"
+        ],
+        "recommendation": "Show a 'Waterproof' badge and warn when reviews mention leakage or insufficient protection."
+      },
+      {
+        "name": "Pocket Utility & Storage",
+        "importance": "Low",
+        "description": "Evaluates the number, placement, and size of pockets for practical use (exterior vs interior). Important for travelers and active users.",
+        "positive_vocabulary": [
+          "pockets: interior",
+          "pockets: exterior",
+          "pockets: nice",
+          "pockets: only",
+          "pockets: good"
+        ],
+        "negative_vocabulary": [
+          "zero interior pockets",
+          "pockets: small",
+          "pockets: only",
+          "pockets: exterior",
+          "pockets: limited"
+        ],
+        "recommendation": "Add a 'Pocket Count' filter and a badge for 'Multiple Secure Pockets' when applicable."
+      },
+      {
+        "name": "Fabric Softness & Texture",
+        "importance": "Low",
+        "description": "Describes the tactile quality of the material (soft, fluffy, fuzzy, thick). Softness influences perceived luxury and comfort.",
+        "positive_vocabulary": [
+          "soft",
+          "fluffy",
+          "fuzzy",
+          "thick",
+          "cushioning: magnificent",
+          "great",
+          "soft"
+        ],
+        "negative_vocabulary": [
+          "rough",
+          "stiff",
+          "hard",
+          "tight",
+          "awkward",
+          "ridiculous"
+        ],
+        "recommendation": "Include a 'Softness' rating and allow sorting by 'Soft Fabric'."
+      },
+      {
+        "name": "Durability & Construction Quality",
+        "importance": "Medium",
+        "description": "Covers seam integrity, thread quality, holes, and overall build. Customers care about longevity and value for money.",
+        "positive_vocabulary": [
+          "quality: great",
+          "quality: good",
+          "quality: soft",
+          "seam: good",
+          "fit: good",
+          "great",
+          "excellent"
+        ],
+        "negative_vocabulary": [
+          "seams: bad",
+          "holes: large",
+          "hole: single",
+          "thread: loose",
+          "bobbin vomit",
+          "quality: other",
+          "issue: other",
+          "bad"
+        ],
+        "recommendation": "Add a 'Durability' badge and flag products with frequent seam or hole complaints."
+      },
+      {
+        "name": "Cushioning & Support",
+        "importance": "Low",
+        "description": "Specifically addresses the level of padding and support in footwear or padded garments, affecting comfort on long walks.",
+        "positive_vocabulary": [
+          "cushioning: magnificent",
+          "cushioning: great",
+          "comfy boots",
+          "comfortable",
+          "soft",
+          "great"
+        ],
+        "negative_vocabulary": [
+          "no cushioning",
+          "hard sole",
+          "tight",
+          "uncomfortable",
+          "bad"
+        ],
+        "recommendation": "Provide a 'Cushion Rating' and filter for 'Extra Cushion' for shoes/boots."
+      },
+      {
+        "name": "Aesthetic Appeal & Style",
+        "importance": "Low",
+        "description": "Encompasses visual aspects like color, cut, and overall style (cute, blue, light, etc.). Style influences purchase intent beyond function.",
+        "positive_vocabulary": [
+          "style: cute",
+          "color: blue",
+          "color: light",
+          "look: warm",
+          "great",
+          "excellent"
+        ],
+        "negative_vocabulary": [
+          "style: other",
+          "color: -",
+          "look: bad",
+          "awkward",
+          "ridiculous"
+        ],
+        "recommendation": "Add style tags and allow sorting by 'Cute', 'Bold', etc."
+      },
+      {
+        "name": "Length & Proportion",
+        "importance": "Low",
+        "description": "Refers to the overall length of garments (short, long, excellent). Important for fit perception and layering.",
+        "positive_vocabulary": [
+          "length: excellent",
+          "length: short",
+          "fit great",
+          "great"
+        ],
+        "negative_vocabulary": [
+          "length: short",
+          "length: long",
+          "short",
+          "long",
+          "awkward"
+        ],
+        "recommendation": "Include length descriptors in product specs and enable filtering by 'Short' or 'Long'."
+      },
+      {
+        "name": "Accessibility for Special Needs",
+        "importance": "Low",
+        "description": "Highlights how well the product accommodates users with disabilities (e.g., easy to put on, supportive). Critical for inclusive shopping.",
+        "positive_vocabulary": [
+          "disabled",
+          "good",
+          "comfortable",
+          "comfy",
+          "great"
+        ],
+        "negative_vocabulary": [
+          "bad knees",
+          "bad hips",
+          "pain: chronic",
+          "pain: massive",
+          "issue: other"
+        ],
+        "recommendation": "Add an 'Accessibility Friendly' badge for items praised by disabled users."
+      }
+    ]
+  }
+}

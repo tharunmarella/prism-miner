@@ -1,0 +1,96 @@
+{
+  "category": "Running Shoes",
+  "hidden_dimensions": [
+    {
+      "name": "Durability",
+      "importance": "High",
+      "description": "How long the shoe lasts under normal use before showing significant wear or failure, particularly in the toe box and sole.  This includes resistance to tearing, and general breakdown of materials.",
+      "example_vocabulary": [
+        "hole",
+        "tearing",
+        "worn",
+        "last",
+        "durable",
+        "quality",
+        "held up",
+        "years",
+        "broken"
+      ]
+    },
+    {
+      "name": "Fit Accuracy",
+      "importance": "High",
+      "description": "How accurately the shoe's size corresponds to standard US shoe sizes and whether the shoe runs small, large, narrow or wide.  Includes consistency of sizing across models and brands and accommodating different foot widths.",
+      "example_vocabulary": [
+        "true to size",
+        "size up",
+        "size down",
+        "narrow",
+        "wide",
+        "small",
+        "large",
+        "fit perfectly",
+        "toe box"
+      ]
+    },
+    {
+      "name": "Cushioning and Support",
+      "importance": "High",
+      "description": "The level of cushioning provided for comfort during runs and workouts and the support for the arch and ankle and other pressure points. This also includes shock absorption and bounce.",
+      "example_vocabulary": [
+        "cushioning",
+        "support",
+        "arch support",
+        "ankle support",
+        "comfortable",
+        "cloud-like",
+        "bounce",
+        "gel",
+        "shock absorption"
+      ]
+    },
+    {
+      "name": "Versatility",
+      "importance": "Medium",
+      "description": "How well the shoe performs in different activities such as running, walking, working out, or everyday use and across different terrains.",
+      "example_vocabulary": [
+        "walking",
+        "working out",
+        "general use",
+        "everyday use",
+        "comfortable for all day",
+        "hard surface"
+      ]
+    },
+    {
+      "name": "Value for Money",
+      "importance": "Medium",
+      "description": "Users assess the shoe's worth relative to its price, considering factors like durability, comfort, and features. They seek a balance between cost and performance.",
+      "example_vocabulary": [
+        "expensive",
+        "pricey",
+        "on sale",
+        "worth the money",
+        "cheap",
+        "value",
+        "quality for the price",
+        "not worth it"
+      ]
+    },
+    {
+      "name": "Style and Aesthetics",
+      "importance": "Medium",
+      "description": "The shoe's visual appeal, including color options, design, and overall aesthetic. Users consider whether the shoe is fashionable and matches their personal style.",
+      "example_vocabulary": [
+        "style",
+        "look",
+        "color",
+        "design",
+        "fashionable",
+        "attractive",
+        "compliments",
+        "beautiful"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "reviews_processed": 100,
+  "unique_patterns": 136,
+  "top_patterns": [
+    {
+      "unit": "fabric: soft",
+      "count": 2,
+      "percentage": 2.6,
+      "rank": 1
+    },
+    {
+      "unit": "wash: first",
+      "count": 2,
+      "percentage": 2.6,
+      "rank": 2
+    },
+    {
+      "unit": "washes: few",
+      "count": 2,
+      "percentage": 2.6,
+      "rank": 3
+    },
+    {
+      "unit": "material: thin",
+      "count": 2,
+      "percentage": 2.6,
+      "rank": 4
+    },
+    {
+      "unit": "washes: multiple",
+      "count": 2,
+      "percentage": 2.6,
+      "rank": 5
+    },
+    {
+      "unit": "fabric: comfortable",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 6
+    },
+    {
+      "unit": "quality: great",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 7
+    },
+    {
+      "unit": "quality: terrible",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 8
+    },
+    {
+      "unit": "waste: complete",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 9
+    },
+    {
+      "unit": "material: cheap",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 10
+    },
+    {
+      "unit": "material: scratchy",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 11
+    },
+    {
+      "unit": "length: right",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 12
+    },
+    {
+      "unit": "pockets: deep",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 13
+    },
+    {
+      "unit": "silhouette: flattering",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 14
+    },
+    {
+      "unit": "fleece lining: soft",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 15
+    },
+    {
+      "unit": "fleece lining: thick",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 16
+    },
+    {
+      "unit": "grey: dull",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 17
+    },
+    {
+      "unit": "sizing: fits perfectly",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 18
+    },
+    {
+      "unit": "waistband: comfortable",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 19
+    },
+    {
+      "unit": "waistband: elastic",
+      "count": 1,
+      "percentage": 1.3,
+      "rank": 20
+    }
+  ],
+  "dimensions": {
+    "dimensions": [
+      {
+        "name": "Fabric Softness",
+        "importance": "High",
+        "description": "Measures how comfortable the fabric feels against the skin",
+        "positive_vocabulary": [
+          "soft",
+          "comfortable",
+          "thicker"
+        ],
+        "negative_vocabulary": [
+          "scratchy",
+          "thin"
+        ],
+        "recommendation": "Use as a filter and badge for products with high fabric softness ratings"
+      },
+      {
+        "name": "Quality and Durability",
+        "importance": "High",
+        "description": "Measures how well-made and long-lasting the product is",
+        "positive_vocabulary": [
+          "great quality",
+          "excellent",
+          "nice"
+        ],
+        "negative_vocabulary": [
+          "terrible quality",
+          "cheap",
+          "horrible"
+        ],
+        "recommendation": "Use as a filter and warning for products with low quality and durability ratings"
+      },
+      {
+        "name": "Size Accuracy",
+        "importance": "Medium",
+        "description": "Measures how well the product fits compared to the size chart",
+        "positive_vocabulary": [
+          "fits true to size",
+          "fits perfectly",
+          "fits well"
+        ],
+        "negative_vocabulary": [
+          "inconsistent sizing",
+          "wrong size"
+        ],
+        "recommendation": "Use as a filter and warning for products with inconsistent sizing issues"
+      },
+      {
+        "name": "Comfort and Breathability",
+        "importance": "Medium",
+        "description": "Measures how comfortable and breathable the product is to wear",
+        "positive_vocabulary": [
+          "comfortable",
+          "breathable"
+        ],
+        "negative_vocabulary": [
+          "not breathable",
+          "itchy"
+        ],
+        "recommendation": "Use as a filter for products with high comfort and breathability ratings"
+      },
+      {
+        "name": "Value for Money",
+        "importance": "Medium",
+        "description": "Measures how well the product's quality and features justify its price",
+        "positive_vocabulary": [
+          "great value",
+          "amazing value"
+        ],
+        "negative_vocabulary": [
+          "waste of money",
+          "not worth the price"
+        ],
+        "recommendation": "Use as a filter for products with high value for money ratings"
+      },
+      {
+        "name": "Style and Aesthetics",
+        "importance": "Low",
+        "description": "Measures how visually appealing and stylish the product is",
+        "positive_vocabulary": [
+          "beautiful",
+          "gorgeous",
+          "flattering"
+        ],
+        "negative_vocabulary": [
+          "dull",
+          "unattractive"
+        ],
+        "recommendation": "Use as a badge for products with high style and aesthetics ratings"
+      },
+      {
+        "name": "Practicality and Functionality",
+        "importance": "Low",
+        "description": "Measures how well the product serves its intended purpose and has useful features",
+        "positive_vocabulary": [
+          "practical",
+          "useful",
+          "perfect"
+        ],
+        "negative_vocabulary": [
+          "not practical",
+          "not useful"
+        ],
+        "recommendation": "Use as a badge for products with high practicality and functionality ratings"
+      },
+      {
+        "name": "Care and Maintenance",
+        "importance": "Low",
+        "description": "Measures how easy the product is to care for and maintain",
+        "positive_vocabulary": [
+          "easy to wash",
+          "durable"
+        ],
+        "negative_vocabulary": [
+          "difficult to care for",
+          "not durable"
+        ],
+        "recommendation": "Use as a filter for products with easy care and maintenance requirements"
+      }
+    ]
+  }
+}

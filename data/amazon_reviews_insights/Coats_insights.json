@@ -1,0 +1,96 @@
+{
+  "category": "Coats",
+  "hidden_dimensions": [
+    {
+      "name": "Warmth Level",
+      "importance": "High",
+      "description": "Users want to know how warm the coat is and for what temperatures it is suitable. This is beyond just 'warm' or 'not warm,' but more specific.",
+      "example_vocabulary": [
+        "warmth",
+        "temperature",
+        "weather",
+        "mild",
+        "winter",
+        "Texas weather",
+        "layering",
+        "bulky",
+        "lightweight"
+      ]
+    },
+    {
+      "name": "Sizing Accuracy",
+      "importance": "High",
+      "description": "Users frequently mention whether the coat runs small, large, or true to size. They often compare it to their usual size and body measurements (height, weight, hips/butt size) and other clothing items.",
+      "example_vocabulary": [
+        "size",
+        "small",
+        "large",
+        "true to size",
+        "fits",
+        "runs",
+        "oversized",
+        "XL",
+        "medium",
+        "snug",
+        "broad shoulders",
+        "height",
+        "weight",
+        "measurements",
+	"cut small"
+      ]
+    },
+    {
+      "name": "Material Quality & Feel",
+      "importance": "High",
+      "description": "Users care about the softness, thickness, and overall quality of the material. They also describe how the material feels against the skin (e.g., itchy or comfortable).",
+      "example_vocabulary": [
+        "soft",
+        "comfortable",
+        "itchy",
+        "flannel",
+        "fleece",
+        "plush",
+        "Sherpa",
+        "lining",
+        "material",
+        "quality",
+        "thick",
+        "thin",
+        "lint",
+	"see through"
+      ]
+    },
+    {
+      "name": "Pocket Functionality",
+      "importance": "Medium",
+      "description": "Users comment on the placement and usability of the pockets.  Issues include awkward placement, buttons obstructing use.",
+      "example_vocabulary": [
+        "pockets",
+        "placement",
+        "usable",
+        "sides",
+        "button"
+      ]
+    },
+    {
+      "name": "Shedding/Lint",
+      "importance": "Medium",
+      "description": "Users mention if the coat sheds material or generates a lot of lint.  Also if it attracts hair, lint or other particles.",
+      "example_vocabulary": [
+        "shed",
+        "lint",
+	"sticks to"
+      ]
+    },
+    {
+      "name": "Sleeve Length/Fit",
+      "importance": "Medium",
+      "description": "How well the sleeves fit (length and snugness).",
+      "example_vocabulary": [
+        "sleeves",
+        "arms",
+        "snug"
+      ]
+    }
+  ]
+}

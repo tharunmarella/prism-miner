@@ -1,0 +1,4394 @@
+{
+  "category": "Appliances",
+  "total_items_scanned": 94327,
+  "total_unique_keys": 220,
+  "attributes": [
+    {
+      "name": "Date First Available",
+      "occurrence": 86960,
+      "frequency_pct": 92.19,
+      "examples": [
+        "August 2, 2008",
+        "May 27, 2015",
+        "July 30, 2008",
+        "August 7, 2008",
+        "June 21, 2012",
+        "October 15, 2008",
+        "August 15, 2013",
+        "August 27, 2008",
+        "June 30, 2017",
+        "May 24, 2019",
+        "November 24, 2019",
+        "February 4, 2020",
+        "May 18, 2019",
+        "September 24, 2007",
+        "December 20, 2016"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 71084,
+      "frequency_pct": 75.36,
+      "examples": [
+        "1 pounds",
+        "3.2 ounces",
+        "0.634 ounces",
+        "0.32 ounces",
+        "1.6 ounces",
+        "0.01 ounces",
+        "2.39 ounces",
+        "6.4 ounces",
+        "5.6 ounces",
+        "8 ounces",
+        "4.8 ounces",
+        "0.81 ounces",
+        "0.8 ounces",
+        "2 pounds",
+        "1.58 ounces"
+      ]
+    },
+    {
+      "name": "Part Number",
+      "occurrence": 64289,
+      "frequency_pct": 68.16,
+      "examples": [
+        "1",
+        "DC47-00019A",
+        "01",
+        "279838",
+        "240323002",
+        "4392065",
+        "4681EA2001T",
+        "5472",
+        "240323001",
+        "285753A",
+        "80040",
+        "W10350376",
+        "DG64-00473A",
+        "3392519",
+        "3387747"
+      ]
+    },
+    {
+      "name": "Best Sellers Rank",
+      "occurrence": 58299,
+      "frequency_pct": 61.81,
+      "examples": [
+        "{}",
+        "{'Tools & Home Improvement': 433612, 'Dryer Replacement Parts': 7501}",
+        "{'Tools & Home Improvement': 696824, 'Freezer Parts & Accessories': 572}",
+        "{'Appliances': 136, 'Portable Clothes Washing Machines': 13}",
+        "{'Tools & Home Improvement': 1003109, 'Dishwasher Parts & Accessories': 3610}",
+        "{'Tools & Home Improvement': 637811, 'Parts & Accessories': 94997}",
+        "{'Tools & Home Improvement': 795640, 'Humidifier Replacement Wicks': 849}",
+        "{'Appliances': 704, 'Cooktops': 51}",
+        "{'Tools & Home Improvement': 479278, 'Parts & Accessories': 73189}",
+        "{'Tools & Home Improvement': 40905, 'Parts & Accessories': 6300}",
+        "{'Tools & Home Improvement': 57683, 'Dryer Replacement Parts': 804}",
+        "{'Tools & Home Improvement': 97036, 'Range Replacement Plug Receptacles': 11}",
+        "{'Tools & Home Improvement': 1034572, 'Oven Parts & Accessories': 997}",
+        "{'Tools & Home Improvement': 246177, 'Refrigerator Egg Trays': 288}",
+        "{'Tools & Home Improvement': 1315213, 'Parts & Accessories': 181194}"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 55596,
+      "frequency_pct": 58.94,
+      "examples": [
+        "1",
+        "good water",
+        "DC47-00019A",
+        "4681EA2001T",
+        "240323002",
+        "240323001",
+        "C7-2P157",
+        "DA29 00020B",
+        "341241",
+        "285811",
+        "9081",
+        "3387747",
+        "DG64-00473A",
+        "80040",
+        "279838"
+      ]
+    },
+    {
+      "name": "Manufacturer",
+      "occurrence": 54993,
+      "frequency_pct": 58.3,
+      "examples": [
+        "Whirlpool",
+        "Frigidaire",
+        "GE",
+        "UpStart Components",
+        "Upstart Battery",
+        "General Electric",
+        "ForeverPRO",
+        "Samsung",
+        "Supplying Demand",
+        "ClimaTek",
+        "Edgewater Parts",
+        "LG",
+        "AMI PARTS",
+        "ERP",
+        "Prtst"
+      ]
+    },
+    {
+      "name": "Batteries Required?",
+      "occurrence": 52651,
+      "frequency_pct": 55.82,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 45806,
+      "frequency_pct": 48.56,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "1.5 x 2.5 x 3.5 inches",
+        "6 x 4 x 6 inches",
+        "6 x 4 x 4 inches",
+        "6 x 6 x 6 inches",
+        "1 x 8 x 9 inches",
+        "4 x 4 x 6 inches",
+        "7 x 7 x 7 inches",
+        "2 x 2 x 2 inches",
+        "1 x 7 x 1 inches",
+        "1\"D x 1\"W x 1\"H",
+        "10 x 10 x 10 inches",
+        "1 x 4 x 5 inches",
+        "7 x 5 x 4 inches",
+        "1 x 11 x 15 inches"
+      ]
+    },
+    {
+      "name": "Batteries Included?",
+      "occurrence": 43025,
+      "frequency_pct": 45.61,
+      "examples": [
+        "No",
+        "Yes",
+        "False",
+        "false"
+      ]
+    },
+    {
+      "name": "Brand",
+      "occurrence": 39584,
+      "frequency_pct": 41.96,
+      "examples": [
+        "GE",
+        "Whirlpool",
+        "Frigidaire",
+        "SAMSUNG",
+        "LG",
+        "Upstart Battery",
+        "Supplying Demand",
+        "BOSCH",
+        "BlueStars",
+        "UpStart Components",
+        "Generic",
+        "Electrolux",
+        "Supco",
+        "Broan-NuTone",
+        "Edgewater Parts"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 35313,
+      "frequency_pct": 37.44,
+      "examples": [
+        "No",
+        "Yes",
+        "False",
+        "false"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 30529,
+      "frequency_pct": 32.37,
+      "examples": [
+        "7 x 7 x 7 inches",
+        "1 x 1 x 1 inches",
+        "7 x 7 x 6 inches",
+        "50 x 50 x 50 inches",
+        "2 x 2 x 2 inches",
+        "4 x 4 x 4 inches",
+        "6 x 6 x 4 inches",
+        "7 x 4 x 1 inches",
+        "22 x 20 x 2 inches",
+        "3 x 3 x 3 inches",
+        "7 x 5 x 1 inches",
+        "7 x 7 x 5 inches",
+        "6 x 4 x 4 inches",
+        "5 x 5 x 5 inches",
+        "9 x 7 x 1 inches"
+      ]
+    },
+    {
+      "name": "Brand Name",
+      "occurrence": 26168,
+      "frequency_pct": 27.74,
+      "examples": [
+        "GE",
+        "Frigidaire",
+        "Whirlpool",
+        "SAMSUNG",
+        "LG",
+        "BOSCH",
+        "ERP",
+        "Upstart Battery",
+        "Supplying Demand",
+        "Electrolux",
+        "Kenmore",
+        "Maytag",
+        "Generic",
+        "KitchenAid",
+        "Z Line Kitchen and Bath"
+      ]
+    },
+    {
+      "name": "Color",
+      "occurrence": 25836,
+      "frequency_pct": 27.39,
+      "examples": [
+        "White",
+        "Black",
+        "Stainless Steel",
+        "Silver",
+        "As Pictured",
+        "Blue",
+        "Gray",
+        "Grey",
+        "white",
+        "Stainless-Steel",
+        "Clear",
+        "Red",
+        "As shown in the picture",
+        "stainless-steel",
+        "Multi"
+      ]
+    },
+    {
+      "name": "Item Package Quantity",
+      "occurrence": 24003,
+      "frequency_pct": 25.45,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "5",
+        "6",
+        "8",
+        "10",
+        "12",
+        "100",
+        "20",
+        "3000",
+        "48",
+        "24",
+        "50"
+      ]
+    },
+    {
+      "name": "Material",
+      "occurrence": 21350,
+      "frequency_pct": 22.63,
+      "examples": [
+        "Stainless Steel",
+        "Plastic",
+        "Paper",
+        "Metal",
+        "Aluminum",
+        "ABS",
+        "Rubber",
+        "Carbon Fiber",
+        "Glass",
+        "Carbon",
+        "Activated Carbon",
+        "Polypropylene",
+        "Other",
+        "Silicone",
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Included Components",
+      "occurrence": 16670,
+      "frequency_pct": 17.67,
+      "examples": [
+        "Knob",
+        "Appliance-replacement-parts",
+        "appliance-replacement-parts",
+        "Dishwasher",
+        "1",
+        "appliance-replacement-parts, Appliance Parts & Accessories",
+        "Appliance-replacement-parts, Appliance Parts & Accessories",
+        "Replacement Part",
+        "LED Lights",
+        "Screw",
+        "Appliance Replacement Parts",
+        "No",
+        "This is a genuine replacement part",
+        "Lid",
+        "Range Hood^Installation Guide and Kit"
+      ]
+    },
+    {
+      "name": "Model Info",
+      "occurrence": 16052,
+      "frequency_pct": 17.02,
+      "examples": [
+        "1",
+        "Good water",
+        "4681EA2001T",
+        "good water",
+        "9081",
+        "BD",
+        "4396508",
+        "WB03X24818",
+        "RWF1000A",
+        "W10515057",
+        "DG64-00473A",
+        "DE382WR",
+        "Portable Washing Machine",
+        "W10515058",
+        "154754502"
+      ]
+    },
+    {
+      "name": "Special Features",
+      "occurrence": 10459,
+      "frequency_pct": 11.09,
+      "examples": [
+        "Easy to Install",
+        "Portable",
+        "Compact",
+        "Easy to Install, Durable",
+        "Easy to Install, Sturdy",
+        "Stainless Steel",
+        "Easy To Clean",
+        "Foldable",
+        "Adjustable",
+        "Manual",
+        "Adjustable Shelves",
+        "Lightweight",
+        "Delay Start",
+        "Full-automatic",
+        "Portable, Lightweight"
+      ]
+    },
+    {
+      "name": "Special Feature",
+      "occurrence": 9859,
+      "frequency_pct": 10.45,
+      "examples": [
+        "Easy to Install",
+        "Portable",
+        "Compact",
+        "Easy to Install, Durable",
+        "Easy to Install, Sturdy",
+        "Durable",
+        "Stainless Steel",
+        "Easy To Clean",
+        "Foldable",
+        "Adjustable",
+        "Waterproof",
+        "Adjustable Shelves",
+        "Lightweight",
+        "Delay Start",
+        "Portable, Lightweight"
+      ]
+    },
+    {
+      "name": "Material Type",
+      "occurrence": 9708,
+      "frequency_pct": 10.29,
+      "examples": [
+        "Stainless Steel",
+        "Plastic",
+        "Aluminum",
+        "Metal",
+        "Alloy Steel",
+        "ABS",
+        "Steel",
+        "Glass",
+        "Carbon Fiber",
+        "Stainless-Steel",
+        "Foam",
+        "Rubber",
+        "Carbon",
+        "Acrylonitrile Butadiene Styrene",
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Voltage",
+      "occurrence": 8190,
+      "frequency_pct": 8.68,
+      "examples": [
+        "120 Volts",
+        "115 Volts",
+        "110 Volts",
+        "240 Volts",
+        "12 Volts",
+        "220 Volts",
+        "110 Volts (AC)",
+        "250 Volts",
+        "120 Volts (AC)",
+        "5 Volts",
+        "230 Volts",
+        "1.5 Volts",
+        "125 Volts",
+        "120",
+        "1 Volts"
+      ]
+    },
+    {
+      "name": "Capacity",
+      "occurrence": 8147,
+      "frequency_pct": 8.64,
+      "examples": [
+        "26 Pounds",
+        "1 Kilograms",
+        "3.2 Cubic Feet",
+        "5 Cubic Feet",
+        "350 Milliliters",
+        "14 Place Settings",
+        "33 Pounds",
+        "4.5 Cubic Feet",
+        "3.5 Cubic Feet",
+        "12 Ounces",
+        "1.6 Cubic Feet",
+        "0.8 Kilograms",
+        "600 Milliliters",
+        "1.3 Pounds",
+        "16 Place Settings"
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "occurrence": 7543,
+      "frequency_pct": 8.0,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "100",
+        "5",
+        "6",
+        "200",
+        "50",
+        "8",
+        "12",
+        "300",
+        "40",
+        "500",
+        "10"
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 7441,
+      "frequency_pct": 7.89,
+      "examples": [
+        "China",
+        "USA",
+        "Mexico",
+        "Korea, Republic of",
+        "Taiwan",
+        "Italy",
+        "India",
+        "Canada",
+        "Turkey",
+        "Singapore",
+        "Japan",
+        "Germany",
+        "Thailand",
+        "Switzerland",
+        "Latvia"
+      ]
+    },
+    {
+      "name": "Finish Type",
+      "occurrence": 7311,
+      "frequency_pct": 7.75,
+      "examples": [
+        "Brushed",
+        "Matte",
+        "Stainless Steel",
+        "Polished",
+        "Painted",
+        "Stainless steel",
+        "stainless steel",
+        "Powder Coated",
+        "Plastic",
+        "Glossy",
+        "Unfinished",
+        "White",
+        "Black",
+        "Chrome",
+        "Stainless"
+      ]
+    },
+    {
+      "name": "Installation Type",
+      "occurrence": 7247,
+      "frequency_pct": 7.68,
+      "examples": [
+        "Freestanding",
+        "Free Standing",
+        "Built-In",
+        "Countertop",
+        "Wall Mount",
+        "Drop-In",
+        "built-in",
+        "Built-in",
+        "Slide-In",
+        "Tabletop",
+        "Self-Adhesive",
+        "Built In",
+        "Counter-Depth",
+        "Under Cabinet Mount",
+        "Counter Top"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 7110,
+      "frequency_pct": 7.54,
+      "examples": [
+        "Basket",
+        "Rectangular",
+        "Round",
+        "Cone",
+        "Disk",
+        "Square",
+        "Conical",
+        "Bag",
+        "Bulb",
+        "Egg",
+        "Basket,Cone",
+        "Tubular(T)",
+        "Oval",
+        "Hand",
+        "Circular"
+      ]
+    },
+    {
+      "name": "Form Factor",
+      "occurrence": 6306,
+      "frequency_pct": 6.69,
+      "examples": [
+        "Compact",
+        "Freestanding",
+        "Stand Alone",
+        "Built-In",
+        "French Door",
+        "Front Load",
+        "Side By Side",
+        "Freezer Top",
+        "Slide-In",
+        "Freezer Bottom",
+        "Mini Fridges",
+        "Chest",
+        "Top Load",
+        "Stand alone",
+        "Built-in"
+      ]
+    },
+    {
+      "name": "Style",
+      "occurrence": 6122,
+      "frequency_pct": 6.49,
+      "examples": [
+        "Modern",
+        "Drain Pump",
+        "Above Ground",
+        "Compatible",
+        "Compact",
+        "Classic",
+        "Knobs",
+        "Replacement",
+        "Single",
+        "Art Deco",
+        "Standard",
+        "Filter",
+        "Pump",
+        "Unique",
+        "Pack of 1"
+      ]
+    },
+    {
+      "name": "Item Dimensions LxWxH",
+      "occurrence": 5338,
+      "frequency_pct": 5.66,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "1.5 x 2.5 x 3.5 inches",
+        "6 x 6 x 6 inches",
+        "6 x 4 x 4 inches",
+        "6 x 4 x 6 inches",
+        "4 x 4 x 6 inches",
+        "7 x 7 x 7 inches",
+        "2 x 2 x 2 inches",
+        "1.5 x 1.5 x 1.5 inches",
+        "10 x 10 x 10 inches",
+        "23 x 26 x 2 inches",
+        "7 x 5 x 4 inches",
+        "5 x 5 x 9 inches",
+        "9 x 5 x 5 inches",
+        "1 x 8 x 9 inches"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 5307,
+      "frequency_pct": 5.63,
+      "examples": [
+        "1 Count (Pack of 1)",
+        "Regular",
+        "2 Count (Pack of 1)",
+        "30 inches",
+        "3 Count (Pack of 1)",
+        "1 Pack",
+        "Small",
+        "Large",
+        "Single Unit",
+        "2 Pack",
+        "One Size",
+        "1",
+        "m",
+        "36 inches",
+        "Pack of 1"
+      ]
+    },
+    {
+      "name": "Unit Count",
+      "occurrence": 4871,
+      "frequency_pct": 5.16,
+      "examples": [
+        "1.0 Count",
+        "1 Count",
+        "2.0 Count",
+        "5.0 Count",
+        "4.0 Count",
+        "1.00 Count",
+        "2 Count",
+        "5 count",
+        "5 Count",
+        "4 Count",
+        "3.0 Count",
+        "6.0 Count",
+        "2 count",
+        "1 Piece",
+        "8 Count"
+      ]
+    },
+    {
+      "name": "Compatible Devices",
+      "occurrence": 4372,
+      "frequency_pct": 4.63,
+      "examples": [
+        "Coffee Maker",
+        "Washing Machine",
+        "Range Hood",
+        "Vacuum Cleaner",
+        "Keurig K250, Keurig 2.0, Keurig K200",
+        "Refrigerator",
+        "Keurig 2.0",
+        "Furnace",
+        "Delonghi",
+        "Cuisinart",
+        "Keurig K250",
+        "AeroPress",
+        "Range hood",
+        "range hood",
+        "Mr. Coffee"
+      ]
+    },
+    {
+      "name": "Certification",
+      "occurrence": 4108,
+      "frequency_pct": 4.36,
+      "examples": [
+        "Energy Star",
+        "ETL",
+        "Certified frustration-free",
+        "certified frustration-free",
+        "UL",
+        "ADA",
+        "Oem",
+        "CSA",
+        "No",
+        "(unset)",
+        "oem",
+        "Energy_star",
+        "NSF",
+        "Energy",
+        "energy_star"
+      ]
+    },
+    {
+      "name": "Power Source",
+      "occurrence": 3811,
+      "frequency_pct": 4.04,
+      "examples": [
+        "Corded Electric",
+        "Ac/dc",
+        "Gas Powered",
+        "Battery Powered",
+        "Electric",
+        "AC",
+        "electric",
+        "Ac",
+        "No",
+        "AC/DC",
+        "Corded-Electric",
+        "Gas Powered, Corded Electric",
+        "Gas",
+        "ac",
+        "induction"
+      ]
+    },
+    {
+      "name": "External Testing Certification",
+      "occurrence": 3660,
+      "frequency_pct": 3.88,
+      "examples": [
+        "NSF",
+        "ANSI, NSF",
+        "ANSI, NSF, WQA",
+        "IAPMO, ANSI, NSF",
+        "IAPMO, RoHS, ANSI, NSF, WQA",
+        "CE",
+        "IAPMO",
+        "NSF/ANSI 42 by IAPMO",
+        "IAPMO, NSF",
+        "NSF 42/372",
+        "IAPMO, NSF, WQA",
+        "NSF, WQA",
+        "good cap",
+        "NSF, ANSI",
+        "Safe , clean"
+      ]
+    },
+    {
+      "name": "Warranty Description",
+      "occurrence": 3627,
+      "frequency_pct": 3.85,
+      "examples": [
+        "1 year manufacturer warranty",
+        "All Supplying Demand products come with a 60-day money back guarantee and 1-year warranty. Meaning any product can be returned within 60 days no questions asked for a full refund or replaced within 1 year provided a model and serial number are presented.",
+        "1 year",
+        "1 Year Warranty",
+        "FULL 30 DAY WARRANTY",
+        "1 year manufacturer",
+        "Lifetime Warranty",
+        "This is a genuine OEM replacement part.",
+        "1 Year",
+        "Warranty coverage applies when purchased from Better Surplus, the Exclusive Authorized Retailer of Repairwares Brand products. Warranty varies by product type. See manufacturer's website for more information.",
+        "1 year warranty",
+        "1",
+        "All Supplying Demand products come with a 60-day money back guarantee and 1-year warranty. The order can be returned within 60 days in its original condition for a full refund or replaced within 1 year after providing a compatible model and serial number.",
+        "This is a genuine OEM part",
+        "90 Days"
+      ]
+    },
+    {
+      "name": "Control Console",
+      "occurrence": 3569,
+      "frequency_pct": 3.78,
+      "examples": [
+        "Touch",
+        "Knob",
+        "Push Button",
+        "Fully Integrated",
+        "Remote",
+        "Full Console",
+        "full_panel",
+        "Full Panel",
+        "Button",
+        "Knobs",
+        "Touch, Remote",
+        "Full_panel",
+        "Digital Temperature Display",
+        "full panel",
+        "Fully_integrated"
+      ]
+    },
+    {
+      "name": "Model Name",
+      "occurrence": 3514,
+      "frequency_pct": 3.73,
+      "examples": [
+        "Whirlpool",
+        "Portable Ice Maker",
+        "LG",
+        "Frigidaire",
+        "Ice Makers Countertop",
+        "countertop ice maker",
+        "Countertop ice maker",
+        "Portable Ice Maker Machine",
+        "Ice Maker Machine Countertop",
+        "Refrigerator Ice Maker",
+        "Ice Maker Machine for Countertop",
+        "Countertop Ice Maker Machine",
+        "Commercial Ice Maker Machine",
+        "Nugget ice maker",
+        "Ice Maker Countertop"
+      ]
+    },
+    {
+      "name": "Wattage",
+      "occurrence": 3432,
+      "frequency_pct": 3.64,
+      "examples": [
+        "1500 watts",
+        "120 watts",
+        "40 watts",
+        "300 watts",
+        "1000 watts",
+        "5400 watts",
+        "1800 watts",
+        "150 watts",
+        "10 watts",
+        "100 watts",
+        "85 watts",
+        "3000 watts",
+        "200 watts",
+        "3300 watts",
+        "160 watts"
+      ]
+    },
+    {
+      "name": "Fuel type",
+      "occurrence": 3233,
+      "frequency_pct": 3.43,
+      "examples": [
+        "Electric",
+        "Gas",
+        "electric",
+        "Dual Fuel",
+        "Liquefied Petroleum Gas",
+        "Natural Gas",
+        "gas",
+        "Gas, Electric, Dual Fuel",
+        "Gas, Electric",
+        "Gas, Dual Fuel",
+        "Wood",
+        "Electric, Natural Gas",
+        "Liquid Propane",
+        "Gas, Liquid Propane",
+        "Gas, Propane"
+      ]
+    },
+    {
+      "name": "Finish",
+      "occurrence": 3070,
+      "frequency_pct": 3.25,
+      "examples": [
+        "Polished",
+        "Painted",
+        "Plastic",
+        "Powder Coated",
+        "Matte",
+        "Brushed",
+        "Stainless Steel",
+        "Unfinished",
+        "White",
+        "Metal",
+        "Black",
+        "Chrome",
+        "Finish",
+        "Clear",
+        "white"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 2959,
+      "frequency_pct": 3.14,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "5",
+        "6",
+        "3",
+        "8",
+        "10",
+        "12",
+        "9",
+        "15",
+        "50",
+        "250",
+        "7",
+        "100"
+      ]
+    },
+    {
+      "name": "Pattern",
+      "occurrence": 2809,
+      "frequency_pct": 2.98,
+      "examples": [
+        "Solid",
+        "Floral",
+        "Redrive",
+        "Abstract",
+        "solid",
+        "Cartoon",
+        "Variety Pack",
+        "Letter Print",
+        "Animal Print",
+        "Range Hood",
+        "Louvered",
+        "Tree",
+        "Filter",
+        "Flat",
+        "Water Filter"
+      ]
+    },
+    {
+      "name": "Duration",
+      "occurrence": 2698,
+      "frequency_pct": 2.86,
+      "examples": [
+        "6 \tmonths",
+        "3 \tmonths",
+        "4-6",
+        "2 \tmonths",
+        "6",
+        "60 days",
+        "12 \tmonths",
+        "4-6 \tmonths",
+        "Water Filter \tmonths",
+        "30 days",
+        "1 \tmonths",
+        "3",
+        "2 \tweeks",
+        "24 \tmonths",
+        "300 Gallons"
+      ]
+    },
+    {
+      "name": "Batteries required",
+      "occurrence": 2604,
+      "frequency_pct": 2.76,
+      "examples": [
+        "No",
+        "Yes",
+        "False",
+        "false"
+      ]
+    },
+    {
+      "name": "Access Location",
+      "occurrence": 2363,
+      "frequency_pct": 2.51,
+      "examples": [
+        "Top Load",
+        "Front Load",
+        "Front_load",
+        "front_load",
+        "top_load",
+        "Top_load",
+        "Top",
+        "Bottom",
+        "\u524d\u4fa7\u5f00\u76d6",
+        "\u4e0a\u4fa7\u5f00\u76d6",
+        "front_loading",
+        "Universal",
+        "Front Load/Top Load",
+        "<br/> Front",
+        "Front Load,Top Load"
+      ]
+    },
+    {
+      "name": "Fuel Type",
+      "occurrence": 2310,
+      "frequency_pct": 2.45,
+      "examples": [
+        "Electric",
+        "Gas",
+        "Dual Fuel",
+        "electric",
+        "Liquefied Petroleum Gas",
+        "Natural Gas",
+        "Gas, Electric, Dual Fuel",
+        "Gas, Dual Fuel",
+        "Gas, Electric",
+        "gas",
+        "Wood",
+        "Charcoal",
+        "Electric, Natural Gas",
+        "Gas, Propane",
+        "Gas, Liquid Propane"
+      ]
+    },
+    {
+      "name": "Mounting Type",
+      "occurrence": 2182,
+      "frequency_pct": 2.31,
+      "examples": [
+        "Wall Mount",
+        "Door Mount",
+        "Flange Mount",
+        "Tabletop",
+        "Under Cabinet Mount",
+        "Panel Mount",
+        "Freestanding",
+        "Surface Mount",
+        "Island Mount",
+        "Floor Mount",
+        "Face Mount",
+        "Side Mount",
+        "Tabletop, Wall Mount",
+        "Under Cabinet Mount, Wall Mount",
+        "Door"
+      ]
+    },
+    {
+      "name": "Controls Type",
+      "occurrence": 1988,
+      "frequency_pct": 2.11,
+      "examples": [
+        "Knob",
+        "Touch",
+        "Push Button",
+        "Fully Integrated",
+        "Full Console",
+        "Remote",
+        "full_panel",
+        "Full Panel",
+        "Full_panel",
+        "fully_integrated",
+        "Fully_integrated",
+        "Button",
+        "Semi-Integrated",
+        "full panel",
+        "\u6309\u94ae"
+      ]
+    },
+    {
+      "name": "Compatible Device",
+      "occurrence": 1962,
+      "frequency_pct": 2.08,
+      "examples": [
+        "Refrigerator",
+        "Washing Machine",
+        "Vacuum Cleaner",
+        "Range Hood",
+        "Air Purifier",
+        "Furnace",
+        "SAMSUNG",
+        "range hood",
+        "Range hood",
+        "Custom Panels",
+        "LG",
+        "Dishwasher",
+        "Dryer",
+        "KENMORE",
+        "LG,KENMORE ELITE,KENMORE"
+      ]
+    },
+    {
+      "name": "Age Range (Description)",
+      "occurrence": 1870,
+      "frequency_pct": 1.98,
+      "examples": [
+        "Adult",
+        "Kid",
+        "kid",
+        "Baby",
+        "Any Age Group",
+        "Adults",
+        "baby",
+        "Adult/Kid",
+        "Adult,Kid",
+        "Youth,Adult",
+        "12 Years & Up",
+        "17 and up",
+        "1 Month To 18 years",
+        "Bambino"
+      ]
+    },
+    {
+      "name": "Number Of Pieces",
+      "occurrence": 1782,
+      "frequency_pct": 1.89,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "6",
+        "8",
+        "5",
+        "10",
+        "12",
+        "100",
+        "16",
+        "20",
+        "9",
+        "50",
+        "500"
+      ]
+    },
+    {
+      "name": "Noise",
+      "occurrence": 1744,
+      "frequency_pct": 1.85,
+      "examples": [
+        "65 dB",
+        "60 dB",
+        "1 dB",
+        "55 dB",
+        "44 dB",
+        "50 dB",
+        "38 dB",
+        "56 dB",
+        "45 dB",
+        "42 dB",
+        "40 dB",
+        "41 dB",
+        "5 Sones",
+        "52 dB",
+        "58 dB"
+      ]
+    },
+    {
+      "name": "Domestic Shipping",
+      "occurrence": 1693,
+      "frequency_pct": 1.79,
+      "examples": [
+        "Item can be shipped within U.S.",
+        "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Amazon only ships this item within the contiguous 48 United States. Other Sellers on Amazon may ship this item to Alaska, Hawaii and US Territories.",
+        "This item can only be shipped to the 48 contiguous states. We regret it cannot be shipped to APO/FPO, Hawaii, Alaska, or Puerto Rico.",
+        "This item is available for shipping in the U.S. except for California and to select countries outside the U.S."
+      ]
+    },
+    {
+      "name": "International Shipping",
+      "occurrence": 1693,
+      "frequency_pct": 1.79,
+      "examples": [
+        "This item can be shipped to select countries outside of the U.S.  Learn More",
+        "This item is not eligible for international shipping.  Learn More"
+      ]
+    },
+    {
+      "name": "Heating Elements",
+      "occurrence": 1658,
+      "frequency_pct": 1.76,
+      "examples": [
+        "5",
+        "4",
+        "2",
+        "1",
+        "6",
+        "3",
+        "8",
+        "7",
+        "10",
+        "12"
+      ]
+    },
+    {
+      "name": "Handle Material",
+      "occurrence": 1622,
+      "frequency_pct": 1.72,
+      "examples": [
+        "Plastic",
+        "Stainless Steel",
+        "Brass",
+        "Metal",
+        "Acrylonitrile Butadiene Styrene",
+        "Glass",
+        "Acrylonitrile Butadiene Styrene, Stainless Steel",
+        "Zinc",
+        "Alloy Steel",
+        "Wood",
+        "Bronze",
+        "Aluminum",
+        "Glass, Stainless Steel",
+        "Cotton",
+        "Stainless Steel, Aluminum"
+      ]
+    },
+    {
+      "name": "Burner type",
+      "occurrence": 1560,
+      "frequency_pct": 1.65,
+      "examples": [
+        "Sealed",
+        "Radiant",
+        "Gas",
+        "Ceramic",
+        "Open",
+        "Cast Iron",
+        "Induction",
+        "sealed",
+        "Electric",
+        "Resistance",
+        "Stainless Steel",
+        "Coil",
+        "resistance",
+        "induction",
+        "gas"
+      ]
+    },
+    {
+      "name": "Number of Doors",
+      "occurrence": 1534,
+      "frequency_pct": 1.63,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "name": "Shelf Type",
+      "occurrence": 1509,
+      "frequency_pct": 1.6,
+      "examples": [
+        "Wire",
+        "Glass",
+        "Glass shelves",
+        "glass shelves",
+        "Plastic",
+        "Wood",
+        "Adjustable shelves",
+        "removable shelves",
+        "Recessed",
+        "adjustable shelves",
+        "Tempered Glass",
+        "glass shelves,slide-out",
+        "Glass Touch",
+        "Removable shelves",
+        "sliding"
+      ]
+    },
+    {
+      "name": "Configuration",
+      "occurrence": 1451,
+      "frequency_pct": 1.54,
+      "examples": [
+        "French Door",
+        "Freezer-on-Top",
+        "Side-by-Side",
+        "Freezerless",
+        "Full-Sized French Door",
+        "Compact Freezerless",
+        "Freezer-on-Bottom",
+        "Compact Internal Freezer",
+        "Compact Freezer-on-Top",
+        "Full-Sized Side-by-Side",
+        "French Door, Freezer-on-Bottom",
+        "Full-Sized Freezer-on-Bottom",
+        "Full-Sized Freezer-on-Top",
+        "Internal Freezer",
+        "French Door, Side-by-Side"
+      ]
+    },
+    {
+      "name": "Number Of Doors",
+      "occurrence": 1355,
+      "frequency_pct": 1.44,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "name": "Reusability",
+      "occurrence": 1336,
+      "frequency_pct": 1.42,
+      "examples": [
+        "Reusable",
+        "Single Use",
+        "Disposable",
+        "Rechargeable"
+      ]
+    },
+    {
+      "name": "Standard Cycles",
+      "occurrence": 1312,
+      "frequency_pct": 1.39,
+      "examples": [
+        "1",
+        "2",
+        "10",
+        "6",
+        "12",
+        "14",
+        "11",
+        "8",
+        "9",
+        "5",
+        "3",
+        "7",
+        "4",
+        "13",
+        "15"
+      ]
+    },
+    {
+      "name": "Door Material Type",
+      "occurrence": 1230,
+      "frequency_pct": 1.3,
+      "examples": [
+        "Stainless Steel",
+        "Glass",
+        "Plastic",
+        "Steel",
+        "Tempered Glass",
+        "Aluminum",
+        "PCM",
+        "Metal",
+        "Stainless Steel,Glass",
+        "SUS430",
+        "steel",
+        "Hard Plastic",
+        "Glass door with stainless steel frame",
+        "Glass Door with Stainless Steel Frame",
+        "Stainless Steel / Glass"
+      ]
+    },
+    {
+      "name": "Efficiency",
+      "occurrence": 1222,
+      "frequency_pct": 1.3,
+      "examples": [
+        "Energy Efficiency",
+        "High Efficiency",
+        "High Efficiency, Energy Efficiency",
+        "perfect",
+        "Perfect",
+        "A+",
+        "A",
+        "high efficiency",
+        "1200 RPM",
+        "High efficiency",
+        "19min",
+        "Low Efficiency",
+        "Tier 1",
+        "85",
+        "Max Spin Speed 1300 RPM"
+      ]
+    },
+    {
+      "name": "Room Type",
+      "occurrence": 1204,
+      "frequency_pct": 1.28,
+      "examples": [
+        "Kitchen",
+        "Living Room, Bedroom",
+        "Bedroom",
+        "Office, Living Room, Bedroom",
+        "Bathroom",
+        "Office, Bedroom",
+        "Living Room",
+        "Office",
+        "Kitchen, Bathroom",
+        "Kitchen, Dining Room",
+        "Laundry Room",
+        "Dining Room",
+        "Di, Bedroom, Home Office, Study Room",
+        "Bathroom, Kitchen",
+        "Garden"
+      ]
+    },
+    {
+      "name": "Door Hinges",
+      "occurrence": 1168,
+      "frequency_pct": 1.24,
+      "examples": [
+        "Reversible",
+        "Top",
+        "Right",
+        "Left",
+        "Reversible Door",
+        "Drop-Down",
+        "UP",
+        "Reversible Doors",
+        "French door",
+        "Front",
+        "up",
+        "Side-by-Side",
+        "\u5de6",
+        "Flip-up, stay-open",
+        "\u53f3"
+      ]
+    },
+    {
+      "name": "Drawer Type",
+      "occurrence": 1154,
+      "frequency_pct": 1.22,
+      "examples": [
+        "Storage",
+        "Broiler, Baking",
+        "Storage, Broiler",
+        "Broiler",
+        "Warming",
+        "Storage, Broiler, Baking",
+        "Baking",
+        "Warming, Storage, Broiler",
+        "Warming, Storage",
+        "storage",
+        "baking,storage drawer",
+        "baking,broiler",
+        "broiler,storage drawer",
+        "Baking,storage drawer",
+        "Door Bins, Crisper"
+      ]
+    },
+    {
+      "name": "Handle Type",
+      "occurrence": 1142,
+      "frequency_pct": 1.21,
+      "examples": [
+        "Knob",
+        "Pull Handle",
+        "Lever",
+        "long",
+        "Knob, Lever",
+        "Hook, loop",
+        "Long",
+        "hook, loop",
+        "\u65cb\u94ae",
+        "Hook",
+        "Short",
+        "Fridge",
+        "Plastic electroplating",
+        "Door handle",
+        "appliance"
+      ]
+    },
+    {
+      "name": "Exterior Finish",
+      "occurrence": 1128,
+      "frequency_pct": 1.2,
+      "examples": [
+        "Stainless Steel",
+        "Chrome",
+        "Black",
+        "Brass",
+        "Aluminum",
+        "Bronze",
+        "Silver",
+        "Zinc",
+        "Nickel",
+        "Plastic",
+        "Pewter",
+        "Machined",
+        "Iron",
+        "Stainless Steel, Aluminum",
+        "Rubber"
+      ]
+    },
+    {
+      "name": "Manufacturer Warranty",
+      "occurrence": 1021,
+      "frequency_pct": 1.08,
+      "examples": [
+        "Free 10yr Warranty on Major Components",
+        "5 YEAR LIMITED WARRANTY- A reliable 5 year warranty on all our range hoods along with an unparalleled USA based customer support system.",
+        "Three Year Parts Warranty: For three years from the date of original purchase, we will provide free of charge, non-consumable replacement parts for the components that failed due to manufacturing defects. Subject to the conditions and limitations set forth below at its option, either repair or replace any part of its products that prove defective by reason of improper workmanship or material. Repaired parts or replacement products will be provided by www.therangehoodstore.com on an exchange basis and will be either new or refurbished to be functionally equivalent to new. The consumer is responsible for shipping costs. Consumable parts not covered by this warranty include but are not limited to: light bulbs, metal, aluminum and charcoal filters. Who is Covered: This warranty is extended to the original purchaser for products purchased for ordinary home use in the continental USA.",
+        "1 year limited warranty",
+        "3 years limited on parts, labor is not included",
+        "Replacement within 3 months of purchase/Money back 1 month of purchase",
+        "3 year limited on parts, labor is not included",
+        "Limited Warranty",
+        "1 year parts and labor, 2 years control board, 3 years stainless steel drum, 10 years direct drive motor",
+        "1 year warranty",
+        "3 Year Parts",
+        "2 Year Manufacturers Warranty",
+        "Golden Vantage 3-Year Limited Parts Warranty",
+        "2-Year Limited Warranty and Lifetime Motor Warranty",
+        "1 year parts and labor, 2 years control board"
+      ]
+    },
+    {
+      "name": "Shelves",
+      "occurrence": 1018,
+      "frequency_pct": 1.08,
+      "examples": [
+        "3",
+        "1",
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "9",
+        "10",
+        "8",
+        "1 x wire basket",
+        "two",
+        "4 - Wire Adjustable",
+        "Removable Wire Basket",
+        "1 glass shelf + 2 wire shelves + 1 wire basket"
+      ]
+    },
+    {
+      "name": "Product Benefits",
+      "occurrence": 1016,
+      "frequency_pct": 1.08,
+      "examples": [
+        "Reduces Chlorine",
+        "Reduces VOCs",
+        "Easy to install",
+        "Removes Odor",
+        "Perfect fit, Deep filtration, Fresh-tasting water, Easy to install, No leaks",
+        "Good cap",
+        "Removes Impurities",
+        "good cap",
+        "Reduce Chlorine, Taste and Odor",
+        "FiIters 99% impurities",
+        "Accelerates Metabolism",
+        "It can remove impurities in the water and make you drink at ease",
+        "Removes Pollutants",
+        "Easy to install; Perfect fit; Fresh taste; Natural coconut shells from Sri Lanka; Zero leakage",
+        "FiIter 99% impurities"
+      ]
+    },
+    {
+      "name": "Ignition System Type",
+      "occurrence": 953,
+      "frequency_pct": 1.01,
+      "examples": [
+        "Electronic",
+        "Gas Pilot",
+        "Battery",
+        "G-r-u-n-t- R-P-G-t-y-h-g-1",
+        "Joen-ni-ha-ys-1",
+        "Manual",
+        "Joenotjo-rf-rf-rf-2",
+        "Jo-RR-PV-FS-1",
+        "Grunt RPG-i-q-f-g-h7",
+        "Joenotjo-PP-PP-PP1",
+        "Non",
+        "Grunt RPG-V-S-D-X-Z-10",
+        "CUISCI cap R-i-T-byy",
+        "Grunt RPG -b-g-f-d-1-12",
+        "Joen-afc-fds-D1"
+      ]
+    },
+    {
+      "name": "Usage",
+      "occurrence": 904,
+      "frequency_pct": 0.96,
+      "examples": [
+        "1",
+        "Commercial/Residential",
+        "Refrigerator Water Filter",
+        "Indoor use only",
+        "Inside",
+        "personal",
+        "Personal",
+        "Residential",
+        "Convenient storage of food items",
+        "Stainless steel electric heating tube is an electrical component that converts electrical energy into heat energy. Because of its low price, convenient use, convenient installation and no pollution, it is widely used in various heating occasions. The service life of stainless steel electric heating tube is very long, and the general design The service life is more than 10,000 hours.",
+        "Inside;Amateur",
+        "Tool & Home Improvement",
+        "Hard Material",
+        "Temperature",
+        "Temperature Sensor"
+      ]
+    },
+    {
+      "name": "Operation Mode",
+      "occurrence": 887,
+      "frequency_pct": 0.94,
+      "examples": [
+        "Automatic",
+        "Manual",
+        "Fully Automatic",
+        "Semi Automatic",
+        "ON-OFF",
+        "Mechanical",
+        "Evaporative",
+        "Sleep",
+        "Ultrasonic",
+        "Electric",
+        "Vaporizer",
+        "Push button",
+        "Push Button",
+        "Electrical",
+        "Off"
+      ]
+    },
+    {
+      "name": "Installation Method",
+      "occurrence": 879,
+      "frequency_pct": 0.93,
+      "examples": [
+        "Freestanding",
+        "Free Standing",
+        "Screw-In",
+        "Built-In",
+        "Drop-In",
+        "Countertop",
+        "built-in",
+        "Glue",
+        "Built-in",
+        "Wall Mount",
+        "Wall-Mounted",
+        "Under Cabinet Mount",
+        "Full Installation",
+        "Over-the-Range",
+        "InstallationMethod"
+      ]
+    },
+    {
+      "name": "Cycle Options",
+      "occurrence": 869,
+      "frequency_pct": 0.92,
+      "examples": [
+        "Spin, Drain",
+        "Spin",
+        "Baby Wear",
+        "Drain",
+        "Baby Wear, Drain",
+        "Spin, Drain, Rinse",
+        "Normal",
+        "Rinse",
+        "Sensor Wash",
+        "Spin, Drain, Normal, Rinse",
+        "Spin, Baby Wear",
+        "Spin, Baby Wear, Drain",
+        "Rapid",
+        "Spin, Drain, Normal",
+        "Spin, Gentle, Drain, Normal"
+      ]
+    },
+    {
+      "name": "Max Spin Speed",
+      "occurrence": 818,
+      "frequency_pct": 0.87,
+      "examples": [
+        "1300 RPM",
+        "200 RPM",
+        "1200 RPM",
+        "800 RPM",
+        "700 RPM",
+        "1400 RPM",
+        "1100 RPM",
+        "1700 RPM",
+        "1500 RPM",
+        "1000 RPM",
+        "300 RPM",
+        "1350 RPM",
+        "1 RPM",
+        "840 RPM",
+        "850 RPM"
+      ]
+    },
+    {
+      "name": "Specification Met",
+      "occurrence": 811,
+      "frequency_pct": 0.86,
+      "examples": [
+        "Energy Star",
+        "Oem",
+        "ETL",
+        "oem",
+        "UL",
+        "CE",
+        "Certified frustration-free",
+        "CSA",
+        "certified frustration-free",
+        "ADA",
+        "Energy",
+        "NSF",
+        "NSF, ETL",
+        "FCC",
+        "Asm"
+      ]
+    },
+    {
+      "name": "Defrost",
+      "occurrence": 791,
+      "frequency_pct": 0.84,
+      "examples": [
+        "Automatic",
+        "Manual",
+        "Frost Free",
+        "Auto Defrost",
+        "Defrost",
+        "Manual Defrost",
+        "Semi-Automatic",
+        "automatic,frost_free",
+        "Frost_free,automatic",
+        "none",
+        "automatic",
+        "Cycle Defrost",
+        "NO",
+        "Not Available",
+        "JOE-GEHRh-ywdf-004"
+      ]
+    },
+    {
+      "name": "Human Interface Input",
+      "occurrence": 775,
+      "frequency_pct": 0.82,
+      "examples": [
+        "Buttons",
+        "Unknown",
+        "Dial",
+        "Dial, Buttons",
+        "Touchscreen",
+        "Touch Pad",
+        "Touchscreen, Keypad",
+        "Keypad",
+        "Touchscreen, Buttons",
+        "Mouse"
+      ]
+    },
+    {
+      "name": "Package Type",
+      "occurrence": 758,
+      "frequency_pct": 0.8,
+      "examples": [
+        "Standard Packaging",
+        "Frustration-Free Packaging",
+        "1 Pack",
+        "1",
+        "Bottle",
+        "5",
+        "2 Pcs",
+        "5 Pack AEZ73293801 Burner Control Knob",
+        "Carton Package",
+        "Box"
+      ]
+    },
+    {
+      "name": "Heater Surface Material",
+      "occurrence": 749,
+      "frequency_pct": 0.79,
+      "examples": [
+        "Stainless Steel",
+        "Glass Ceramic",
+        "Tempered Glass",
+        "Porcelain",
+        "Ceramic",
+        "G-r-u-n-t- R-P-G-t-y-h-g-1",
+        "Joen-ni-ha-ys-1",
+        "\u73bb\u7483\u9676\u74f7",
+        "Joenotjo-rf-rf-rf-2",
+        "Jo-RR-PV-FS-1",
+        "Grunt RPG-i-q-f-g-h7",
+        "Joenotjo-PP-PP-PP1",
+        "Grunt RPG -T-G-V7",
+        "Grunt RPG-V-S-D-X-Z-10",
+        "Grunt RPG -b-g-f-d-1-12"
+      ]
+    },
+    {
+      "name": "Control Type",
+      "occurrence": 726,
+      "frequency_pct": 0.77,
+      "examples": [
+        "Knob",
+        "Digital Touch",
+        "Button Control",
+        "Control",
+        "Touch",
+        "control",
+        "Button",
+        "touch",
+        "Touch control",
+        "control,touch",
+        "Control,touch",
+        "Glide Touch",
+        "Control,knobs",
+        "touch control",
+        "Infinite Heat Rotary"
+      ]
+    },
+    {
+      "name": "Lock Type",
+      "occurrence": 724,
+      "frequency_pct": 0.77,
+      "examples": [
+        "Electronic",
+        "Key Lock",
+        "Child Lock Available",
+        "Key",
+        "Slide",
+        "No Lock",
+        "Ring",
+        "Combination Lock",
+        "Keypad",
+        "Knob",
+        "Key Lock, Combination Lock",
+        "Manual",
+        "Keys Lock",
+        "\u65e0\u513f\u7ae5\u9501",
+        "Biometric"
+      ]
+    },
+    {
+      "name": "Refrigerant",
+      "occurrence": 703,
+      "frequency_pct": 0.75,
+      "examples": [
+        "R600a",
+        "R134a",
+        "R 410A",
+        "R-600A",
+        "R404a",
+        "R290",
+        "R-290",
+        "R-134A",
+        "R-22",
+        "R-410A",
+        "R134a/48g",
+        "R4a",
+        "Attribute not applicable for product",
+        "Absorption system",
+        "R 354a"
+      ]
+    },
+    {
+      "name": "Product Care Instructions",
+      "occurrence": 703,
+      "frequency_pct": 0.75,
+      "examples": [
+        "Wipe Clean",
+        "Wipe with Dry Cloth",
+        "Hand Wash Only",
+        "Oven Safe, Wipe Clean",
+        "Dishwasher Safe",
+        "Hand Wash",
+        "Machine Wash",
+        "Freezer Safe, Wipe Clean",
+        "Wipe with Damp Cloth",
+        "Machine Wash, Hand Wash Only",
+        "Freezer Safe",
+        "Oven Safe",
+        "Do Not Soak",
+        "Dishwasher Safe, Hand Wash",
+        "Refrigerator Safe"
+      ]
+    },
+    {
+      "name": "Option Cycles",
+      "occurrence": 683,
+      "frequency_pct": 0.72,
+      "examples": [
+        "5",
+        "6",
+        "4",
+        "3",
+        "1",
+        "8",
+        "7",
+        "2",
+        "9",
+        "10",
+        "14",
+        "12",
+        "15",
+        "16",
+        "13"
+      ]
+    },
+    {
+      "name": "Noise Level",
+      "occurrence": 624,
+      "frequency_pct": 0.66,
+      "examples": [
+        "44 dB",
+        "55 dB",
+        "50 dB",
+        "52 dB",
+        "49 dB",
+        "65 dB",
+        "42 dB",
+        "45 dB",
+        "48 dB",
+        "51 dB",
+        "60 dB",
+        "54 dB",
+        "56 dB",
+        "58 dB",
+        "40 dB"
+      ]
+    },
+    {
+      "name": "Airflow Displacement",
+      "occurrence": 602,
+      "frequency_pct": 0.64,
+      "examples": [
+        "900 Cubic Feet Per Minute",
+        "400 Cubic Feet Per Minute",
+        "600 Cubic Feet Per Minute",
+        "450 Cubic Feet Per Minute",
+        "343 Cubic Feet Per Minute",
+        "350 Cubic Feet Per Minute",
+        "760 Cubic Feet Per Minute",
+        "700 Cubic Feet Per Minute",
+        "217 Cubic Feet Per Minute",
+        "1200 Cubic Feet Per Minute",
+        "860 Cubic Feet Per Minute",
+        "380 Cubic Feet Per Minute",
+        "1270 Cubic Feet Per Minute",
+        "200 Cubic Feet Per Minute",
+        "800 Cubic Feet Per Minute"
+      ]
+    },
+    {
+      "name": "Manufacturer Part Number",
+      "occurrence": 586,
+      "frequency_pct": 0.62,
+      "examples": [
+        "984881",
+        "W10515058 W10515057",
+        "Clearance cover",
+        "214100",
+        "WR1-760-2158",
+        "DC66-00470A",
+        "DC66-00470A, DC66-00470B",
+        "U1500WH",
+        "RPBH-012",
+        "BUNBCF100BCT",
+        "3850415.01 REPLACEMENT",
+        "8182119, AP3597347",
+        "WB02X24790",
+        "CECOMINOD048487",
+        "W10082853"
+      ]
+    },
+    {
+      "name": "Air Flow Capacity",
+      "occurrence": 569,
+      "frequency_pct": 0.6,
+      "examples": [
+        "900 Cubic Feet Per Minute",
+        "600 Cubic Feet Per Minute",
+        "400 Cubic Feet Per Minute",
+        "760 Cubic Feet Per Minute",
+        "350 Cubic Feet Per Minute",
+        "1200 Cubic Feet Per Minute",
+        "300 Cubic Feet Per Minute",
+        "450 Cubic Feet Per Minute",
+        "180 Cubic Feet Per Minute",
+        "190 Cubic Feet Per Minute",
+        "700 Cubic Feet Per Minute",
+        "500 Cubic Feet Per Minute",
+        "800 Cubic Feet Per Minute",
+        "1000 Cubic Feet Per Minute",
+        "940 Cubic Feet Per Minute"
+      ]
+    },
+    {
+      "name": "Annual Energy Consumption",
+      "occurrence": 569,
+      "frequency_pct": 0.6,
+      "examples": [
+        "1 Watts",
+        "292 Kilowatt Hours",
+        "270 Kilowatt Hours Per Year",
+        "260 Kilowatt Hours Per Year",
+        "1 Kilowatt Hours",
+        "70 Kilowatt Hours Per Year",
+        "5 Kilowatt Hours",
+        "180 Watts",
+        "2800 Watts",
+        "200 Watts",
+        "249 Kilowatt Hours Per Year",
+        "128.48 Kilowatt Hours",
+        "292 Kilowatt Hours Per Year",
+        "128 Kilowatt Hours Per Year",
+        "549 Kilowatt Hours"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 555,
+      "frequency_pct": 0.59,
+      "examples": [
+        "Appliances",
+        "Cooking Appliances",
+        "unisex-adult",
+        "Refrigeration",
+        "Cookware",
+        "Unisex-Adult",
+        "Unisex-adult",
+        "Laundry",
+        "mens",
+        "Womens",
+        "Home and Garden",
+        "Mens",
+        "Electronics",
+        "Dishwashers",
+        "womens"
+      ]
+    },
+    {
+      "name": "Controller Type",
+      "occurrence": 544,
+      "frequency_pct": 0.58,
+      "examples": [
+        "Push Button",
+        "Button Control",
+        "Remote Control",
+        "Hand Control",
+        "Touch Control",
+        "Jog Dial",
+        "Button",
+        "Ring",
+        "\u6309\u94ae",
+        "Button, Touch Control",
+        "Dial",
+        "Attribute not applicable for product",
+        "Amazon Alexa",
+        "Alexa, Amazon Alexa",
+        "Jog dial"
+      ]
+    },
+    {
+      "name": "Connector Type",
+      "occurrence": 499,
+      "frequency_pct": 0.53,
+      "examples": [
+        "Water Line",
+        "Water Line and Drain",
+        "Screw",
+        "Plug In",
+        "Plug in",
+        "Elbow",
+        "Adapter",
+        "Quick Connect",
+        "Coupling",
+        "Drain",
+        "Tee",
+        "Rca",
+        "Cap",
+        "No",
+        "Clamp"
+      ]
+    },
+    {
+      "name": "Metal Type",
+      "occurrence": 498,
+      "frequency_pct": 0.53,
+      "examples": [
+        "Stainless Steel",
+        "Brass",
+        "Bronze",
+        "Zinc Alloy",
+        "Alloy Steel",
+        "Iron",
+        "Stainless Steel, Iron",
+        "Aluminum",
+        "Bronze, Brass",
+        "Stainless Steel, Aluminum",
+        "Zinc",
+        "Copper",
+        "Carbon Steel",
+        "Zinc Alloy, Stainless Steel",
+        "Cast Iron"
+      ]
+    },
+    {
+      "name": "Defrost System",
+      "occurrence": 497,
+      "frequency_pct": 0.53,
+      "examples": [
+        "Automatic",
+        "Frost Free",
+        "Manual",
+        "Semi-Automatic",
+        "automatic,frost_free",
+        "Cycle Defrost",
+        "Defrost",
+        "NO",
+        "Not Available",
+        "\u200eFrost Free"
+      ]
+    },
+    {
+      "name": "Maximum Rotational Speed",
+      "occurrence": 482,
+      "frequency_pct": 0.51,
+      "examples": [
+        "1300 RPM",
+        "200 RPM",
+        "1200 RPM",
+        "1400 RPM",
+        "800 RPM",
+        "700 RPM",
+        "1100 RPM",
+        "1000 RPM",
+        "1500 RPM",
+        "600 RPM",
+        "1550 RPM",
+        "1700 RPM",
+        "1600 RPM",
+        "840 RPM",
+        "5500 RPM"
+      ]
+    },
+    {
+      "name": "Freezer Capacity",
+      "occurrence": 453,
+      "frequency_pct": 0.48,
+      "examples": [
+        "1 Cubic Feet",
+        "5 Cubic Feet",
+        "1.2 Cubic Feet",
+        "3.5 Cubic Feet",
+        "9.2 Cubic Feet",
+        "1.1 Cubic Feet",
+        "0.2 Cubic Feet",
+        "5.8 Cubic Feet",
+        "2.1 Cubic Feet",
+        "3 Cubic Feet",
+        "7.7 Cubic Feet",
+        "0.93 Cubic Feet",
+        "10 Cubic Feet",
+        "9.11 Cubic Feet",
+        "7 Cubic Feet"
+      ]
+    },
+    {
+      "name": "Oven Cooking Mode",
+      "occurrence": 447,
+      "frequency_pct": 0.47,
+      "examples": [
+        "Convection",
+        "Conduction",
+        "Keep Warm, Top and Bottom Heat, Convection",
+        "Radiant",
+        "convection",
+        "Radiant, Convection",
+        "Convection, Bake / Roast Wet",
+        "Grill, Convection",
+        "No Convection",
+        "Top and Bottom Heat",
+        "NO",
+        "Convection (main oven)",
+        "Gas",
+        "Top and bottom heat",
+        "Convection Fan"
+      ]
+    },
+    {
+      "name": "International Protection Rating",
+      "occurrence": 442,
+      "frequency_pct": 0.47,
+      "examples": [
+        "IP00",
+        "IP54",
+        "IP65",
+        "IP541",
+        "250",
+        "250 volt",
+        "Bekijk beschrijving",
+        "125250",
+        "120",
+        "IP20",
+        "IP373020",
+        "IP66",
+        "IP8318084",
+        "IP5412",
+        "13 amp"
+      ]
+    },
+    {
+      "name": "Closure Type",
+      "occurrence": 430,
+      "frequency_pct": 0.46,
+      "examples": [
+        "Open Top",
+        "Snap",
+        "Zipper",
+        "Twist On",
+        "Buckle",
+        "Drawstring",
+        "Lid",
+        "Ear Loop",
+        "Pull On",
+        "Flip",
+        "Hook & Loop",
+        "snap-on",
+        "Button",
+        "Cap",
+        "Latch"
+      ]
+    },
+    {
+      "name": "Number of pieces",
+      "occurrence": 403,
+      "frequency_pct": 0.43,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "100",
+        "8",
+        "50",
+        "5",
+        "10",
+        "12",
+        "16",
+        "30",
+        "1, 2",
+        "24"
+      ]
+    },
+    {
+      "name": "Theme",
+      "occurrence": 402,
+      "frequency_pct": 0.43,
+      "examples": [
+        "Botanical",
+        "Animal",
+        "Christmas",
+        "Love",
+        "Religious",
+        "Botanical, Love",
+        "Animal, Botanical",
+        "Horror",
+        "No Theme",
+        "Beverage",
+        "Quote",
+        "Animal, Love",
+        "Space",
+        "Number",
+        "Botanical, Animal"
+      ]
+    },
+    {
+      "name": "Horsepower",
+      "occurrence": 396,
+      "frequency_pct": 0.42,
+      "examples": [
+        "1 hp",
+        "2 Watts",
+        "3.25 Watts",
+        "3 Watts",
+        "60 Watts",
+        "9 Watts",
+        "0.33 hp",
+        "2.5 Watts",
+        "3.3 Watts",
+        "4 Watts",
+        "1.5 Watts",
+        "1.5 hp",
+        "4.1 Watts",
+        "2.2 Watts",
+        "0.5 hp"
+      ]
+    },
+    {
+      "name": "National Stock Number",
+      "occurrence": 390,
+      "frequency_pct": 0.41,
+      "examples": [
+        "3030-00-477-9849",
+        "4320-01-284-9121",
+        "6645-00-456-2219",
+        "5930-01-482-7332",
+        "5920-01-483-1981",
+        "6105-01-024-8894",
+        "5920-01-337-5404",
+        "3030-01-626-2886",
+        "3510-01-627-8807",
+        "4520-01-225-2932",
+        "5930-01-482-7331",
+        "5930-00-102-5907",
+        "6105-00-426-1586",
+        "3030-00-528-4286",
+        "6105-01-177-9374"
+      ]
+    },
+    {
+      "name": "Batteries",
+      "occurrence": 389,
+      "frequency_pct": 0.41,
+      "examples": [
+        "1 Unknown batteries required.",
+        "2 AAA batteries required. (included)",
+        "1 Lithium Ion batteries required. (included)",
+        "1 AAA batteries required. (included)",
+        "2 AAA batteries required.",
+        "1 AAA batteries required.",
+        "2 LR44 batteries required. (included)",
+        "1 CR2 batteries required. (included)",
+        "1 9V batteries required. (included)",
+        "1 Lithium Polymer batteries required. (included)",
+        "1 Lithium Metal batteries required. (included)",
+        "1 LR44 batteries required. (included)",
+        "2 AA batteries required. (included)",
+        "1 9V batteries required.",
+        "1 CR2032 batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Connectivity Protocol",
+      "occurrence": 349,
+      "frequency_pct": 0.37,
+      "examples": [
+        "X-10",
+        "Wi-Fi",
+        "Rca",
+        "Button",
+        "Bluetooth"
+      ]
+    },
+    {
+      "name": "Recommended Uses For Product",
+      "occurrence": 348,
+      "frequency_pct": 0.37,
+      "examples": [
+        "Exhausting",
+        "Residential",
+        "Storage",
+        "Kitchen",
+        "Cleaning",
+        "Ventilating",
+        "Refrigerator",
+        "Home Cabinet",
+        "Monitoring",
+        "Air Circulation",
+        "Instruction",
+        "indoor&outdoor",
+        "Indoor&outdoor",
+        "storage",
+        "Exhausting, Ventilating"
+      ]
+    },
+    {
+      "name": "Assembly required",
+      "occurrence": 347,
+      "frequency_pct": 0.37,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Heating Method",
+      "occurrence": 331,
+      "frequency_pct": 0.35,
+      "examples": [
+        "Convection",
+        "Conduction",
+        "Radiant",
+        "Radiant, Convection",
+        "Grill, Convection",
+        "NO",
+        "Top and bottom heat",
+        "Defrost, Bake / roast wet, Convection",
+        "Electric",
+        "Radiant_&_infrared",
+        "Lithium",
+        "radiant_&_infrared",
+        "Dryer High Limit Thermostat"
+      ]
+    },
+    {
+      "name": "Filter Type",
+      "occurrence": 329,
+      "frequency_pct": 0.35,
+      "examples": [
+        "Mesh",
+        "Reusable",
+        "Baffle",
+        "Wick",
+        "Paper",
+        "\u6ee4\u82af",
+        "\u9ad8\u6548\u7387\u8fc7\u6ee4\u7f51",
+        "HEPA",
+        "Aluminum",
+        "Ultraviolet",
+        "Humidifier",
+        "Humidifier Pad",
+        "Coffee Filter",
+        "Humidifier Wick Filter",
+        "Antimicrobial Treatment"
+      ]
+    },
+    {
+      "name": "Connectivity Technology",
+      "occurrence": 317,
+      "frequency_pct": 0.34,
+      "examples": [
+        "Normal bulb",
+        "Infrared",
+        "Wi Fi",
+        "USB",
+        "Bluetooth",
+        "Wireless",
+        "Wi-Fi",
+        "Usb",
+        "DisplayPort",
+        "IR",
+        "Attribute not applicable for product",
+        "Oven",
+        "Auxiliary",
+        "Zigbee",
+        "Wired"
+      ]
+    },
+    {
+      "name": "Is Dishwasher Safe",
+      "occurrence": 314,
+      "frequency_pct": 0.33,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Refrigerator Fresh Food Capacity",
+      "occurrence": 309,
+      "frequency_pct": 0.33,
+      "examples": [
+        "3.2 Cubic Feet",
+        "2.2 Cubic Feet",
+        "1 Cubic Feet",
+        "10 Cubic Feet",
+        "2.3 Cubic Feet",
+        "1.6 Cubic Feet",
+        "3 Cubic Feet",
+        "15.04 Cubic Feet",
+        "4.4 Cubic Feet",
+        "2 Cubic Feet",
+        "1 Liters",
+        "3.3 Cubic Feet",
+        "5.12 Cubic Feet",
+        "1.5 Cubic Feet",
+        "16 Cubic Feet"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "occurrence": 305,
+      "frequency_pct": 0.32,
+      "examples": [
+        "LED",
+        "Halogen",
+        "Incadescent",
+        "incadescent",
+        "High-Efficiency LED",
+        "G-r-u-n-t- R-P-G-t-y-h-g-10",
+        "Interior halogen lights",
+        "Downlight",
+        "G-r-u-n-t- R-P-G-t-y-h-g-1",
+        "Joen-ni-ha-ys-1",
+        "Uplight",
+        "Adjustable LED",
+        "4 x 2W LED lights that feature and deliver optimum visibility while cooking. Bright and eco-friendly, LED lights.",
+        "2 LED Lamps",
+        "Blue LED Illuminating Lights"
+      ]
+    },
+    {
+      "name": "With Lid",
+      "occurrence": 300,
+      "frequency_pct": 0.32,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Assembled Diameter",
+      "occurrence": 293,
+      "frequency_pct": 0.31,
+      "examples": [
+        "1 Inches",
+        "2 Inches",
+        "6 Inches",
+        "10 Inches",
+        "1.5 Inches",
+        "3 Inches",
+        "8 Inches",
+        "2.5 Inches",
+        "4 Inches",
+        "3.1 Inches",
+        "10.6 Inches",
+        "9 Inches",
+        "2.25 Inches",
+        "0.75 Inches",
+        "1.75 Inches"
+      ]
+    },
+    {
+      "name": "Thickness",
+      "occurrence": 288,
+      "frequency_pct": 0.31,
+      "examples": [
+        "11 Inches",
+        "1 Inches",
+        "3 Inches",
+        "1 Millimeters",
+        "2 Inches",
+        "5 Inches",
+        "0.2 Millimeters",
+        "9 Inches",
+        "0.5 Inches",
+        "4 Inches",
+        "0.06 Inches",
+        "7 Inches",
+        "1.5 Inches",
+        "0.3 Millimeters",
+        "1 Centimeters"
+      ]
+    },
+    {
+      "name": "Surface Recommendation",
+      "occurrence": 287,
+      "frequency_pct": 0.3,
+      "examples": [
+        "Door",
+        "Hardwood",
+        "Metal",
+        "Wall",
+        "door",
+        "Rubber",
+        "Wall, Door",
+        "Multi-Surface",
+        "Laminate, Tile, Hardwood",
+        "Tile, Hardwood",
+        "Glass",
+        "Window",
+        "Window, Door",
+        "Plastic",
+        "Porcelain"
+      ]
+    },
+    {
+      "name": "Control Method",
+      "occurrence": 286,
+      "frequency_pct": 0.3,
+      "examples": [
+        "Touch",
+        "Remote",
+        "App",
+        "Remote, Touch",
+        "Voice",
+        "App, Remote",
+        "App, Remote, Voice",
+        "App, Touch"
+      ]
+    },
+    {
+      "name": "Specific Uses For Product",
+      "occurrence": 269,
+      "frequency_pct": 0.29,
+      "examples": [
+        "Commercial/Residential",
+        "Temperature Sensor",
+        "Temperature",
+        "1",
+        "Indoor use only",
+        "Privacy",
+        "Dummy",
+        "Passage",
+        "Lamp",
+        "Door",
+        "Indoor",
+        "Fix the problem: \u2460the oven knob teeth are worn out \u2461the knob is off \u2462the knob does not rotate anymore, you need to replace the Funmit high-quality knob",
+        "Washing Machine",
+        "Ceiling fan",
+        "Easier to open the refrigerator door"
+      ]
+    },
+    {
+      "name": "Item Form",
+      "occurrence": 264,
+      "frequency_pct": 0.28,
+      "examples": [
+        "Sheet",
+        "Bag",
+        "Liquid",
+        "Spray",
+        "Balm",
+        "Capsule",
+        "Aerosol",
+        "Paste",
+        "Gel",
+        "Sheets",
+        "Plastic",
+        "Pods, Capsule",
+        "Ground",
+        "Powder",
+        "Stick"
+      ]
+    },
+    {
+      "name": "Display Type",
+      "occurrence": 258,
+      "frequency_pct": 0.27,
+      "examples": [
+        "LCD",
+        "Digital",
+        "LED",
+        "Analog",
+        "Lcd Display",
+        "\u6570\u5b57",
+        "Lcd,Lcd Screen",
+        "E-ink",
+        "Liquid Crystal Display (LCD)",
+        "Led Display",
+        "Display",
+        "Lcd",
+        "Lcd Screen",
+        "Dial",
+        "LCD, LED"
+      ]
+    },
+    {
+      "name": "Crispers/Drawers",
+      "occurrence": 249,
+      "frequency_pct": 0.26,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "7",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "name": "Energy Star",
+      "occurrence": 248,
+      "frequency_pct": 0.26,
+      "examples": [
+        "5 Star",
+        "4 Star",
+        "No",
+        "1 Star",
+        "3 Star",
+        "no",
+        "Yes",
+        "Energy Star",
+        "2 Star",
+        "UL",
+        "DOE",
+        "5.1 Star",
+        "/",
+        "CSA & Energy Star",
+        "UL&DOE"
+      ]
+    },
+    {
+      "name": "Backlight",
+      "occurrence": 240,
+      "frequency_pct": 0.25,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Type of Bulb",
+      "occurrence": 234,
+      "frequency_pct": 0.25,
+      "examples": [
+        "LED",
+        "Halogen",
+        "Incandescent",
+        "Led",
+        "led",
+        "halogen",
+        "incandescent",
+        "Light Emitting Diode",
+        "Halogen, LED",
+        "Fluorescent",
+        "Grunt RPG-D-D-D-Q-W-11",
+        "Joenotjo-fa'g'sh-006",
+        "Grunt RPG-D-G-J-N-M-G-D-F-G-9",
+        "Casual",
+        "Neon"
+      ]
+    },
+    {
+      "name": "Capacity Name",
+      "occurrence": 225,
+      "frequency_pct": 0.24,
+      "examples": [
+        "7.3",
+        "7",
+        "7.4",
+        "4.3",
+        "3.3",
+        "3.5",
+        "3.6",
+        "5",
+        "4",
+        "6.2",
+        "6.7",
+        "4.4",
+        "6.5",
+        "3.9",
+        "4.2"
+      ]
+    },
+    {
+      "name": "Speed",
+      "occurrence": 223,
+      "frequency_pct": 0.24,
+      "examples": [
+        "3000 RPM",
+        "1550 RPM",
+        "1 RPM",
+        "1630 RPM",
+        "2100 RPM",
+        "3 RPM",
+        "2200 RPM",
+        "1870 RPM",
+        "1300 RPM",
+        "2950 RPM",
+        "2600 RPM",
+        "1500 RPM",
+        "1750 RPM",
+        "60 RPM",
+        "60 Hz"
+      ]
+    },
+    {
+      "name": "Model",
+      "occurrence": 215,
+      "frequency_pct": 0.23,
+      "examples": [
+        "RoadPro",
+        "3850415.01 REPLACEMENT",
+        "Camco",
+        "Arctic",
+        "Kenmore 469918 Air Filter",
+        "AF002",
+        "629815",
+        "00651",
+        "2990A",
+        "632436",
+        "Dryer Cartridge",
+        "61656922",
+        "Kitchenaid dishwasher wheels lower rack W10195416 W10195420 W10579093a",
+        "3851059042",
+        "5006EA3009B"
+      ]
+    },
+    {
+      "name": "Measurement System",
+      "occurrence": 208,
+      "frequency_pct": 0.22,
+      "examples": [
+        "Imperial",
+        "Metric",
+        "US",
+        "Inch",
+        "inch",
+        "English/Standard",
+        "Metric, Imperial",
+        "Number",
+        "English",
+        "Grunt RPG-D-D-D-Q-W-11",
+        "Grunt RPG-D-G-J-N-M-G-D-F-G-9",
+        "Casual",
+        "metric, inch",
+        "MeasurementSystem",
+        "mV"
+      ]
+    },
+    {
+      "name": "Cartoon Character",
+      "occurrence": 204,
+      "frequency_pct": 0.22,
+      "examples": [
+        "Bubble",
+        "Sunflower",
+        "Bird",
+        "Animal",
+        "Butterfly",
+        "Cat",
+        "Animals",
+        "Cow",
+        "Christmas",
+        "Turtle",
+        "American",
+        "Bear",
+        "Halloween",
+        "Birds",
+        "Animal,Sunflower"
+      ]
+    },
+    {
+      "name": "Energy Use",
+      "occurrence": 194,
+      "frequency_pct": 0.21,
+      "examples": [
+        "1 Watts",
+        "1000 Watts",
+        "900 Watts",
+        "700 Watts",
+        "256 Kilowatt Hours",
+        "1100 Watts",
+        "270 Kilowatt Hours",
+        "249 Kilowatt Hours",
+        "0.4 Kilowatt Hours",
+        "950 Watts",
+        "646 Kilowatt Hours",
+        "0.02 Kilowatt Hours",
+        "95 Kilowatt Hours",
+        "0.1 Kilowatt Hours",
+        "0.86 Kilowatt Hours"
+      ]
+    },
+    {
+      "name": "Number of Speeds",
+      "occurrence": 193,
+      "frequency_pct": 0.2,
+      "examples": [
+        "3",
+        "4",
+        "2",
+        "6",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "name": "Door Orientation",
+      "occurrence": 187,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Top",
+        "Reversible",
+        "Left",
+        "Right"
+      ]
+    },
+    {
+      "name": "Cooling Method",
+      "occurrence": 186,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Compressor",
+        "Air",
+        "Thermoelectric",
+        "Passive",
+        "Water, Air",
+        "Convection",
+        "Water",
+        "Absorption"
+      ]
+    },
+    {
+      "name": "Finish types",
+      "occurrence": 177,
+      "frequency_pct": 0.19,
+      "examples": [
+        "Polished",
+        "Matte",
+        "Painted",
+        "Plastic",
+        "Smooth",
+        "Abs",
+        "Brushed",
+        "White",
+        "Reinforced Mesh Paper",
+        "Stainless Steel",
+        "Powder Coated",
+        "Stainless steel",
+        "Transparent",
+        "stainless steel",
+        "Chrome"
+      ]
+    },
+    {
+      "name": "Cooling Vents",
+      "occurrence": 176,
+      "frequency_pct": 0.19,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "7",
+        "4",
+        "170",
+        "200"
+      ]
+    },
+    {
+      "name": "Cutting Diameter",
+      "occurrence": 175,
+      "frequency_pct": 0.19,
+      "examples": [
+        "1 Inches",
+        "2 Inches",
+        "10 Inches",
+        "1.5 Inches",
+        "3 Inches",
+        "6 Inches",
+        "2.5 Inches",
+        "3.1 Inches",
+        "9 Inches",
+        "1.75 Inches",
+        "4 Inches",
+        "16 Inches",
+        "8 Inches",
+        "1 Centimeters",
+        "2.4 Inches"
+      ]
+    },
+    {
+      "name": "Import",
+      "occurrence": 173,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Imported",
+        "Made in USA",
+        "Made in USA or Imported",
+        "Importado",
+        "Made in USA and Imported",
+        "Made in US",
+        "Made in the USA",
+        "Hecho en EE. UU. o importado",
+        "China",
+        "Country as Labeled",
+        "Made in the USA and Imported",
+        "Water Filter",
+        "4 pack of high-quality heat resistant chrome drip pans.",
+        "Cap",
+        "Made in Mexico"
+      ]
+    },
+    {
+      "name": "Connector Gender",
+      "occurrence": 173,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Male-to-Female",
+        "Male-to-Male",
+        "Male",
+        "Female",
+        "wr55x10942c,wr55x10942c control board for ge refrigerator,wr55x10942 control board,wr55x10942,ge refrigerator motherboard, ge refrigerator main control board ,control board for ge refrigeratorwr55x10942c,wr55x10942c control board for ge refrigerator,wr55x10942 control board,wr55x10942,ge refrigerator motherboard, ge refrigerator main control board ,control board for ge refrigerator  See more",
+        "Male and female",
+        "Female-to-Male"
+      ]
+    },
+    {
+      "name": "Inlet Connection Type",
+      "occurrence": 170,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Compression",
+        "Waterproof",
+        "Threaded",
+        "threaded",
+        "Barb",
+        "Press",
+        "National Pipe Tapered",
+        "Sweat",
+        "Flare",
+        "Solder",
+        "NHT",
+        "\u6309\u538b",
+        "Wall",
+        "Cutting Ring",
+        "Female Iron Pipe"
+      ]
+    },
+    {
+      "name": "Upper Temperature Rating",
+      "occurrence": 155,
+      "frequency_pct": 0.16,
+      "examples": [
+        "158 Degrees Fahrenheit",
+        "122 Degrees Fahrenheit",
+        "140 Degrees Fahrenheit",
+        "70 Degrees Celsius",
+        "60 Degrees Celsius",
+        "464 Degrees Fahrenheit",
+        "50 Degrees Celsius",
+        "100 Degrees Fahrenheit",
+        "210 Degrees Fahrenheit",
+        "240 Degrees Fahrenheit",
+        "110 Degrees Fahrenheit",
+        "120 Degrees Fahrenheit",
+        "250 Degrees Fahrenheit",
+        "250 Degrees Celsius",
+        "105 Degrees Celsius"
+      ]
+    },
+    {
+      "name": "Operating Voltage",
+      "occurrence": 154,
+      "frequency_pct": 0.16,
+      "examples": [
+        "240 Volts",
+        "250 Volts",
+        "120 Volts",
+        "125 Volts",
+        "450 Volts",
+        "115 Volts",
+        "370 Volts",
+        "208 Volts",
+        "125 Volts (AC)",
+        "220 Volts",
+        "110 Volts",
+        "210 Volts",
+        "288 Volts",
+        "120 Volts (AC)",
+        "330 Volts"
+      ]
+    },
+    {
+      "name": "Top Style",
+      "occurrence": 151,
+      "frequency_pct": 0.16,
+      "examples": [
+        "Range top",
+        "smooth top",
+        "range top",
+        "Smooth top",
+        "induction",
+        "White",
+        "Open burners",
+        "Grommet",
+        "Counter top",
+        "G-r-u-n-t- R-P-G-t-y-h-g-11",
+        "Range Top",
+        "Joen-ni-ha-ys-1",
+        "flat style",
+        "Joenotjo-rf-rf-rf-2",
+        "Jo-RR-PV-FS-1"
+      ]
+    },
+    {
+      "name": "Sound Level",
+      "occurrence": 150,
+      "frequency_pct": 0.16,
+      "examples": [
+        "65 dB",
+        "54 dB",
+        "1 dB",
+        "5 Sones",
+        "7 Sones",
+        "50 dB",
+        "55 dB",
+        "6 Sones",
+        "40 dB",
+        "1 Sones",
+        "42 dB",
+        "58 dB",
+        "0.03 dB",
+        "51 dB",
+        "0.01 dB"
+      ]
+    },
+    {
+      "name": "Outer Material",
+      "occurrence": 149,
+      "frequency_pct": 0.16,
+      "examples": [
+        "Plastic",
+        "Metal",
+        "Acrylonitrile Butadiene Styrene",
+        "Stainless Steel",
+        "Aluminum",
+        "Glass",
+        "Material: Abs",
+        "Poly, Acrylonitrile Butadiene Styrene",
+        "Polyvinyl Chloride",
+        "Plastic, Metal",
+        "Metal, Glass, Stainless Steel",
+        "Neoprene",
+        "Silicone",
+        "Samsung gas oven temperature sensor EBG61305805 is made of high quality and durable stainless steel, waterproof,with stand high temperature,with higher heat resistance.Samsung gas oven temperature sensor EBG61305805 is made of high quality and durable stainless steel, waterproof,with stand high temperature,with higher heat resistance.  See more",
+        "Thermostat"
+      ]
+    },
+    {
+      "name": "Light Source Type",
+      "occurrence": 147,
+      "frequency_pct": 0.16,
+      "examples": [
+        "LED",
+        "Halogen",
+        "Incandescent",
+        "Light Emitting Diode",
+        "Halogen, LED",
+        "Led",
+        "Neon",
+        "CFL",
+        "led"
+      ]
+    },
+    {
+      "name": "Current Rating",
+      "occurrence": 138,
+      "frequency_pct": 0.15,
+      "examples": [
+        "10 Amps",
+        "4 Amps",
+        "15 Amps",
+        "4.7 Amps",
+        "5 Amps",
+        "2.5 Amps",
+        "30 Amps",
+        "11 Amps",
+        "20 Amps",
+        "16 Amps",
+        "13 Amps",
+        "3 Amps",
+        "5.8 Amps",
+        "0.5 Amps",
+        "9.3 Amps"
+      ]
+    },
+    {
+      "name": "Switch Type",
+      "occurrence": 136,
+      "frequency_pct": 0.14,
+      "examples": [
+        "Push Button",
+        "Pressure Switch",
+        "Temperature Switch",
+        "Rotary",
+        "Limit Switch",
+        "Ignition Switch",
+        "Rocker",
+        "Dial Switch",
+        "Dimmer Switch",
+        "Float Switch",
+        "Limit Switch, Temperature Switch",
+        "Touch Switch, Temperature Switch",
+        "Touch Switch",
+        "Rocker Switch",
+        "Slide"
+      ]
+    },
+    {
+      "name": "Bearing Number",
+      "occurrence": 134,
+      "frequency_pct": 0.14,
+      "examples": [
+        "5303281153",
+        "W10435302",
+        "306508",
+        "W10447783",
+        "WE3M26",
+        "AP4426951",
+        "WE25M40",
+        "6601 148",
+        "4036ER2003A",
+        "WE3X75",
+        "4036ER2004A",
+        "240328203",
+        "W1043502",
+        "40004001",
+        "W10772619"
+      ]
+    },
+    {
+      "name": "Number of Sets",
+      "occurrence": 129,
+      "frequency_pct": 0.14,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "24",
+        "6",
+        "30",
+        "100",
+        "36",
+        "50",
+        "200",
+        "48",
+        "20",
+        "16",
+        "14"
+      ]
+    },
+    {
+      "name": "Package Weight",
+      "occurrence": 127,
+      "frequency_pct": 0.13,
+      "examples": [
+        "0.02 Kilograms",
+        "0.02 Pounds",
+        "0.1 Kilograms",
+        "0.03 Kilograms",
+        "0.01 Kilograms",
+        "0.04 Kilograms",
+        "0.05 Kilograms",
+        "0.43 Kilograms",
+        "0.41 Kilograms",
+        "0.06 Kilograms",
+        "0.56 Kilograms",
+        "0.34 Kilograms",
+        "0.27 Kilograms",
+        "0.07 Kilograms",
+        "0.32 Kilograms"
+      ]
+    },
+    {
+      "name": "Flow Rate",
+      "occurrence": 127,
+      "frequency_pct": 0.13,
+      "examples": [
+        "0.5 Gallons Per Minute",
+        "0.75 Gallons Per Minute",
+        "0.78 Gallons Per Minute",
+        "3 Gallons Per Minute",
+        "1 Gallons Per Minute",
+        "2 Gallons Per Minute",
+        "2.2 Gallons Per Minute",
+        "1.5 Gallons Per Minute",
+        "45 Liters Per Minute",
+        "0.05 Gallons Per Minute",
+        "8 Liters Per Minute",
+        "10 Liters Per Minute",
+        "50 Liters Per Minute",
+        "4.4 Gallons Per Minute",
+        "20 Liters Per Second"
+      ]
+    },
+    {
+      "name": "Dryer Power Source",
+      "occurrence": 127,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Electric",
+        "Corded Electric",
+        "Gas Powered",
+        "Gas",
+        "G-r-u-n-t- R-P-G-t-y-h-g-10",
+        "G-r-u-n-t- R-P-G-t-y-h-g-1",
+        "Joen-ni-ha-ys-1",
+        "Joenotjo-rf-rf-rf-2",
+        "Jo-RR-PV-FS-1",
+        "PTC hot air drying",
+        "Grunt RPG-i-q-f-g-h7",
+        "Joenotjo-PP-PP-PP1",
+        "Grunt RPG -T-G-V7",
+        "Grunt RPG -b-t-e-d-4",
+        "PTC Hot Air Drying"
+      ]
+    },
+    {
+      "name": "Light Type",
+      "occurrence": 123,
+      "frequency_pct": 0.13,
+      "examples": [
+        "LED",
+        "Halogen",
+        "Incandescent",
+        "Fluorescent",
+        "Incandescent, LED",
+        "Metal Halide",
+        "CFL",
+        "Halogen, LED",
+        "Fluorescent, LED"
+      ]
+    },
+    {
+      "name": "Assembly Required",
+      "occurrence": 122,
+      "frequency_pct": 0.13,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Number of Shelves",
+      "occurrence": 120,
+      "frequency_pct": 0.13,
+      "examples": [
+        "1",
+        "3",
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "25",
+        "1.0",
+        "8",
+        "14",
+        "24.0"
+      ]
+    },
+    {
+      "name": "Vehicle Service Type",
+      "occurrence": 119,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Car",
+        "Truck",
+        "Washing Machine",
+        "Bicycle",
+        "Passenger Car",
+        "Tractor",
+        "Washer",
+        "Dryer",
+        "SUV, Truck",
+        "Dishwasher",
+        "Motorcycle",
+        "Range",
+        "Automobile",
+        "Recreational Vehicle",
+        "NO"
+      ]
+    },
+    {
+      "name": "Item Length",
+      "occurrence": 117,
+      "frequency_pct": 0.12,
+      "examples": [
+        "1.89 Inches",
+        "2 Inches",
+        "3 Inches",
+        "6 Inches",
+        "9 inches",
+        "5 inches",
+        "60 Inches",
+        "4 inches",
+        "2.54 Inches",
+        "6 inches",
+        "12.75 Inches",
+        "3.5 Inches",
+        "1.5 inches",
+        "7 Inches",
+        "3.15 Inches"
+      ]
+    },
+    {
+      "name": "Item Package Dimensions L x W x H",
+      "occurrence": 113,
+      "frequency_pct": 0.12,
+      "examples": [
+        "1.5 x 1 x 1 inches",
+        "7.56 x 5.2 x 0.55 inches",
+        "10.16 x 7.83 x 3.9 inches",
+        "12.13 x 6.3 x 1.65 inches",
+        "23.5 x 15 x 14.02 inches",
+        "6 x 6 x 0.5 inches",
+        "6.2 x 4.6 x 1.5 inches",
+        "5.28 x 5.2 x 2.13 inches",
+        "8.07 x 5.16 x 2.13 inches",
+        "10.5 x 10.5 x 6.75 inches",
+        "12.09 x 7.4 x 2.09 inches",
+        "24.15 x 24.15 x 16.15 inches",
+        "29 x 19 x 8 inches",
+        "12.28 x 11.42 x 10.08 inches",
+        "4.76 x 3.7 x 3.66 inches"
+      ]
+    },
+    {
+      "name": "UPC",
+      "occurrence": 110,
+      "frequency_pct": 0.12,
+      "examples": [
+        "770009001116",
+        "770009001147",
+        "710525795700 654554877061 600181477310 654554878969 710525824530 700220637702",
+        "852932003150 879488270157 132018536780",
+        "742461422129",
+        "631105703604",
+        "732233494584 887677455247",
+        "654225371119",
+        "895891002093",
+        "840993018497",
+        "799040181304",
+        "722048101036",
+        "866558000059",
+        "654114753903",
+        "655257389981"
+      ]
+    },
+    {
+      "name": "Input Current",
+      "occurrence": 109,
+      "frequency_pct": 0.12,
+      "examples": [
+        "30 Amps",
+        "50 Amps",
+        "40 Amps",
+        "15 Amps",
+        "10 Amps",
+        "13 Amps"
+      ]
+    },
+    {
+      "name": "Coffee Maker Type",
+      "occurrence": 109,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Pour Over",
+        "Coffee Infuser",
+        "Drip Coffee Machine",
+        "Espresso Machine",
+        "French Press",
+        "Percolator",
+        "Moka Pot"
+      ]
+    },
+    {
+      "name": "Bulb Base",
+      "occurrence": 105,
+      "frequency_pct": 0.11,
+      "examples": [
+        "E26",
+        "E27",
+        "E12",
+        "E17",
+        "E14",
+        "G5",
+        "Wedge",
+        "G8",
+        "G4",
+        "G12",
+        "E26 Medium",
+        "GU5.3",
+        "GU10",
+        "G23"
+      ]
+    },
+    {
+      "name": "Plug Format",
+      "occurrence": 105,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Type B",
+        "A- US style",
+        "Grunt RPG-D-D-D-Q-W-11",
+        "Joenotjo-fa'g'sh-006",
+        "Grunt RPG-D-G-J-N-M-G-D-F-G-9",
+        "PlugFormat",
+        "Type A",
+        "HAF-49",
+        "Fil-ter caps by Grunt RPG-26"
+      ]
+    },
+    {
+      "name": "Washer Type",
+      "occurrence": 101,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Flat",
+        "Countersunk",
+        "Spherical",
+        "Conical Spring",
+        "Shoulder",
+        "Shaft",
+        "O Ring",
+        "Lock washers",
+        "Oasis",
+        "Timer",
+        "C-Washer",
+        "External Tooth Lock"
+      ]
+    },
+    {
+      "name": "Compatible Lubricant",
+      "occurrence": 99,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Grease",
+        "Oil"
+      ]
+    },
+    {
+      "name": "Battery Cell Type",
+      "occurrence": 96,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Lithium Ion",
+        "Alkaline",
+        "Lithium",
+        "Lithium Polymer",
+        "Polymer",
+        "Lithium Metal",
+        "Silver Oxide",
+        "Zinc Chloride",
+        "Lithium Manganese Dioxide",
+        "NiMH",
+        "NiCAD",
+        "Aluminum Oxygen",
+        "Zinc Carbon",
+        "Sealed Lead Acid",
+        "Zinc"
+      ]
+    },
+    {
+      "name": "Auto Part Position",
+      "occurrence": 94,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Rear",
+        "Front",
+        "Outer",
+        "Rear, Front",
+        "Right",
+        "Top",
+        "Front, Outer",
+        "Center",
+        "Outside",
+        "Rear, Center",
+        "Inner",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Is Microwaveable",
+      "occurrence": 93,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Care instructions",
+      "occurrence": 90,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Hand Wash",
+        "Wipe Clean",
+        "Dishwasher Safe",
+        "Do not microwave",
+        "Hand Wash Only",
+        "good water",
+        "Good water",
+        "Handwash",
+        "Machine Wash",
+        "Ideal applications include removing nesting rings in seconds, freshening felt to a velvet texture and shaping the hat to the preference of the owner.",
+        "Oven Safe",
+        "Replace the wick every 3 months, when the humidifier has a super clogged or dirty air filter, it may cause it to work harder and impact utility bills",
+        "Machine Wash, Hand Wash Only",
+        "Daily, fill with fresh tap water., Enable self-cleaning mode as needed, Change Hygiene Discs as needed",
+        "In order to keep the home air fresh,please replace this water pad filter every 3 months or depend on your own usage."
+      ]
+    },
+    {
+      "name": "Maximum Pressure",
+      "occurrence": 89,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1500 Pound per Square Inch",
+        "125 Pound per Square Inch",
+        "800 Pound per Square Inch",
+        "120 Pound per Square Inch",
+        "100 Pound per Square Inch",
+        "900 Pound per Square Inch",
+        "200 Pound per Square Inch",
+        "50 Pound per Square Inch",
+        "1200 Pound per Square Inch",
+        "4000 Pound per Square Inch",
+        "150 Pound per Square Inch",
+        "90 Pound per Square Inch"
+      ]
+    },
+    {
+      "name": "Light Color",
+      "occurrence": 89,
+      "frequency_pct": 0.09,
+      "examples": [
+        "White",
+        "Warm White",
+        "Blue",
+        "Daylight White",
+        "Cool White",
+        "cool white",
+        "Warm white",
+        "\u767d\u8272",
+        "Clear",
+        "white",
+        "smoke",
+        "Soft White",
+        "Ultraviolet",
+        "Cool white",
+        "Soft"
+      ]
+    },
+    {
+      "name": "Handle/Lever Placement",
+      "occurrence": 88,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1",
+        "3",
+        "2",
+        "4",
+        "Top",
+        "Rectangle",
+        "Right",
+        "10",
+        "6",
+        "5",
+        "Front",
+        "Center",
+        "Left Right",
+        "13",
+        "top"
+      ]
+    },
+    {
+      "name": "Ice storage",
+      "occurrence": 87,
+      "frequency_pct": 0.09,
+      "examples": [
+        "26 Pounds",
+        "1.5 Pounds",
+        "1.54 Pounds",
+        "26.5 Pounds",
+        "1.4 Pounds",
+        "28 Pounds",
+        "3 Pounds",
+        "40 Pounds",
+        "1 Kilograms",
+        "0.42 Cubic Feet",
+        "6 Pounds",
+        "4.5 Pounds",
+        "1.98 Pounds",
+        "25 Pounds",
+        "4 Pounds"
+      ]
+    },
+    {
+      "name": "Temperature Range",
+      "occurrence": 87,
+      "frequency_pct": 0.09,
+      "examples": [
+        "33-100 Degrees Fahrenheit",
+        "38-100 Degrees Fahrenheit",
+        "40-140 Degrees Fahrenheit",
+        "40 to 140F Degrees Fahrenheit",
+        "500 Degrees Fahrenheit",
+        "0-500 Degrees Fahrenheit",
+        "34 - 100 Degrees Fahrenheit",
+        "60 Degrees Celsius",
+        "15-158 Degrees Fahrenheit",
+        "0/40 Degrees Celsius",
+        "33\u00b0F - 100\u00b0F Degrees Fahrenheit",
+        "125 Degrees Celsius",
+        "84 Degrees Celsius",
+        "34-100 Degrees Fahrenheit",
+        "25 Degrees Celsius"
+      ]
+    },
+    {
+      "name": "Other display features",
+      "occurrence": 86,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Wireless",
+        "Kitchen",
+        "Major Appliances"
+      ]
+    },
+    {
+      "name": "Number of Batteries",
+      "occurrence": 86,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1 AAA batteries required.",
+        "2 AAA batteries required.",
+        "2 LR44 batteries required. (included)",
+        "2 AAA batteries required. (included)",
+        "1 9V batteries required. (included)",
+        "1 AAA batteries required. (included)",
+        "1 CR2 batteries required. (included)",
+        "1 Lithium Ion batteries required. (included)",
+        "2 AA batteries required. (included)",
+        "3 AAA batteries required.",
+        "1 CR2032 batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "1 Product Specific batteries required. (included)",
+        "1 Lithium Metal batteries required.",
+        "1 Lithium Metal batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Actuator Type",
+      "occurrence": 85,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Push Button",
+        "Rotary",
+        "Ignition",
+        "Rocker",
+        "Plunger",
+        "Touchpad",
+        "Push button switch",
+        "Igniter",
+        "Touch",
+        "Hinge Lever",
+        "push button switch"
+      ]
+    },
+    {
+      "name": "Switch Style",
+      "occurrence": 85,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Pressure Switch",
+        "Limit Switch",
+        "Push Button",
+        "Temperature Switch",
+        "Ignition Switch",
+        "Rotary",
+        "Pushbutton Switch",
+        "Rocker Switch",
+        "Rotary Switch",
+        "Dial Switch",
+        "Touch Switch",
+        "Ignitor Switch",
+        "Slide",
+        "Float Switch",
+        "Igniter Switch"
+      ]
+    },
+    {
+      "name": "MERV Rating",
+      "occurrence": 79,
+      "frequency_pct": 0.08,
+      "examples": [
+        "8",
+        "11",
+        "13",
+        "10",
+        "16",
+        "1",
+        "12",
+        "4",
+        "5",
+        "5.00",
+        "8.00",
+        "20.00",
+        "13.00",
+        "17",
+        "6"
+      ]
+    },
+    {
+      "name": "Water Consumption",
+      "occurrence": 79,
+      "frequency_pct": 0.08,
+      "examples": [
+        "5 Liters",
+        "2 Liters",
+        "9 Liters",
+        "1 Gallons per Minute",
+        "6 Liters",
+        "0.5 Gallons per Minute",
+        "7.5 Liters",
+        "4 Liters",
+        "2 Gallons per Flush",
+        "0.66 Gallons per Minute",
+        "0.3 Gallons per Hour",
+        "2.85 Gallons per Hour",
+        "3.1 Gallons",
+        "1.58 Gallons per Hour",
+        "4.5 Liters"
+      ]
+    },
+    {
+      "name": "Fabric Type",
+      "occurrence": 79,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Plastic",
+        "good water, good water, good water, good water, good water",
+        "100% Cotton",
+        "Silicone",
+        "Nullify",
+        "Reinforced Mesh Paper",
+        "Stainless Steel",
+        "Coniferous Pulp",
+        "Vinyl",
+        "100% Cotton Quilted Fabric",
+        "not_applicable",
+        "Party",
+        "Cotton",
+        "97% Polyester, 3% Spandex",
+        "Pp(polypropylene)+tpu(themoplastic Polyurethane)"
+      ]
+    },
+    {
+      "name": "Occasion",
+      "occurrence": 78,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Wedding, Christmas, Birthday, Valentine's Day",
+        "Christmas",
+        "Birthday",
+        "Wedding",
+        "Easter",
+        "Wedding, Birthday",
+        "Kitchen",
+        "Wedding, Anniversary, Birthday",
+        "Bachelorette Party,Wedding",
+        "Shop",
+        "Bridal Shower, Easter, Mother's Day, Wedding, Christmas, Baby Shower, Father's Day, Birthday, Halloween, Thanksgiving, HanukkahBridal Shower, Easter, Mother's Day, Wedding, Christmas, Baby Shower, Father's Day, Birthday, Halloween, Thanksgiving, Hanukkah  See more",
+        "New year, Birthday, Thanksgiving",
+        "Parties",
+        "Christmas, Birthday",
+        "Easter, Christmas, Baby Shower"
+      ]
+    },
+    {
+      "name": "Volume",
+      "occurrence": 75,
+      "frequency_pct": 0.08,
+      "examples": [
+        "1 Cubic Centimeters",
+        "10 Liters",
+        "1 Milliliters",
+        "384 Fluid Ounces",
+        "11.2 Liters",
+        "32 Fluid Ounces",
+        "252.8 Fluid Ounces",
+        "0.1 Liters",
+        "50 Cups",
+        "1 Cubic Yards",
+        "300 Milliliters",
+        "400 Gallons",
+        "32480 Cubic Inches",
+        "216 Liters",
+        "384 Milliliters"
+      ]
+    },
+    {
+      "name": "Indoor/Outdoor Usage",
+      "occurrence": 74,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Indoor",
+        "Outdoor",
+        "Outdoor, Indoor"
+      ]
+    },
+    {
+      "name": "Response Time",
+      "occurrence": 73,
+      "frequency_pct": 0.08,
+      "examples": [
+        "500 Milliseconds",
+        "0.5 seconds",
+        "10 seconds",
+        "1 seconds",
+        "3 seconds",
+        "10000 Milliseconds",
+        "15 seconds",
+        "20 Milliseconds",
+        "2000 Milliseconds",
+        "5 seconds",
+        "16 minutes",
+        "180 Milliseconds",
+        "1000 Milliseconds",
+        "1 A/W",
+        "15 minutes"
+      ]
+    },
+    {
+      "name": "Racks",
+      "occurrence": 72,
+      "frequency_pct": 0.08,
+      "examples": [
+        "2",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "name": "Counter Depth",
+      "occurrence": 72,
+      "frequency_pct": 0.08,
+      "examples": [
+        "13.7 Inches",
+        "8.7 Inches",
+        "21 Inches",
+        "24 Inches",
+        "20.1 Inches",
+        "9 Inches",
+        "5.9 Inches",
+        "18 Inches",
+        "22.5 Inches",
+        "22 Inches",
+        "23.5 Inches",
+        "28.7 Inches",
+        "17.31 Inches",
+        "18.6 Inches",
+        "25.3 Inches"
+      ]
+    },
+    {
+      "name": "Package Information",
+      "occurrence": 72,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Bottle",
+        "Box",
+        "Can",
+        "Bag",
+        "Cartridge",
+        "Can, Bottle",
+        "Kettle",
+        "Tube",
+        "Dispenser",
+        "\u76d2\u5b50",
+        "Bag,Drum",
+        "Pot",
+        "Bowl",
+        "Stand",
+        "Cup"
+      ]
+    },
+    {
+      "name": "Display Style",
+      "occurrence": 71,
+      "frequency_pct": 0.08,
+      "examples": [
+        "LED",
+        "Digital",
+        "LCD",
+        "Analog",
+        "Led Display",
+        "display unknown",
+        "W10515057 w10515058 whirlpool refrigerator led light whirlpool refrigerator light replacement led wpw10515058 w10515058 whirlpool refrigerator light",
+        "Led Display,Led",
+        "Grunt RPG-D-D-D-Q-W-11",
+        "Surface Element Haliant \uff08Wb30t10126\uff09",
+        "VFD",
+        "Joenotjo-fa'g'sh-006",
+        "Grunt RPG-D-G-J-N-M-G-D-F-G-9",
+        "Liquid Crystal Display (LCD)",
+        "DisplayStyle"
+      ]
+    },
+    {
+      "name": "Timer Function",
+      "occurrence": 67,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Timer Function Available"
+      ]
+    },
+    {
+      "name": "Head Style",
+      "occurrence": 65,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Round",
+        "Hex",
+        "Flat",
+        "Fixed Square",
+        ".250\" male terminal push-in connections",
+        "Cup",
+        "Box End",
+        "Open End",
+        "250\" male terminal push-in connectionsyou",
+        "Truss",
+        "Grunt RPG-D-D-D-Q-W-11",
+        "6 Pin Plug",
+        "Joenotjo-fa'g'sh-006",
+        "Grunt RPG-D-G-J-N-M-G-D-F-G-9",
+        "Casual"
+      ]
+    },
+    {
+      "name": "Has Nonstick Coating",
+      "occurrence": 63,
+      "frequency_pct": 0.07,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Fastener Type",
+      "occurrence": 63,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Flat Washer",
+        "Anchor Bolt",
+        "Hexagon Bolt",
+        "Machine Screw",
+        "Push",
+        "Hex",
+        "Coupling",
+        "Wheel",
+        "Acorn",
+        "Hook",
+        "Tee",
+        "Well"
+      ]
+    },
+    {
+      "name": "Number of Handles",
+      "occurrence": 62,
+      "frequency_pct": 0.07,
+      "examples": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "name": "Item Dimensions  LxWxH",
+      "occurrence": 59,
+      "frequency_pct": 0.06,
+      "examples": [
+        "7 x 0.5 x 5 inches",
+        "7.6 x 6.48 x 2.16 inches",
+        "1.3 x 12 x 12 inches",
+        "6.2 x 6.2 x 1.3 inches",
+        "2.25 x 5.25 x 5.25 inches",
+        "21 x 30 x 22 inches",
+        "10.6 x 5.25 x 8 inches",
+        "10.5 x 10.5 x 3.5 inches",
+        "10 x 7 x 5 inches",
+        "13 x 5 x 1 inches",
+        "6.1 x 5.91 x 2.76 inches",
+        "1 x 1 x 1 inches",
+        "1.06 x 2.32 x 0.53 inches",
+        "5.9 x 3.6 x 1.2 inches",
+        "7.63 x 5.38 x 0.5 inches"
+      ]
+    },
+    {
+      "name": "Product Grade",
+      "occurrence": 59,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Replacement Part",
+        "Performance Part"
+      ]
+    },
+    {
+      "name": "Adjustable Temperature Control",
+      "occurrence": 59,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "OEM Part Number",
+      "occurrence": 58,
+      "frequency_pct": 0.06,
+      "examples": [
+        "ADQ73214404, ADQ73334008",
+        "2158",
+        "WH01X20826",
+        "W10311524",
+        "GLM Part Number: 13570; OMC Part Number: 336178",
+        "883149",
+        "7L1Z-19805-D",
+        "52233",
+        "2938AST",
+        "WB02X24790",
+        "GLM Part Number: 13130; OMC Part Number: 435491",
+        "BKCGKJ71052BK",
+        "FRGPAAF1",
+        "621156PW",
+        "SP56-115"
+      ]
+    },
+    {
+      "name": "Bulb Shape Size",
+      "occurrence": 57,
+      "frequency_pct": 0.06,
+      "examples": [
+        "A15",
+        "E17",
+        "T8",
+        "C7",
+        "S6",
+        "MR16",
+        "T7",
+        "PAR16",
+        "T4",
+        "T",
+        "S8",
+        "PAR20",
+        "T3",
+        "T6"
+      ]
+    },
+    {
+      "name": "Scent",
+      "occurrence": 56,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Unscented",
+        "Lemon",
+        "Citrus",
+        "Coffee",
+        "Fresh",
+        "Ocean Breeze",
+        "Metallic",
+        "Jasmin Blue",
+        "Mountain Spring",
+        "Eucalyptus, Apple, Green Apple, Vanilla, Forest, Cinnamon",
+        "no scent",
+        "Agarwood",
+        "Lavender",
+        "Lavender,Citrus",
+        "Melon & Jasmine"
+      ]
+    },
+    {
+      "name": "Nominal Wall Thickness",
+      "occurrence": 56,
+      "frequency_pct": 0.06,
+      "examples": [
+        "1.3 month",
+        "0.75 inch",
+        "0.5 inch",
+        "0.25 inch",
+        "1.3 mm",
+        "0.62 inch",
+        "0.6 month",
+        "2.5 month",
+        "0.68 month",
+        "0.68 inch",
+        "0.5 month",
+        "12 month",
+        "1 month",
+        ".125",
+        "1.5 inch"
+      ]
+    },
+    {
+      "name": "Center To Center Spacing",
+      "occurrence": 53,
+      "frequency_pct": 0.06,
+      "examples": [
+        "0.18 Inches",
+        "0.4 Inches",
+        "0.25 Inches",
+        "0.17 Inches",
+        "0.43 Inches",
+        "0.5 Inches",
+        "18 Inches",
+        "0.59 Inches",
+        "2 Centimeters",
+        "0.21 Inches",
+        "0.35 Inches",
+        "2.4 Inches",
+        "0.2 Inches",
+        "0.22 Feet",
+        "0.46 Inches"
+      ]
+    },
+    {
+      "name": "Max Energy Output",
+      "occurrence": 53,
+      "frequency_pct": 0.06,
+      "examples": [
+        "30000 British Thermal Units",
+        "193 Watts",
+        "5568.35 Watts",
+        "2500 Watts",
+        "56000 British Thermal Units",
+        "83 Watts",
+        "3200 Watts",
+        "15500 British Thermal Units",
+        "230 Watts",
+        "7200 Watts",
+        "41800 British Thermal Units",
+        "18500 British Thermal Units",
+        "82 Watts",
+        "6700 Watts",
+        "3.3 Kilowatts"
+      ]
+    },
+    {
+      "name": "Contact Type",
+      "occurrence": 52,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Normally Open",
+        "Normally Closed",
+        "Spst",
+        "\u5e38\u5f00",
+        "Spdt",
+        "Dpdt",
+        "\u5e38\u95ed",
+        "Normally Open, Normally Closed"
+      ]
+    },
+    {
+      "name": "Belt Style",
+      "occurrence": 52,
+      "frequency_pct": 0.06,
+      "examples": [
+        "V Belt",
+        "Flat Belt",
+        "Ribbed Belt",
+        "WP40111201 Dryer drum belt: use our dryer belt to replace the broken belt, which can effectively solve problems of annoying noise and let the dryer back to functioning.WP40111201 Dryer drum belt: use our dryer belt to replace the broken belt, which can effectively solve problems of annoying noise and let the dryer back to functioning.  See more",
+        "V-belt",
+        "341241",
+        "WE12X10011"
+      ]
+    },
+    {
+      "name": "Weighted Annual Energy Consumption",
+      "occurrence": 52,
+      "frequency_pct": 0.06,
+      "examples": [
+        "1 Watts",
+        "345 Kilowatt Hours Per Year",
+        "70 Kilowatt Hours Per Year",
+        "330 Kilowatt Hours",
+        "350 Kilowatt Hours Per Year",
+        "270 Kilowatt Hours Per Year",
+        "151.2 Kilowatt Hours Per Year",
+        "183 Kilowatt Hours Per Year",
+        "354 Kilowatt Hours Per Year",
+        "685 Kilowatt Hours Per Year",
+        "168 Kilowatt Hours",
+        "272 Kilowatt Hours Per Year",
+        "288 Kilowatt Hours Per Year",
+        "304 Kilowatts",
+        "60 Watts"
+      ]
+    },
+    {
+      "name": "Assembled Width",
+      "occurrence": 51,
+      "frequency_pct": 0.05,
+      "examples": [
+        "1.2 inches",
+        "3.8 inches",
+        "3.2 inches",
+        "1 inches",
+        "7.6 inches",
+        "4.8 inches",
+        "0.78 inches",
+        "2.4 inches",
+        "0.2 inches",
+        "0.8 inches",
+        "2 inches",
+        "15 centimeters",
+        "3.1 inches",
+        "3 inches",
+        "0.63 inches"
+      ]
+    },
+    {
+      "name": "Material Feature",
+      "occurrence": 50,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Dishwasher Safe",
+        "Natural",
+        "Recyclable",
+        "Heavy Duty",
+        "Biodegradable Warning",
+        "Biodegradable",
+        "Non-Toxic, Natural",
+        "Durable",
+        "Insulated",
+        "Non-Toxic, Biodegradable",
+        "Disposable",
+        "Leak Proof",
+        "Affresh Dishwasher Cleaner, Helps Remove Limescale",
+        "Concentrated",
+        "Mineral Based, Natural"
+      ]
+    },
+    {
+      "name": "Assembled Height",
+      "occurrence": 50,
+      "frequency_pct": 0.05,
+      "examples": [
+        "2 inches",
+        "3.22 inches",
+        "1 inches",
+        "0.78 inches",
+        "1.9 inches",
+        "1.2 inches",
+        "3 inches",
+        "11 centimeters",
+        "0.85 inches",
+        "31 inches",
+        "1.5 inches",
+        "3.7 inches",
+        "3 centimeters",
+        "1.8 inches",
+        "0.51 inches"
+      ]
+    },
+    {
+      "name": "Assembled Length",
+      "occurrence": 50,
+      "frequency_pct": 0.05,
+      "examples": [
+        "1.9 inches",
+        "0.8 inches",
+        "1 inches",
+        "2 inches",
+        "3 inches",
+        "3.1 inches",
+        "2.36 inches",
+        "0.2 inches",
+        "15 centimeters",
+        "4 inches",
+        "0.63 inches",
+        "54 inches",
+        "34 inches",
+        "7.6 inches",
+        "3 centimeters"
+      ]
+    },
+    {
+      "name": "Units",
+      "occurrence": 50,
+      "frequency_pct": 0.05,
+      "examples": [
+        "1.0 Count",
+        "1 Count",
+        "2.0 Count",
+        "2 Count",
+        "40 Count",
+        "4 Count",
+        "35.0 Count",
+        "2 count",
+        "24 Count",
+        "2.00 count",
+        "14.0 Count",
+        "1 count",
+        "7",
+        "1 \u5957",
+        "3.0 Count"
+      ]
+    }
+  ]
+}

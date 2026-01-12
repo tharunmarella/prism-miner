@@ -1,0 +1,35 @@
+{
+  "category": "Perfume",
+  "hidden_dimensions": [
+    {
+      "name": "Scent Profile",
+      "importance": "High",
+      "description": "Specific fragrance notes and overall scent character (e.g., fruity, sweet, clean, bright, feminine, powdery, hint of suede, champagne, raspberry). Users have very specific preferences.",
+      "example_vocabulary": ["sweet", "fruity", "clean", "raspberry", "champagne", "suede", "powdery", "light"]
+    },
+    {
+      "name": "Longevity/Lasting Power",
+      "importance": "High",
+      "description": "How long the scent lasts after application. Users want a fragrance that lingers throughout the day without being overpowering.",
+      "example_vocabulary": ["lingers", "lasting power", "lasts", "throughout the day", "8 hrs"]
+    },
+    {
+      "name": "Intensity/Strength",
+      "importance": "Medium",
+      "description": "The strength of the scent. Users want to avoid overpowering fragrances, especially in work or social situations.",
+      "example_vocabulary": ["overpowering", "light", "a few spritzes", "not overpowering"]
+    },
+    {
+      "name": "Packaging Quality",
+      "importance": "Medium",
+      "description": "The quality and appearance of the bottle and packaging. This includes material (plastic vs. other materials) and color. Also whether product matches advertisement.",
+      "example_vocabulary": ["bottles", "strong plastic", "packaged perfectly", "black tops", "white tops"]
+    },
+    {
+      "name": "Application Method Suitability",
+      "importance": "Medium",
+      "description": "How the perfume is applied (spray, oil, etc.) and how well it works with different application methods (skin vs. clothing).",
+      "example_vocabulary": ["oil", "spray directly onto clothing", "spray onto skin", "rub around"]
+    }
+  ]
+}

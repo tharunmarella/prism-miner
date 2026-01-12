@@ -1,0 +1,2389 @@
+{
+  "category": "Amazon_Fashion",
+  "total_items_scanned": 826108,
+  "total_unique_keys": 118,
+  "attributes": [
+    {
+      "name": "Date First Available",
+      "occurrence": 797051,
+      "frequency_pct": 96.48,
+      "examples": [
+        "October 27, 2017",
+        "May 5, 2018",
+        "January 10, 2021",
+        "July 6, 2018",
+        "December 19, 2017",
+        "May 24, 2018",
+        "July 31, 2018",
+        "March 9, 2017",
+        "June 11, 2019",
+        "April 2, 2021",
+        "March 18, 2017",
+        "May 6, 2017",
+        "June 12, 2019",
+        "May 4, 2018",
+        "November 5, 2017"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 528478,
+      "frequency_pct": 63.97,
+      "examples": [
+        "1 x 1 x 1 inches; 1 Pounds",
+        "12 x 8 x 4 inches; 2 Pounds",
+        "3 x 2 x 0.3 inches",
+        "9.29 x 4.61 x 2.01 inches; 10.41 Ounces",
+        "1 x 1 x 1 inches",
+        "9 x 6 x 1 inches; 2.88 Ounces",
+        "8.6 x 6.4 x 1.5 inches; 9.59 Ounces",
+        "14 x 5 x 5 inches; 2 Pounds",
+        "9.85 x 7.1 x 1.05 inches; 8.78 Ounces",
+        "9.4 x 6.1 x 2.6 inches; 1 Pounds",
+        "14.72 x 10.98 x 0.67 inches; 5.64 Ounces",
+        "11 x 9 x 2 inches; 1 Pounds",
+        "14 x 10 x 0.7 inches; 8.01 Ounces",
+        "7 x 3 x 1 inches",
+        "0.39 x 0.39 x 0.39 inches; 1 Pounds"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 371914,
+      "frequency_pct": 45.02,
+      "examples": [
+        "1",
+        "Variation",
+        "A1",
+        "ABCD",
+        "AK3-AT1-GL-M-X",
+        "MD364",
+        "S",
+        "F-1",
+        "CW62391",
+        "Clearance!Hot Sale!Cheap!",
+        "PPY-0003A",
+        "A",
+        "0",
+        "all-season",
+        "Casual"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 295500,
+      "frequency_pct": 35.77,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False",
+        "True"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 160469,
+      "frequency_pct": 19.42,
+      "examples": [
+        "5.91 x 3.94 x 1.97 inches",
+        "5.91 x 3.94 x 1.18 inches; 3.52 Ounces",
+        "5 x 5 x 0.7 inches; 10.4 Ounces",
+        "12 x 9 x 0.5 inches; 8 Ounces",
+        "0.1 x 0.1 x 0.1 inches; 1.6 Ounces",
+        "6 x 2 x 2 inches; 12 Ounces",
+        "0.5 x 0.5 x 0.5 inches; 5.6 Ounces",
+        "1 x 1 x 1 inches; 1 Pounds",
+        "14 x 10.5 x 0.5 inches; 5.61 Ounces",
+        "14 x 10.5 x 0.5 inches; 8.78 Ounces",
+        "14 x 10.5 x 0.5 inches; 6.38 Ounces",
+        "6 x 6 x 0.5 inches; 4 Ounces",
+        "14 x 10.5 x 0.5 inches; 3.53 Ounces",
+        "1 x 2 x 3 inches; 1 Ounces",
+        "0.5 x 0.5 x 0.5 inches; 8 Ounces"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 119646,
+      "frequency_pct": 14.48,
+      "examples": [
+        "Womens",
+        "womens",
+        "Mens",
+        "mens",
+        "Unisex-adult",
+        "unisex-adult",
+        "Girls",
+        "girls",
+        "Women",
+        "Unisex Adult",
+        "Boys",
+        "boys",
+        "Unisex-child",
+        "unisex-child",
+        "Unisex"
+      ]
+    },
+    {
+      "name": "Manufacturer",
+      "occurrence": 60671,
+      "frequency_pct": 7.34,
+      "examples": [
+        "Nike",
+        "Prime Jewelry Collection",
+        "Clearly Charming",
+        "The North Face",
+        "Bioworld",
+        "OLEVS",
+        "Gem Avenue",
+        "Casio",
+        "Seiko",
+        "BodyJ4You",
+        "Revant",
+        "Fox Racing",
+        "Under Armour",
+        "Disney",
+        "GUESS"
+      ]
+    },
+    {
+      "name": "Brand",
+      "occurrence": 41816,
+      "frequency_pct": 5.06,
+      "examples": [
+        "Generic",
+        "Nike",
+        "Bioworld",
+        "Alex and Ani",
+        "Doomfist",
+        "KEZEF",
+        "Hicarer",
+        "ChubbyChicoCharms",
+        "Vera Bradley",
+        "G-Ahora",
+        "Travelambo",
+        "Romwe",
+        "Jude Jewelers",
+        "Au-Tomotive Gold, INC.",
+        "Gem Stone King"
+      ]
+    },
+    {
+      "name": "Age Range (Description)",
+      "occurrence": 23485,
+      "frequency_pct": 2.84,
+      "examples": [
+        "Adult",
+        "Kid",
+        "adult",
+        "Baby",
+        "All Age Groups",
+        "Toddler",
+        "Youth",
+        "Infant",
+        "All Ages",
+        "Big Kid",
+        "Child",
+        "Little Kid",
+        "Young Adult",
+        "Any Age Group",
+        "All"
+      ]
+    },
+    {
+      "name": "Material",
+      "occurrence": 22709,
+      "frequency_pct": 2.75,
+      "examples": [
+        "Polyester",
+        "Leather",
+        "Cotton",
+        "Stainless Steel",
+        "Metal",
+        "Polyester, Cotton",
+        "Silicone",
+        "Neoprene",
+        "Plastic",
+        "Nylon",
+        "Rubber",
+        "Faux Leather",
+        "Aluminum",
+        "Brass",
+        "Cotton Blend"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 21064,
+      "frequency_pct": 2.55,
+      "examples": [
+        "1 Pounds",
+        "0.01 Ounces",
+        "4 Ounces",
+        "8 Ounces",
+        "0.02 Pounds",
+        "7.04 Ounces",
+        "2 Pounds",
+        "3.04 Ounces",
+        "0.04 Pounds",
+        "3 Pounds",
+        "0.02 Kilograms",
+        "3 Ounces",
+        "3.2 Ounces",
+        "1.76 Ounces",
+        "4.96 Ounces"
+      ]
+    },
+    {
+      "name": "Style",
+      "occurrence": 18639,
+      "frequency_pct": 2.26,
+      "examples": [
+        "Modern",
+        "Earloop",
+        "Casual",
+        "Classic",
+        "Balaclava",
+        "Bohemian",
+        "Compact",
+        "Rfid Wallet",
+        "Bangle",
+        "Minimalist",
+        "Comfortable",
+        "Chain",
+        "Vintage",
+        "Charm",
+        "Beads"
+      ]
+    },
+    {
+      "name": "Color",
+      "occurrence": 15047,
+      "frequency_pct": 1.82,
+      "examples": [
+        "Black",
+        "Silver",
+        "White",
+        "Blue",
+        "Red",
+        "Gold",
+        "Green",
+        "Brown",
+        "Pink",
+        "Multicolor",
+        "Purple",
+        "Yellow",
+        "Rose Gold",
+        "silver",
+        "Gray"
+      ]
+    },
+    {
+      "name": "Closure Type",
+      "occurrence": 12144,
+      "frequency_pct": 1.47,
+      "examples": [
+        "Pull On",
+        "Ear Loop",
+        "Zipper",
+        "Buckle",
+        "Snap",
+        "Hook and Loop",
+        "Button",
+        "Clip",
+        "Elastic",
+        "Hook",
+        "Adjustable",
+        "Drawstring",
+        "Lobster Clasp",
+        "Slip On",
+        "Hook and Eye"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 8224,
+      "frequency_pct": 1.0,
+      "examples": [
+        "One Size",
+        "1 Count (Pack of 1)",
+        "Medium",
+        "Large",
+        "10 inch",
+        "8 inch",
+        "Small",
+        "3 Count (Pack of 1)",
+        "2 Count (Pack of 1)",
+        "One Size (Pack of 1)",
+        "7 inch",
+        "7 inches",
+        "7 5 inch",
+        "X-Large",
+        "10 inches"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 6137,
+      "frequency_pct": 0.74,
+      "examples": [
+        "Round",
+        "Heart",
+        "Rectangular",
+        "Star",
+        "Oval",
+        "Square",
+        "D Shape",
+        "Irregular",
+        "Flower",
+        "Heart, Round",
+        "Triangular",
+        "Logo",
+        "House",
+        "Diamond",
+        "Dog"
+      ]
+    },
+    {
+      "name": "Reusability",
+      "occurrence": 5950,
+      "frequency_pct": 0.72,
+      "examples": [
+        "Reusable",
+        "Disposable",
+        "Washable",
+        "Single Use",
+        "washable",
+        "Rechargeable",
+        "Reusable and Washable"
+      ]
+    },
+    {
+      "name": "Theme",
+      "occurrence": 5864,
+      "frequency_pct": 0.71,
+      "examples": [
+        "Sport",
+        "Sports",
+        "Animal",
+        "Love",
+        "Car",
+        "Alphabets",
+        "Animals",
+        "Holidays",
+        "Holiday",
+        "Solid",
+        "Beach",
+        "Birthday",
+        "Anime",
+        "Floral",
+        "Silver"
+      ]
+    },
+    {
+      "name": "Special Feature",
+      "occurrence": 5690,
+      "frequency_pct": 0.69,
+      "examples": [
+        "Lightweight",
+        "Reusable",
+        "customizable",
+        "Adjustable",
+        "Customizable",
+        "RFID Protected",
+        "Waterproof",
+        "Reusable,Washable",
+        "Slim",
+        "Washable",
+        "Breathable",
+        "Lightweight, Non Slip, Adjustable",
+        "Cut Resistant",
+        "RFID_blocking",
+        "Lightweight, Adjustable"
+      ]
+    },
+    {
+      "name": "Pattern",
+      "occurrence": 5397,
+      "frequency_pct": 0.65,
+      "examples": [
+        "Solid",
+        "Cartoon",
+        "Letter Print",
+        "Floral",
+        "Animal Print",
+        "Graphic",
+        "Striped",
+        "Plaid",
+        "Camouflage",
+        "Printed",
+        "Print",
+        "Flag",
+        "Checkered",
+        "Polka Dots",
+        "Star"
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 3834,
+      "frequency_pct": 0.46,
+      "examples": [
+        "China",
+        "USA",
+        "Thailand",
+        "India",
+        "United Kingdom",
+        "Italy",
+        "Pakistan",
+        "Taiwan",
+        "Vietnam",
+        "Hong Kong",
+        "Korea, Republic of",
+        "Canada",
+        "Switzerland",
+        "Japan",
+        "Poland"
+      ]
+    },
+    {
+      "name": "Unit Count",
+      "occurrence": 3726,
+      "frequency_pct": 0.45,
+      "examples": [
+        "1 Count",
+        "1.0 Count",
+        "1.00 Count",
+        "100.00 Count",
+        "2.0 Count",
+        "2.00 Count",
+        "100.0 Count",
+        "3.0 Count",
+        "12.0 Count",
+        "2 Count",
+        "3.00 Count",
+        "100 Count",
+        "6.0 Count",
+        "3 Count",
+        "10.0 Count"
+      ]
+    },
+    {
+      "name": "Item Package Quantity",
+      "occurrence": 3285,
+      "frequency_pct": 0.4,
+      "examples": [
+        "1",
+        "2",
+        "50",
+        "3",
+        "12",
+        "5",
+        "6",
+        "4",
+        "10",
+        "20",
+        "100",
+        "9",
+        "8",
+        "40",
+        "60"
+      ]
+    },
+    {
+      "name": "Clasp Type",
+      "occurrence": 3216,
+      "frequency_pct": 0.39,
+      "examples": [
+        "No clasp type",
+        "no clasp type",
+        "Buckle",
+        "Lobster Claw",
+        "Magnetic",
+        "Toggle",
+        "Spring Ring",
+        "Snap",
+        "Pin",
+        "S Hook",
+        "Butterfly",
+        "Slide",
+        "Magnetic, Buckle",
+        "Fold Over",
+        "no-clasp-type"
+      ]
+    },
+    {
+      "name": "Sport",
+      "occurrence": 3149,
+      "frequency_pct": 0.38,
+      "examples": [
+        "Exercise and Fitness",
+        "Cycling",
+        "Swimming",
+        "Walking",
+        "Skiing",
+        "Running",
+        "Snowboarding",
+        "Basketball",
+        "Motorcycling",
+        "Yoga",
+        "Soccer",
+        "Baseball",
+        "Camping",
+        "Football",
+        "Golf"
+      ]
+    },
+    {
+      "name": "Neck Style",
+      "occurrence": 3009,
+      "frequency_pct": 0.36,
+      "examples": [
+        "V-Neck",
+        "Round Neck",
+        "Crew Neck",
+        "Collared Neck",
+        "Scoop Neck",
+        "Off Shoulder Neck",
+        "Mock Neck",
+        "Henley Neck",
+        "Halter Neck",
+        "Turtle Neck",
+        "High Neck",
+        "Boat Neck",
+        "Square Neck",
+        "Cowl Neck",
+        "Hooded Neck"
+      ]
+    },
+    {
+      "name": "Batteries",
+      "occurrence": 2728,
+      "frequency_pct": 0.33,
+      "examples": [
+        "1 Product Specific batteries required. (included)",
+        "1 LR44 batteries required. (included)",
+        "1 Unknown batteries required. (included)",
+        "1 Lithium Metal batteries required. (included)",
+        "1 Lithium Ion batteries required. (included)",
+        "1 CR2 batteries required. (included)",
+        "1 Product Specific batteries required.",
+        "1 AAA batteries required. (included)",
+        "1 C batteries required. (included)",
+        "1 Unknown batteries required.",
+        "1 LR44 batteries required.",
+        "1 Lithium Polymer batteries required. (included)",
+        "3 AAA batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "1 A batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Item Dimensions LxWxH",
+      "occurrence": 2689,
+      "frequency_pct": 0.33,
+      "examples": [
+        "5.91 x 3.94 x 1.97 inches",
+        "4.25 x 2.12 x 0.5 inches",
+        "11.5 x 1.1 x 5.8 inches",
+        "6 x 4 x 1 inches",
+        "3 x 1 x 0.16 inches",
+        "2.75 x 1 x 0.2 inches",
+        "3.25 x 1.25 x 0.2 inches",
+        "3 x 2 x 1 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "7 x 2 x 1 inches",
+        "3.1 x 1.5 x 0.15 inches",
+        "1.22 x 1.22 x 0.15 inches",
+        "4.5 x 2 x 0.5 inches",
+        "1 x 1 x 2 inches",
+        "5 x 1 x 3 inches"
+      ]
+    },
+    {
+      "name": "Fit Type",
+      "occurrence": 2569,
+      "frequency_pct": 0.31,
+      "examples": [
+        "Loose Fit",
+        "Classic Fit",
+        "Regular Fit",
+        "Slim Fit",
+        "Comfortable",
+        "Athletic Fit",
+        "Skinny",
+        "Regular",
+        "Relaxed Fit",
+        "Loose",
+        "regular",
+        "Stretch",
+        "Fitted",
+        "Universal Fit",
+        "Comfort"
+      ]
+    },
+    {
+      "name": "Sleeve Type",
+      "occurrence": 2356,
+      "frequency_pct": 0.29,
+      "examples": [
+        "Short Sleeve",
+        "Long Sleeve",
+        "Sleeveless",
+        "3/4 Sleeve",
+        "Cap Sleeve",
+        "Half Sleeve",
+        "Raglan Sleeve",
+        "Ruffle Sleeve",
+        "tanks",
+        "Batwing Sleeve",
+        "Tanks",
+        "Cuff Sleeve",
+        "Roll Up Sleeve",
+        "Puff Sleeve",
+        "Bell Sleeve"
+      ]
+    },
+    {
+      "name": "Chain Type",
+      "occurrence": 2326,
+      "frequency_pct": 0.28,
+      "examples": [
+        "Box Chain",
+        "Bead Chain",
+        "Braided Chain",
+        "Rope Chain",
+        "Link Chain",
+        "Cord Chain",
+        "no chain type",
+        "No chain type",
+        "Mariner Chain",
+        "Braided Chain, Bead Chain",
+        "Cable Chain",
+        "Snake Chain",
+        "Box Chain, Bead Chain",
+        "Rope Chain, Braided Chain",
+        "Rope Chain, Bead Chain"
+      ]
+    },
+    {
+      "name": "Manufacturer recommended age",
+      "occurrence": 2048,
+      "frequency_pct": 0.25,
+      "examples": [
+        "3 years and up",
+        "5 years and up",
+        "12 months and up",
+        "4 years and up",
+        "12 years and up",
+        "14 years and up",
+        "18 years and up",
+        "6 years and up",
+        "13 years and up",
+        "0 months and up",
+        "3 months and up",
+        "8 years and up",
+        "7 years and up",
+        "10 years and up",
+        "6 months and up"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 1990,
+      "frequency_pct": 0.24,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "4",
+        "5",
+        "7",
+        "10",
+        "50",
+        "8",
+        "12",
+        "9",
+        "100",
+        "30",
+        "60"
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "occurrence": 1957,
+      "frequency_pct": 0.24,
+      "examples": [
+        "1",
+        "2",
+        "4",
+        "5",
+        "6",
+        "10",
+        "3",
+        "12",
+        "8",
+        "30",
+        "100",
+        "20",
+        "50",
+        "15",
+        "25"
+      ]
+    },
+    {
+      "name": "Fabric Type",
+      "occurrence": 1828,
+      "frequency_pct": 0.22,
+      "examples": [
+        "100% Cotton",
+        "Neoprene",
+        "100% Polyester",
+        "Polyester,Cotton",
+        "Jersey",
+        "Cotton Blend",
+        "Latex",
+        "Lace",
+        "Mesh",
+        "polyester",
+        "Chiffon",
+        "Polyester,Spandex",
+        "Polyester",
+        "Nylon",
+        "100% Latex"
+      ]
+    },
+    {
+      "name": "Occasion",
+      "occurrence": 1629,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Vacation",
+        "Birthday",
+        "Wedding",
+        "Casual",
+        "Christmas",
+        "Engagement, Mother's Day, Wedding, Birthday",
+        "Halloween",
+        "Wedding, Birthday",
+        "Casual,Summer",
+        "New year, Birthday, Thanksgiving",
+        "Vacation, Birthday",
+        "Christmas, Birthday",
+        "Party",
+        "Independence Day",
+        "Workout"
+      ]
+    },
+    {
+      "name": "Product Care Instructions",
+      "occurrence": 1609,
+      "frequency_pct": 0.19,
+      "examples": [
+        "Hand Wash",
+        "Hand Wash Only",
+        "Machine Wash",
+        "Dry Cloth Clean",
+        "Wipe with Dry Cloth",
+        "Wet Wipe Clean",
+        "Machine Wash, Hand Wash Only",
+        "Machine Wash, Wash cold",
+        "Machine Wash, Tumble dry low, Wash cold",
+        "Machine Wash, Do Not Bleach, Hand Wash Only",
+        "Machine Wash, Tumble Dry",
+        "Line Dry, Do Not Bleach",
+        "Line Dry, Hand Wash Only",
+        "Tumble dry",
+        "Do Not Bleach, Hand Wash Only"
+      ]
+    },
+    {
+      "name": "Frame Material",
+      "occurrence": 1582,
+      "frequency_pct": 0.19,
+      "examples": [
+        "Aluminum",
+        "Silicone",
+        "Polycarbonate (PC)",
+        "Stainless Steel",
+        "Fiberglass",
+        "Plastic",
+        "Alloy Steel",
+        "Thermoplastic Polyurethane (TPU)",
+        "Rubber",
+        "Polyvinyl Chloride (PVC)",
+        "Polycarbonate (PC), Silicone",
+        "Metal",
+        "Wood",
+        "Acrylonitrile Butadiene Styrene (ABS)",
+        "Polycarbonate"
+      ]
+    },
+    {
+      "name": "Collection Name",
+      "occurrence": 1532,
+      "frequency_pct": 0.19,
+      "examples": [
+        "All",
+        "all",
+        "All Season",
+        "Summer",
+        "Fall",
+        "Spring",
+        "Animal",
+        "2022",
+        "summer",
+        "Fashion",
+        "Action Figure",
+        "Star wars"
+      ]
+    },
+    {
+      "name": "Metal Type",
+      "occurrence": 1266,
+      "frequency_pct": 0.15,
+      "examples": [
+        "Stainless Steel",
+        "No Metal Type",
+        "Alloy",
+        "alloy",
+        "Sterling Silver",
+        "Pewter",
+        "Brass",
+        "base",
+        "Silver",
+        "Base",
+        "Copper",
+        "silver-plated-base",
+        "Yellow Gold",
+        "Silver-plated-base",
+        "Zinc"
+      ]
+    },
+    {
+      "name": "Item Length",
+      "occurrence": 1203,
+      "frequency_pct": 0.15,
+      "examples": [
+        "7 Inches",
+        "8 Inches",
+        "10 Inches",
+        "7.5 Inches",
+        "9 Inches",
+        "8.5 Inches",
+        "6.5 Inches",
+        "6 Inches",
+        "7.25 Inches",
+        "2.5 Inches",
+        "7 inches",
+        "7.87 Inches",
+        "6.7 Inches",
+        "11 Inches",
+        "8.2 Inches"
+      ]
+    },
+    {
+      "name": "Shirt form type",
+      "occurrence": 1158,
+      "frequency_pct": 0.14,
+      "examples": [
+        "T-Shirt",
+        "Tank Top",
+        "Crop",
+        "Polo Shirt",
+        "Sport Jersey"
+      ]
+    },
+    {
+      "name": "Brand Name",
+      "occurrence": 897,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Mitchell & Ness",
+        "Sub Sports",
+        "RazzyRoo Headbands",
+        "Gititlys",
+        "Reebok",
+        "New Era",
+        "MILITARY",
+        "Nike",
+        "Majestic",
+        "DEMIL",
+        "Outerstuff",
+        "THE NORTH FACE",
+        "CREATESTAR",
+        "Athlarel",
+        "SUPERBODY"
+      ]
+    },
+    {
+      "name": "Metal Stamp",
+      "occurrence": 892,
+      "frequency_pct": 0.11,
+      "examples": [
+        "925",
+        "14K",
+        "18K",
+        "No Metal Stamp",
+        "Stainless Steel",
+        "no-metal-stamp",
+        "No-metal-stamp",
+        "925-Sterling",
+        "10K",
+        "24K",
+        "925 Sterling Silver",
+        "316L Stainless Steel",
+        "Metal",
+        "No-metal-stamp (Fashion only)",
+        "316L"
+      ]
+    },
+    {
+      "name": "Part Number",
+      "occurrence": 710,
+      "frequency_pct": 0.09,
+      "examples": [
+        "POLOUSG",
+        "170802",
+        "Unknown",
+        "1",
+        "P-001",
+        "NB0226S",
+        "unknown",
+        "127457",
+        "LFS-39394",
+        "Sy-0101",
+        "cs-223",
+        "MSPOAJ18001-CCUNAVY1",
+        "BR8139",
+        "FZHN0375",
+        "6501"
+      ]
+    },
+    {
+      "name": "Target Audience",
+      "occurrence": 703,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Adult",
+        "Kid, Adult",
+        "Kid",
+        "Unisex Adult",
+        "Women",
+        "Men",
+        "Unisex-Kids",
+        "Women, Men",
+        "Unisex-Children",
+        "Men,Women",
+        "Women, Girls",
+        "Unisex-Adults",
+        "Dog",
+        "Unisex-Children, Unisex-Baby, Boys, Unisex-Adult, Girls",
+        "Girls"
+      ]
+    },
+    {
+      "name": "Item Package Dimensions L x W x H",
+      "occurrence": 676,
+      "frequency_pct": 0.08,
+      "examples": [
+        "8 x 4 x 0.3 inches",
+        "8 x 7 x 0.75 inches",
+        "5.91 x 5.91 x 1.97 inches",
+        "7.2 x 4.9 x 1.3 inches",
+        "11.8 x 7.1 x 4.6 inches",
+        "10 x 10 x 6 inches",
+        "10 x 10 x 1 inches",
+        "16.1 x 12.4 x 5 inches",
+        "11.9 x 8.7 x 1.8 inches",
+        "5.31 x 5.12 x 0.08 inches",
+        "9.2 x 3.7 x 0.4 inches",
+        "5.71 x 2.76 x 0.2 inches",
+        "4 x 3 x 1 inches",
+        "21.21 x 15.19 x 3.66 inches",
+        "11.81 x 8.66 x 0.75 inches"
+      ]
+    },
+    {
+      "name": "Cartoon Character",
+      "occurrence": 670,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Sports",
+        "sports",
+        "American",
+        "Bubble",
+        "Cat",
+        "Animal",
+        "Sexy",
+        "set",
+        "Halloween",
+        "Owl",
+        "Anime",
+        "Heart",
+        "Mickey mouse",
+        "Santa",
+        "NCIS"
+      ]
+    },
+    {
+      "name": "Package Weight",
+      "occurrence": 659,
+      "frequency_pct": 0.08,
+      "examples": [
+        "0.02 Kilograms",
+        "0.05 Kilograms",
+        "0.09 Kilograms",
+        "0.18 Kilograms",
+        "0.07 Kilograms",
+        "0.11 Kilograms",
+        "0.16 Kilograms",
+        "0.01 Kilograms",
+        "0.04 Kilograms",
+        "0.1 Kilograms",
+        "0.2 Kilograms",
+        "0.23 Kilograms",
+        "0.14 Kilograms",
+        "0.06 Kilograms",
+        "0.2 Pounds"
+      ]
+    },
+    {
+      "name": "Included Components",
+      "occurrence": 657,
+      "frequency_pct": 0.08,
+      "examples": [
+        "cover",
+        "Cover",
+        "Strap",
+        "Cord And String",
+        "Base",
+        "Battery",
+        "Kickstand",
+        "Card Holder",
+        "Lid",
+        "Wallet",
+        "Cards",
+        "Hook",
+        "Ring and Triangle",
+        "Batteries",
+        "Cloth"
+      ]
+    },
+    {
+      "name": "Collar Style",
+      "occurrence": 636,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Collarless",
+        "T-shirt",
+        "Tee",
+        "Button Down Collar",
+        "Spread Collar",
+        "Ruffle",
+        "No Collar",
+        "Club Collar",
+        "Band Collar",
+        "Round Neck",
+        "Round Collar",
+        "Point Collar",
+        "Tee,Round Collar",
+        "Turtleneck",
+        "Turn Down"
+      ]
+    },
+    {
+      "name": "Hand Orientation",
+      "occurrence": 568,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Ambidextrous",
+        "Left",
+        "Right",
+        "Ambidextry",
+        "Right, Ambidextrous",
+        "XL",
+        "S",
+        "YS",
+        "M",
+        "Left, Right, Ambidextrous",
+        "1"
+      ]
+    },
+    {
+      "name": "Item Length (Description)",
+      "occurrence": 546,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Standard Length",
+        "Long Length",
+        "Short Length",
+        "Mini",
+        "Floor Length",
+        "full length",
+        "Knee",
+        "Short"
+      ]
+    },
+    {
+      "name": "Sport Type",
+      "occurrence": 525,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Running",
+        "Baseball",
+        "Basketball",
+        "Exercise and Fitness",
+        "Walking",
+        "Fishing",
+        "Multi-Sport",
+        "Football",
+        "Soccer",
+        "Running, Fitness",
+        "Tennis, Cycling, Boxing, Volleyball, Baseball, Badminton, Running, Basketball, Football, Hiking",
+        "Fitness",
+        "fitness",
+        "Cycling",
+        "Golf"
+      ]
+    },
+    {
+      "name": "Lens Color",
+      "occurrence": 502,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Clear",
+        "Blue",
+        "clear",
+        "Silver",
+        "Black",
+        "Green",
+        "Grey",
+        "Yellow",
+        "Red",
+        "Pink",
+        "Multicolor",
+        "Gold",
+        "Brown",
+        "Smoke",
+        "Light Blue"
+      ]
+    },
+    {
+      "name": "Form Factor",
+      "occurrence": 497,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Bumper",
+        "Slim",
+        "Case",
+        "Flip",
+        "Bi-Fold",
+        "Continental",
+        "Envelope",
+        "Tri-Fold",
+        "Zip",
+        "Wallet",
+        "Sleeve",
+        "Armband",
+        "In Ear",
+        "Pouch",
+        "Bi-Fold, Slim"
+      ]
+    },
+    {
+      "name": "Lining Description",
+      "occurrence": 491,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Leather",
+        "Faux Leather",
+        "Polyester",
+        "Nylon",
+        "Polyurethane",
+        "Cotton",
+        "Aluminum",
+        "Vinyl",
+        "Metal",
+        "Mesh",
+        "Suede",
+        "Fleece",
+        "Carbon Fiber",
+        "Lane",
+        "Fabric"
+      ]
+    },
+    {
+      "name": "Frame Type",
+      "occurrence": 480,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Full Rim",
+        "Rimless",
+        "Framed",
+        "Unframed",
+        "Wrapped Canvas",
+        "Semi-Rimless",
+        "Polycarbonate",
+        "embossed",
+        "Rectangles",
+        "Rectangle"
+      ]
+    },
+    {
+      "name": "Lens Coating Description",
+      "occurrence": 478,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Anti-Fog Coating",
+        "UV Protection Coating",
+        "Polarized Coating",
+        "Scratch Resistant Coating",
+        "Impact Resistant Coating",
+        "Anti-Reflective Coating",
+        "Mirror Coating",
+        "Reflective Coating",
+        "Mirror",
+        "Hydrophilic Coating",
+        "Smoke Coating"
+      ]
+    },
+    {
+      "name": "Suggested Users",
+      "occurrence": 430,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Mens",
+        "mens",
+        "Womens",
+        "womens",
+        "Unisex",
+        "unisex-adult",
+        "unisex",
+        "Unisex-adult",
+        "Boys",
+        "Unisex Adult",
+        "Girls",
+        "Unisex Kids",
+        "boys",
+        "Men's",
+        "Mens, Unisex"
+      ]
+    },
+    {
+      "name": "Band Material Type",
+      "occurrence": 379,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Cotton",
+        "Polyester",
+        "Silicone",
+        "Spandex",
+        "Polyester, Spandex",
+        "Nylon",
+        "Polyester, Silicone",
+        "Polyester, Cotton, Silicone",
+        "Rayon",
+        "Spandex, Cotton",
+        "Leather",
+        "Cotton, Nylon",
+        "Cotton, Polyester",
+        "Plastic",
+        "Chinlon"
+      ]
+    },
+    {
+      "name": "Team Name",
+      "occurrence": 371,
+      "frequency_pct": 0.04,
+      "examples": [
+        "null",
+        "NULL",
+        "NO",
+        "Chicago Bulls",
+        "Sweatbands, Cotton Headbands",
+        "Null",
+        "Liverpool",
+        "Arsenal",
+        "Dallas Cowboys",
+        "Green-bay-packers",
+        "Nike",
+        "Chelsea",
+        "Mit",
+        "liverpool",
+        "Golden-state-warriors"
+      ]
+    },
+    {
+      "name": "Band Color",
+      "occurrence": 356,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Black",
+        "White",
+        "Blue",
+        "Pink",
+        "Red",
+        "Multicolor",
+        "Gray",
+        "Grey",
+        "Green",
+        "Purple",
+        "Orange",
+        "Yellow",
+        "Navy",
+        "Red, Blue, White",
+        "Turquoise"
+      ]
+    },
+    {
+      "name": "Recommended Uses For Product",
+      "occurrence": 352,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Gardening",
+        "Outdoor",
+        "Rain",
+        "Mechanic",
+        "Patio",
+        "Travel",
+        "Welding",
+        "Construction",
+        "Face Makeup",
+        "Cycling",
+        "Watch",
+        "Cleaning Gloves,Dishwashing,Kitchen",
+        "Indoors",
+        "Construction, Gardening",
+        "Dishwashing,Kitchen"
+      ]
+    },
+    {
+      "name": "Ply Rating",
+      "occurrence": 351,
+      "frequency_pct": 0.04,
+      "examples": [
+        "3 ply",
+        "2 ply",
+        "1 ply",
+        "5 ply",
+        "4 ply",
+        "10 ply",
+        "2-Ply",
+        "6 ply",
+        "4 layer"
+      ]
+    },
+    {
+      "name": "Compatible Phone Models",
+      "occurrence": 350,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Samsung Galaxy Note 9",
+        "iPhone 7",
+        "IPhone 6S, IPhone 6",
+        "Samsung Galaxy S8",
+        "Samsung Galaxy S7",
+        "IPhone 7",
+        "Samsung Galaxy S5",
+        "IPhone 6 Plus",
+        "2018 iPhone 10S MAX, 6.5 inches, 2018 iPhone XS MAX, 6.5 inches",
+        "Samsung Galaxy S9 Plus",
+        "iPhone 6S, iPhone 6",
+        "Samsung Galaxy Note 8",
+        "Samsung Galaxy S7 Edge",
+        "iPhone 6",
+        "Samsung Galaxy S8 Plus"
+      ]
+    },
+    {
+      "name": "Use for",
+      "occurrence": 330,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Stomach, Back",
+        "Stomach",
+        "Back",
+        "Feet",
+        "Legs",
+        "Foot",
+        "Hands",
+        "Body",
+        "Wrists",
+        "Arm"
+      ]
+    },
+    {
+      "name": "Filter Class",
+      "occurrence": 299,
+      "frequency_pct": 0.04,
+      "examples": [
+        "KF94",
+        "PM2 5",
+        "Pcs",
+        "KN95",
+        "KN207",
+        "FFP2",
+        "Ply",
+        "KN2048",
+        "P100",
+        "Replaceable",
+        "Pro Mask",
+        "Pcs Filters1 piece",
+        "Particle Filtering",
+        "KF503",
+        "SAFE"
+      ]
+    },
+    {
+      "name": "Handle Material",
+      "occurrence": 291,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Aluminum",
+        "Rubber",
+        "Plastic",
+        "Wood",
+        "Alloy Steel",
+        "Rubber, Alloy Steel",
+        "Metal",
+        "Stainless Steel",
+        "Fiberglass",
+        "Aluminum, Wood",
+        "Acrylonitrile Butadiene Styrene",
+        "Acrylonitrile Butadiene Styrene, Plastic",
+        "Acrylic",
+        "Plastic, Aluminum",
+        "Plastic, Stainless Steel"
+      ]
+    },
+    {
+      "name": "Vehicle Service Type",
+      "occurrence": 259,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Car",
+        "Motorcycle",
+        "Passenger Car",
+        "Car, Truck",
+        "Bicycle",
+        "Street Bike",
+        "Street Bike, Adventure Touring, Cruiser, Dirt Bike",
+        "Motorcycle, ATV, Dirt bike",
+        "Motorcycle, ATV, dirt bike",
+        "all-terrain-vehicles;utility-vehicles;street-sport-motorcycles;off-road-motorcycles;street-cruiser-motorcycles;street-touring-motorcycles;street-motor-scooters;snowmobiles;marine-personal-craftall-terrain-vehicles;utility-vehicles;street-sport-motorcycles;off-road-motorcycles;street-cruiser-motorcycles;street-touring-motorcycles;street-motor-scooters;snowmobiles;marine-personal-craft   See more",
+        "all-terrain-vehicles;utility-vehicles;street-sport-motorcycles;off-road-motorcycles;street-cruiser-motorcycles;street-touring-motorcycles;street-motor-scooters;snowmobiles;marine-personal-craftall-terrain-vehicles;utility-vehicles;street-sport-motorcycles;off-road-motorcycles;street-cruiser-motorcycles;street-touring-motorcycles;street-motor-scooters;snowmobiles;marine-personal-craft  See more",
+        "Truck",
+        "Recreational Vehicle, Car, SUV, Truck",
+        "motorcycle",
+        "All-terrain-vehicles;utility-vehicles;street-sport-motorcycles;off-road-motorcycles;street-cruiser-motorcycles;street-touring-motorcycles;street-motor-scooters;snowmobiles;marine-personal-craftAll-terrain-vehicles;utility-vehicles;street-sport-motorcycles;off-road-motorcycles;street-cruiser-motorcycles;street-touring-motorcycles;street-motor-scooters;snowmobiles;marine-personal-craft  See more"
+      ]
+    },
+    {
+      "name": "Opening Mechanism",
+      "occurrence": 246,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Auto Open Button",
+        "Crank Lift",
+        "Manual Lift",
+        "Open-Top"
+      ]
+    },
+    {
+      "name": "Item Form",
+      "occurrence": 214,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Wrap",
+        "Foam",
+        "Liquid",
+        "Gel",
+        "Elastic",
+        "Bag",
+        "Ribbon",
+        "Cream",
+        "Spray",
+        "Aerosol",
+        "Capsule",
+        "Scrunchie",
+        "Stick",
+        "Stripped",
+        "Coil"
+      ]
+    },
+    {
+      "name": "Manufacturer Part Number",
+      "occurrence": 213,
+      "frequency_pct": 0.03,
+      "examples": [
+        "CY190",
+        "AAAA",
+        "KFC",
+        "KC0015K",
+        "N5283571",
+        "84012",
+        "Nomad",
+        "An",
+        "ERa-111",
+        "De&ai12.01",
+        "an",
+        "Labesto Bangtan 01",
+        "Solid 9",
+        "PNFM3-GY-2X-XXL",
+        "BM0477"
+      ]
+    },
+    {
+      "name": "Number of Labels",
+      "occurrence": 212,
+      "frequency_pct": 0.03,
+      "examples": [
+        "2",
+        "1",
+        "4",
+        "10",
+        "20",
+        "5",
+        "6",
+        "3",
+        "8",
+        "12",
+        "100",
+        "44505",
+        "50",
+        "24",
+        "40"
+      ]
+    },
+    {
+      "name": "League",
+      "occurrence": 193,
+      "frequency_pct": 0.02,
+      "examples": [
+        "NCAA",
+        "Ncaa-teams",
+        "NBA",
+        "ncaa-teams",
+        "World Cup Soccer",
+        "Nfl-teams",
+        "Ncaa",
+        "NFL",
+        "MLB",
+        "NULL",
+        "ncaa",
+        "nfl-teams",
+        "mlb-teams",
+        "null",
+        "Mlb-teams"
+      ]
+    },
+    {
+      "name": "Hair Type",
+      "occurrence": 193,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Straight",
+        "All",
+        "Curly",
+        "Wavy",
+        "Wavy, Curly",
+        "Long",
+        "Curly, Straight",
+        "Beaded",
+        "Curly,Wavy",
+        "short, Curly",
+        "Normal",
+        "Long, Straight",
+        "Curly, long",
+        "Color",
+        "Dry"
+      ]
+    },
+    {
+      "name": "Mounting Type",
+      "occurrence": 188,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Wall Mount",
+        "Sewing",
+        "Self Adhesive",
+        "Insert Mount",
+        "Freestanding",
+        "Tabletop",
+        "Dovetail Mount",
+        "Iron-On",
+        "Tabletop Mount",
+        "Hanging",
+        "Self-Adhesive",
+        "Hanging Mount",
+        "Weaver Mount",
+        "Desk Mount",
+        "Windshield Mount, Found in image"
+      ]
+    },
+    {
+      "name": "Item Dimensions  LxWxH",
+      "occurrence": 187,
+      "frequency_pct": 0.02,
+      "examples": [
+        "6 x 3 x 0.3 inches",
+        "9.45 x 5.91 x 0.12 inches",
+        "18.9 x 9.45 x 0.02 inches",
+        "8.66 x 2.36 inches",
+        "21 x 13 x 5 inches",
+        "11 x 9 x 1 inches",
+        "8 x 9 x 10 inches",
+        "6 x 6 x 1 inches",
+        "19.6 x 12.6 x 5.9 inches",
+        "6.89 x 3.54 x 0.59 inches",
+        "1 x 1 x 1 inches",
+        "9.75 x 5.9 x 1.3 inches",
+        "13 x 1 x 1 inches",
+        "13 x 6 x 0.3 inches",
+        "4 x 3 x 5 inches"
+      ]
+    },
+    {
+      "name": "Compatible Devices",
+      "occurrence": 168,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Smartphone",
+        "Smartphones",
+        "Laptops",
+        "Smartwatches",
+        "Cellphone",
+        "Gaming Console",
+        "Tablets",
+        "Apple iphone 5",
+        "Watch",
+        "Samsung galaxy s4",
+        "Game Console",
+        "Controller",
+        "Apple iphone 5C",
+        "Laptop",
+        "Mobile Phone"
+      ]
+    },
+    {
+      "name": "Number of Sets",
+      "occurrence": 163,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "6",
+        "7",
+        "3",
+        "8",
+        "4",
+        "5",
+        "9",
+        "10",
+        "2",
+        "18"
+      ]
+    },
+    {
+      "name": "Finish Type",
+      "occurrence": 160,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Powder Coated",
+        "Polished",
+        "Painted",
+        "Metal",
+        "Matte",
+        "Brushed",
+        "Antique",
+        "Glossy",
+        "Black Finish",
+        "Unfinished",
+        "Oil Rubbed",
+        "Shimmering",
+        "Nickel",
+        "Geometric",
+        "Silver"
+      ]
+    },
+    {
+      "name": "Lens Material",
+      "occurrence": 155,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Polycarbonate",
+        "Glass",
+        "Polyvinyl Chloride",
+        "Tri Acetate Cellulose",
+        "Plastic",
+        "Interchangeable",
+        "Eva",
+        "Composite",
+        "Acetate",
+        "gradient",
+        "Tempered Glass"
+      ]
+    },
+    {
+      "name": "Stone Color",
+      "occurrence": 145,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Black",
+        "Green",
+        "Blue",
+        "White",
+        "Red",
+        "Gold",
+        "Aqua Sky",
+        "Silver",
+        "Pink",
+        "Yellow",
+        "White, Green",
+        "Green, Black",
+        "Ethiopian Opal",
+        "Red, Green",
+        "Multicolor"
+      ]
+    },
+    {
+      "name": "Band Size",
+      "occurrence": 142,
+      "frequency_pct": 0.02,
+      "examples": [
+        "One Size",
+        "One size",
+        "Small",
+        "7 inches",
+        "Large",
+        "Fits Most",
+        "Small/Medium",
+        "2",
+        "X-Large",
+        "200 x 5cm",
+        "Free Size, Small, Large, X-Large",
+        "24*49 cm",
+        "3.15*3.15",
+        "17.5 inches",
+        "4''"
+      ]
+    },
+    {
+      "name": "Model Name",
+      "occurrence": 140,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Iconic Stay Cooler, Signature Cotton",
+        "Soft",
+        "Classic",
+        "Fashion",
+        "Casual",
+        "Addiction",
+        "Giro Synthe MIPS",
+        "Fitover Sunglasses Large",
+        "Watu D2 Hybrid",
+        "Youth Boys \"Player Pride\" Short Sleeve Tri-blend Tee",
+        "Tubular Bandana",
+        "D30",
+        "Skmeshbag",
+        "C",
+        "The North Face"
+      ]
+    },
+    {
+      "name": "Capacity",
+      "occurrence": 128,
+      "frequency_pct": 0.02,
+      "examples": [
+        "16 Ounces",
+        "3 Liters",
+        "11 Ounces",
+        "1.1 Pounds",
+        "12 Ounces",
+        "20 Liters",
+        "10 Liters",
+        "40 Liters",
+        "1.5 Pounds",
+        "1.6 Pounds",
+        "1.3 Pounds",
+        "18 Liters",
+        "2 Liters",
+        "2.7 Liters",
+        "14 Ounces"
+      ]
+    },
+    {
+      "name": "Outer Material",
+      "occurrence": 128,
+      "frequency_pct": 0.02,
+      "examples": [
+        "95% Terylene and 5% spandex",
+        "Polyester",
+        "Polycarbonate (PC)",
+        "92%Polyester 8%Spandex",
+        "85% polyester/ 15% spandex",
+        "Nylon",
+        "Rubber, Leather",
+        "Synthetic",
+        "Viscose",
+        "cotton-poly-jersey",
+        "Leather",
+        "Rubber",
+        "Cotton, Polyester",
+        "Cotton-poly-jersey",
+        "Wool"
+      ]
+    },
+    {
+      "name": "Material Type",
+      "occurrence": 127,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Stainless Steel",
+        "Leather",
+        "Metal",
+        "Resin",
+        "Zinc",
+        "Cotton",
+        "Silver",
+        "Polyester",
+        "Rhinestone",
+        "Alloy Metal, Rhinestone Crystals",
+        "Wood",
+        "Fur",
+        "Crystal",
+        "Faux Leather",
+        "Copper"
+      ]
+    },
+    {
+      "name": "Primary Stone Gem Type",
+      "occurrence": 125,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Quartz",
+        "Variety Pack",
+        "Sapphire",
+        "Ruby",
+        "Amethyst",
+        "Gemstone",
+        "Opal",
+        "Diamond",
+        "Hue enhanced emerald",
+        "Hue enhanced aquamarine",
+        "Jasper",
+        "Moissanite",
+        "Color enhanced ruby",
+        "Tiger s Eye",
+        "Citrine"
+      ]
+    },
+    {
+      "name": "Band Width",
+      "occurrence": 118,
+      "frequency_pct": 0.01,
+      "examples": [
+        "2 Inches",
+        "1 Inches",
+        "4 Inches",
+        "2.5 Inches",
+        "5 Centimeters",
+        "8 Centimeters",
+        "3 Inches",
+        "6 Centimeters",
+        "5.5 Centimeters",
+        "1 Centimeters",
+        "7 Centimeters",
+        "7 Inches",
+        "508 Centimeters",
+        "13 Centimeters",
+        "9.8 Inches"
+      ]
+    },
+    {
+      "name": "Water Resistance Level",
+      "occurrence": 116,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Waterproof",
+        "Not Water Resistant",
+        "Water Resistant"
+      ]
+    },
+    {
+      "name": "Language",
+      "occurrence": 110,
+      "frequency_pct": 0.01,
+      "examples": [
+        "English",
+        "Turkish",
+        "English, English, English, English, English",
+        "Dutch",
+        "French",
+        "Spanish",
+        "German",
+        "Korean",
+        "English, Spanish",
+        "Italian, Italian, Italian, Italian, Italian",
+        "Germanic Languages",
+        "German, English, Italian, Turkish, Greek",
+        "Italian",
+        "English, English, English, English",
+        "English, French, Spanish, Portuguese"
+      ]
+    },
+    {
+      "name": "Size Map",
+      "occurrence": 105,
+      "frequency_pct": 0.01,
+      "examples": [
+        "X Large",
+        "Medium",
+        "Large",
+        "XX Large",
+        "Small",
+        "XXX Large",
+        "large",
+        "small",
+        "Top",
+        "X Small",
+        "X-small",
+        "Xx-large",
+        "x-large",
+        "xx-large",
+        "xxx-large"
+      ]
+    },
+    {
+      "name": "UPC",
+      "occurrence": 104,
+      "frequency_pct": 0.01,
+      "examples": [
+        "860002721231",
+        "766150288568",
+        "764804325799",
+        "640925243115",
+        "747370165679",
+        "619519160503",
+        "745103544647",
+        "731509861754",
+        "722950223468",
+        "628110070234",
+        "713807575014",
+        "737787425275",
+        "787421495751",
+        "825404433540",
+        "631851553539"
+      ]
+    },
+    {
+      "name": "Shaft Material",
+      "occurrence": 104,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Steel",
+        "Aluminum",
+        "Wood",
+        "Fiberglass",
+        "Metal",
+        "Carbon Fiber",
+        "Stainless Steel",
+        "Steel True Temper Dynalite 105",
+        "Graphite",
+        "Solid",
+        "Iron",
+        "Fiberglass, Aluminum",
+        "Plastic, Stainless Steel, Metal, Fiberglass, Steel",
+        "Beechwood",
+        "Alloy Steel"
+      ]
+    },
+    {
+      "name": "Model Year",
+      "occurrence": 102,
+      "frequency_pct": 0.01,
+      "examples": [
+        "2014",
+        "2018",
+        "2015",
+        "2016",
+        "2017",
+        "2013",
+        "2009",
+        "2010",
+        "2019",
+        "2020",
+        "2012",
+        "2022",
+        "2011",
+        "2005",
+        "2021"
+      ]
+    },
+    {
+      "name": "Top Style",
+      "occurrence": 102,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Tunic",
+        "Button Down",
+        "Grommet",
+        "Crop Top",
+        "Tank Top",
+        "Cold Shoulder",
+        "Polo",
+        "V Neck",
+        "Rod Pocket",
+        "Pullover",
+        "Off The Shoulder",
+        "Halter, Tank Top",
+        "Camisole, Tank Top",
+        "Ruffle",
+        "Wrap"
+      ]
+    },
+    {
+      "name": "Batteries required",
+      "occurrence": 101,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Strap Type",
+      "occurrence": 100,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Shoulder",
+        "Shoulder Strap",
+        "Adjustable",
+        "Head Strap",
+        "Shoulder Strap, Adjustable",
+        "Double Strap",
+        "Strapless",
+        "Single Strap",
+        "Convertible, Removable",
+        "Shoulder Strap, Cross-Body",
+        "Cross-Body, Adjustable",
+        "Cross-Body",
+        "Convertible",
+        "Hand-Carry",
+        "Convertible, Invisible, Racerback"
+      ]
+    },
+    {
+      "name": "Seasons",
+      "occurrence": 96,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Summer",
+        "All Seasons",
+        "Basic",
+        "Fall",
+        "Winter",
+        "All",
+        "Spring/Summer",
+        "4 Season",
+        "3 Season",
+        "All Season",
+        "Winter, Fall",
+        "Spring",
+        "Autumn/Winter",
+        "Winter, Fall, Spring",
+        "Winter, Summer"
+      ]
+    },
+    {
+      "name": "Pocket Description",
+      "occurrence": 95,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Stash Pocket",
+        "Utility Pocket",
+        "Jetted Pocket",
+        "Jetted pocket",
+        "Zip Pocket",
+        "Slip Pocket",
+        "jetted pocket",
+        "Cargo Pocket",
+        "Slit Pocket",
+        "Slant Pocket",
+        "Coin Pocket",
+        "Flap Pocket"
+      ]
+    },
+    {
+      "name": "Waist (cm)",
+      "occurrence": 92,
+      "frequency_pct": 0.01,
+      "examples": [
+        "40 Inches",
+        "47 Inches",
+        "37.4 Inches",
+        "33.0, 41.0, 30.0, 40.0, 38.0, 27.0, 31.0, 43.0, 26.4, 46.0, 47.0, 34.3, 34.0, 32.3, 36.0, 45.0, 42.0, 26.3, 28.0, 25.0 Inches33.0, 41.0, 30.0, 40.0, 38.0, 27.0, 31.0, 43.0, 26.4, 46.0, 47.0, 34.3, 34.0, 32.3, 36.0, 45.0, 42.0, 26.3, 28.0, 25.0 Inches   See more",
+        "24.8 Inches",
+        "46 Inches",
+        "34 Inches",
+        "27 Inches",
+        "33.0, 41.0, 30.0, 40.0, 38.0, 27.0, 31.0, 43.0, 26.4, 46.0, 47.0, 34.3, 34.0, 32.3, 36.0, 45.0, 42.0, 26.3, 28.0, 25.0 Inches33.0, 41.0, 30.0, 40.0, 38.0, 27.0, 31.0, 43.0, 26.4, 46.0, 47.0, 34.3, 34.0, 32.3, 36.0, 45.0, 42.0, 26.3, 28.0, 25.0 Inches  See more",
+        "40.9 Inches",
+        "42 Inches",
+        "46.0, 38.0 Inches",
+        "33.0, 41.0, 46.0, 36.0, 45.0, 42.0 Inches",
+        "30.0, 34.0, 38.0, 45.0, 42.0 Inches",
+        "31 Inches"
+      ]
+    },
+    {
+      "name": "Screen Size",
+      "occurrence": 87,
+      "frequency_pct": 0.01,
+      "examples": [
+        "4.7 Inches",
+        "5.5 Inches",
+        "6.4 Inches",
+        "6.1 Inches",
+        "6.7 Inches",
+        "40 Millimeters",
+        "6 Inches",
+        "1.3 Inches",
+        "6.2 Inches",
+        "41 Millimeters",
+        "6.06 Inches",
+        "5.8 Inches",
+        "44 Millimeters",
+        "6.5 Inches",
+        "45 Millimeters"
+      ]
+    },
+    {
+      "name": "Room Type",
+      "occurrence": 84,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Bathroom",
+        "Bedroom",
+        "Office, Living Room, Bedroom",
+        "Living Room",
+        "Dormitory, Laundry Room, Bedroom",
+        "Office, Bathroom, Bedroom, Study Room",
+        "Nursery",
+        "Laundry Room, Bathroom, Bedroom",
+        "Indoor & Outdoor",
+        "Living Room, Bedroom",
+        "NO",
+        "Windshield",
+        "Kid Room, Di, Bedroom, Home Office",
+        "Patio",
+        "Living Room, Study Room Cycle, Lounge"
+      ]
+    },
+    {
+      "name": "Batteries Required?",
+      "occurrence": 80,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes",
+        "false"
+      ]
+    },
+    {
+      "name": "Back Style",
+      "occurrence": 78,
+      "frequency_pct": 0.01,
+      "examples": [
+        "T Back",
+        "Backless",
+        "Criss Cross",
+        "Cut Out"
+      ]
+    },
+    {
+      "name": "Closure",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Pull On",
+        "Clip",
+        "Snap",
+        "Double Ring",
+        "Slip On",
+        "Zipper",
+        "No Closure",
+        "Face Mask Lanyard",
+        "Pull-On"
+      ]
+    },
+    {
+      "name": "Total Diamond Weight",
+      "occurrence": 67,
+      "frequency_pct": 0.01,
+      "examples": [
+        "15 Grams",
+        "0.07 carats",
+        "0.01 carats",
+        "0.1 carats",
+        "10 Grams",
+        "1.4 Ounces",
+        "2 carats",
+        "1 carats",
+        "2.5 carats",
+        "0.02 carats",
+        "32 Grams",
+        "1.2 Ounces",
+        "5 Grams",
+        "2 Ounces",
+        "0.02 Kilograms"
+      ]
+    },
+    {
+      "name": "Orientation",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Landscape",
+        "Portrait"
+      ]
+    },
+    {
+      "name": "Ultraviolet Light Protection",
+      "occurrence": 63,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Yes",
+        "True",
+        "UV400 Protection",
+        "UV Protection",
+        "99.9% UV protection",
+        "False"
+      ]
+    },
+    {
+      "name": "Number of Compartments",
+      "occurrence": 63,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "3",
+        "4",
+        "50",
+        "8",
+        "12",
+        "25",
+        "10",
+        "20",
+        "14",
+        "24",
+        "18"
+      ]
+    },
+    {
+      "name": "Inner Material",
+      "occurrence": 62,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Foam",
+        "Leather",
+        "Wood",
+        "Metal",
+        "Suede",
+        "Ceramic",
+        "Cotton",
+        "Velvet",
+        "Velvet, Expanded Polystyrene",
+        "Expanded Polystyrene",
+        "Silk",
+        "Nylon",
+        "Engineered Wood",
+        "Expanded Polypropylene",
+        "Faux Suede"
+      ]
+    },
+    {
+      "name": "Power Source",
+      "occurrence": 60,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Battery Powered",
+        "Corded Electric",
+        "Solar Powered",
+        "Manual",
+        "Battery-powered",
+        "Disposable-battery",
+        "Electric",
+        "Handheld",
+        "Gas Powered",
+        "Crank"
+      ]
+    },
+    {
+      "name": "Installation Type",
+      "occurrence": 57,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Self-Adhesive",
+        "Peel",
+        "Free Standing",
+        "Clip-In",
+        "Clip",
+        "Wall Mount",
+        "Countertop",
+        "Adhesive"
+      ]
+    },
+    {
+      "name": "Import Designation",
+      "occurrence": 57,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Imported",
+        "Importado",
+        "Hecho en USA",
+        "Made in the USA",
+        "Importado, dise\ufffdado por EE. UU.",
+        "Hecho en EE. UU. o importado",
+        "Hecho en EE. UU. e importado"
+      ]
+    },
+    {
+      "name": "Target Species",
+      "occurrence": 54,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Dog",
+        "Cat, Dog",
+        "Horse",
+        "Cat",
+        "Reptile",
+        "Chatnow",
+        "Women"
+      ]
+    },
+    {
+      "name": "Age Range Description",
+      "occurrence": 52,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Adult",
+        "Kid",
+        "12-80",
+        "Little Kid"
+      ]
+    },
+    {
+      "name": "Batteries Included?",
+      "occurrence": 51,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes",
+        "false"
+      ]
+    }
+  ]
+}

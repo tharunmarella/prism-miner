@@ -1,0 +1,253 @@
+{
+  "category": "Handmade_Products",
+  "total_items_scanned": 164817,
+  "total_unique_keys": 14,
+  "attributes": [
+    {
+      "name": "Date First Available",
+      "occurrence": 158934,
+      "frequency_pct": 96.43,
+      "examples": [
+        "May 12, 2016",
+        "October 27, 2016",
+        "September 7, 2017",
+        "October 8, 2015",
+        "October 9, 2015",
+        "November 22, 2016",
+        "November 30, 2015",
+        "July 30, 2017",
+        "October 6, 2015",
+        "January 12, 2017",
+        "October 1, 2015",
+        "January 4, 2016",
+        "October 7, 2015",
+        "October 10, 2015",
+        "January 17, 2017"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 66693,
+      "frequency_pct": 40.46,
+      "examples": [
+        "Womens",
+        "womens",
+        "unisex-adult",
+        "Unisex-adult",
+        "Women",
+        "Mens",
+        "mens",
+        "Unisex Adult",
+        "Girls",
+        "girls",
+        "Unisex",
+        "unisex-child",
+        "Women, Girls",
+        "Unisex-child",
+        "Men"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 60864,
+      "frequency_pct": 36.93,
+      "examples": [
+        "9 x 6 x 1 inches; 4 Ounces",
+        "9 x 6 x 1 inches; 3 Ounces",
+        "2.7 x 1.7 x 1 inches; 0.53 Ounces",
+        "13 x 11 x 2 inches; 4 Ounces",
+        "22 x 2 x 2 inches; 10 Ounces",
+        "4 x 3 x 2 inches; 2 Ounces",
+        "9 x 6 x 1 inches",
+        "7 x 5 x 1 inches; 4 Ounces",
+        "4 x 3 x 1 inches",
+        "24 x 18 x 2 inches; 5 Pounds",
+        "3 x 3 x 1 inches",
+        "7.87 x 7.87 x 3.94 inches; 9.6 Ounces",
+        "6 x 6 x 6 inches; 8 Ounces",
+        "2.7 x 1.7 x 1 inches; 0.5 Ounces",
+        "9 x 6 x 1 inches; 2 Ounces"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 5369,
+      "frequency_pct": 3.26,
+      "examples": [
+        "4 Ounces",
+        "3 Ounces",
+        "2 Ounces",
+        "1 Ounces",
+        "8 Ounces",
+        "1 Pounds",
+        "6 Ounces",
+        "3 Pounds",
+        "5 Ounces",
+        "2 Pounds",
+        "68 Pounds",
+        "10 Ounces",
+        "5 Pounds",
+        "90 Pounds",
+        "12 Pounds"
+      ]
+    },
+    {
+      "name": "Manufacturer recommended age",
+      "occurrence": 4935,
+      "frequency_pct": 2.99,
+      "examples": [
+        "3 years and up",
+        "18 years and up",
+        "12 years and up",
+        "0 months and up",
+        "16 years and up",
+        "4 years and up",
+        "12 months and up",
+        "5 years and up",
+        "8 years and up",
+        "10 years and up",
+        "24 months and up",
+        "6 years and up",
+        "1 month and up",
+        "14 years and up",
+        "13 years and up"
+      ]
+    },
+    {
+      "name": "Manufacturer",
+      "occurrence": 620,
+      "frequency_pct": 0.38,
+      "examples": [
+        "Destination Unlimited Designs",
+        "The Handmade Group",
+        "ZLKAPT",
+        "Kanika A Jewelry Trove",
+        "CRYSTAL IMAGERY",
+        "TSDTUO",
+        "Grace of Pearl",
+        "Designocracy Inc",
+        "Wellesley Row",
+        "Handmade in KS, USA by Conquest of Happiness \u00ae",
+        "JG",
+        "SPEEDYORDERS",
+        "Elizabeth Lynn Moon Original Art Jewelry",
+        "Annie's Pooch Pops",
+        "DaisyBlossomCreation"
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 323,
+      "frequency_pct": 0.2,
+      "examples": [
+        "USA",
+        "India",
+        "Vietnam",
+        "Israel",
+        "United Kingdom",
+        "China",
+        "Puerto Rico",
+        "Hungary",
+        "Canada"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 304,
+      "frequency_pct": 0.18,
+      "examples": [
+        "10\"L x 8\"W",
+        "2.71 x 1.18 x 0.4 inches; 1.59 Ounces",
+        "14\"L x 11\"W",
+        "2.71 x 1.18 x 0.4 inches; 1.9 Ounces",
+        "3.5 x 0.25 x 3.5 inches",
+        "2.71 x 1.18 x 0.4 inches; 1.45 Ounces",
+        "2.71 x 1.18 x 0.4 inches; 2.4 Ounces",
+        "2.71 x 1.18 x 0.4 inches; 2 Ounces",
+        "0.3 x 18 x 24 inches; 2 Pounds",
+        "1 x 18 x 24 inches; 2 Pounds",
+        "40 x 20 x 18 inches",
+        "2.71 x 1.18 x 0.4 inches; 1.98 Ounces",
+        "2.71 x 1.18 x 0.4 inches; 1.6 Ounces",
+        "3.5 x 3.5 x 2 inches; 2.1 Ounces",
+        "30 x 10 x 30 inches"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 300,
+      "frequency_pct": 0.18,
+      "examples": [
+        "No",
+        "false",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 184,
+      "frequency_pct": 0.11,
+      "examples": [
+        "R38",
+        "545754-THR",
+        "1432412M",
+        "1516301",
+        "5SLJ002",
+        "PM481A",
+        "1420457",
+        "1515306",
+        "EGP-S-IND-S-JADE",
+        "esslb-pav-tr9-lightrose",
+        "AG245",
+        "FP003",
+        "r66adj",
+        "1420711",
+        "1420568"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 82,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Rectangular"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 79,
+      "frequency_pct": 0.05,
+      "examples": [
+        "8 x 10 Inch",
+        "11 x 14 Inch",
+        "Key Size S - PVC",
+        "3\" x 2\"",
+        "7 5 inch",
+        "4.25\" x 5.5\"",
+        "16 x 24 Inch",
+        "8x10"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 72,
+      "frequency_pct": 0.04,
+      "examples": [
+        "4",
+        "1",
+        "2",
+        "10"
+      ]
+    },
+    {
+      "name": "Orientation",
+      "occurrence": 67,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Portrait",
+        "Landscape"
+      ]
+    }
+  ]
+}

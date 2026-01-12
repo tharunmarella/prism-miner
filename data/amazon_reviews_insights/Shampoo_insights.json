@@ -1,0 +1,53 @@
+{
+  "category": "Shampoo",
+  "hidden_dimensions": [
+    {
+      "name": "Frizz Control",
+      "importance": "High",
+      "description": "Ability to reduce or eliminate frizz, especially in humid conditions or for specific hair types (wavy, curly, graying).",
+      "example_vocabulary": ["frizz", "frizzy", "smooth", "tames", "humidity", "poof ball"]
+    },
+    {
+      "name": "Hair Manageability",
+      "importance": "High",
+      "description": "How easily the shampoo makes hair to style, detangle, and maintain throughout the day. Addresses issues like tangles and overall ease of handling.",
+      "example_vocabulary": ["manageable", "tangles", "detangling", "smooth", "soft", "easy to style"]
+    },
+    {
+      "name": "Hair Texture & Appearance",
+      "importance": "High",
+      "description": "Impact on hair's texture (softness, dryness) and appearance (shine, body). Users seek improvements in these areas.",
+      "example_vocabulary": ["shiny", "soft", "dry", "body", "healthy", "fuller", "silky"]
+    },
+    {
+      "name": "Scent",
+      "importance": "Medium",
+      "description": "The pleasantness and strength of the shampoo's scent, and how it lingers after washing.",
+      "example_vocabulary": ["smell", "scent", "aroma", "fragrance", "nice", "chemical smell"]
+    },
+    {
+      "name": "Value for Money",
+      "importance": "Medium",
+      "description": "Whether the shampoo's performance justifies its price, especially when compared to salon or other more expensive brands.",
+      "example_vocabulary": ["price", "expensive", "cost", "worth", "value", "cheaper", "affordable"]
+    },
+    {
+      "name": "Hair Loss & Thinning",
+      "importance": "Medium",
+      "description": "The ability of the shampoo to address hair loss or thinning concerns, especially for users experiencing hormonal changes or aging.",
+      "example_vocabulary": ["hair loss", "thinning", "shedding", "growth", "fuller", "menopause"]
+    },
+    {
+      "name": "Ingredient Quality & Safety",
+      "importance": "Medium",
+      "description": "Users seek shampoos with safe, natural, and non-toxic ingredients, and the absence of harsh chemicals.",
+      "example_vocabulary": ["natural", "organic", "chemical-free", "non-toxic", "safe ingredients"]
+    },
+    {
+      "name": "Hair Type Specificity",
+      "importance": "Medium",
+      "description": "How well the shampoo caters to specific hair types such as curly, straight, fine, thick, African, or gray hair.",
+      "example_vocabulary": ["curly", "straight", "fine", "thick", "African", "gray", "wavy"]
+    }
+  ]
+}

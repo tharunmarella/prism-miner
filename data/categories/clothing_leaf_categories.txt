@@ -1,0 +1,2201 @@
+CLOTHING LEAF CATEGORIES (For Review Mining)
+============================================================
+Total: 2195 categories
+
+   Count  Category
+------------------------------------------------------------
+  413265  T-Shirts
+  348996  Tops, Tees & Blouses
+  330590  Sandals
+  300211  Shirts
+  293461  Dresses
+  218506  Lingerie, Sleep & Lounge
+  174384  Earrings
+  173103  Necklaces
+  170000  Watches
+  168332  Hats & Caps
+  159176  Handbags & Wallets
+  153745  Fashion Sneakers
+  152281  Boots
+  149093  Wrist Watches
+  142304  Luggage & Travel Gear
+  141559  Flats
+  132101  Bracelets
+  126577  Costumes & Accessories
+  125274  Tops & Tees
+  125140  Sleep & Lounge
+  121258  Swimsuits & Cover Ups
+  120314  Sweaters
+  115627  Lingerie
+  107547  Rings
+  105079  Sunglasses & Eyewear Accessories
+   96283  Blouses & Button-Down Shirts
+   94281  Pumps
+   87725  Loafers & Slip-Ons
+   87003  Pants
+   81028  Pendant Necklaces
+   80212  Platforms & Wedges
+   78900  Uniforms, Work & Safety
+   78868  Sunglasses
+   77899  Coats, Jackets & Vests
+   77880  Jackets & Coats
+   77714  Fashion Hoodies & Sweatshirts
+   75785  Slippers
+   72596  Tunics
+   71775  Tanks & Camis
+   70632  Active Shirts & Tees
+   70490  Drop & Dangle
+   64827  Bras
+   64272  Socks
+   64059  Wallets, Card Cases & Money Organizers
+   63287  Costumes
+   62655  Jeans
+   62279  Socks & Hosiery
+   59925  Shoe, Jewelry & Watch Accessories
+   59069  Leggings
+   55750  Ankle & Bootie
+   55003  Body Jewelry
+   53438  Pullovers
+   52712  Underwear
+   52066  Bikinis
+   51856  Wallets
+   51091  Baseball Caps
+   48733  Active Pants
+   48518  Clothing Sets
+   48354  Costumes & Cosplay Apparel
+   48013  Shorts
+   47812  Heeled Sandals
+   47291  Stud
+   47002  Sneakers
+   46852  Cardigans
+   46153  Piercing Jewelry
+   45495  Active Shorts
+   44932  Oxfords
+   42129  Casual Button-Down Shirts
+   40041  Jumpsuits, Rompers & Overalls
+   39731  Skirts
+   38993  Flip-Flops
+   38885  Crossbody Bags
+   37807  Mules & Clogs
+   37089  Hoodies
+   36842  Belts
+   36474  Everyday Bras
+   36464  Shoulder Bags
+   35491  Athletic Socks
+   34973  Backpacks
+   34594  One-Pieces
+   32589  Charms & Charm Bracelets
+   31976  Scarves & Wraps
+   31708  Statement
+   31175  Jewelry Accessories
+   30435  Tees
+   30174  Polos
+   29175  Pant Sets
+   29170  Luggage
+   28204  Hoop
+   27918  Slides
+   27779  Sleepwear & Robes
+   26457  Totes
+   26265  Jewelry Boxes & Organizers
+   25978  Robes
+   25949  Panties
+   25672  Chelsea
+   25656  Jumpsuits
+   25609  Charms
+   25376  Cover-Ups
+   25369  Water Shoes
+   25066  Skullies & Beanies
+   25042  Work & Utility
+   24461  Nightgowns & Sleepshirts
+   24452  Vests
+   24350  Travel Accessories
+   23626  Sports Bras
+   23373  Gloves & Mittens
+   22825  Casual Daypacks
+   21834  Shoe Care & Accessories
+   21596  Jackets
+   20712  Active & Performance
+   20626  Mid-Calf
+   20603  Basketball
+   20360  Link
+   20237  Bodysuits
+   19594  Boxer Briefs
+   19475  Base Layers & Compression
+   19131  Sport Sandals & Slides
+   19096  Pajama Sets
+   18722  Brooches & Pins
+   18331  Suits & Sport Coats
+   18122  Fashion Scarves
+   17962  Hiking Boots
+   17833  Combat
+   17831  Bangle
+   17638  Pendants & Coins
+   17450  Jewelry Sets
+   17416  Cocktail
+   17218  Fleece
+   17125  Fitness & Cross-Training
+   17098  Sweatpants
+   16945  Hiking Shoes
+   16931  Chains
+   16912  Rompers
+   16853  Balaclavas
+   16582  Ties, Cummerbunds & Pocket Squares
+   16220  Briefs
+   16201  Rain
+   16103  Bead
+   15963  Knee-High
+   15896  Keyrings, Keychains & Charms
+   15695  Suiting & Blazers
+   15570  Gloves
+   15547  Chukka
+   15378  Skiing
+   15307  Western
+   15011  Masks
+   14800  Watch Bands
+   14797  Clutches & Evening Bags
+   14758  Tops, Tees & Shirts
+   14377  Bands
+   14189  Chokers
+   13934  Wedding & Engagement
+   13918  Dress Shirts
+   13812  Active Hoodies
+   13812  Top-Handle Bags
+   13561  Jerseys
+   13450  Cuff
+   13299  Pendants Only
+   13205  Skateboarding
+   13122  Exotic Apparel
+   13018  Keychains
+   12939  Tank Tops
+   12916  Work Utility & Safety
+   12711  Soccer
+   12696  Short Sets
+   12413  Wigs
+   12272  Jewelry Boxes
+   12243  Maternity
+   12200  Footies & Rompers
+   12120  Leather & Faux Leather
+   12100  Eyewear Frames
+   12095  Down & Down Alternative
+   12063  Board Shorts
+   11942  Travel Duffels
+   11721  Lightweight Jackets
+   11713  Tankinis
+   11621  Trench, Rain & Anoraks
+   11583  Shapewear
+   11578  Down Jackets & Parkas
+   11540  Barbells
+   11436  Military
+   10785  Competitive Swimwear
+   10769  Sun Hats
+   10662  Neckties
+   10495  Rash Guard Shirts
+   10447  Anklets
+   10277  Tracksuits
+   10251  Blazers
+   10192  Umbrellas
+   10068  Trunks
+    9969  Stretch
+    9642  Replacement Sunglass Lenses
+    9626  Gym Bags
+    9541  Active Sweatshirts
+    9287  Buttons & Pins
+    9149  Sleep Bottoms
+    9146  Tennis & Racquet Sports
+    9142  Skirts & Skorts
+    9128  Thermal Underwear
+    9096  Scrub Tops
+    9053  Messenger Bags
+    9053  Motorcycle
+    9044  Dress
+    8863  Pendants
+    8816  Necklaces & Pendants
+    8715  Evening Bags
+    8668  Satchels
+    8445  Track & Active Jackets
+    8365  Denim
+    8281  Shoelaces
+    8141  Kids' Backpacks
+    7946  Henleys
+    7882  Casual Jackets
+    7874  Headwear
+    7852  Calf Socks
+    7697  Carry-Ons
+    7675  Shearling
+    7495  Cargo
+    7478  Wedding Rings
+    7224  Raincoats
+    7200  Strand
+    7149  Headbands
+    7132  Tights, Pants & Shorts
+    7112  Overalls
+    6996  Flat Front
+    6898  Cuff Links
+    6886  Compression Pants & Tights
+    6879  Watch Accessories
+    6805  Industrial & Construction Boots
+    6799  Tights
+    6789  Wraps & Pashminas
+    6753  Fedoras
+    6704  Plugs
+    6575  Card & ID Cases
+    6554  Suitcases
+    6444  Suits
+    6295  Scarves
+    6267  Slipper Socks
+    6233  Wristlets
+    6221  Active Tracksuits
+    6177  Work & Safety
+    6172  Playwear
+    6111  Charm Bracelets
+    5962  Packing Organizers
+    5940  Luggage Tags & Handle Wraps
+    5929  Hobo Bags
+    5899  Clutches
+    5880  Fur & Faux Fur
+    5856  Cold Weather Scarves & Wraps
+    5824  Ballet & Dance
+    5808  Active Base Layers
+    5776  Wool & Pea Coats
+    5679  Tanks Tops
+    5666  Clogs & Mules
+    5664  Luggage Tags
+    5664  Sweatshirts
+    5661  Newsboy Caps
+    5660  Stacking
+    5652  One-Piece Suits
+    5567  Sport Coats & Blazers
+    5538  Sleep Sets
+    5439  G-Strings & Thongs
+    5416  Neck Gaiters
+    5318  Suit Sets
+    5280  Sports Duffels
+    5247  Undershirts
+    5235  Snow & Rainwear
+    5200  Plus-Size Fashion
+    5121  Windbreakers
+    5070  Shoe Decoration Charms
+    5041  Coin Purses & Pouches
+    5029  No Show & Liner Socks
+    5015  Socks & Tights
+    4968  Cuffs & Wraps
+    4966  Skirt Sets
+    4964  Bandanas
+    4962  Shells
+    4911  Special Occasion Accessories
+    4849  Jewelry Trays
+    4847  Leg Warmers
+    4811  Tennis
+    4755  Two-Pieces
+    4752  Jewelry Towers
+    4715  Tunnels
+    4712  Camisoles & Tanks
+    4689  Scrub Bottoms
+    4688  Track Pants
+    4549  Shrugs
+    4535  Boxers
+    4520  Waist Packs
+    4496  Luggage Sets
+    4445  Suspenders
+    4414  Stick Umbrellas
+    4342  Fashion Backpacks
+    4295  Wrap
+    4266  Props
+    4217  Bow Ties
+    4208  Button-Down Shirts
+    4153  Eyeglass Cases
+    4135  Denim Jackets
+    4127  Handbag Accessories
+    4063  Card Cases
+    4018  Slips
+    4011  Tie Sets
+    3989  Studs
+    3912  Wool & Blends
+    3912  Women's Plus-Size Apparel
+    3905  Clip-Ons
+    3839  One-Piece Pajamas
+    3824  Cowboy Hats
+    3757  Engagement Rings
+    3667  Active Skirts
+    3663  Snowboarding
+    3646  Strands
+    3619  Wedding Bands
+    3610  Nursing
+    3569  Pants & Capris
+    3551  Accessory Sets
+    3539  Keyrings & Keychains
+    3511  Clasp
+    3504  Loose Gemstones
+    3466  Fascinators
+    3448  Hipsters
+    3400  Weapons & Armor
+    3380  Sheers
+    3351  Trench & Rain
+    3345  Loafers
+    3327  Briefcases
+    3303  Charm
+    3290  Cotton
+    3289  Drawstring Bags
+    3282  Folding Umbrellas
+    3274  Insulated Shells
+    3273  Belt Buckles
+    3233  Bucket Hats
+    3174  Soccer & Futsal
+    3169  Baby Dolls & Chemises
+    3111  Food Service
+    3100  Lockets
+    3076  Casual & Dress Socks
+    3034  Over-the-Knee
+    3031  Nightgowns
+    3022  Active Sweatsuits
+    3013  Bibs & Pants
+    3011  Overalls & Coveralls
+    3007  Y-Necklaces
+    3002  Pocket Watches
+    2973  Swimwear Sets
+    2914  Trench Coats
+    2906  Health Care & Food Service
+    2887  Repair Tools & Kits
+    2875  Swimwear
+    2870  Scrub Sets
+    2867  Travel Totes
+    2850  Insulated
+    2842  Faux Body Piercing Jewelry
+    2813  Compression Shorts
+    2806  Boy Shorts
+    2802  Bowling
+    2763  Screws
+    2741  Women's Swimwear
+    2728  Active Skorts
+    2723  Half Slips
+    2716  Robes, Capes & Jackets
+    2698  Control Panties
+    2695  Blanket Sleepers
+    2695  Body Chains
+    2691  Lingerie Sets
+    2689  Shorts & Trunks
+    2673  Rash Guard Sets
+    2667  Girls Sneakers
+    2650  Visors
+    2641  Handbag Organizers
+    2639  Footies
+    2634  Baseball & Softball
+    2634  Beanies & Knit Hats
+    2598  Rain Jackets
+    2580  Intimates
+    2574  Equestrian Sports
+    2515  Bustiers & Corsets
+    2496  Track & Field & Cross Country
+    2489  Toe Rings
+    2422  Shoe Care Treatments & Dyes
+    2420  Applique Patches
+    2401  One Pieces
+    2399  Martial Arts
+    2377  Tie Clips
+    2376  Compression Socks
+    2337  Eyeglass Chains
+    2321  Quilted Lightweight Jackets
+    2278  Pearl Strands
+    2253  Passport Wallets
+    2228  Rain Footwear
+    2211  Waist Cinchers
+    2208  Hoodies & Active
+    2154  Sport Headbands
+    2150  Mittens
+    2122  Hunting
+    2118  Healthcare Uniforms
+    2116  Footwear
+    2111  Bridal Sets
+    2079  Snake
+    2065  Snow Suits
+    2018  Passport Covers
+    1987  Cabinets & Cases
+    1968  School Uniforms
+    1959  Earmuffs
+    1942  Money Clips
+    1936  Sport Sandals
+    1931  Women's Halloween Costumes
+    1919  Luggage Straps
+    1914  Fashion-forward finds
+    1899  Men's Halloween Costumes
+    1890  Volleyball
+    1869  Berets
+    1843  Collars
+    1835  Travel Wallets
+    1776  Women's Apparel
+    1774  Football
+    1758  Tights & Pants
+    1755  Night Out
+    1727  Motorcycle & Combat
+    1725  Pullover
+    1685  Jammers
+    1631  Mary Jane
+    1619  Handkerchiefs
+    1618  Tapers
+    1616  Baseball
+    1604  Identification
+    1560  Jewelry Armoires
+    1519  Adhesive Bras
+    1517  Breeches
+    1514  Liners & Ankle Socks
+    1514  Garment Bags
+    1510  Cold Weather Scarves
+    1509  Two-Piece Suits
+    1492  PattyBoutik Apparel
+    1485  Shoe & Boot Trees
+    1430  Bomber Hats
+    1429  Anoraks
+    1426  Cardigan
+    1415  Kids' and Baby Halloween Costumes
+    1399  Handbag Hangers
+    1380  American Football
+    1379  Nursing & Maternity Bras
+    1363  Shoe Treatments & Polishes
+    1362  Climbing
+    1354  Promise Rings
+    1339  Watch Winders
+    1322  Minimizers
+    1305  Active Underwear
+    1273  Layette Sets
+    1268  Oxford & Derby
+    1262  Hats & Headwear
+    1256  Gemstones
+    1246  Varsity Jackets
+    1240  Gymnastics
+    1230  Jumpsuits & Rompers
+    1206  Training Bras
+    1197  Shoe Horns & Boot Jacks
+    1178  Athletic & Outdoor
+    1172  Caps
+    1161  Ball
+    1153  Shoe Bags
+    1141  Chef Jackets
+    1126  Checkbook Covers
+    1113  Wedding Dresses
+    1109  Suit Separates
+    1105  Jiu-Jitsu
+    1102  Breast Petals
+    1097  Racquet Sports
+    1091  Leotards
+    1087  Italian Style
+    1080  Arm Warmers
+    1074  Scrub Jackets
+    1059  Equestrian Sport Boots
+    1056  Ice & Snow Grips
+    1054  Backpacking Boots
+    1046  Eternity Rings
+    1043  Workout Top & Bottom Sets
+    1029  Wrestling
+    1024  Full Slips
+    1019  Makeup, Facial Hair & Adhesives
+     992  Shoe Polishes
+     961  Cheerleading
+     955  Snow Boots
+     950  Tuxedos
+     946  Boys Athletic
+     941  Handbags & Shoulder Bags
+     930  Shoe Care Kits
+     928  Lab Coats
+     912  Dress Coats
+     911  Bridal Accessories
+     892  Sleep Tops
+     859  Tankini Sets
+     856  Jewelry Rolls
+     839  Teddies & Bodysuits
+     830  Suit Jackets
+     828  Bloomers, Diaper Covers & Underwear
+     823  Tie Pins
+     816  Aprons
+     814  Bridal Veils
+     813  Karate
+     801  Softball & Baseball
+     799  Wind & Rain
+     784  Swim Diapers
+     778  Hosiery
+     764  Cleaning & Care
+     760  Luggage Scales
+     747  Kids' Clothing
+     746  Unisex Baby Clothing
+     746  Shoe Brushes
+     745  Active Dresses
+     728  Sunglasses & Eyewear
+     723  Athletic Supporters
+     713  Bib Shorts
+     709  Retainers
+     709  Hats
+     699  Bibs
+     697  Gym Totes
+     693  Active Vests
+     687  Anniversary Rings
+     686  Luggage Locks
+     672  Ice Skating
+     666  Thigh Slimmers
+     664  Bra Extenders
+     664  Knits & Tees
+     662  Ice Hockey
+     657  Military & Tactical
+     647  Facial Hair
+     646  Bolo Ties
+     635  Skirts, Skooters & Skorts
+     623  Garters & Garter Belts
+     616  Kids' Luggage
+     612  Straps
+     610  Bodystockings
+     600  Earring Jackets
+     598  Kids Shoes
+     588  Eyewear
+     587  Girls Apparel
+     578  Softball
+     572  Boxing
+     561  Pads & Enhancers
+     545  Tuxedo Shirts
+     531  Dental Grills
+     530  Men's Swimwear
+     526  Sport Watches
+     522  Pajama Bottoms
+     518  Belly Bands
+     513  Jackets and Coats
+     510  Leg Warmers & Hosiery
+     505  Motorcycle & ATV Casual Footwear
+     494  Girls' Swimwear
+     491  Sunsuits
+     481  Cover-Ups & Wraps
+     475  Rugby
+     472  Oxfords & Loafers
+     432  Smartwatches
+     432  Baby Dolls, Chemises & Negligees
+     432  Bloomers
+     415  Tops & Corsets
+     408  Undershirts, Tanks & Camisoles
+     407  Garter Belts
+     396  Chef Pants
+     389  Made in USA
+     384  Uniform Dress Shoes
+     377  Civil Service
+     372  Skorts
+     368  Diamonds
+     366  Christening
+     345  Girls Sandals & Pumps
+     340  Kids
+     340  Skirts, Scooters & Skorts
+     331  Pocket Watch Chains
+     329  Feather Boas
+     328  Snow Pants & Bibs
+     327  Apparel and accessories Made in Italy
+     323  Button-Down & Dress Shirts
+     321  Oxford & Loafer
+     320  Ring Enhancers
+     302  Street, Surf & Skate
+     297  Costume Makeup
+     295  Pleated
+     295  Blouses
+     292  ID Cases
+     288  Cross-Body Sling Bags
+     287  Women's Shoes
+     285  Shirt Studs
+     284  Undershorts
+     281  Control Slips
+     280  Girls Boots, Clogs & Mules
+     279  Kung Fu
+     277  Suit Pants
+     266  Collar Stays
+     263  Shoe Dryers
+     261  Girls Athletic & Oxfords
+     260  Dresses & Jumpers
+     260  Trunks & Shorts
+     258  Boys Sneakers (fs, no puma)
+     255  Kids Tops & Tees
+     246  Field Hockey & Lacrosse
+     245  Wallets & Money Organizers
+     244  Baby Girls' Swimwear
+     239  Tights & Hosiery
+     234  Boys' Swimwear
+     233  Fashion Watches
+     232  Bib Pants
+     226  Rain Hats
+     223  Cover-Up Sets
+     220  Girls Flats & Loafers
+     217  Kids Activewear
+     213  Petite
+     212  Chemises
+     209  Sleepwear & Robes Sets
+     206  Boys Activewear
+     201  Garters
+     190  Nightshirts
+     188  Girls Tops & Tees 1
+     188  Jewelry Chests
+     188  Backpacks, Bags, & Luggage
+     187  Rain Boots
+     185  Training Pants
+     184  Kids Swimwear
+     180  Water & Stain Treatments
+     180  Kids' Watches
+     177  Restaurant Store
+     177  Food Service Uniforms
+     176  Baby Dolls
+     172  Motorcycle & ATV Casual Wear
+     170  Kids Sleepwear & Robes
+     170  Total Sleepwear & Robes
+     168  Boys Active
+     167  Special Occasion Gloves
+     166  Apparel and Accessories
+     157  Plain Silver Jewelry
+     148  Sweatsuits
+     145  Men's fashion Made in Italy
+     143  Shoe Cleaners
+     143  Baby Boys' Swimwear
+     140  Fire & Safety Boots
+     140  Ballet
+     136  Fire & Safety
+     135  Onesies
+     135  Comfort Shoes
+     134  Compression Arm Sleeves
+     132  Girls Sneakers (fs, no puma)
+     132  Women's fashion Made in Italy
+     130  Girls Swimwear 2
+     127  Food Service Apparel
+     125  Women's Festive Wear
+     123  Toddler Size 7
+     122  Big Kid Size 7
+     121  Cravats
+     121  Luggage Carts
+     120  Bulk Buying & Case Packs
+     120  Pendant Enhancers
+     117  Girls Activewear
+     116  Kids Jackets and Coats
+     116  Pearl Jewelry
+     113  Union Suits
+     108  Tangas
+     108  Taekwondo
+     108  Swim Pants
+     105  Bags Made in Italy
+     103  Lingerie Tape
+      98  Dyes
+      98  Girls Tops & Tees
+      97  Walking Sticks & Canes
+      94  Toddler Size 6
+      93  Diamond Jewelry Store
+      93  Girls Sneakers (no fs)
+      93  Toddler Size 8
+      91  Bags, Wallets & Accessories
+      90  Mountaineering Boots
+      88  Luggage Handle Wraps
+      86  Compression Tops
+      86  Children's Jewelry Boxes
+      83  Capris
+      77  Jewelry Gifts
+      77  Amazon Business Uniform Store
+      76  Knee-High Socks
+      76  Shoe Measuring Devices
+      75  Boys Sneakers
+      74  Headwraps
+      74  Boys Boots, Clogs & Mules
+      73  Pocket Squares
+      71  Mastectomy Bras
+      68  Monokinis
+      68  Wands
+      66  HG Frequent Plus 4+ Stars
+      65  Boys Sneakers (no fs)
+      64  Boys Jackets and Coats
+      63  Oprah's Favorite Things|Burt's Bees Baby
+      61  Boys' Character Shop
+      61  Adult Apparel
+      60  First Communion Veils
+      60  Ring Sizers
+      59  Breast Lift Tape
+      59  Toddler Size 5
+      57  Girls Sleepwear & Robes
+      56  Amazon Private and Exclusive Brands
+      55  Baby Clothing & More
+      54  Next-Gen Trends
+      53  Cummerbunds
+      53  Girls Jackets & Coats
+      52  Girls Jackets and Coats
+      52  Cricket
+      52  Sensational Steals
+      50  Handball
+      50  Boys Tops & Tees
+      49  Timex
+      49  Girls Active
+      48  Boys Swimwear 3
+      48  Kids Apparel
+      48  Clothing Coinstar Exclusive
+      47  Compression Leg Sleeves
+      47  Pajama Tops
+      45  Food Service Shoes
+      45  Girls Slippers & Outdoors
+      45  Hand Fans
+      44  Accessories Made in Italy
+      44  Electric Shoe Polishers
+      43  Fashion from Small Businesses
+      43  Camisoles
+      43  Boys Sleepwear & Robes
+      42  Kids' Spring Guide 2012
+      41  Plain Gold Jewelry
+      41  Judo
+      40  All-Gender Kids
+      39  Girls Dresses
+      39  Nine West HQP
+      38  Bib Tights & Pants
+      38  Womens Shein Only
+      38  M Next-Gen Apparel
+      37  Women's customer-loved styles
+      36  Softshell Jackets
+      35  4+ Stars: Clothes, Shoes and Jewelry
+      35  Boys Oxfords & Sandals
+      35  G-Strings, Thongs & Tangas
+      34  Lucky Brand Men's Jeans
+      33  Multifunctional Headwear
+      33  Kids Jeans
+      32  Unitards
+      31  Men's Watch Accessories
+      31  Girls Leggings
+      30  DO NOT USE
+      30  Kendo
+      29  Briefs & Shorts
+      29  Boys Tops & Tees 2
+      29  4+ Star Dresses
+      29  Cozy PJs for the Family
+      28  Character Clothing
+      28  Boys Pants
+      27  Womens Next-Gen Trends
+      27  Prom
+      27  Boys Apparel
+      27  Pajamas, Loungewear & More
+      27  Kids Fall New Arrivals
+      27  Men's Next-Gen Trends
+      26  Smart Jewelry
+      26  Women's Plus-Size Fashion
+      26  Styles for Spring Break
+      26  Juniors
+      26  Cut-Out Dresses
+      25  XS-3X
+      25  Top Daring Lingerie
+      25  Kneeskins
+      24  Night Out & Cocktail
+      24  Kids' Shoes Markdown
+      24  Cozy Slippers for All
+      24  Sleepwear & Robes for Mom
+      24  Women's Romantic Loungewear
+      24  Festive Fashion Jewelry
+      24  Sterling Silver Jewelry
+      23  Womens Shein + More
+      23  Shop Anne Klein
+      23  Fun World Costumes
+      22  Patterned Shirts: Floral
+      22  T-Shirts & Tanks
+      22  Polka-dot dresses
+      22  Folding Fans
+      22  Old Glory Exclusives
+      22  Mens Plus Size Fashion
+      21  Girls Pants
+      21  Uniforms
+      21  Organic Baby Clothing
+      21  Boys Loafers and Outdoor
+      21  California Costumes
+      21  Style Crush
+      21  Boys Slippers
+      21  Untuckit
+      20  Women's Costumes - Decades & Period Costumes
+      20  Heidi Klum's Boo-tique | Adult Costumes
+      20  Festive Jewelry
+      20  Kids Sweaters
+      20  Total Sweaters
+      20  Back-to-School Backpacks
+      20  Prom Styles We Love
+      20  Disney/Pixar Costumes
+      19  Fine Jewelry for Women
+      19  Rolling Luggage
+      19  Kickboxing
+      19  Classic Halloween Costumes
+      19  Gray dresses
+      18  Girls Jeans
+      18  Fleece Jackets
+      18  Men's Costumes - Classic Costumes
+      18  Girls Tops & Tees 2.2
+      18  Fashion Jewellery
+      18  Women's Fall Boots
+      18  Womens Summer Styles
+      18  Women's Fall Dresses
+      17  REDO W GENZ SHOES
+      17  Rhinestones earrings
+      17  Prom- Dresses
+      17  Women's leopard print dresses
+      17  Paddle Fans
+      17  Women's Costumes - Classic Costumes
+      16  Get It Fast: Cold-Weather Gear for the Family
+      16  Down Jackets
+      16  Petticoats
+      16  Pearl bracelets
+      16  Star Wars Costumes
+      16  Romantic dresses
+      16  Commuter Pass Cases
+      15  Womens GenZ Accessories
+      15  Girls Sweaters
+      15  Better Swimwear
+      15  Ugly Holiday Sweaters (and More) for the Family
+      15  Waterproof Jackets
+      15  Boys Jeans
+      15  The Super-Cute Baby
+      15  Collectible Watches
+      15  Mens Next-Gen Accessories
+      14  Plus Size Fashion
+      14  Precious Jewelry
+      14  Geek Attire
+      14  Lacrosse
+      14  Women's tangerine dresses
+      14  Citizen
+      14  Colorful Flip-Flops
+      14  School Styles
+      14  Pearl earrings
+      13  Fall-Ready Shirtdresses
+      13  REDO W GENZ ACCESS
+      13  MLG Jewelry
+      13  Kids_Apparel
+      13  Underwear and swimwear Made in Italy
+      13  Certified Pre-Owned
+      13  Ripple Junction T-Shirts
+      13  Women's plaid dresses
+      13  Dresses- Checks
+      13  Bundle-Up Coats for Baby
+      13  Girls' Character Shop
+      12  A Curvy Shape
+      12  Premium Tops
+      12  Womens Shein + Add'l Brands
+      12  Cobalt dresses
+      12  Apparel
+      12  Star Wars Clothing & Costumes
+      12  Decade & Period Costumes
+      12  Women's Costumes - Animal Costumes
+      12  Cycling Bottoms
+      12  Shein Brands + More
+      12  Cartoon & Movie Costumes
+      12  Lee Lowest Prices Of The Season
+      12  St. Patrick's Day Styles for All
+      12  Mens Next-Gen Shoes
+      11  Video Game T-Shirts
+      11  Kids Apparel Same-Day Delivery From COOKIESKIDS
+      11  XCat Search Experiment
+      11  Receiving Blankets
+      11  Big Kid Size 8
+      11  Oprah's Favorite Things | Peepers Glasses
+      11  Baby Girls Shoes
+      11  Pearl Jewelry for Fall
+      11  Pretty Winter Floral Prints
+      11  Mood-Boosting Prints for Her
+      11  Men's Costumes - TV & Movie Characters
+      11  Bold Stone Jewelry
+      11  Update Your Athleisure: Jogger Pants
+      11  Denim Updates: Frayed Hem
+      11  Easy Dresses
+      11  Women's tie-dye tops
+      10  Boys Shoes
+      10  Rain Pants
+      10  Oprah's Favorite Things | Burt's Bee Baby
+      10  Humorous T-Shirts
+      10  Women's Jewelry
+      10  Bold Gold Jewelry for Fall
+      10  Women's floral tops
+      10  Swimwear for everyone
+      10  Baby Character Shop
+      10  Cultural Wear for Women
+      10  Closet Favorites: Shorts
+      10  Hoop earrings
+      10  Women's Costumes - TV & Movie Characters
+      10  Rubies Costumes
+      10  Women's maxi skirts
+      10  Women's plaid tops
+      10  Hadley-Roma
+      10  Zodiac Jewelry
+      10  Dance Shoes
+      10  Men's Athletic Shoes
+      10  Tie-dye dresses
+      10  Feminine Spring Blouses
+      10  Fashion with Pride
+       9  Women's Costumes - Superheroes
+       9  Ski Suits
+       9  All Adult Accessories v1
+       9  Watches, Jewelry & More for Dad
+       9  Men's Fall Shoes: Lace-Up Boots
+       9  Men's Summer Stock-Up: Light-Wash Jeans
+       9  Kids Fashion
+       9  Jewelry Made in Italy
+       9  Easy Summer Slip Dresses
+       9  Women's Active Clothing, Shoes and More
+       9  Men's Summer Styles
+       9  Men's customer-loved styles
+       9  Amazon Student Week
+       9  Women’s shirt, dress and more from Zeagoo and HOTOUCH
+       9  Band T-Shirts
+       9  The Cool Kid
+       9  Silver earring sets
+       9  Holiday Dress-Up: One-Pieces
+       9  Jewelry by Indian Sellers
+       9  Women's Matching Sets
+       9  Ready to Move in Reebok
+       9  Graphic Apparel
+       9  Pearl necklaces
+       9  Silver earrings
+       9  Marvel Clothing Store
+       9  Not-Your-Mother's Cableknit
+       8  Character Shop
+       8  Fun Face Masks for All
+       8  Beanies
+       8  Titan Watches
+       8  Lilac dresses
+       8  Essential Luggage Sets
+       8  Adult Unisex Tops v1
+       8  The Super-Cute Baby: Boys' Clothing
+       8  College Essentials for Her
+       8  Animal-Print Styles
+       8  Y2K
+       8  Dresses for Women, Girls & Baby Girls
+       8  Suited Up - Women's
+       8  Summer-Fun Style for Her: Tops
+       8  Women's Leather Watches for Spring
+       8  Orient
+       8  Luminox
+       8  Rhinestones bracelets
+       8  Sparkly Flats
+       8  Effortless Day Dresses
+       8  Disney T-Shirt Shop
+       8  Men's
+       8  Aqua dresses
+       8  Silky Scrunchies
+       8  Women's Cozy Loungewear: Sets
+       8  Cozy Styles for Her: Sleepwear & Robes
+       7  All-Gender Fashion
+       7  Tournament Jackets
+       7  A New Take on Layering
+       7  Get Cozy at Home: Warm, Comfy Layers
+       7  Playground Chic
+       7  Chunky Chain-Link Jewelry
+       7  Perfect Petite Studs
+       7  Camera-Ready Styles
+       7  At-Home Essentials: Sweatpants
+       7  The Women's Spring Trend Edit: Frill Seekers
+       7  Boys Sweaters
+       7  Men’s Work-to-Weekend Boots
+       7  Womens Ethnic Wear
+       7  Plaid work dresses
+       7  Wedding Guest Dresses
+       7  Saturday 11/27 error
+       7  Men's Fall Shoes: Sneakers
+       7  A Slight Tummy
+       7  Funny Costumes
+       7  Satin PJ Sets
+       7  Women's leopard print tops
+       7  The Women's Sweater Edit: Turtleneck
+       7  10 Classic Pieces: Dark Denim
+       7  Casual Leather Women's Watches
+       7  Girls Sandals
+       7  Star Wars T-Shirts
+       7  New Year, New Gear: Workout Wear for All Ages
+       7  Men's Fall Shoes: Oxfords
+       7  Graphic Tee Shop
+       7  Gold Chains
+       7  The newness for Spring
+       7  Swimwear for the Family: Men
+       7  Women's Wool Coats
+       7  Everyday Value Brands
+       7  Date Night Looks for Him
+       7  The Women's Fall Outerwear Edit: Shackets
+       6  Men's Retro Cardigans for Fall
+       6  Weather Aware CX - Heat - SL
+       6  Goalie Shorts
+       6  PRZ and PAWS - Women
+       6  Festive Wear for Women
+       6  Pajamas for All
+       6  Animal Costumes
+       6  Superheroes
+       6  Women's Activewear: Bottoms
+       6  Liberty Footwear Collection
+       6  Everyday Watches
+       6  Date Night Looks for Her
+       6  Festive Holiday Sweaters for All
+       6  Family Getaway Styles
+       6  Women's Luxury Watches
+       6  Go-to fall styles: Accessories
+       6  All Classic Jewelry
+       6  The More The Merrier - Slippers
+       6  Form-Fitting Dresses
+       6  Premier Fashion Jewelry
+       6  Comfort Goals
+       6  Must-Have Bracelet Watches
+       6  Easy Summer Shirt Dresses
+       6  Fast-Track Your Fall Wardrobe: Shirtdresses
+       6  Women's Active: Our Brands
+       6  Bold Activewear
+       6  Women's Oversized Blazers for Fall
+       6  Date-Night Looks for Her
+       6  Women's Layering Knits for Fall
+       6  Sunglasses for Spring Break
+       6  Michael Kors Access Wearables
+       6  Romantic Florals
+       6  Men’s 9-to-5 Essentials: Blazers & Jackets
+       6  Nostalgic Styles
+       6  Color Trend: Living Coral
+       6  Women's one shoulder tops
+       6  Women's Outdoor Styles
+       5  Womens GenZ Shoes
+       5  Men's Activewear: Tops
+       5  White Elephant Gifts
+       5  Summer Dresses from Amazon Fashion
+       5  Silver bracelets
+       5  Michele Watches
+       5  Father’s Day Gifts: Wallets & Card Cases
+       5  Tag & Handle Wrap Sets
+       5  Cottagecore
+       5  High-Waisted Pants
+       5  Boys & Girls Layette Sets
+       5  Casual Styles for All
+       5  Silver necklaces
+       5  Women's Costumes - Accessories & Wigs
+       5  The Super-Cute Baby: Shoes & Accessories
+       5  Coveted Classics
+       5  Gray work dresses
+       5  Ready for Fun
+       5  Paper Magic Group
+       5  Women's Coatagins for Fall
+       5  Build Your Wardrobe: Cardigans for Him
+       5  Women's Classic Coats: Trench
+       5  Stripes
+       5  3-in-1 Jackets
+       5  Birthstone Jewelry Gifts
+       5  Holiday-Ready Dresses
+       5  Women's Polished Accessories: Blue-Light Glasses
+       5  Men's Work Boots
+       5  Baby Costumes - Animal Costumes
+       5  Rubie's Batman vs. Superman
+       5  Leg Avenue Hosiery
+       5  Leggings & Leg Warmers
+       5  Women's Cozy Nap Dresses
+       5  Ethnic Apparels
+       5  Mickey & Friends
+       5  Plus Picks: Light-Wash Denim
+       5  CML Women's ILM
+       5  Netball
+       5  Kids' Light-Up Shoes
+       5  Graphics Tee Shop: All
+       5  Roxy Clothing & Accessories
+       5  Bubblegum Pink
+       5  Separates
+       5  May the 4th
+       5  Men's Sharp Suits + Shirts
+       5  Men's D3 Classic Fit
+       5  The Women's Fall Trend Edit: '70s-Inspired Looks
+       5  Women's Costumes - Career Costumes
+       5  Build Your Wardrobe: Cardigans for Her
+       5  Halloween
+       5  Cozy Sleepwear for All
+       5  Womens New Arrivals
+       4  Bags & Wallets
+       4  Baby Girls' Outerwear
+       4  The Warm-Weather Edit: Dresses
+       4  MEN'S FALL-READY SWEATERS, JACKETS AND MORE
+       4  Shop Crocs Shoes
+       4  Women's Costumes - Scary & Creepy
+       4  Bucket Bags We Love
+       4  Internet_Famous_2021
+       4  Fill Your Box: Festive Styles for Her
+       4  Aikido
+       4  Girls Swimwear 1
+       4  Young Men
+       4  Women's Sweater Picks: Turtleneck
+       4  St. Patty's Day Social Curation
+       4  All Gender Watches
+       4  All Gender Adult Accessories
+       4  The Fall Dress Edit: Shirt Dresses
+       4  Wedding Guest Looks for Her
+       4  Shoes Made in Italy
+       4  @Fashion_Jackson's Warm-Weather Staples
+       4  Women's Activewear: Accessories
+       4  Men's Activewear
+       4  Velvet Crush: Women's Clothing and More
+       4  Women's Maxi Dresses
+       4  Gaming
+       4  Hair Accessories
+       4  Better Womens Running Shoes
+       4  Elevated Essentials - Women's
+       4  StyleStarters_US_Curation_Rank7
+       4  Mix & Match
+       4  Go-to summer styles: Sunhats
+       4  Easy Summer Layers: Printed Button-Downs
+       4  Women's Plus-Size Swimwear
+       4  Plus Stylist Brands
+       4  Sleek luggage styles
+       4  Must-Have Shades
+       4  Women's Costumes - Classic
+       4  Women's Knit Pants
+       4  Sparkle & Shine
+       4  Everyday Essential: T-Shirt Dresses
+       4  Men's Costumes - Accessories & Wigs
+       4  Summer Dresses from The Plus Shop
+       4  The More the Merrier - Luxe Loungewear
+       4  Privé Revaux
+       4  Underwire
+       4  Head-to-Toe Denim
+       4  Loungewear for All
+       4  StyleStarters_US_Curation_Rank6
+       4  The Women's Spring Trend Edit: Retro Prints
+       4  Hiking Apparel
+       4  Patterned Shirts: Striped
+       4  Virtual Try-on: Lipstick
+       4  Knee-length fitted dresses
+       4  Finishing Touches: Men’s Wallets & More
+       4  Gold-Tone Jewelry: Earrings
+       4  Scary Halloween Costumes
+       4  Adult Apparel All v.1
+       4  Baby Registry Reward
+       4  Night-Out Styles
+       4  Kids Athletic
+       4  Chinos
+       4  For Him: Bold Tropical Prints
+       4  Classic Sunglasses
+       4  Men's Surf, Skate & Street
+       4  Deck the Malls
+       4  Tailored Shirt Dresses
+       4  The Fall Shoe Guide: Men's Duck Boots
+       4  Workwear Shirts
+       4  Superheros & Villains
+       4  Breezy Summer Dresses
+       4  Floral party dresses
+       4  Men's Shop by Occasion - Vacation
+       4  Candy-Color Totes
+       4  Women's Red, White, and Blue Styles
+       4  Day dresses we love
+       4  10 Classic Pieces: The Chic Satchel
+       4  Watch Sets We Love
+       4  #pajamajam
+       4  Goalie Shirts
+       4  Girls: Fall Trends
+       4  Polished Styles for Work and Beyond
+       4  Women's Sweater Picks: V-Neck
+       4  Cat T-Shirts
+       4  Pearl Picks for June
+       4  Mardi Gras
+       4  Dresses- Pastel
+       4  Prom- See All
+       4  Smart Watches
+       4  Women's Summer Sandals
+       4  Women's Classic Coats: Quilted
+       4  Men's Costumes - Humorous Costumes
+       4  Women's Sleek Boots
+       4  Laptop Bags
+       4  Women's mint tops
+       4  Printed Dresses for Fall
+       4  Geek Boutique in Jewelry
+       4  Rose-Colored Glasses
+       4  Fit and flare cocktail dresses
+       4  Style FOH Uniforms
+       4  Men's Mixed-Metal Watches
+       4  Layering 101 for Her: Cargo Pants
+       4  Super-Warm Snow Gloves
+       4  Women's Summer Dresses
+       4  Girls Flats
+       4  Men's New Arrivals
+       4  Essentials from Nike
+       3  Women's Summer Bags
+       3  Long-sleeve swing dresses
+       3  Goalie Jerseys
+       3  Henley & Rugby Shirts
+       3  Skate Shoes
+       3  Women's Shop by Style- Casual
+       3  Bargain Finds in Dresses
+       3  Find the perfect coat: Trench
+       3  Romantic Summer Dresses
+       3  Cozy Styles for Her: Accessories
+       3  Romantic cocktail dresses
+       3  CML x Trend Overlap
+       3  Embellished Headbands
+       3  The Men's Fall Trend Edit: Retro-Inspired Looks
+       3  Racy Costumes
+       3  Cut Outs
+       3  College Style for Her: Cool
+       3  Free-Range Fashion
+       3  Activewear for the Family: Girls
+       3  Women's Winter Essentials: Scarves
+       3  Romantic Dresses
+       3  Luggage Gifts
+       3  Cobalt maxi dresses
+       3  Plaid for All
+       3  Fine Jewelry for Gifting
+       3  Total Kids Clothing
+       3  College Style for Her: Casual
+       3  Packing List
+       3  Packing List for Men
+       3  Women's Stylish Sweaters
+       3  Winter-Ready Smart Gloves
+       3  Classic striped dresses
+       3  Women's Oversized Sunnies for Fall
+       3  Men's Spring Styles: Weekender Bags
+       3  Women's Must-Have Jewelry: Rings
+       3  Plush Textures & Lush Leathers
+       3  Patterned bohemian style dresses
+       3  Must-Have Handbags: Backpacks
+       3  Men's Trend: Bold Logo Sweatshirts
+       3  Crossbody Bags We Love
+       3  Glove Liners
+       3  Fashion Picks: Puffers
+       3  Styles from Carter's and Oshkosh
+       3  Fifth Sun Graphic Tees
+       3  Fifth Sun Star Wars
+       3  Women's Fall Jumpsuits
+       3  Men's Sandals for Spring Break
+       3  Flowy t-shirt dresses
+       3  Kids'
+       3  Kids' Holiday Pajamas
+       3  Soft Cardigans for Her
+       3  Lace-detail occasion dresses
+       3  Halter
+       3  Women's mint dresses
+       3  Mini Skirts
+       3  Family Pajamas
+       3  Women's Activewear
+       3  Men's Fleece Layers
+       3  Gold-Tone Jewelry: Bracelets
+       3  Women's Layered Necklaces
+       3  Gold-toned Jewelry
+       3  Puff sleeve dresses
+       3  Swatch Watches
+       3  Straight-Leg Pants
+       3  Women's Boho
+       3  KATHV
+       3  Fun weekend styles- Layering bracelets
+       3  Juniors' Coats
+       3  Marvel Costume Shop
+       3  Chic Handbags
+       3  Warmest Wishes
+       3  Women's fur shoes
+       3  Women's Active Essentials: Running
+       3  Boho Mom
+       3  Women's Summer Staples: Shorts
+       3  Wrap Blouses to Wear Now
+       3  Swimwear for the Family: Girls
+       3  Face Masks and Facial Coverings: Scarves
+       3  Try out neutral hues: Coats
+       3  Monochromatic Mania
+       3  Australian Rules Football
+       3  Find the perfect coat: Puffer
+       3  Vibrant patterned dresses
+       3  Activewear Essentials: Workout Tops
+       3  Women's combat boots
+       3  Bold Sunglasses
+       3  King Will 2016 Holiday
+       3  Polka-dot sun dresses
+       3  A Rainbow of Sandals
+       3  Try out neutral hues: Accessories
+       3  Build Your Wardrobe: Flannel for Him
+       3  Girls' Holiday Apparel
+       3  Women's Everyday Denim
+       3  Muted Pastels
+       3  Boots - Women's
+       3  Wedding-Guest Looks for Him
+       3  Baguette Bags for Fall
+       3  Men's Outerwear Edit: Shackets
+       3  Girls’ Sleepwear
+       3  Men's Outerwear: Parka
+       3  Women's tangerine sweaters
+       3  On-Trend Tops for Her
+       3  Women's Trouser Leg
+       3  Easy, Elegant Dresses
+       3  Leather Products
+       3  Women's Sweater Picks: Cardigan
+       3  Plus Size: Amazon Exclusive Brands
+       3  Neff Holiday 2015
+       3  Plus-Size Holiday Party Dresses
+       3  MLG Jewelry: Featured Gifts
+       3  Disney Princess
+       3  Patterned dresses with sleeves
+       3  Athletic Sneakers for Boys
+       3  Minnie Rocks the Dots
+       3  Men's Aviators
+       3  Certified Jewelry
+       3  Women's Sheer Tops & Dresses
+       3  StyleStarters_US_Curation_Rank9
+       3  Printed Scarves for Fall
+       3  Star Wars
+       3  Women's cobalt tops
+       3  Women's Summer Shorts and Skirts
+       3  Women's Fall Staples: Gold-tone Jewelry
+       3  Newborn Essentials Clothing
+       3  On trend: hair accessories
+       3  Fashion Experts Picks: New Years Eve Dresses
+       3  Find the perfect coat: Top coat
+       3  Women's Fall Sweaters
+       3  Women's Beach Cover-Ups
+       3  Men's Wear-Now Boots
+       3  Top Sellers
+       3  Modern Jewelry
+       3  Tie-dye sun dresses
+       3  Girls Athletic
+       3  The Mini-Masters of the Universe
+       3  Men's Wayfarer Sunglasses
+       3  Activewear for the Family: Women
+       3  Girls Outdoors
+       3  The Women's Jewelry Edit: Rings
+       3  Boys Rain Jackets
+       3  Maxi dresses with sleeves
+       3  Boys' Athletic Sneakers
+       3  11/11 Men's Best Denim
+       3  Generic Baby Boy Cold Weather Clothing/Accessories
+       3  Athleisure Tops
+       2  All Gender (New Brand Identifier)
+       2  Must-Have Metal Watches
+       2  A Smarter Women's Smartwatch
+       2  Workwear
+       2  Women's  Statement Jewelry
+       2  Men's Graphic Tees
+       2  Vintage-style patterned sweaters
+       2  Boys’ Character Tees & Hoodies
+       2  Skirts-4-all- Men's
+       2  Women's Plus-Size
+       2  Men's Fall Staples: Classic Button-Downs
+       2  Cobalt work dresses
+       2  Patterned Dresses
+       2  Women's Classic Knits
+       2  The Essential Men’s Chukkas
+       2  Shift Dresses
+       2  Boots Made for Walking
+       2  Characters & Animals
+       2  StyleStarters_US_Curation_Rank2
+       2  ALEGD
+       2  The Weekender Bag
+       2  Swim for All: Women
+       2  Barely There - Women's
+       2  Gray sun dresses
+       2  All Adult Shoes v1
+       2  Bridal
+       2  At-Home Essentials: Cardigans
+       2  Women's lilac tops
+       2  Military-Inspired Hues: Everyday Bags
+       2  Everyday Dresses
+       2  Cool Dad
+       2  Ruffled Blouses to Wear Now
+       2  Shoulder Bags for Fall
+       2  Men's Fall Shoes: Loafers
+       2  Women's mint sweaters
+       2  Sling & Belt Bags
+       2  Men's Costumes - Career Costumes
+       2  Roll Models - Athleisure & More
+       2  Women's Denim
+       2  Blazers & Suit Jackets
+       2  Swimsuits for Spring Break
+       2  Rain Suits
+       2  Boys' Activewear
+       2  Retro Sunglasses
+       2  New Contemporary & Designer Crossbody Bags
+       2  Men's Accessories for Party Season
+       2  Effortless Cool
+       2  Oris Watches
+       2  Girls Apparel Next 10k
+       2  Men's Fall Staples: Crewneck Sweaters
+       2  Women's Summer Styles
+       2  Men's Summer Staples: Shorts
+       2  Mystery House Costumes
+       2  Freeze T-Shirts
+       2  Watches for the Family
+       2  Face Covers
+       2  Transitional Outerwear
+       2  Hybrid Shorts
+       2  Kindness & Positivity
+       2  Skirts & Shorts
+       2  Men's Hikers for Fall
+       2  Men's Shoe Edit: Sandals
+       2  Glamorous evening gowns
+       2  Wishful by W
+       2  Handpicked Diamond Jewelry
+       2  Men's Casual Watches
+       2  Heidi Klum's Boo-tique
+       2  Women's Timeless Watches
+       2  Sheath Dresses
+       2  Indian Festive Rakhi
+       2  Socks and underwear Made in Italy
+       2  Butter Yellow
+       2  Everyday Essentials: Button-Down Shirts
+       2  Wardrobe Staples: Utility Boots
+       2  Rubie's Batman V Superman: Dawn of Justice
+       2  Fun Flat Sandals: Strappy
+       2  A Light-Catching Bag
+       2  Men’s Shopping List: 10 Key Pieces for Fall
+       2  Women's Holiday Apparel
+       2  Wedding-Guest Looks
+       2  Women's Utility Styles
+       2  The Fall Boot Edit for Her
+       2  Plus-Size Date-Night Styles
+       2  Couples Costumes
+       2  Billa-RP
+       2  Mini Backpacks
+       2  Men's Workleisure
+       2  Must-Have Handbags: Top-Handle Bags
+       2  Statement Sandals
+       2  Women's Shop by Style Handbags: Sporty
+       2  Playful Slippers for Kids
+       2  Men's Warm-Weather Shoes
+       2  Snuggly Robes
+       2  Layering Sweaters
+       2  Classics with a Twist: Handbags
+       2  Fun Hats for Kids
+       2  Cozy Boots
+       2  Embroidered Florals
+       2  Sew Joyful - Feel Good Fashion
+       2  Colored-Dial Watches
+       2  Knockout Knits
+       2  Fashion Experts Picks: Holiday Handbags
+       2  Alaska Airlines
+       2  Rompers & One-Piece
+       2  Everyone's Invited - Jewelry & Accessories
+       2  Find the perfect coat: Denim
+       2  Perfect Prints
+       2  Boys' Dress Clothes
+       2  Stylish Blouses for Mom
+       2  Men's Summer Essentials: Slides
+       2  Women's Fall Shopping List: A Baseball Hat
+       2  Must-Have Handbags: Belt Bags
+       2  Kids Unisex Apparel
+       2  Winter-Ready Hats and Scarves
+       2  Women's Trend Edit: Retro Sunglasses
+       2  Shades of Purple
+       2  New Year, New Activewear
+       2  Derby Dresses & More
+       2  Eclectic polo shirts
+       2  Shiny & New
+       2  Embellished Tops & Dresses
+       2  Laid-Back Loungewear
+       2  Women's Western Styles
+       2  Casual Blazers
+       2  Stand-out Sweaters
+       2  Best (Fuzy) Foot Forward
+       2  Military-Inspired Hues: Casual Watches
+       2  Men's Summer Staples: Tanks & Tees
+       2  Baby Boys Dress Clothes
+       2  Women's Style Staples: Denim
+       2  Women's Hair Accessories
+       2  Color Update: Pastels
+       2  A Straight Body
+       2  Men's Lace-Up Boots
+       2  Must-Have Black Boots
+       2  Loungewear for the Family: Girls
+       2  Leather Jackets
+       2  Fun weekend styles- Bright sandals
+       2  Girls Swimwear 3
+       2  Newborn Essential Gift Sets
+       2  Aqua maxi dresses
+       2  Marvel and Star Wars
+       2  Fun & Festive Gifts
+       2  Marled sweaters and cardigans
+       2  Urban Hiker
+       2  Women's Fall Trends - Denim Staples
+       2  Fun weekend styles- Clutches
+       2  Longines Watches
+       2  Going out dresses
+       2  Best Boots: Lace-Up + More
+       2  The Men's Fall Trend Edit: Country Prints
+       2  Party-Ready Shoes
+       2  Backpack Sets
+       2  Family Costumes
+       2  Lee Women's Shorts & Capris
+       2  Downtime Upgrades
+       2  Retro Styles for the Modern Man
+       2  Women's Resort Wear & Travel
+       2  A rainbow of sandals
+       2  College Essentials for Him
+       2  Generic Baby Girl Cold Weather Clothing/Accessories
+       2  Polka-dot work dresses
+       2  9-to-5 essentials: Totes
+       2  Dressed to Chill
+       2  Women's Puffer Jackets & Vests
+       2  Women's  Athleisure
+       2  Circlets
+       2  Basics from Our Brands
+       2  Leopard print sun dresses
+       2  Lagi
+       2  The City Adventurer: Men’s Clothing and More
+       2  Bold Kicks for Him
+       2  Souvenir necklaces
+       2  Cool Styles for Fourth of July
+       2  Flower Girl Dresses
+       2  Women’s Summer Shopping List: A Global-Print Swimsuit
+       2  All Gender Adult Shoes
+       2  Fun and Festive Plus-Size Fashion
+       2  Men's Retro Sneakers
+       2  Polka-dot patterned dresses
+       2  Night-Out Looks
+       2  Jeans for Every Guy
+       2  Easy Summer Fit & Flare Dresses
+       2  Printed A-line and shift dresses
+       2  Men's Fall-Ready Fleece
+       2  Effortless Handbags
+       2  Costumes - Adults
+       2  Mermaid evening gowns
+       2  One shoulder dresses
+       2  Gold-Tone Jewelry: Rings
+       2  Rain Ponchos
+       2  Biker Shorts
+       2  Sweet Lingerie Styles
+       2  Yoga Sprout
+       2  Track Jackets & Pants
+       2  Brown plaid shirts
+       2  Men's Activewear: Shoes
+       2  4+ Star Denim
+       2  Fast-Track Your Fall Wardrobe: Light Fall Jackets
+       2  At-Home Essentials: Tees
+       2  Festival Fashion
+       2  Wedding Guest Styles for Her: Dresses
+       2  Fun & Festive Sweaters
+       2  Athleisure: Jackets
+       2  Plaid skirts
+       2  Anne Klein Sport
+       2  Crafty-Chic Bags
+       2  Women's Premium Brands
+       2  Minimalist Jewelry for Her
+       2  Men's Fall Accessories
+       2  Men's Action Sport Watches
+       2  4+ Star Comfortable Styles
+       2  Swimwear for the Family: Women
+       2  Looks We Love: Winter Whites
+       2  Gorp Core- Women's
+       2  Activewear by Activity: Running
+       2  Game Time
+       2  Men's Relaxed Tailoring: Loafers
+       2  Navy floral dresses
+       2  DIY Costumes by American Apparel
+       2  Satchels We Love
+       2  Construction & Safety Uniforms
+       2  Men's Activewear: Bottoms
+       2  Baby doll dresses
+       2  Rave & Clubwear
+       2  Face Masks and Facial Coverings
+       2  Loungewear for all
+       2  Box Bags We Love
+       2  Long-sleeve polka-dot dresses
+       2  Family Sleepsets
+       2  Shop Bop
+       2  The Cold-Weather Edit for Her
+       2  Wedding Guest Styles for Her: Shoes
+       2  Lace jackets
+       2  The New Movement
+       2  Short floral sundresses
+       2  Baby Styles
+       2  Draw-String Everything
+       2  St. Patricks Day T-Shirts
+       2  Toddler Size 4
+       2  Best Running Shoes
+       2  Punchy Pastels - Women's
+       2  Men's Fall Fleece Styles
+       2  VDAY JEWELRY
+       2  Subhero 10- Wedding Guest
+       1  Sam Edelman Block Heels
+       1  MSD Boys
+       1  NFL
+       1  Dress Up Your Week: One-and-Done Work Dresses
+       1  Ombre dresses
+       1  Fashion Jewelry
+       1  Kids Sneakers
+       1  T.V. & Movie Character Costumes
+       1  Tops 2
+       1  Disney T-Shirts
+       1  Disney- Hybrid
+       1  Silk Scarves
+       1  Cool Belt Bags
+       1  crossbody bags
+       1  Chinese Laundry_Total
+       1  Face Coverings
+       1  Women's Night-Out Styles
+       1  Animal-Print Bathing Suits
+       1  Fossil: Women's Rose-Gold Watches
+       1  Women's
+       1  Gem Stone King: Diamonds
+       1  Styles for Spring Celebrations
+       1  Festive Sweaters for Her
+       1  Drop Earrings
+       1  Statement Satchels
+       1  Curb necklaces
+       1  Trapeze dresses
+       1  Girls' Chic Overcoats
+       1  Summer dresses
+       1  Pirate Costumes
+       1  The Drop - @shopdandy staples co-designs
+       1  Boys' Character Shoes
+       1  Men's Trend Edit: Cool Sunglasses
+       1  Leopard print sweatshirts
+       1  Capes & Ponchos
+       1  Women's Winter Coats
+       1  Kids' Spring Styles
+       1  Lettering sweatshirts
+       1  Women's Picks for At-Home Days
+       1  Women's Last-Minute Gifts with Free One-Day Shipping
+       1  Lush Leathers
+       1  Layering 101 for Her: Cowboy Boots
+       1  Men's Sunglasses: Oval Frames
+       1  Midi Dresses
+       1  Last-Minute Fashion Gifts DNU
+       1  The 2015 Coat Guide - Cozy Shearling
+       1  Mood-Boosting Colors
+       1  Solid longsleeve sweatshirts
+       1  HIDESIGN
+       1  Polished Leather Watches
+       1  Into the Wild - Fleece for All
+       1  Boys' Special Occasion
+       1  Bandeau
+       1  Bold Colors
+       1  Women's Handbag Edit: Backpacks
+       1  Women’s Snow Boots
+       1  Kilts
+       1  Best of Premium Brands
+       1  Women's Swim Styles: Sun Coverage
+       1  Warm Gloves
+       1  Women's Sweaters
+       1  Oversized
+       1  Dark Matters- Men's
+       1  Polka-dot date-night dresses
+       1  Mens Size Inclusive
+       1  10 Classic Pieces: A Pretty Locket
+       1  Backless Dresses
+       1  Lace occasion dresses with sleeves
+       1  Stylish espadrille sandals
+       1  Diamond Classics
+       1  Men's Shop by Occasion - Family Gathering
+       1  Statement fashion sneakers
+       1  UpdatedTotal Kids Clothing
+       1  Blouses & Button Downs
+       1  Casual button-downs
+       1  Sweaters & Vests
+       1  Casual Styles: Bottoms
+       1  Navy Watches for Her
+       1  Juniors Swimwear
+       1  For the New-School Classic: Next-Level Staples
+       1  Sporty Jackets
+       1  Women's Fall Shoe Edit: Boots
+       1  Women's Party Dresses
+       1  The Women's Jewelry Edit: Earrings
+       1  Bohemian casual sweaters and cardigans
+       1  Quilted Coats
+       1  Modern shorts
+       1  Color Trend: Ultra Brights
+       1  Not-So-Standard Sneakers
+       1  Floral date-night dresses
+       1  Women's Rectangle Sunglasses
+       1  Luggage & Bags
+       1  Girls Tops & Tees 2.1
+       1  Vibrant Primary Colors
+       1  Men's Classic Watches
+       1  Chic Summer Getaway Styles
+       1  9-to-5 Satchels
+       1  Lounge Life: Sweatshirts
+       1  For the Ahead-of-the-Trends Mom
+       1  Turtleneck sweaters
+       1  Back to Sport
+       1  Ruffle Blouses
+       1  Men's Summer Shoes: Slip-ons
+       1  Comfortable flats
+       1  Patterned blouses
+       1  The Women's Fall Shoe Edit: Boots & Booties
+       1  Red and Rose Watches
+       1  Fashion Stacking Rings
+       1  Good Running Shoes
+       1  Rhythm & Blue Jeans - Flannel
+       1  Fairytale
+       1  Adult Unisex Hoodies v3
+       1  Statement Necklaces
+       1  Simple dresses with sleeves
+       1  Other Sources
+       1  The Ruffled Blouse
+       1  Must-Have Chunky Sneakers
+       1  Juniors' Skirts
+       1  Finishing Touches: Men’s Bracelets
+       1  Colorful Carry-Ons
+       1  Women's Bright Outerwear
+       1  Bold Colored Dresses
+       1  Women's Handbag Edit: Crossbody Bags
+       1  Black History Month: Featured Styles
+       1  Men’s Fall Shopping List
+       1  Women's Perfect-Pair: Cropped
+       1  Turtleneck tops
+       1  Women's Fall Staples: Button-Downs
+       1  Women's Trend
+       1  Sleeveless occasion dresses
+       1  Dark wash denim jackets
+       1  High-waisted
+       1  Casual, But Make it Festive
+       1  AdultApparelManual
+       1  Casual loose fitting sweaters
+       1  Cup of Jo’s Favorite Amazon Fashion Finds for Moms
+       1  This Week's Customer Obsessions: Fall Styles
+       1  Statement Rings
+       1  Printed Dress Shirts
+       1  Effortless casual blouses
+       1  Polished Work Dresses
+       1  Disney
+       1  Boys' Colorful Shorts
+       1  Boots For Her
+       1  Spinners & Carry-Ons
+       1  Cold-Weather Face Covers
+       1  Night Out, Done Right For Him
+       1  Activewear Essentials: Sports Bras
+       1  Helmets
+       1  Juniors' Trend
+       1  Jacket & Pant Sets
+       1  Women's Athleisure: Tops
+       1  Wide Leg Pants
+       1  Heather grey knit sweatshirts
+       1  Basic plaid print button-down shirts
+       1  Next-Level Pastels For Him
+       1  DC Comics Costumes & Accessories
+       1  Panache Brands
+       1  Panache Lingerie
+       1  Extra-Comfy Slippers
+       1  #trending
+       1  Mood-Boosting Prints for Him
+       1  Victorinox Swiss Army Watches
+       1  Holiday Dress Guide: Updated LBDs
+       1  Statement detachable shirts
+       1  Casual & Classic Leather Watches
+       1  Big Style Country
+       1  Women's Winter Essentials: Boots
+       1  Casual solid color maxi dresses
+       1  Women's Galentine's Day
+       1  Women's Chelsea boots
+       1  Neutral sweaters
+       1  Top Watch Gifts
+       1  Stylish Activewear
+       1  Into the Wild - Winter Wonders
+       1  Polished Totes
+       1  Cinderella Clothing
+       1  Activewear Sets
+       1  Graphic sweatshirts
+       1  Patterned jeans
+       1  Tie-dye maxi dresses
+       1  Teddy jackets and pullovers
+       1  Baby Girls' Head-To-Toe Sets
+       1  Novelty Bags
+       1  Men's Shop by Occasion - Night In
+       1  Fringed outerwear
+       1  Plus-size Fashion
+       1  Waist up/ Zoom Dressing
+       1  Graphic Tees
+       1  Punchy Pastels - Premium
+       1  Floral Dresses
+       1  CML Cozy for Men
+       1  Crochet, Open Weaves & Eyelets
+       1  Everyone's Invited - Hosting
+       1  Ultra-Bright Activewear for Kids
+       1  Dinner Party Dressing: Handbags
+       1  Snow Much Fun
+       1  Prom-Ready Looks
+       1  Rain Wear
+       1  Holiday Dress Guide: Flattering Fit & Flares
+       1  The Fall Dress Edit: Prairie Styles
+       1  Roll Models - Sparkle & Shine
+       1  Refreshing Floral Dresses
+       1  Colorful tie-dye dresses
+       1  Tracksuits, Jackets & Pants
+       1  Men's Leather Boots
+       1  CampCo
+       1  New Year, New Gear: Men's Sport Watches
+       1  The New Dress-Up
+       1  Shades of Autumn: Sweaters
+       1  Sneaker Edit- Athletic
+       1  Adventure-Ready Timepieces
+       1  Minimal slip-on sneakers
+       1  Men's Metal Watches
+       1  With the Band: Women's Clothing and More
+       1  Galaxy graphic sweatshirts
+       1  Indoor Activewear for All
+       1  Lounge Bras
+       1  Nylon Handbags We Love
+       1  New & Now Men's Polos
+       1  Wedding Guest Styles for Her: Accessories
+       1  Marc Jacobs Watches
+       1  Mixed Prints: Women's Clothing and More
+       1  MLG: Silver with Swarovski Elements
+       1  Women's smocked tops
+       1  Lee Men's Jeans, Pants & Shorts
+       1  Men's Fall Shopping List: Watch Update
+       1  Snow Wear
+       1  Rose & Pink-Accented Handbags
+       1  Women's Summer-Ready Skirts
+       1  Weather Winter in Style
+       1  Men’s Retro Athletic Shoes
+       1  Men's Night-Out Looks
+       1  Bohemian patterned dresses
+       1  Casual long-sleeve button-down
+       1  Dummy Node - Family & Group Costumes
+       1  Night Out & Special Occasion
+       1  Women's Summer Staples: Tops & Tees
+       1  Bohemian printed dresses
+       1  Plus Influencer Curation
+       1  Women's shoes from PiePieBuy, FISACE, and more
+       1  Men's Top Flip-Flops
+       1  Gold-Toned Jewelry
+       1  Lounge life: Easy Tees
+       1  Romantic white blouses
+       1  Holiday Dress Guide: Exposed Shoulders
+       1  Sleeveless button-down shirts
+       1  Glamorous black dresses
+       1  Leather Wrap Bracelets
+       1  Windowpane print sweaters
+       1  NBA
+       1  Plush Textures
+       1  All Gender Adult Apparel
+       1  Comfort Shoes: Ankle Boots
+       1  Mens Big & Tall Fashion
+       1  Sleeveless dresses for parties
+       1  Retro Tops & Blouses
+       1  Typography & Humor
+       1  Button-down shirts with bold prints
+       1  The Women's Jewelry Edit: Bracelets
+       1  Rainbow Themed Costumes & Accessories
+       1  Jewelry Gifts: Lasting Treasures
+       1  Kids and babies apparel and accessories Made in Italy
+       1  Must-Have Sport Watches
+       1  Women's Mesh-Metal Watches
+       1  Smart Watches for All
+       1  Oktoberfest Costumes
+       1  Men's Sweater Picks: Zip-Up
+       1  Cardigans and boleros
+       1  Yellow and orange chunky sweaters
+       1  Men's Fall Shoe Edit: Rubber Boots
+       1  Breezy Blouses
+       1  Group Costumes: Harry Potter
+       1  Sneaker Edit- Retro
+       1  Destination: Night on the Town
+       1  Soft Suede
+       1  Dazzling Jewelry
+       1  Cool-kid style
+       1  Loungewear for the Family
+       1  Comfy Shoes For Kids
+       1  Selfie-Worthy Accessories
+       1  Ornate Opulence: Elegantly Adorned Watches
+       1  Logo Mania
+       1  Classic Workwear
+       1  Gender Neutral - Boys - Apparel
+       1  Women's Everyday Athleisure
+       1  Women's shirts from Roselinlin, Zolucky, and more
+       1  Hamilton Watches
+       1  Coachella
+       1  Festive Footwear
+       1  Glam Sunglasses
+       1  Neutral-Colored Handbags
+       1  Denim Updates: High Waist
+       1  Statement Sweaters for Her
+       1  Patterned tunics
+       1  Printed Tops
+       1  Cozy Knits
+       1  The Women's Fall Outerwear Edit: Textured Coats
+       1  Basic tunics
+       1  Women's Active Essentials: Yoga & Pilates
+       1  Activewear by Activity: Yoga and Pilates
+       1  Women's tangerine tops
+       1  Men's Cold-Weather Accessories
+       1  The Any-Season Dress
+       1  Women’s Fall Shopping List
+       1  Women's ombre tops
+       1  Women's Denim by Fit
+       1  White and off-white party dresses
+       1  LEGO® Watches
+       1  Stylish floral print dresses
+       1  Women's Statement Collars for Fall
+       1  Heidi Klum's Boo-tique | Costume Makeup
+       1  Men's Activewear: Accessories
+       1  Eclectic boots
+       1  Simple loose fit dresses
+       1  Baby-G Collection
+       1  Walking Shoes for the Family
+       1  Women's Polished Accessories: Silky Scarves
+       1  Try It: Bold Color Blocking
+       1  Women's Handbag Edit: Totes
+       1  Sweater Dresses
+       1  Casual navy shorts
+       1  Women's Statement Tops for Fall
+       1  Everyday-Essentials Sweatshirts
+       1  In-Sattva
+       1  Let's Get Cozy
+       1  Men's New and Now Accessories
+       1  Perfect Two-Piece Swimsuits
+       1  Dr. Scholl's Socks
+       1  Transitional Coats
+       1  The Denim Guide: Hem-Detail Jeans
+       1  Updated Kids Apparel v2
+       1  Women's Fall Workleisure: Work Bags
+       1  Men's Fall Staples: Relaxed Trousers
+       1  Men's & Women's Accessories from Our Brands
+       1  Casual Styles for Summer
+       1  Healthcare
+       1  Rhythm & Blue Jeans - Denim
+       1  Men's Sweaters
+       1  Shades of Autumn: Handbags
+       1  Fossil: Men's Dress Watches
+       1  Women's Fall Layers
+       1  Saturday 11.27
+       1  Day Dresses
+       1  Holiday Dresses: Holiday Red
+       1  All-White Denim
+       1  Cool Mom
+       1  Proper Prep
+       1  DKNY Watches
+       1  Camp Kitsch
+       1  Modern Classics
+       1  Wear-Anywhere: Court Sneakers
+       1  The carefree carryall
+       1  Everyday striped button-downs
+       1  Perfectly Polished Accessories
+       1  Men's Easy Button-Down Shirts
+       1  Dresses with bold patterns
+       1  Road Trip-Ready: Girls
+       1  Virtual Try-on: Eyewear
+       1  Summer-Fun Style for Her: Bottoms
+       1  Outdoor Adventures: Women's Activewear
+       1  Men's Must-Have Shoes: Loafers
+       1  Leather Bags & Accessories
+       1  The Denim Guide: Coated Jeans
+       1  Men's Trend: Bold Logo Jackets
+       1  Women's western denim
+       1  Boys Swimwear
+       1  Shades of Autumn: Pants
+       1  Casual solid button-down shirts
+       1  Girls' Backpacks
+       1  Eye-catching long dresses
+       1  The Warm-Weather Edit: Handbags
+       1  Retreez Holiday Themed Accessories
+       1  Kid's Cold-Weather Accessories
+       1  Summer's Top Totes
+       1  Embellished sandals
+       1  Leg Avenue Costumes
+       1  Men's Everyday Athleisure
+       1  Holiday Dress Guide: Metallics & Sparkle
+       1  Certified Fine Jewelry
+       1  Certified Mens Jewelry
+       1  Weekend Getaway
+       1  Smocked dresses
+       1  Sun-Kissed Denim
+       1  Classics with a Twist: Jewelry & Watches
+       1  Men's Lightweight Summer Layers: Sweatshirts
+       1  Jewelry & Watches
+       1  Pop Colors
+       1  The High-Shine Watch
+       1  Men's Casual-Cool Looks
+       1  Men's Sunglasses: Colored Lenses
+       1  Sabhyata
+       1  The New Blues: Men’s Denim and More
+       1  Destination: Kicking Back
+       1  Costume T-Shirts
+       1  Group Costumes
+       1  The Denim Update
+       1  Girls' Sporty Sneakers
+       1  The Great Outdoors: Accessories
+       1  winter boots
+       1  Roll Models - Seasonal Showstoppers
+       1  Women's cobalt sweaters
+       1  Gray maxi dresses
+       1  Wide-Leg Pants
+       1  Occasion dresses with sparkles and lace
+       1  Tankini Tops
+       1  Polished White Styles
+       1  Kids' Snow Boots
+       1  Showstopper Earrings
+       1  Must-Have Men's Tees
+       1  Women's Smart-Tech Jewelry and Watches
+       1  Statement Tops & More
+       1  Rave Reviews: Customers’ Most-Loved Gifts
+       1  Men's Night-Out Styles
+       1  Girls: Warm Weather Trends
+       1  The Warm-Weather Edit for Her: Dresses
+       1  All-New Watches
+       1  Perfect Day Dresses
+       1  Gold Bracelets
+       1  Classic Hits
+       1  The Men's Spring Trend Edit: Show Your Stripes
+       1  Loungewear for the Family: Men
+       1  Women's gray tops
+       1  Plus-Size Activewear
+       1  Preppy striped blouses
+       1  Women's tie-dye sweaters
+       1  Long-sleeve bodycon dresses
+       1  Jewelry and watches for Mom
+       1  Lightweight jackets and vests
+       1  Knit Dresses
+       1  Weekend Looks for Him: Hats
+       1  Jewel-Tone Coats & Jackets
+       1  SPB Wild Meadow Associate Gifting
+       1  Tailored Overcoats
+       1  Transitional Jackets
+       1  Travel Essentials: Loungewear
+       1  Men's Active Clothing, Shoes and More
+       1  Gold-Tone Watches
+       1  Jewel-Tone Dresses
+       1  Warm up to winter
+       1  Layers & warmth
+       1  Lee Men's Pants & Denim
+       1  The Look: Prairie Romance
+       1  New Wave Prints
+       1  Men's Spring Activewear
+       1  Rhinestones earring sets
+       1  Women's Floral Fashion
+       1  Liberty Shoes
+       1  Men's Lightweight Layers
+       1  The Men's Spring Trend Edit: Tailored Ease
+       1  Statement Earrings
+       1  Cozy Footwear
+       1  Men's Hats
+       1  Fashion Experts Picks: Party-Ready Shoes
+       1  Wallets, Keychains & More
+       1  Must-Have Sunglasses
+       1  Women's Fresh Activewear
+       1  Women's Bold Pink Styles: Swim
+       1  Kids' Shoes
+       1  The Women's Fall Trend Edit: Prairie Prints
+       1  Sets & Gift Sets
+       1  Women Fashion
+       1  Spring Boots & Booties
+       1  athleisure final selection
+       1  Classic Workwear for Her
+       1  Super Hero T-Shirts
+       1  Trailblazing Boots for Him
+       1  Women's straight leg jeans
+       1  Desk to Dinner
+       1  Loungewear for the Family: Women
+       1  Grey casual sweaters
+       1  Bright Handbags
+       1  Quilted Handbags
+       1  Women's Trend Edit: Tropical Prints
+       1  Timberland Pro
+       1  Adventure Sandals
+       1  Army green sweatshirts
+       1  Adult Unisex Hoodies
+       1  Shoulder-Baring Dresses
+       1  Workout Wonders
+       1  Eye-Catching Studs
+       1  Warm-Weather Shoes: Espadrilles
+       1  Summer's Best Accessories
+       1  Statement Making Tops
+       1  Cool Summer
+       1  PC Gaming Shirts
+       1  Outdoor Adventures: Men's Activewear
+       1  True Religion OIH
+       1  Weekend Style
+       1  Sweater dresses
+       1  Men's Activewear: Jackets & Sweatshirts
+       1  Women's Running Shoes
+       1  The Warmer-Weather Edit for Her: Handbags
+       1  Gear Up for Spring with East Dane
+       1  Hot Now: Tropical Prints and Summery Accessories
+       1  Lug Sole Boots
+       1  The Warmer-Weather Edit for Him
+       1  Short-sleeve dresses and jumpsuits
+       1  Craft Works
+       1  Men's Spring Pants & Blazers
+       1  Eclectic dress shirts
+       1  Adults Apparel
+       1  Night-Out Styles for Her: Handbags
+       1  All Gender Kids Apparel
+       1  Retro Outerwear
+       1  Sleek motorcycle jackets
+       1  Women’s Cross-Training & Gym Shoes
+       1  Casual Styles: Hoodies
+       1  Women's Swim Styles: One Pieces
+       1  Update Your Athleisure: Fleece Layers
+       1  Baby Boys' Outerwear
+       1  The Women's Spring Trend Edit: Effortless Utility
+       1  The Women's Fall Trend Edit: Retro-Inspired Looks
+       1  Emporio Armani
+       1  Luxe Bags
+       1  Women's Denim for Every Budget
+       1  Movado
+       1  Timeless white blouses
+       1  Family Athleisure
+       1  The Plus Shop: Mix-and-Match Florals
+       1  Colored Aviator Sunglasses
+       1  Kids Athletic 2.0
+       1  Weekend Essentials: Sneakers + Slip-Ons
+       1  Women's Boots
+       1  Eclectic long-sleeve button-downs
+       1  Baby Boys' Dress Clothes
+       1  Fashion for Baby
+       1  Women's Winter Dresses
+       1  Cartier Watches
+       1  Sleepwear
+       1  Blush Colors
+       1  Formal Suits
+       1  Women's Jumpsuits
+       1  Men's Spring Styles: Swimwear
+       1  Tactical boots
+       1  Women's Cozy Sweaters
+       1  Navy jumpsuits
+       1  Platform Shoes
+       1  Everyday Essential: Denim Jackets
+       1  Cowl neck sweatshirts
+       1  Graphic holiday sweatshirts
+       1  Women's Fashion Gifts: Handbags
+       1  The Women's Fall Outerwear Edit: Blanket Coats
+       1  Closet Favorites: Handbags
+       1  Women's Bright Styles
+       1  Classics with a Twist
+       1  Bodycon dresses
+       1  Strappy sandals
+       1  Men's   Winter Accessories
+       1  Snow & Skate Shop
+       1  Athleisure: Shorts
+       1  Slouchy Booties
+       1  Neutral dresses
+       1  Arshiner Girl's Dress
+       1  Night-Out Styles for Her: Shoes
+       1  Workwear Trousers
+       1  Athletic Sneakers for Girls
+       1  Slick, Sleek Sunnies
+       1  Silky Tops
+       1  Go-to summer styles: Denim
+       1  Reimagined Classics
+       1  Rolex Watches
+       1  Men’s 9-to-5 Essentials: Dark Denim
+       1  Men's Jackets & Coats
+       1  The Colder-Weather Edit for Him
+       1  OBT Plus-size Node
+       1  Our Best Satchels
+       1  Fast-Track Your Fall Wardrobe: Lace Dresses
+       1  Patterned Shirts: Plaid
+       1  Women's Style Staples: Hoodies
+       1  Outdoor Styles for Her
+       1  Prom- Jewelry
+       1  Light wash denim-style shirts
+       1  Must-Have Coats: Bold Colors
+       1  Dinner Party Dressing: Dresses
+       1  Lug Sole Boots for Her
+       1  Classic Men's Watches
+       1  Neutral toned cardigan sweaters
+       1  Larwa Men's Wear
+       1  Statement Skirts
+       1  Coastal Cowgirl Aesthetic
+       1  Denim on Denim
+       1  Shoes for Days: Boots
+       1  Wide Leg Denim
+       1  The 2015 Coat Guide - Cocoon
+       1  Banded Together: Must-Have Extras
+       1  Stylish rain boots for women
+       1  The Bold Shoulder
+       1  The Women's Sweater Edit: Chunky
+       1  Breitling Watches
+       1  Kenneth Cole
+       1  womens sweaters
+       1  Men's Essentials from Nike
+       1  Men's Button Downs
+       1  Edgy night-out pants
+       1  Women’s Summer Shopping List: The Perfect Shirt
+       1  Men's Stock-Up: Tees
+       1  Light Layers
+       1  Modern tunic tops
+       1  Juniors' Show-Stopping Dresses
+       1  GIIAI Aborist Node_TP0O9
+       1  Men's Tees
+       1  Road Trip-Ready: Men
+       1  Black strappy sandals
+       1  Go-to fall styles: Boots
+       1  Puff Sleeve Blouses
+       1  Women's Summer Whites
+       1  Kisah Men's Wear
+       1  Versace
+       1  Men's Summer Shoe Edit: Slides
+       1  Outfit-Making Beanies for Her
+       1  Dazzling Gemstones
+       1  Hiker-Inspired Backpacks
+       1  Boys: Fall Trends

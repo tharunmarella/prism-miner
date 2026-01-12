@@ -1,0 +1,1951 @@
+{
+  "category": "All_Beauty",
+  "total_items_scanned": 112590,
+  "total_unique_keys": 99,
+  "attributes": [
+    {
+      "name": "Brand",
+      "occurrence": 72113,
+      "frequency_pct": 64.05,
+      "examples": [
+        "Bath & Body Works",
+        "WILLBOND",
+        "Hairro",
+        "S-noilite",
+        "Generic",
+        "AVON",
+        "Sunny Hair",
+        "Maitys",
+        "KISS",
+        "YMHPRIDE",
+        "Patelai",
+        "RUNATURE",
+        "Boao",
+        "Bargz",
+        "SEGO"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 67825,
+      "frequency_pct": 60.24,
+      "examples": [
+        "0.2 x 0.2 x 0.2 inches; 3.2 Ounces",
+        "1 x 1 x 1 inches",
+        "5 x 3 x 0.1 inches; 0.16 Ounces",
+        "7.91 x 7.04 x 2.56 inches; 2.79 Ounces",
+        "4 x 2 x 1 inches",
+        "7.8 x 5 x 1.1 inches; 3.99 Ounces",
+        "10.83 x 7.48 x 0.75 inches; 3.28 Ounces",
+        "7.9 x 5.6 x 1.4 inches; 0.81 Ounces",
+        "5.24 x 2.64 x 0.55 inches; 0.63 Ounces",
+        "5 x 3.2 x 0.6 inches; 0.35 Ounces",
+        "2 x 2 x 2 inches",
+        "2 x 2 x 2 inches; 1 Pounds",
+        "3.94 x 3.15 x 0.59 inches; 2.82 Ounces",
+        "5.2 x 4.8 x 0.24 inches; 0.21 Ounces",
+        "4.49 x 4.09 x 0.04 inches; 3.53 Ounces"
+      ]
+    },
+    {
+      "name": "UPC",
+      "occurrence": 60252,
+      "frequency_pct": 53.51,
+      "examples": [
+        "074170370539",
+        "883732880894 785525796958 885108910778 885310019306 788142844866 789603451630 845940010593 093477007443 885405100261 701200251758 701383030126 885287212724 794437415482 845940010708 787461783009 870013007743 794437387390",
+        "022400526379",
+        "017000068244",
+        "075450202267 754502022670 798527307176",
+        "712411910716 635909840305 707242956767 886950393344 707242786722",
+        "787734207287",
+        "758024007641",
+        "888309278128",
+        "809219770298",
+        "881551612450 036954773004 884663334319 730158031181",
+        "882125333665",
+        "632181533949 605349671791 708302897907 043917219103 753927569036",
+        "722208966116 722208966109",
+        "827755020431"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 39527,
+      "frequency_pct": 35.11,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Item Form",
+      "occurrence": 32439,
+      "frequency_pct": 28.81,
+      "examples": [
+        "Cream",
+        "Liquid",
+        "Gel",
+        "Pair",
+        "Powder",
+        "Spray",
+        "Oil",
+        "Bar",
+        "Lotion",
+        "Pencil",
+        "Stick",
+        "Wand",
+        "Balm",
+        "Wrap",
+        "Scrunchie"
+      ]
+    },
+    {
+      "name": "Material",
+      "occurrence": 30942,
+      "frequency_pct": 27.48,
+      "examples": [
+        "Human Hair",
+        "Synthetic",
+        "Plastic",
+        "Acrylic",
+        "Human",
+        "Metal",
+        "Cotton",
+        "Rubber",
+        "Faux Mink",
+        "Silicone",
+        "Silk",
+        "Ceramic",
+        "Nylon",
+        "Polyester",
+        "Mink Fur"
+      ]
+    },
+    {
+      "name": "Hair Type",
+      "occurrence": 26719,
+      "frequency_pct": 23.73,
+      "examples": [
+        "Straight",
+        "Wavy",
+        "All",
+        "Curly",
+        "Wavy, Curly",
+        "Dry",
+        "Curly, Straight",
+        "Curly, Kinky",
+        "Kinky",
+        "Color",
+        "Damaged",
+        "Thick",
+        "Curly, Coily",
+        "Fine",
+        "Normal"
+      ]
+    },
+    {
+      "name": "Unit Count",
+      "occurrence": 23855,
+      "frequency_pct": 21.19,
+      "examples": [
+        "1.00 Count",
+        "1 Count",
+        "2.00 Count",
+        "3.00 Count",
+        "1.00 Fl Oz",
+        "1.0 Count",
+        "1.0 Ounce",
+        "6.00 Count",
+        "4.00 Count",
+        "12.00 Count",
+        "5.00 Count",
+        "10.00 Count",
+        "1.7 Fl Oz",
+        "2.0 Ounce",
+        "4.0 Ounce"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 23277,
+      "frequency_pct": 20.67,
+      "examples": [
+        "16 x 1 x 1 inches; 1.76 Ounces",
+        "18 x 1 x 1 inches; 1.76 Ounces",
+        "5 x 0.25 x 7 inches; 0.16 Ounces",
+        "14 x 1 x 1 inches; 1.76 Ounces",
+        "4.7 x 1.96 x 0.39 inches; 0.8 Ounces",
+        "20 x 1 x 1 inches; 1.76 Ounces",
+        "22 x 1 x 1 inches; 1.76 Ounces",
+        "6 x 2.8 x 0.6 inches; 0.63 Ounces",
+        "1.18 x 1.18 x 2.95 inches; 1.06 Ounces",
+        "1.97 x 1.97 x 1.97 inches; 1.76 Ounces",
+        "1.18 x 1.18 x 2.95 inches; 0.53 Ounces",
+        "16 x 1 x 1 inches; 4.16 Ounces",
+        "24 x 1 x 1 inches; 1.76 Ounces",
+        "14 x 1 x 1 inches; 4.16 Ounces",
+        "0.63 x 2.64 x 0.46 inches; 0.63 Ounces"
+      ]
+    },
+    {
+      "name": "Age Range (Description)",
+      "occurrence": 22929,
+      "frequency_pct": 20.37,
+      "examples": [
+        "Adult",
+        "Kid",
+        "Child",
+        "Baby",
+        "All Ages",
+        "Youth",
+        "Babies",
+        "Adult,Kid",
+        "Any Age Group",
+        "adult,kid",
+        "Toddler",
+        "Youth,Adult",
+        "Adult,Teen",
+        "Infant",
+        "Teen"
+      ]
+    },
+    {
+      "name": "Manufacturer",
+      "occurrence": 19802,
+      "frequency_pct": 17.59,
+      "examples": [
+        "VAGA",
+        "CleveAid",
+        "Philips Norelco",
+        "USA",
+        "Supportiback",
+        "Hittime",
+        "Victoria's Secret",
+        "Bundle Monster",
+        "MoYo Natural Labs",
+        "Bergotti",
+        "Unilever",
+        "HealthMarket",
+        "Oral-B",
+        "IBD Beauty",
+        "L'Oreal Paris"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 17951,
+      "frequency_pct": 15.94,
+      "examples": [
+        "1",
+        "No Model",
+        "0",
+        "666",
+        "turban",
+        "100",
+        "ABCD",
+        "BLAN033",
+        "YSJ10060",
+        "update",
+        "LE",
+        "123",
+        "01",
+        "TS42",
+        "NANORING"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 16964,
+      "frequency_pct": 15.07,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "5",
+        "12",
+        "10",
+        "8",
+        "20",
+        "7",
+        "9",
+        "100",
+        "24",
+        "50"
+      ]
+    },
+    {
+      "name": "Material Feature",
+      "occurrence": 13153,
+      "frequency_pct": 11.68,
+      "examples": [
+        "Natural",
+        "Cruelty Free",
+        "Organic",
+        "Latex Free",
+        "Non-Toxic, Cruelty Free",
+        "Gluten Free",
+        "Non-Toxic",
+        "Reusable",
+        "Cruelty Free, Vegan",
+        "Vegan",
+        "Organic, Natural",
+        "Certified Organic",
+        "Disposable",
+        "Biodegradable Warning",
+        "Antioxidant"
+      ]
+    },
+    {
+      "name": "Color",
+      "occurrence": 11475,
+      "frequency_pct": 10.19,
+      "examples": [
+        "Black",
+        "black",
+        "Pink",
+        "White",
+        "Blue",
+        "Brown",
+        "Red",
+        "Natural",
+        "natural",
+        "Clear",
+        "Gold",
+        "Silver",
+        "Green",
+        "Purple",
+        "Multicolor"
+      ]
+    },
+    {
+      "name": "Skin Type",
+      "occurrence": 11454,
+      "frequency_pct": 10.17,
+      "examples": [
+        "All",
+        "Sensitive",
+        "Dry",
+        "Acne Prone",
+        "Oily",
+        "Normal",
+        "Combination",
+        "Mature",
+        "Sensitive, Dry",
+        "Sensitive,All Skin Types",
+        "Oily, Combination, Dry, Normal",
+        "All, Sensitive",
+        "Dry,Sensitive",
+        "Oily, Sensitive, Dry",
+        "Dry,All Skin Types"
+      ]
+    },
+    {
+      "name": "Style",
+      "occurrence": 10667,
+      "frequency_pct": 9.47,
+      "examples": [
+        "Modern",
+        "French",
+        "Straight",
+        "Compact",
+        "Curly",
+        "African",
+        "Classic",
+        "Art Deco",
+        "Wavy",
+        "Earloop",
+        "Floral",
+        "Claw",
+        "Puff",
+        "3 Bundle/Closure",
+        "Vintage"
+      ]
+    },
+    {
+      "name": "Scent",
+      "occurrence": 8428,
+      "frequency_pct": 7.49,
+      "examples": [
+        "Unscented",
+        "Aloe",
+        "Coconut",
+        "Fresh",
+        "Lavender",
+        "Rose",
+        "Aloe Vera",
+        "Citrus",
+        "Green Tea",
+        "Vanilla",
+        "Tea Tree",
+        "Honey",
+        "Floral",
+        "Lemon",
+        "Orange"
+      ]
+    },
+    {
+      "name": "Special Feature",
+      "occurrence": 7653,
+      "frequency_pct": 6.8,
+      "examples": [
+        "Glueless",
+        "Heat Resistant",
+        "Waterproof",
+        "Long Lasting",
+        "Travel size",
+        "Tangle Free",
+        "Travel size, Matte",
+        "Not Tested On Animals",
+        "Long-lasting",
+        "Brushing Timer",
+        "Mist Spray",
+        "Detangling",
+        "Portable",
+        "Natural",
+        "Lightweight"
+      ]
+    },
+    {
+      "name": "Extension Length",
+      "occurrence": 7254,
+      "frequency_pct": 6.44,
+      "examples": [
+        "18 Inches",
+        "20 Inches",
+        "14 Inches",
+        "24 Inches",
+        "16 Inches",
+        "12 Inches",
+        "22 Inches",
+        "8 Inches",
+        "26 Inches",
+        "10 Inches",
+        "28 Inches",
+        "30 Inches",
+        "15 Inches",
+        "36 Inches",
+        "9 Inches"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 7172,
+      "frequency_pct": 6.37,
+      "examples": [
+        "1 Pounds",
+        "0.01 Ounces",
+        "8 Ounces",
+        "0.04 Pounds",
+        "4 Ounces",
+        "1 Ounces",
+        "2 Ounces",
+        "3.4 Ounces",
+        "0.02 Pounds",
+        "1.7 Ounces",
+        "0.2 Pounds",
+        "3 Ounces",
+        "2 Pounds",
+        "0.15 Pounds",
+        "0.09 Pounds"
+      ]
+    },
+    {
+      "name": "Finish Type",
+      "occurrence": 6771,
+      "frequency_pct": 6.01,
+      "examples": [
+        "Matte",
+        "Glossy",
+        "Shimmery",
+        "Natural",
+        "Metallic",
+        "Cream",
+        "Sheer",
+        "Creme",
+        "Satin",
+        "Velvet",
+        "Radiant",
+        "Luminous",
+        "Shimmery, Matte",
+        "Matte,Velvet",
+        "Semi-Matte"
+      ]
+    },
+    {
+      "name": "Product Benefits",
+      "occurrence": 5721,
+      "frequency_pct": 5.08,
+      "examples": [
+        "Moisturizing",
+        "Long Lasting",
+        "Hydrating",
+        "Smoothening",
+        "Detangle",
+        "Exfoliating",
+        "Softening",
+        "Cleansing",
+        "Smoothing",
+        "Nourishing",
+        "Anti-Aging",
+        "Hypoallergenic",
+        "Waterproof",
+        "Smudge Proof,Long Lasting",
+        "Brightening"
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "occurrence": 5306,
+      "frequency_pct": 4.71,
+      "examples": [
+        "1",
+        "2",
+        "10",
+        "12",
+        "6",
+        "4",
+        "3",
+        "5",
+        "24",
+        "8",
+        "20",
+        "100",
+        "30",
+        "15",
+        "9"
+      ]
+    },
+    {
+      "name": "Installation Type",
+      "occurrence": 4452,
+      "frequency_pct": 3.95,
+      "examples": [
+        "Sew-In",
+        "Weave",
+        "Clip-In",
+        "Tape-In",
+        "Clip",
+        "weave",
+        "Fusion",
+        "Tape",
+        "Self-Adhesive",
+        "Halo",
+        "clip",
+        "Microlink",
+        "Glue-In, Tape-In",
+        "tape",
+        "Sew-In, Clip-In"
+      ]
+    },
+    {
+      "name": "Item Dimensions LxWxH",
+      "occurrence": 4276,
+      "frequency_pct": 3.8,
+      "examples": [
+        "1.18 x 1.18 x 2.95 inches",
+        "4.7 x 1.96 x 0.39 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "1.97 x 1.97 x 1.97 inches",
+        "5.91 x 3.94 x 1.97 inches",
+        "4.61 x 2.48 x 0.39 inches",
+        "4.5 x 4.5 x 0.1 inches",
+        "3.94 x 3.94 x 0.39 inches",
+        "1.18 x 1.18 x 2.36 inches",
+        "7.87 x 5.91 x 1.97 inches",
+        "16 x 5 x 2 inches",
+        "16 x 6 x 2 inches",
+        "2 x 2 x 2 inches",
+        "7.28 x 3.78 x 0.59 inches",
+        "4.56 x 2.48 x 0.47 inches"
+      ]
+    },
+    {
+      "name": "Item Volume",
+      "occurrence": 4193,
+      "frequency_pct": 3.72,
+      "examples": [
+        "100 Milliliters",
+        "50 Milliliters",
+        "8 Fluid Ounces",
+        "30 Milliliters",
+        "3.4 Fluid Ounces",
+        "1 Fluid Ounces",
+        "10 Milliliters",
+        "1.7 Fluid Ounces",
+        "2 Fluid Ounces",
+        "4 Fluid Ounces",
+        "2.5 Fluid Ounces",
+        "75 Milliliters",
+        "3 Fluid Ounces",
+        "200 Milliliters",
+        "0.5 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Liquid Volume",
+      "occurrence": 3783,
+      "frequency_pct": 3.36,
+      "examples": [
+        "0.5 Fluid Ounces",
+        "8 Fluid Ounces",
+        "15 Milliliters",
+        "4 Fluid Ounces",
+        "2 Fluid Ounces",
+        "14 Milliliters",
+        "0.33 Fluid Ounces",
+        "0.27 Fluid Ounces",
+        "1 Fluid Ounces",
+        "6 Fluid Ounces",
+        "10 Fluid Ounces",
+        "16 Fluid Ounces",
+        "100 Milliliters",
+        "10 Milliliters",
+        "0.4 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 3742,
+      "frequency_pct": 3.32,
+      "examples": [
+        "Large",
+        "Medium",
+        "1 Count (Pack of 1)",
+        "One Size",
+        "Small",
+        "4 Piece Set",
+        "24 Piece Assortment",
+        "24 Count (Pack of 1)",
+        "6 Count (Pack of 1)",
+        "2 Count (Pack of 1)",
+        "12 Count (Pack of 1)",
+        "4 Count (Pack of 1)",
+        "30 Count (Pack of 1)",
+        "5 Count (Pack of 1)",
+        "3 Count (Pack of 1)"
+      ]
+    },
+    {
+      "name": "Package Information",
+      "occurrence": 2948,
+      "frequency_pct": 2.62,
+      "examples": [
+        "Tube",
+        "Bottle",
+        "Jar",
+        "Box",
+        "Palette",
+        "Roller",
+        "Can",
+        "Stick",
+        "Sachet",
+        "Bag",
+        "Bottle, Tube",
+        "Pouch",
+        "Packet",
+        "Aerosol",
+        "Canister"
+      ]
+    },
+    {
+      "name": "Coverage",
+      "occurrence": 2817,
+      "frequency_pct": 2.5,
+      "examples": [
+        "Light",
+        "Full Well Tips",
+        "Full",
+        "Medium",
+        "Sheer",
+        "Half Cover",
+        "Lightweight",
+        "Medium, Light",
+        "Buildable",
+        "Half Well Tips",
+        "full",
+        "Medium, Full",
+        "Buildable Coverage",
+        "Light, Full",
+        "Lightweight,Medium"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 2133,
+      "frequency_pct": 1.89,
+      "examples": [
+        "Oblong",
+        "Round",
+        "Rectangular",
+        "Oval",
+        "Flat",
+        "Irregular",
+        "Square",
+        "Ballerina",
+        "Barrel",
+        "Heart",
+        "Butterfly",
+        "Edge",
+        "Flower",
+        "Stiletto",
+        "Bow"
+      ]
+    },
+    {
+      "name": "Recommended Uses For Product",
+      "occurrence": 2043,
+      "frequency_pct": 1.81,
+      "examples": [
+        "Face Makeup",
+        "Makeup",
+        "Moisturizing",
+        "Nail Arts",
+        "Body",
+        "For Eyeshadow",
+        "For Foundation",
+        "For Eyeshadow, For Foundation",
+        "Hand",
+        "Exfoliating",
+        "Cleansing",
+        "Hair Growth",
+        "For Blush, For Foundation",
+        "Eyelashes, For Mascara",
+        "Salon"
+      ]
+    },
+    {
+      "name": "Skin Tone",
+      "occurrence": 1969,
+      "frequency_pct": 1.75,
+      "examples": [
+        "All",
+        "Medium Deep",
+        "Medium",
+        "Light",
+        "Deep",
+        "Medium, Light",
+        "Very Light",
+        "Dark",
+        "Light,Medium",
+        "Fair",
+        "All Skin Type",
+        "Tan",
+        "all",
+        "Light, Deep",
+        "All,Deep"
+      ]
+    },
+    {
+      "name": "Mounting Type",
+      "occurrence": 1966,
+      "frequency_pct": 1.75,
+      "examples": [
+        "Eyelash Glue",
+        "Tabletop Mount",
+        "Wall Mount",
+        "Magnet",
+        "tweezers",
+        "Tweezers",
+        "Tabletop",
+        "Floor Mount",
+        "Eyelash extensions",
+        "Countertop Mount, Tabletop Mount",
+        "Surface Mount",
+        "Bathroom Counter",
+        "Cluster Mount",
+        "Freestanding",
+        "Bathroom Counter,Insert,Tabletop,Wall Mount"
+      ]
+    },
+    {
+      "name": "Pattern",
+      "occurrence": 1952,
+      "frequency_pct": 1.73,
+      "examples": [
+        "Solid",
+        "Floral",
+        "Variety Pack",
+        "Cartoon",
+        "Animal Print",
+        "Hearts",
+        "Letter Print",
+        "Insect",
+        "Stars",
+        "Leaf",
+        "Marble",
+        "Tribal",
+        "Heart",
+        "Geometric",
+        "Tree"
+      ]
+    },
+    {
+      "name": "Use for",
+      "occurrence": 1806,
+      "frequency_pct": 1.6,
+      "examples": [
+        "Whole Body",
+        "Face",
+        "Hands",
+        "Eyes",
+        "Neck, Face",
+        "Feet",
+        "Legs",
+        "Hands, Whole Body",
+        "Legs, Back",
+        "Legs, Face",
+        "Whole Body, Face",
+        "Back",
+        "Eyes, Face",
+        "Head",
+        "Hands, Feet"
+      ]
+    },
+    {
+      "name": "Fabric Type",
+      "occurrence": 1784,
+      "frequency_pct": 1.58,
+      "examples": [
+        "Elastic",
+        "Velvet",
+        "velvet",
+        "elastic",
+        "plastic",
+        "Cloth",
+        "Cotton",
+        "polyester",
+        "cotton",
+        "Satin",
+        "Polyester",
+        "Nylon",
+        "Polyester,Spandex",
+        "Elastic,Cotton",
+        "Chiffon"
+      ]
+    },
+    {
+      "name": "Power Source",
+      "occurrence": 1621,
+      "frequency_pct": 1.44,
+      "examples": [
+        "Corded Electric",
+        "Battery Powered",
+        "Manual",
+        "Hand_powered",
+        "hand_powered",
+        "manual",
+        "Corded Electric, Battery Powered",
+        "electric",
+        "Solar Powered",
+        "Electric",
+        "Wood_pellet",
+        "Lymphatic",
+        "Ac/dc",
+        "Ac",
+        "Adapter,Electricity,Battery Powered,Electric"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 1470,
+      "frequency_pct": 1.31,
+      "examples": [
+        "Womens",
+        "womens",
+        "unisex-adult",
+        "Unisex-adult",
+        "Mens",
+        "Girls",
+        "mens",
+        "Unisex",
+        "girls",
+        "Women",
+        "Beauty",
+        "Bath & Shower",
+        "Face & Oral Care",
+        "unisex-child",
+        "Unisex-child"
+      ]
+    },
+    {
+      "name": "Water Resistance Level",
+      "occurrence": 1181,
+      "frequency_pct": 1.05,
+      "examples": [
+        "Waterproof",
+        "Water Resistant",
+        "Not Water Resistant"
+      ]
+    },
+    {
+      "name": "Package Type",
+      "occurrence": 1133,
+      "frequency_pct": 1.01,
+      "examples": [
+        "Box",
+        "Tube",
+        "Bottle",
+        "Palette",
+        "Standard Packaging",
+        "Pouch",
+        "Jar",
+        "Stick",
+        "Bag",
+        "Tube, Bottle",
+        "Frustration-Free Packaging",
+        "Packet",
+        "Box, found in image",
+        "Bottle, Jar",
+        "Can, Bottle"
+      ]
+    },
+    {
+      "name": "Occasion",
+      "occurrence": 1049,
+      "frequency_pct": 0.93,
+      "examples": [
+        "Wedding, Birthday",
+        "Wedding",
+        "Birthday",
+        "Halloween",
+        "Wedding, Birthdays",
+        "Bridal Shower, Prom, Birthday",
+        "Christmas",
+        "Party",
+        "party",
+        "Christmas, Halloween",
+        "Baby Shower",
+        "Christmas, Birthday",
+        "Wedding, Prom",
+        "Birthday, Halloween",
+        "Christmas, Valentine's Day"
+      ]
+    },
+    {
+      "name": "Handle Material",
+      "occurrence": 979,
+      "frequency_pct": 0.87,
+      "examples": [
+        "Rubber",
+        "Wood",
+        "Plastic",
+        "Metal",
+        "Acrylic",
+        "Stainless Steel",
+        "Rubber, Metal",
+        "Rubber, Plastic",
+        "Silicone",
+        "Aluminum",
+        "Plastic, Metal",
+        "Metal, Wood",
+        "Brass",
+        "Rubber, Wood",
+        "Stainless steel"
+      ]
+    },
+    {
+      "name": "Material Type Free",
+      "occurrence": 923,
+      "frequency_pct": 0.82,
+      "examples": [
+        "Alcohol Free",
+        "Paraben Free",
+        "Gluten Free",
+        "Unscented",
+        "Fragrance Free",
+        "Chemical Free",
+        "Cruelty Free",
+        "Sulfate Free",
+        "Non-toxic",
+        "Oil Free",
+        "Aluminum Free",
+        "Dye Free",
+        "Phthalates",
+        "Parabens, Ethyl Alcohol, Phenoxyethanol, DEA, BPA/Phthalates",
+        "Formaldehyde Free"
+      ]
+    },
+    {
+      "name": "Type",
+      "occurrence": 919,
+      "frequency_pct": 0.82,
+      "examples": [
+        "Gel",
+        "gel",
+        "base",
+        "Base",
+        "top_coat",
+        "Top_coat",
+        "acrylic",
+        "Acrylic"
+      ]
+    },
+    {
+      "name": "Embellishment",
+      "occurrence": 901,
+      "frequency_pct": 0.8,
+      "examples": [
+        "Bow",
+        "Rhinestone",
+        "Flower",
+        "Pearl",
+        "Glitter",
+        "Resin",
+        "Bead",
+        "Flower, Bow",
+        "Pearl, Flower",
+        "Pearl, Rhinestone",
+        "Glitter, Bow",
+        "Pearl, Resin",
+        "Rhinestone, Bow",
+        "Tassel",
+        "Gemstone"
+      ]
+    },
+    {
+      "name": "Ferrule Material",
+      "occurrence": 866,
+      "frequency_pct": 0.77,
+      "examples": [
+        "Aluminum",
+        "Brass",
+        "Copper",
+        "Stainless Steel",
+        "Plastic",
+        "Acrylic",
+        "Sedona",
+        "Gold",
+        "ABS",
+        "Hard",
+        "Titanium"
+      ]
+    },
+    {
+      "name": "Active Ingredients",
+      "occurrence": 820,
+      "frequency_pct": 0.73,
+      "examples": [
+        "Vitamin e",
+        "Shea butter",
+        "Hyaluronic acid",
+        "Vitamin c",
+        "Argan oil",
+        "vitamin e",
+        "vitamin_e",
+        "Vitamin_e",
+        "Lavender",
+        "Vitamin E",
+        "Aloe vera",
+        "Hyaluronic_acid",
+        "Jojoba",
+        "Olive oil",
+        "shea butter"
+      ]
+    },
+    {
+      "name": "Reusability",
+      "occurrence": 687,
+      "frequency_pct": 0.61,
+      "examples": [
+        "Single Use",
+        "Reusable",
+        "Disposable",
+        "Rechargeable"
+      ]
+    },
+    {
+      "name": "Theme",
+      "occurrence": 685,
+      "frequency_pct": 0.61,
+      "examples": [
+        "Botanical",
+        "Floral",
+        "Art",
+        "Space",
+        "Christmas",
+        "Cartoon",
+        "Animal",
+        "Love",
+        "Halloween",
+        "No Theme",
+        "Sport",
+        "Butterfly",
+        "Alphabet",
+        "Horror",
+        "art"
+      ]
+    },
+    {
+      "name": "Item Package Quantity",
+      "occurrence": 635,
+      "frequency_pct": 0.56,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "4",
+        "12",
+        "10",
+        "5",
+        "16",
+        "140",
+        "300",
+        "13",
+        "11",
+        "50",
+        "36"
+      ]
+    },
+    {
+      "name": "Capacity",
+      "occurrence": 635,
+      "frequency_pct": 0.56,
+      "examples": [
+        "16 Ounces",
+        "8 Ounces",
+        "100 Milliliters",
+        "2 Ounces",
+        "50 Milliliters",
+        "60 Milliliters",
+        "30 Milliliters",
+        "300 Milliliters",
+        "4 Ounces",
+        "10 Milliliters",
+        "3 Ounces",
+        "200 Milliliters",
+        "5 Milliliters",
+        "500 Milliliters",
+        "7 Ounces"
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 630,
+      "frequency_pct": 0.56,
+      "examples": [
+        "USA",
+        "China",
+        "France",
+        "Korea, Republic of",
+        "Netherlands",
+        "United Kingdom",
+        "Germany",
+        "Canada",
+        "Italy",
+        "United Arab Emirates",
+        "Japan",
+        "Brazil",
+        "Vietnam",
+        "Turkey",
+        "India"
+      ]
+    },
+    {
+      "name": "Included Components",
+      "occurrence": 571,
+      "frequency_pct": 0.51,
+      "examples": [
+        "Charger",
+        "Battery",
+        "Scissors",
+        "Glitter",
+        "Cleaning Brush",
+        "Nail File",
+        "Cleaning Brush, Attachment, Charger",
+        "Dip Powder",
+        "Charcoal powder",
+        "Cleaning Brush, Battery, Charger",
+        "Protective Cap, Attachment, Charger",
+        "Volumizer",
+        "Nail Brush",
+        "Cleaning Brush, Battery",
+        "Attachment, Charger"
+      ]
+    },
+    {
+      "name": "Flavor",
+      "occurrence": 521,
+      "frequency_pct": 0.46,
+      "examples": [
+        "Mint",
+        "Unflavored",
+        "Peppermint",
+        "Strawberry",
+        "Cherry",
+        "Honey",
+        "Vanilla",
+        "Coconut",
+        "Peach",
+        "Chocolate",
+        "Cinnamon",
+        "Original",
+        "Spearmint",
+        "Assorted",
+        "Lemon"
+      ]
+    },
+    {
+      "name": "Batteries",
+      "occurrence": 491,
+      "frequency_pct": 0.44,
+      "examples": [
+        "1 Lithium Ion batteries required. (included)",
+        "1 A batteries required.",
+        "1 AA batteries required. (included)",
+        "1 Lithium Polymer batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "2 AAA batteries required. (included)",
+        "1 AA batteries required.",
+        "2 AA batteries required. (included)",
+        "1 AAA batteries required. (included)",
+        "1 A batteries required. (included)",
+        "2 AA batteries required.",
+        "1 AAA batteries required.",
+        "2 AAA batteries required.",
+        "1 Lithium Polymer batteries required.",
+        "1 Product Specific batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Fragrance Concentration",
+      "occurrence": 490,
+      "frequency_pct": 0.44,
+      "examples": [
+        "Eau_de_parfum",
+        "eau_de_parfum",
+        "eau_de_toilette",
+        "Eau_de_toilette",
+        "Perfume_oil",
+        "perfume_oil",
+        "body_spray",
+        "Body_spray",
+        "Eau_de_cologne",
+        "eau_de_cologne"
+      ]
+    },
+    {
+      "name": "Specialty",
+      "occurrence": 444,
+      "frequency_pct": 0.39,
+      "examples": [
+        "Waterproof",
+        "Long Lasting",
+        "Moisturizing",
+        "Natural",
+        "Paraben Free",
+        "Mattifying",
+        "Vegan",
+        "natural",
+        "Damaged,Growth,Repair,Strengthener",
+        "Sweatproof, Long Lasting",
+        "Cruelty Free",
+        "Cruelty Free, Vegan",
+        "Oil control, Moisturizing",
+        "Long,Natural",
+        "Long Lasting,Natural"
+      ]
+    },
+    {
+      "name": "Cartoon Character",
+      "occurrence": 424,
+      "frequency_pct": 0.38,
+      "examples": [
+        "American",
+        "Bubble",
+        "Other",
+        "Butterfly",
+        "Sexy",
+        "Halloween",
+        "Anime",
+        "Cartoon",
+        "Leaf",
+        "Wavy",
+        "Barbie",
+        "Straight",
+        "Animal",
+        "Heart",
+        "Sports"
+      ]
+    },
+    {
+      "name": "Product Care Instructions",
+      "occurrence": 358,
+      "frequency_pct": 0.32,
+      "examples": [
+        "Hand Wash Only",
+        "Wash with Warm Water",
+        "Machine Wash",
+        "Hand Wash",
+        "Wipe with Dry Cloth",
+        "Dishwasher Safe",
+        "Wipe With Damp Cloth",
+        "water",
+        "Water",
+        "Machine Wash, Hand Wash Only",
+        "Dry Cloth Clean",
+        "dishwasher_safe",
+        "Wipe Clean",
+        "Glass"
+      ]
+    },
+    {
+      "name": "Date First Available",
+      "occurrence": 341,
+      "frequency_pct": 0.3,
+      "examples": [
+        "August 31, 2017",
+        "December 28, 2016",
+        "December 27, 2016",
+        "May 9, 2015",
+        "September 15, 2010",
+        "March 23, 2017",
+        "November 9, 2010",
+        "January 11, 2017",
+        "November 15, 2017",
+        "July 20, 2020",
+        "October 17, 2003",
+        "July 24, 2009",
+        "May 7, 2018",
+        "November 16, 2015",
+        "December 13, 2016"
+      ]
+    },
+    {
+      "name": "Closure Type",
+      "occurrence": 341,
+      "frequency_pct": 0.3,
+      "examples": [
+        "Ear Loop",
+        "Zipper",
+        "Screw",
+        "Pull On",
+        "Buckle",
+        "Pull-On",
+        "Snap",
+        "Claw",
+        "Button",
+        "Adjustable",
+        "Twist Lug",
+        "Clip",
+        "Loop, Hook",
+        "Elastic",
+        "\u5957\u7a7f\u5f0f"
+      ]
+    },
+    {
+      "name": "Item Firmness Description",
+      "occurrence": 324,
+      "frequency_pct": 0.29,
+      "examples": [
+        "Soft",
+        "Extra Soft",
+        "Medium",
+        "Ultra Soft",
+        "Extra Soft,Ultra Soft",
+        "Medium,Soft",
+        "Soft,Medium",
+        "Hard",
+        "Medium, Soft",
+        "Hard,Soft",
+        "Extra Soft,Ultra Soft,Medium",
+        "Extra Soft,Medium",
+        "Ultra Soft,Soft",
+        "Extra Firm",
+        "Extra Soft, Soft"
+      ]
+    },
+    {
+      "name": "Number of Blades",
+      "occurrence": 317,
+      "frequency_pct": 0.28,
+      "examples": [
+        "1",
+        "3",
+        "2",
+        "5",
+        "10",
+        "6",
+        "4",
+        "100",
+        "9",
+        "12",
+        "50",
+        "7",
+        "20",
+        "200",
+        "8"
+      ]
+    },
+    {
+      "name": "Blade Material",
+      "occurrence": 293,
+      "frequency_pct": 0.26,
+      "examples": [
+        "Stainless Steel",
+        "Alloy Steel",
+        "Metal",
+        "Titanium",
+        "Carbon Steel",
+        "Ceramic,Titanium",
+        "Plastic",
+        "Aluminum",
+        "High Carbon Steel",
+        "Stainless Steel, Carbon Steel",
+        "Stainless Steel, Ceramic",
+        "Titanium, Stainless Steel",
+        "Stainless Steel,Metal"
+      ]
+    },
+    {
+      "name": "Target Audience",
+      "occurrence": 237,
+      "frequency_pct": 0.21,
+      "examples": [
+        "Unisex-Adults",
+        "Women",
+        "Unisex Adult",
+        "Unisex Adults",
+        "Men",
+        "Women, Men",
+        "Girls",
+        "Unisex-Kids",
+        "Dog",
+        "Unisex-adults",
+        "Unisex-Babies",
+        "Women, Men, Unisex Adult",
+        "babies",
+        "Cat",
+        "Women, Girls"
+      ]
+    },
+    {
+      "name": "Surface Recommendation",
+      "occurrence": 231,
+      "frequency_pct": 0.21,
+      "examples": [
+        "Nail",
+        "nail",
+        "Plastic",
+        "Metal",
+        "drain",
+        "Nails",
+        "Wall",
+        "nails",
+        "Skin",
+        "Cloth, Skin",
+        "Windows",
+        "Hard Floor",
+        "Cloth",
+        "Floor",
+        "Wood, Tile"
+      ]
+    },
+    {
+      "name": "Sun Protection",
+      "occurrence": 205,
+      "frequency_pct": 0.18,
+      "examples": [
+        "50 SPF",
+        "30 SPF",
+        "15 SPF",
+        "20 SPF",
+        "18 SPF",
+        "40 SPF",
+        "10 SPF",
+        "100 SPF",
+        "60 SPF",
+        "34 SPF",
+        "25 SPF",
+        "70 SPF",
+        "42 SPF"
+      ]
+    },
+    {
+      "name": "Bristle Material",
+      "occurrence": 205,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Boar",
+        "Silicone",
+        "Nylon",
+        "Bamboo",
+        "Rubber",
+        "Wood",
+        "Plastic",
+        "Acrylonitrile Butadiene Styrene",
+        "Ceramic"
+      ]
+    },
+    {
+      "name": "Manufacturer recommended age",
+      "occurrence": 198,
+      "frequency_pct": 0.18,
+      "examples": [
+        "0 months and up",
+        "3 years and up",
+        "18 months - 8 years",
+        "18 years and up",
+        "5 years and up",
+        "6 months - 3 years",
+        "13 years and up",
+        "3 months and up",
+        "6 years and up",
+        "12 years and up",
+        "10 years and up",
+        "14 years and up",
+        "12 months and up",
+        "16 years and up",
+        "7 years and up"
+      ]
+    },
+    {
+      "name": "Operation Mode",
+      "occurrence": 194,
+      "frequency_pct": 0.17,
+      "examples": [
+        "Manual",
+        "Automatic",
+        "Manual, Automatic",
+        "Mechanical"
+      ]
+    },
+    {
+      "name": "Inner Material",
+      "occurrence": 156,
+      "frequency_pct": 0.14,
+      "examples": [
+        "EVA",
+        "Polyester",
+        "PEVA",
+        "PLASTIC",
+        "100 Silk",
+        "Satin",
+        "100 Polyester",
+        "ABS",
+        "Synthetic",
+        "PU, PONGEE",
+        "Polypropylene, PP",
+        "100 Leather",
+        "Metal",
+        "Flannel",
+        "Leaf, Dot"
+      ]
+    },
+    {
+      "name": "Language",
+      "occurrence": 141,
+      "frequency_pct": 0.13,
+      "examples": [
+        "English",
+        "English, English, English, English, English",
+        "Spanish",
+        "English, English, English, English",
+        "German",
+        "English, French",
+        "French",
+        "Italian",
+        "Unknown",
+        "None",
+        "Swedish",
+        "English, Spanish, French, Polish, Italian",
+        "German, English",
+        "Turkish"
+      ]
+    },
+    {
+      "name": "Sun Protection Factor",
+      "occurrence": 132,
+      "frequency_pct": 0.12,
+      "examples": [
+        "50 Sun Protection Factor (SPF)",
+        "30 Sun Protection Factor (SPF)",
+        "15 Sun Protection Factor (SPF)",
+        "40 Sun Protection Factor (SPF)",
+        "46 Sun Protection Factor (SPF)",
+        "25 Sun Protection Factor (SPF)",
+        "100 Sun Protection Factor (SPF)",
+        "70 Sun Protection Factor (SPF)"
+      ]
+    },
+    {
+      "name": "Is Electric",
+      "occurrence": 122,
+      "frequency_pct": 0.11,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Is Cordless?",
+      "occurrence": 118,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Light Source Type",
+      "occurrence": 113,
+      "frequency_pct": 0.1,
+      "examples": [
+        "LED",
+        "Candle",
+        "Infrared",
+        "Infrared, LED",
+        "Fluorescent",
+        "Light Emitting Diode",
+        "Incandescent"
+      ]
+    },
+    {
+      "name": "Heater Surface Material",
+      "occurrence": 109,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Ceramic",
+        "Titanium",
+        "Tourmaline",
+        "Silicone"
+      ]
+    },
+    {
+      "name": "Head Type",
+      "occurrence": 105,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Rotary",
+        "Foil",
+        "Bikini"
+      ]
+    },
+    {
+      "name": "Room Type",
+      "occurrence": 93,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Bathroom",
+        "Anywhere",
+        "Living room bathroom bedroom",
+        "Living Room",
+        "Office",
+        "Bedroom",
+        "living room bathroom bedroom",
+        "Indoor",
+        "Usb",
+        "Bedroom, Dining Room",
+        "Salon",
+        "Office, Living Room, Bedroom",
+        "Playroom",
+        "Office, Living Room",
+        "Kitchen"
+      ]
+    },
+    {
+      "name": "Max Temperature Setting",
+      "occurrence": 89,
+      "frequency_pct": 0.08,
+      "examples": [
+        "232.2 Degrees Celsius",
+        "200 Degrees Celsius",
+        "210 Degrees Celsius",
+        "230 Degrees Celsius",
+        "220 Degrees Celsius",
+        "450 Degrees Fahrenheit",
+        "390 Degrees Fahrenheit",
+        "410 Degrees Fahrenheit",
+        "170 Degrees Celsius",
+        "215.5 Degrees Celsius",
+        "410 Degrees Celsius",
+        "204.4 Degrees Celsius",
+        "120 Degrees Celsius",
+        "446 Degrees Fahrenheit",
+        "180 Degrees Celsius"
+      ]
+    },
+    {
+      "name": "Special Ingredients",
+      "occurrence": 86,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Keratin",
+        "Rosemary",
+        "Argan Oil",
+        "Caffeine",
+        "Vitamin E,Avocado",
+        "Coconut,Coconut Oil",
+        "Jojoba Oil,Jojoba",
+        "Coconut",
+        "Collagen",
+        "Argan",
+        "Keratin,Shea",
+        "Aloe Vera",
+        "Argan-oil",
+        "Shea Butter",
+        "Vitamin-e,Jojoba-oil,Almond-oil,Peach,Argan-oil,Camellia-oil"
+      ]
+    },
+    {
+      "name": "Towel form type",
+      "occurrence": 85,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Hair Towel",
+        "Washcloth",
+        "Bath Towel",
+        "Hand Towel",
+        "Beach Towel",
+        "Foot Towel"
+      ]
+    },
+    {
+      "name": "Specific Uses For Product",
+      "occurrence": 84,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Cosmetics",
+        "Concealer,Blender",
+        "Blender",
+        "Aromatherapy",
+        "Shading,Blending,Concealer,Highlight,Blusher",
+        "Allergy",
+        "Cleaning",
+        "Facial, Nose, Eyebrow",
+        "Interior",
+        "Camera, Eyewear",
+        "Scent",
+        "Fracture, Plantar Fasciitis",
+        "Bathroom,Birthdays,Cosmetic,Cosmetic Organizer,Makeup Organizer",
+        "Take one serving, 0.5 ml (15ml) of YANA\u2122 per day for radiant skin. Drink it by itself or mix it with water.Take one serving, 0.5 ml (15ml) of YANA\u2122 per day for radiant skin. Drink it by itself or mix it with water.  See more",
+        "Minor cuts, scrapes, and burns"
+      ]
+    },
+    {
+      "name": "Head Material",
+      "occurrence": 84,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Kolinsky",
+        "Nylon",
+        "Stainless Steel",
+        "Silicone"
+      ]
+    },
+    {
+      "name": "Country/Region Of Origin",
+      "occurrence": 83,
+      "frequency_pct": 0.07,
+      "examples": [
+        "United States",
+        "Republic of Korea",
+        "Japan",
+        "New Zealand",
+        "China",
+        "Germany",
+        "Canada",
+        "France",
+        "Thailand",
+        "United Arab Emirates",
+        "United Kingdom",
+        "Afghanistan",
+        "Greece",
+        "Russian Federation",
+        "Mexico"
+      ]
+    },
+    {
+      "name": "Number of Sets",
+      "occurrence": 80,
+      "frequency_pct": 0.07,
+      "examples": [
+        "1",
+        "4",
+        "2",
+        "6",
+        "7",
+        "3",
+        "12",
+        "10",
+        "5",
+        "18",
+        "30",
+        "32",
+        "31"
+      ]
+    },
+    {
+      "name": "Frame Material",
+      "occurrence": 80,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Glass",
+        "Polyurethane (PU)",
+        "Aluminum",
+        "Stainless Steel",
+        "Brass",
+        "Iron",
+        "Metal",
+        "Acrylonitrile Butadiene Styrene (ABS)",
+        "Plastic",
+        "Alloy Steel",
+        "ABS, Glass",
+        "Polyurethane (PU), Glass",
+        "Glass, Stainless Steel, Alloy Steel",
+        "Polyurethane (PU), Glass, Leather",
+        "Polyvinyl Chloride"
+      ]
+    },
+    {
+      "name": "Seasons",
+      "occurrence": 79,
+      "frequency_pct": 0.07,
+      "examples": [
+        "All Seasons",
+        "All Season",
+        "All-Season",
+        "Spring",
+        "4 Season"
+      ]
+    },
+    {
+      "name": "Product Grade",
+      "occurrence": 76,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Home"
+      ]
+    },
+    {
+      "name": "Battery Life",
+      "occurrence": 75,
+      "frequency_pct": 0.07,
+      "examples": [
+        "120 minutes",
+        "90 minutes",
+        "60 minutes",
+        "45 minutes",
+        "50 minutes",
+        "55 minutes",
+        "70 minutes",
+        "30 minutes",
+        "100 minutes",
+        "80 minutes",
+        "1 Hours",
+        "60.0, 40.0 minutes",
+        "120.0, 2.0 minutes",
+        "60.0, 2.0 minutes",
+        "99 minutes"
+      ]
+    },
+    {
+      "name": "Blade Edge",
+      "occurrence": 69,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Curved",
+        "Straight",
+        "Plain",
+        "Serrated",
+        "Flat",
+        "Convex",
+        "Straight, Convex"
+      ]
+    },
+    {
+      "name": "Wattage",
+      "occurrence": 68,
+      "frequency_pct": 0.06,
+      "examples": [
+        "1875 watts",
+        "12 watts",
+        "1800 watts",
+        "48 watts",
+        "80 watts",
+        "2000 watts",
+        "36 watts",
+        "24 watts",
+        "54 watts",
+        "150 watts",
+        "42 watts",
+        "10 watts",
+        "8 watts",
+        "1800 Watt-hours",
+        "108 watts"
+      ]
+    },
+    {
+      "name": "Dosage Form",
+      "occurrence": 58,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Capsule",
+        "Liquid",
+        "Tablet",
+        "Powder",
+        "Cream",
+        "Gummy",
+        "Softgel",
+        "1 capsule",
+        "Drops",
+        "Softgels",
+        "Capsules"
+      ]
+    },
+    {
+      "name": "Domestic Shipping",
+      "occurrence": 52,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Item can be shipped within U.S."
+      ]
+    },
+    {
+      "name": "International Shipping",
+      "occurrence": 52,
+      "frequency_pct": 0.05,
+      "examples": [
+        "This item can be shipped to select countries outside of the U.S.  Learn More",
+        "This item is not eligible for international shipping.  Learn More"
+      ]
+    },
+    {
+      "name": "Batteries Required?",
+      "occurrence": 52,
+      "frequency_pct": 0.05,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Sport",
+      "occurrence": 52,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Running",
+        "Yoga",
+        "Running, Yoga, Fitness",
+        "Running, Yoga",
+        "Walking",
+        "yoga",
+        "Tennis, Baseball, Basketball, Football",
+        "Swimming",
+        "Lacrosse",
+        "Running, Fitness",
+        "Walking, Exercise, Sailing, Running, Yoga, Camping, Hiking",
+        "Exercise, Running, Yoga, Hiking",
+        "Fitness",
+        "Golf, Baseball, Running, Yoga, Basketball, Hiking",
+        "Tennis, Yoga"
+      ]
+    }
+  ]
+}

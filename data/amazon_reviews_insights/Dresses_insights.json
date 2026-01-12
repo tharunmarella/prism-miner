@@ -1,0 +1,81 @@
+{
+  "category": "Dresses",
+  "hidden_dimensions": [
+    {
+      "name": "Length relative to height",
+      "importance": "High",
+      "description": "Users want dresses that are an appropriate length for their height, avoiding being too short or too long. This is especially important for mini or midi dresses.  Also, the height of the wearer affects how high slits are.",
+      "example_vocabulary": [
+        "too short",
+        "long shirt",
+        "barely comes to my hips",
+        "tugging at the hem",
+        "too long",
+        "perfect length",
+        "exposed",
+        "slit"
+      ]
+    },
+    {
+      "name": "Fabric weight/thickness",
+      "importance": "Medium",
+      "description": "Users care about the thickness and weight of the fabric, especially in relation to the season. They want to avoid fabrics that are too thin and see-through, or too heavy for warm weather. Wanting good quality material.",
+      "example_vocabulary": [
+        "thin side",
+        "good thickness",
+        "not too thin",
+        "good fabric",
+        "heavy",
+        "lightweight",
+        "see through",
+        "quality material"
+      ]
+    },
+    {
+      "name": "Fit and Flattering",
+      "importance": "High",
+      "description": "Users want dresses that fit well and are flattering to their figure. This includes avoiding dresses that are too clingy or frumpy, and finding styles that complement their body type.  Also concerning the belly area.",
+      "example_vocabulary": [
+        "flatters your figure",
+        "fits nice",
+        "clingy",
+        "frumpy",
+        "shows my curves",
+        "sexy",
+        "fits great",
+        "fits like a dream",
+        "flattering for any body-type",
+        "if you have a bit of a belly"
+      ]
+    },
+    {
+      "name": "Occasion Appropriateness",
+      "importance": "Medium",
+      "description": "Users consider the appropriateness of the dress for specific events or occasions. This includes formality, seasonality, and modesty.",
+      "example_vocabulary": [
+        "homegoing celebration",
+        "night out",
+        "fall/winter",
+        "summery",
+        "business casual",
+        "modest",
+        "covered up"
+      ]
+    },
+    {
+      "name": "Comfort and Feel",
+      "importance": "High",
+      "description": "Users value comfort and how the dress feels against their skin. They seek soft, comfortable, and easy-to-wear materials.",
+      "example_vocabulary": [
+        "comfortable material",
+        "cozy",
+        "soft",
+        "warm",
+        "comfortable",
+        "easy to wash",
+        "soft material",
+        "comfortable to wear"
+      ]
+    }
+  ]
+}

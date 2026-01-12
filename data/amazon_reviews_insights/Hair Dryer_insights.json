@@ -1,0 +1,70 @@
+{
+  "category": "Hair Dryer",
+  "hidden_dimensions": [
+    {
+      "name": "Attachment Security",
+      "importance": "High",
+      "description": "How well the hair dryer connects to and maintains connection with attachments like diffusers and concentrators.",
+      "example_vocabulary": [
+        "falls off",
+        "securely attached",
+        "pops off",
+        "grip",
+        "tight",
+        "wiggle room",
+        "loose"
+      ]
+    },
+    {
+      "name": "Ergonomics & Weight",
+      "importance": "Medium",
+      "description": "How comfortable the hair dryer is to hold and use for extended periods, considering weight and handle design.",
+      "example_vocabulary": [
+        "heavy",
+        "weight",
+        "comfortable to hold",
+        "handle is wide",
+        "small hands"
+      ]
+    },
+    {
+      "name": "Compatibility with Attachments",
+      "importance": "High",
+      "description": "How well the hair dryer works with existing attachments that the user already owns or wants to use with it (e.g. diffusers).",
+      "example_vocabulary": [
+        "fit",
+        "compatible",
+        "adapter",
+        "doesn't fit",
+        "black orchid diffuser",
+        "snozzlepro"
+      ]
+    },
+    {
+      "name": "Durability and Longevity",
+      "importance": "High",
+      "description": "How long the hair dryer lasts and how well it maintains its performance over time before breaking or malfunctioning.",
+      "example_vocabulary": [
+        "stopped working",
+        "burnt smell",
+        "died",
+        "broke",
+        "one year",
+        "reliability"
+      ]
+    },
+    {
+      "name": "Drying Speed and Effectiveness",
+      "importance": "High",
+      "description": "How quickly and effectively the hair dryer dries and styles hair, including its ability to reduce frizz and add shine.",
+      "example_vocabulary": [
+        "dries hair fast",
+        "smooth and shiny",
+        "not strong enough",
+        "frizzball",
+        "straighten",
+        "not hot enough"
+      ]
+    }
+  ]
+}

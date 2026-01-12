@@ -1,0 +1,3083 @@
+{
+  "category": "Grocery_and_Gourmet_Food",
+  "total_items_scanned": 603274,
+  "total_unique_keys": 153,
+  "attributes": [
+    {
+      "name": "Manufacturer",
+      "occurrence": 424566,
+      "frequency_pct": 70.38,
+      "examples": [
+        "Whole Foods Market",
+        "Sun Maid",
+        "365 by Whole Foods Market",
+        "McCormick & Company, Inc.",
+        "General Mills",
+        "Conagra",
+        "MEAT",
+        "The J.M. Smucker Co.",
+        "Hershey's",
+        "Produce",
+        "Nestle",
+        "Trader Joe's",
+        "Unilever",
+        "Bob's Red Mill",
+        "Wilton"
+      ]
+    },
+    {
+      "name": "UPC",
+      "occurrence": 339849,
+      "frequency_pct": 56.33,
+      "examples": [
+        "703170076058",
+        "843128131320 024094070626 894236011516 798837658647 088177424874 607052597849 013700300165",
+        "809099267338 638458764993 800188036613 034500632799",
+        "608939825765 027328332224",
+        "726635121285",
+        "758312172112",
+        "850791002000",
+        "070734053191",
+        "072251000603",
+        "070734070761",
+        "072486001307",
+        "041500220208",
+        "107007086010 010700953063 010700105066 744222257780",
+        "070734000089",
+        "052100018027"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 317045,
+      "frequency_pct": 52.55,
+      "examples": [
+        "6 x 5 x 4 inches; 1 Pounds",
+        "6 x 5 x 4 inches; 5 Pounds",
+        "6 x 5 x 4 inches; 2 Pounds",
+        "6 x 6 x 6 inches",
+        "6 x 5 x 4 inches; 12 Ounces",
+        "6 x 5 x 4 inches; 8 Ounces",
+        "16 x 12 x 11 inches; 16 Pounds",
+        "6 x 5 x 4 inches",
+        "9 x 6 x 2 inches; 2 Pounds",
+        "6.25 x 4.5 x 3.25 inches; 2 Ounces",
+        "3 x 3 x 3 inches; 4 Ounces",
+        "6 x 5 x 4 inches; 3 Ounces",
+        "9 x 6 x 3 inches; 1 Pounds",
+        "1 x 1 x 1 inches; 1 Pounds",
+        "1.11 x 1.11 x 1.11 inches; 8 Ounces"
+      ]
+    },
+    {
+      "name": "Brand",
+      "occurrence": 240401,
+      "frequency_pct": 39.85,
+      "examples": [
+        "Generic",
+        "TJ's",
+        "Wilton",
+        "Nestle",
+        "Unknown",
+        "Starbucks",
+        "By The Cup",
+        "Fruidles",
+        "Needzo",
+        "SECRET CANDY SHOP",
+        "LorAnn",
+        "MEAT",
+        "Trader Joe's",
+        "Fun Express",
+        "Whole Foods Market"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 188976,
+      "frequency_pct": 31.33,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False",
+        "true",
+        "True"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 168957,
+      "frequency_pct": 28.01,
+      "examples": [
+        "7 x 5 x 2 inches; 2 Pounds",
+        "8 x 11 x 0.1 inches; 3 Ounces",
+        "10 x 8 x 0.1 inches; 5 Ounces",
+        "8 x 0.3 x 7 inches",
+        "10 x 8 x 0.1 inches",
+        "1 x 1 x 1 inches; 1 Pounds",
+        "1 x 1 x 1 inches",
+        "8 x 6 x 3.5 inches; 2 Pounds",
+        "9 x 6 x 3 inches; 2 Pounds",
+        "9 x 6 x 3 inches; 3 Pounds",
+        "6.3 x 5.1 x 0.1 inches",
+        "5 x 5 x 5 inches; 1 Pounds",
+        "3.94 x 0.39 x 3.94 inches",
+        "9 x 6 x 2 inches; 2 Pounds",
+        "8 x 6 x 3.5 inches; 1 Pounds"
+      ]
+    },
+    {
+      "name": "Unit Count",
+      "occurrence": 150844,
+      "frequency_pct": 25.0,
+      "examples": [
+        "1.00 Count",
+        "1.0 Count",
+        "1 Count",
+        "16.0 Ounce",
+        "2.00 Count",
+        "3.00 Count",
+        "32.0 Ounce",
+        "12.00 Count",
+        "6.00 Count",
+        "1.0 Ounce",
+        "4.00 Count",
+        "12.0 Ounce",
+        "8.0 Ounce",
+        "24.00 Count",
+        "4.0 Ounce"
+      ]
+    },
+    {
+      "name": "Flavor",
+      "occurrence": 149209,
+      "frequency_pct": 24.73,
+      "examples": [
+        "Chocolate",
+        "Original",
+        "Assorted",
+        "Vanilla",
+        "Caramel",
+        "Fruit",
+        "Dark Chocolate",
+        "Milk Chocolate",
+        "Strawberry",
+        "Lemon",
+        "Orange",
+        "Coffee",
+        "Beef",
+        "Cherry",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 133229,
+      "frequency_pct": 22.08,
+      "examples": [
+        "1 Pounds",
+        "8 Ounces",
+        "2 Pounds",
+        "12 Ounces",
+        "4 Ounces",
+        "5 Pounds",
+        "0.634 ounces",
+        "16 Ounces",
+        "3 Pounds",
+        "1.13 ounces",
+        "6 Ounces",
+        "10 Ounces",
+        "0.01 Ounces",
+        "5 Ounces",
+        "0.81 ounces"
+      ]
+    },
+    {
+      "name": "Item Form",
+      "occurrence": 125589,
+      "frequency_pct": 20.82,
+      "examples": [
+        "Powder",
+        "Liquid",
+        "Bar",
+        "Teabags",
+        "Ground",
+        "Loose Leaves",
+        "Whole Bean",
+        "Whole",
+        "Pastille",
+        "Gummy",
+        "Stick",
+        "Ball",
+        "Toffee",
+        "Lollipop",
+        "Oil"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 100271,
+      "frequency_pct": 16.62,
+      "examples": [
+        "1",
+        "cfuda",
+        "claveria",
+        "mburring",
+        "#N/A",
+        "durell",
+        "TRTAZ11A",
+        "dinirao",
+        "123Disco",
+        "ABCD",
+        "ambient: room temperature",
+        "-102021-v5",
+        "chilled: 33 to 38 degrees",
+        "-092021-v5",
+        "thomaswi"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 92766,
+      "frequency_pct": 15.38,
+      "examples": [
+        "1",
+        "2",
+        "12",
+        "3",
+        "6",
+        "4",
+        "24",
+        "8",
+        "10",
+        "5",
+        "20",
+        "30",
+        "50",
+        "18",
+        "16"
+      ]
+    },
+    {
+      "name": "Package Information",
+      "occurrence": 65873,
+      "frequency_pct": 10.92,
+      "examples": [
+        "Bag",
+        "Bottle",
+        "Box",
+        "Can",
+        "Jar",
+        "Pouch",
+        "Packet",
+        "Pack",
+        "Tub",
+        "Cup",
+        "Basket",
+        "Canister",
+        "Sachet",
+        "Tube",
+        "Bowl"
+      ]
+    },
+    {
+      "name": "Package Weight",
+      "occurrence": 50941,
+      "frequency_pct": 8.44,
+      "examples": [
+        "1 Pounds",
+        "0.45 Kilograms",
+        "0.23 Kilograms",
+        "0.48 Kilograms",
+        "2 Pounds",
+        "0.2 Kilograms",
+        "0.25 Kilograms",
+        "0.18 Kilograms",
+        "0.16 Kilograms",
+        "0.36 Kilograms",
+        "0.5 Kilograms",
+        "0.34 Kilograms",
+        "0.14 Kilograms",
+        "0.27 Kilograms",
+        "0.32 Kilograms"
+      ]
+    },
+    {
+      "name": "Specialty",
+      "occurrence": 38911,
+      "frequency_pct": 6.45,
+      "examples": [
+        "Organic",
+        "Natural",
+        "Gluten Free",
+        "Kosher",
+        "Non Toxic",
+        "Vegan",
+        "Vegetarian",
+        "Sugar Free",
+        "Kosher Certified",
+        "GMO Free",
+        "Certified Organic",
+        "Smoked",
+        "Fat Free",
+        "100 Natural",
+        "No Preservatives"
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 38701,
+      "frequency_pct": 6.42,
+      "examples": [
+        "USA",
+        "China",
+        "Italy",
+        "Canada",
+        "India",
+        "Mexico",
+        "Japan",
+        "Thailand",
+        "Spain",
+        "United Kingdom",
+        "Korea, Republic of",
+        "Turkey",
+        "Colombia",
+        "Sri Lanka",
+        "Peru"
+      ]
+    },
+    {
+      "name": "Date First Available",
+      "occurrence": 34575,
+      "frequency_pct": 5.73,
+      "examples": [
+        "February 10, 2009",
+        "July 29, 2017",
+        "December 30, 2012",
+        "November 21, 2017",
+        "February 8, 2017",
+        "October 3, 2017",
+        "April 12, 2011",
+        "January 22, 2013",
+        "September 26, 2013",
+        "October 8, 2008",
+        "July 1, 2016",
+        "April 4, 2004",
+        "May 7, 2005",
+        "December 7, 2003",
+        "August 11, 2011"
+      ]
+    },
+    {
+      "name": "Occasion",
+      "occurrence": 33442,
+      "frequency_pct": 5.54,
+      "examples": [
+        "Birthday",
+        "New Year, Birthday",
+        "Christmas, Congratulations, Birthday",
+        "Wedding, Anniversary, Birthday",
+        "Easter",
+        "Anniversary, Birthday",
+        "Wedding",
+        "Graduation",
+        "Christmas",
+        "Party",
+        "Baby Shower, Birthday",
+        "Halloween",
+        "Wedding, Anniversary, Birthday, Mother s",
+        "Holiday",
+        "Baby Shower"
+      ]
+    },
+    {
+      "name": "Best Sellers Rank",
+      "occurrence": 27745,
+      "frequency_pct": 4.6,
+      "examples": [
+        "{}",
+        "{'Grocery & Gourmet Food': 128004, 'Candy & Chocolate': 12045}",
+        "{'Grocery & Gourmet Food': 135309, 'Cake Toppers': 7519}",
+        "{'Grocery & Gourmet Food': 216814, 'Packaged Meals & Side Dishes': 2733}",
+        "{'Grocery & Gourmet Food': 238962, 'Cake Toppers': 16838}",
+        "{'Grocery & Gourmet Food': 438385, 'Cake Toppers': 35845}",
+        "{'Grocery & Gourmet Food': 26623, 'Cake Toppers': 838}",
+        "{'Grocery & Gourmet Food': 572411, 'Fruit Juice Beverages': 5626}",
+        "{'Grocery & Gourmet Food': 368704, 'Snack Foods': 50941}",
+        "{'Grocery & Gourmet Food': 72370, 'Cake Toppers': 3791, 'Preschool Toys': 49251}",
+        "{'Grocery & Gourmet Food': 69523, 'Live Indoor Bamboo': 24}",
+        "{'Grocery & Gourmet Food': 407986, 'Fresh Cut Mixed Bouquets': 300}",
+        "{'Grocery & Gourmet Food': 72431, 'Cake Toppers': 3796}",
+        "{'Grocery & Gourmet Food': 76100, 'Cupcake Toppers': 2044}",
+        "{'Grocery & Gourmet Food': 260013, 'Cake Toppers': 18506}"
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "occurrence": 20201,
+      "frequency_pct": 3.35,
+      "examples": [
+        "1",
+        "2",
+        "12",
+        "6",
+        "3",
+        "4",
+        "10",
+        "8",
+        "5",
+        "24",
+        "20",
+        "16",
+        "30",
+        "18",
+        "36"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 14374,
+      "frequency_pct": 2.38,
+      "examples": [
+        "1 Pound (Pack of 1)",
+        "1 Count (Pack of 1)",
+        "1 Pound",
+        "2 Pound (Pack of 1)",
+        "8 Ounce (Pack of 1)",
+        "1 pound",
+        "5 Pound (Pack of 1)",
+        "16.0 Ounce (Pack of 1)",
+        "16 Ounces",
+        "One Size",
+        "12 Ounce (Pack of 1)",
+        "3 Pound (Pack of 1)",
+        "12 Count (Pack of 1)",
+        "4 Ounce (Pack of 1)",
+        "32 Ounces"
+      ]
+    },
+    {
+      "name": "Item Dimensions LxWxH",
+      "occurrence": 13756,
+      "frequency_pct": 2.28,
+      "examples": [
+        "10 x 8 x 0.1 inches",
+        "8 x 11 x 0.1 inches",
+        "8 x 0.3 x 7 inches",
+        "27.5 x 6.5 x 6.5 inches",
+        "7 x 5 x 0.2 inches",
+        "1 x 1 x 1 inches",
+        "6.3 x 5.1 x 0.1 inches",
+        "3.94 x 0.39 x 3.94 inches",
+        "6 x 5 x 0.3 inches",
+        "4.5 x 0.1 x 5.5 inches",
+        "2.76 x 1.97 x 0.2 inches",
+        "8 x 7 x 0.5 inches",
+        "4.72 x 2.36 x 0.2 inches",
+        "5.91 x 5.91 x 0.12 inches",
+        "5 x 4 x 1 inches"
+      ]
+    },
+    {
+      "name": "Tea Variety",
+      "occurrence": 12483,
+      "frequency_pct": 2.07,
+      "examples": [
+        "Black",
+        "Green",
+        "Rooibos",
+        "Oolong",
+        "Ginger",
+        "Hibiscus",
+        "White",
+        "Chamomile",
+        "Peppermint",
+        "Matcha",
+        "Ceylon",
+        "Earl Grey",
+        "Assam",
+        "Chai",
+        "English Breakfast"
+      ]
+    },
+    {
+      "name": "Variety",
+      "occurrence": 11790,
+      "frequency_pct": 1.95,
+      "examples": [
+        "Chicken",
+        "Cheddar",
+        "Sparkling",
+        "Chili",
+        "Cinnamon",
+        "Spaghetti",
+        "Peanuts",
+        "Almonds",
+        "Garlic",
+        "Paprika",
+        "Spring",
+        "Turkey",
+        "Shrimp",
+        "Black Pepper",
+        "Ice Cream"
+      ]
+    },
+    {
+      "name": "Manufacturer recommended age",
+      "occurrence": 11512,
+      "frequency_pct": 1.91,
+      "examples": [
+        "12 months and up",
+        "3 years and up",
+        "12 years and up",
+        "1 month and up",
+        "0 months and up",
+        "13 years and up",
+        "6 years and up",
+        "18 years and up",
+        "5 years and up",
+        "24 months and up",
+        "14 years and up",
+        "3 months and up",
+        "4 years and up",
+        "8 years and up",
+        "6 months and up"
+      ]
+    },
+    {
+      "name": "Roast Level",
+      "occurrence": 11095,
+      "frequency_pct": 1.84,
+      "examples": [
+        "Medium_roast",
+        "medium_roast",
+        "dark_roast",
+        "Dark_roast",
+        "Light_roast",
+        "light_roast"
+      ]
+    },
+    {
+      "name": "Chocolate Type",
+      "occurrence": 10704,
+      "frequency_pct": 1.77,
+      "examples": [
+        "Milk",
+        "Dark",
+        "White"
+      ]
+    },
+    {
+      "name": "Item Package Quantity",
+      "occurrence": 8864,
+      "frequency_pct": 1.47,
+      "examples": [
+        "1",
+        "2",
+        "12",
+        "3",
+        "6",
+        "4",
+        "10",
+        "24",
+        "5",
+        "8",
+        "20",
+        "18",
+        "50",
+        "30",
+        "40"
+      ]
+    },
+    {
+      "name": "Domestic Shipping",
+      "occurrence": 8623,
+      "frequency_pct": 1.43,
+      "examples": [
+        "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Item can be shipped within U.S.",
+        "This item can only be shipped to the 48 contiguous states. We regret it cannot be shipped to APO/FPO, Hawaii, Alaska, or Puerto Rico.",
+        "This item can only be shipped to the 48 contiguous states and to APO/FPO/DPO addresses. For APO/FPO/DPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "This item is available for shipping in the U.S. except for California and to select countries outside the U.S.",
+        "Amazon only ships this item within the contiguous 48 United States. Other Sellers on Amazon may ship this item to Alaska, Hawaii and US Territories."
+      ]
+    },
+    {
+      "name": "International Shipping",
+      "occurrence": 8623,
+      "frequency_pct": 1.43,
+      "examples": [
+        "This item is not eligible for international shipping.  Learn More",
+        "This item can be shipped to select countries outside of the U.S.  Learn More"
+      ]
+    },
+    {
+      "name": "Color",
+      "occurrence": 8612,
+      "frequency_pct": 1.43,
+      "examples": [
+        "White",
+        "Red",
+        "Green",
+        "Pink",
+        "Blue",
+        "Multicolor",
+        "Black",
+        "Gold",
+        "Yellow",
+        "Assorted",
+        "Purple",
+        "Silver",
+        "Orange",
+        "Brown",
+        "Clear"
+      ]
+    },
+    {
+      "name": "Caffeine Content",
+      "occurrence": 7966,
+      "frequency_pct": 1.32,
+      "examples": [
+        "Caffeinated",
+        "caffeinated",
+        "Decaffeinated",
+        "decaffeinated",
+        "high_caffeine",
+        "High_caffeine",
+        "Caffeine Free",
+        "Medium_caffeine",
+        "medium_caffeine",
+        "Half Caffeinated",
+        "Regular",
+        "Caffeinated Ounces",
+        "Medium Caffeine",
+        "low_caffeine",
+        "Caffeine free"
+      ]
+    },
+    {
+      "name": "Age Range (Description)",
+      "occurrence": 7647,
+      "frequency_pct": 1.27,
+      "examples": [
+        "Adult",
+        "Kid",
+        "Child",
+        "All Life Stages",
+        "Any Age Group",
+        "Baby",
+        "Adult,Kid",
+        "All Ages",
+        "24 Months and Above",
+        "Toddler",
+        "Adult,Baby",
+        "All",
+        "kid",
+        "baby",
+        "Teen"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 6020,
+      "frequency_pct": 1.0,
+      "examples": [
+        "Produce",
+        "unisex-adult",
+        "Unisex-adult",
+        "Latin and Mexican Food",
+        "Womens",
+        "womens",
+        "men, women, unisex-adult",
+        "Unisex",
+        "Men, women, unisex-adult",
+        "Health and Beauty>Health and Wellness",
+        "Grocery",
+        "Mens",
+        "mens",
+        "Prepared Deli",
+        "unisex"
+      ]
+    },
+    {
+      "name": "Item Volume",
+      "occurrence": 4966,
+      "frequency_pct": 0.82,
+      "examples": [
+        "12 Fluid Ounces",
+        "16 Fluid Ounces",
+        "16.9 Fluid Ounces",
+        "4 Fluid Ounces",
+        "500 Milliliters",
+        "2 Fluid Ounces",
+        "1 Fluid Ounces",
+        "8 Fluid Ounces",
+        "750 Milliliters",
+        "1 Liters",
+        "33.8 Fluid Ounces",
+        "3.7 Milliliters",
+        "20 Fluid Ounces",
+        "250 Milliliters",
+        "17 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Package Type",
+      "occurrence": 4495,
+      "frequency_pct": 0.75,
+      "examples": [
+        "Bag",
+        "Box",
+        "Pouch",
+        "Bottle",
+        "Jar",
+        "Can",
+        "Canister",
+        "Standard Packaging",
+        "Tub",
+        "Soft Pack",
+        "Cup",
+        "Carton",
+        "Frustration-Free Packaging",
+        "Bag, Box",
+        "Palette"
+      ]
+    },
+    {
+      "name": "Weight",
+      "occurrence": 4231,
+      "frequency_pct": 0.7,
+      "examples": [
+        "1 Pounds",
+        "2 Pounds",
+        "16 Ounces",
+        "12 Ounces",
+        "8 Ounces",
+        "4 Ounces",
+        "5 Pounds",
+        "3 Pounds",
+        "6 Ounces",
+        "0.01 Ounces",
+        "10 Ounces",
+        "7 Ounces",
+        "5 Ounces",
+        "200 Grams",
+        "0.5 Pounds"
+      ]
+    },
+    {
+      "name": "Diet Type",
+      "occurrence": 3828,
+      "frequency_pct": 0.63,
+      "examples": [
+        "Kosher",
+        "Gluten Free",
+        "Vegetarian",
+        "Vegan",
+        "Gluten Free, Kosher",
+        "Plant Based",
+        "Paleo",
+        "Gluten Free, Vegan",
+        "Keto",
+        "Gluten Free, Kosher, Vegan",
+        "Kosher, Vegan",
+        "Vegetarian, Vegan",
+        "Vegetarian, Gluten Free, Vegan",
+        "Halal",
+        "Paleo, Vegetarian, Vegan"
+      ]
+    },
+    {
+      "name": "Liquid Volume",
+      "occurrence": 3451,
+      "frequency_pct": 0.57,
+      "examples": [
+        "750 Milliliters",
+        "250 Milliliters",
+        "12 Fluid Ounces",
+        "500 Milliliters",
+        "30 Milliliters",
+        "100 Milliliters",
+        "1 Gallons",
+        "375 Milliliters",
+        "1 Liters",
+        "16.9 Fluid Ounces",
+        "16 Fluid Ounces",
+        "10 Milliliters",
+        "13 Milliliters",
+        "4.5 Fluid Ounces",
+        "0.75 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Material",
+      "occurrence": 3216,
+      "frequency_pct": 0.53,
+      "examples": [
+        "Paper",
+        "Plastic",
+        "Glass",
+        "Stainless Steel",
+        "Latex",
+        "Ceramic",
+        "Wood",
+        "Wax",
+        "Silicone",
+        "Cardboard",
+        "Cotton",
+        "Aluminum",
+        "Tempered Glass",
+        "Metal",
+        "Acrylic"
+      ]
+    },
+    {
+      "name": "Temperature Condition",
+      "occurrence": 3186,
+      "frequency_pct": 0.53,
+      "examples": [
+        "Fresh",
+        "Frozen",
+        "Previously Frozen"
+      ]
+    },
+    {
+      "name": "Material Feature",
+      "occurrence": 3030,
+      "frequency_pct": 0.5,
+      "examples": [
+        "Natural",
+        "Organic",
+        "Gluten Free",
+        "GMO Free",
+        "Organic, Natural",
+        "Organic, Genetically Modified Organism (GMO) Free",
+        "Certified Organic",
+        "Sugar Free",
+        "Vegan",
+        "Organic, Gluten Free, Genetically Modified Organism (GMO) Free, Natural",
+        "Gluten Free, Vegan",
+        "Genetically Modified Organism (GMO) Free",
+        "Organic, Gluten Free, Genetically Modified Organism (GMO) Free",
+        "Heirloom",
+        "Plant Based"
+      ]
+    },
+    {
+      "name": "Special Feature",
+      "occurrence": 2983,
+      "frequency_pct": 0.49,
+      "examples": [
+        "Fresh Flowers",
+        "Cold Pressed",
+        "Fresh Flowers, Perfect Gift",
+        "Lightweight",
+        "Infused",
+        "Gluten Free",
+        "Decor, Fresh Flowers, Perfect Gift",
+        "Low Carb",
+        "Refined",
+        "Raw",
+        "Decor, Fresh Flowers",
+        "Fresh Flowers, Long Lasting Flower, Perfect Gift",
+        "Unrefined",
+        "Cold Pressed,Unrefined",
+        "Durable"
+      ]
+    },
+    {
+      "name": "Produce sold as",
+      "occurrence": 2550,
+      "frequency_pct": 0.42,
+      "examples": [
+        "Pre-packaged",
+        "Loose",
+        "Bunch",
+        "Living"
+      ]
+    },
+    {
+      "name": "Allergen Information",
+      "occurrence": 2485,
+      "frequency_pct": 0.41,
+      "examples": [
+        "Gluten Free",
+        "Wheat",
+        "Dairy",
+        "Tree Nuts",
+        "Dairy Free",
+        "Milk",
+        "Fish",
+        "Peanuts",
+        "Soy",
+        "Gluten",
+        "Eggs",
+        "Gluten Free, Dairy Free",
+        "Non-GMO",
+        "Peanut Free",
+        "Sesame Seeds"
+      ]
+    },
+    {
+      "name": "Item Firmness Description",
+      "occurrence": 2095,
+      "frequency_pct": 0.35,
+      "examples": [
+        "Cookies",
+        "Soft",
+        "Crispy",
+        "Crunchy",
+        "Wafer",
+        "Individually_wrapped, Cookies",
+        "Cookies, Assorted",
+        "Tender",
+        "Biscotti",
+        "Cookies, Package",
+        "Cookies, Wafer",
+        "Chewy",
+        "Package",
+        "Hard",
+        "Cookie"
+      ]
+    },
+    {
+      "name": "Type",
+      "occurrence": 2080,
+      "frequency_pct": 0.34,
+      "examples": [
+        "Potato Chip",
+        "Tortilla Chip",
+        "Crackling",
+        "Corn Chip",
+        "Vegetable Chip",
+        "Pita Chip",
+        "Protein",
+        "Grain Chip",
+        "Granola",
+        "Cereal",
+        "Fruit",
+        "Nut",
+        "Energy",
+        "Breakfast",
+        "Nutrition"
+      ]
+    },
+    {
+      "name": "Style",
+      "occurrence": 2018,
+      "frequency_pct": 0.33,
+      "examples": [
+        "Classic",
+        "Modern",
+        "With Vase",
+        "Traditional",
+        "Without Vase",
+        "Elegant",
+        "Custom",
+        "Vase",
+        "Bouquet",
+        "Pouch",
+        "John Deere Plaid",
+        "No Vase",
+        "Japanese",
+        "Mixed",
+        "Stunning"
+      ]
+    },
+    {
+      "name": "Varietal Designation",
+      "occurrence": 1781,
+      "frequency_pct": 0.3,
+      "examples": [
+        "Cabernet Sauvignon",
+        "Blend - Red",
+        "Blend - Other",
+        "Chardonnay",
+        "Pinot Nero",
+        "Merlot",
+        "Blend - White",
+        "Riesling",
+        "Sauvignon Blanc",
+        "Zinfandel",
+        "Fruit",
+        "Shiraz",
+        "Moscato",
+        "Pinot Grigio",
+        "Red Blend"
+      ]
+    },
+    {
+      "name": "Batteries required",
+      "occurrence": 1708,
+      "frequency_pct": 0.28,
+      "examples": [
+        "No",
+        "Yes",
+        "false"
+      ]
+    },
+    {
+      "name": "Cuisine",
+      "occurrence": 1644,
+      "frequency_pct": 0.27,
+      "examples": [
+        "Italian",
+        "US",
+        "Usa",
+        "Spanish",
+        "French",
+        "New York",
+        "American",
+        "English",
+        "United States",
+        "Mexican",
+        "Indian",
+        "Japanese",
+        "German",
+        "New",
+        "Pepperoni"
+      ]
+    },
+    {
+      "name": "Plant or Animal Product Type",
+      "occurrence": 1636,
+      "frequency_pct": 0.27,
+      "examples": [
+        "Bonsai",
+        "Flower",
+        "bonsai",
+        "Orchid",
+        "lucky bamboo",
+        "Lucky bamboo",
+        "Rose",
+        "Tree",
+        "Herb",
+        "Vegetable",
+        "Tulip",
+        "Flowers",
+        "Shrub & Hedge",
+        "Extra virgin olive oil",
+        "Roses"
+      ]
+    },
+    {
+      "name": "Alcohol Content",
+      "occurrence": 1536,
+      "frequency_pct": 0.25,
+      "examples": [
+        "13.5 Percent by Volume",
+        "13 Percent by Volume",
+        "14.5 Percent by Volume",
+        "12.5 Percent by Volume",
+        "12 Percent by Volume",
+        "11 Percent by Volume",
+        "13.9 Percent by Volume",
+        "40 Percent by Volume",
+        "14 Percent by Volume",
+        "11.5 Percent by Volume",
+        "14.2 Percent by Volume",
+        "13.8 Percent by Volume",
+        "5 Percent by Volume",
+        "14.1 Percent by Volume",
+        "15 Percent by Volume"
+      ]
+    },
+    {
+      "name": "Country/Region Of Origin",
+      "occurrence": 1520,
+      "frequency_pct": 0.25,
+      "examples": [
+        "United States",
+        "Germany",
+        "Italy",
+        "New Zealand",
+        "Canada",
+        "France",
+        "Greece",
+        "Japan",
+        "Australia",
+        "United Kingdom",
+        "Denmark",
+        "Belgium",
+        "Argentina",
+        "Spain",
+        "Thailand"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 1429,
+      "frequency_pct": 0.24,
+      "examples": [
+        "Round",
+        "Rectangular",
+        "Novelty",
+        "Square",
+        "Basket",
+        "Flower",
+        "Heart",
+        "Cylindrical",
+        "Irregular",
+        "Oval",
+        "Number",
+        "Bowl",
+        "Star",
+        "Triangular",
+        "Candy"
+      ]
+    },
+    {
+      "name": "Sunlight Exposure",
+      "occurrence": 1370,
+      "frequency_pct": 0.23,
+      "examples": [
+        "Full Sun",
+        "Full Sun, Partial Shade",
+        "Partial Shade",
+        "Partial Sun",
+        "Full Shade",
+        "Indirect light",
+        "indirect sunlight",
+        "Shade",
+        "Full Sun, Full Shade",
+        "indirect light",
+        "Medium Sun",
+        "Indirect sunlight",
+        "Latitude: Southern Partial Sun, Nothern Full Sun",
+        "SEMI SUN",
+        "Bright filtered lght"
+      ]
+    },
+    {
+      "name": "Recommended Uses For Product",
+      "occurrence": 1360,
+      "frequency_pct": 0.23,
+      "examples": [
+        "Cooking",
+        "Boost Energy",
+        "Baking",
+        "Food",
+        "Frying",
+        "Nutritious Snack",
+        "Decor",
+        "Immune Support",
+        "Digestive Health",
+        "Weight Loss",
+        "Provides Vitamins",
+        "Dietary Supplement",
+        "Roasting",
+        "Crafts",
+        "Livestock"
+      ]
+    },
+    {
+      "name": "Part Number",
+      "occurrence": 1289,
+      "frequency_pct": 0.21,
+      "examples": [
+        "1",
+        "1299292831",
+        "FESTA",
+        "NBFU DECALS",
+        "MS-178",
+        "1234",
+        "43237-2",
+        "FBA_606997",
+        "7147905911260",
+        "65094",
+        "Unknown",
+        "53124",
+        "0053158",
+        "53523",
+        "1020"
+      ]
+    },
+    {
+      "name": "Moisture Needs",
+      "occurrence": 1223,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Moderate Watering",
+        "Regular Watering",
+        "Little To No Watering",
+        "Constant Watering",
+        "Moderate to Low",
+        "constant-watering",
+        "Water Once Every 4 days",
+        "Plants should get at least one inch of water each week, allowing the soil to slightly dry out between watering. If the plant becomes drought-stressed it will drop its flower. Put a thick mulch layers around the base of the plant to conserve soil moisture.",
+        "SEMI WET",
+        "Constant-watering",
+        "Moderate to Low in Dormancy",
+        "VERY LITTLE",
+        "Misting - light watering - humidity tent",
+        "Small amount of water spray every 2-4 days",
+        "Saturated Daily"
+      ]
+    },
+    {
+      "name": "Product Care Instructions",
+      "occurrence": 1210,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Water",
+        "Hand Wash Only",
+        "water",
+        "Hand Wash",
+        "Machine Wash, Hand Wash Only",
+        "Machine Wash",
+        "Wipe with Dry Cloth",
+        "WATER ONLY",
+        "Dishwasher Safe",
+        "Iron",
+        "Keep Indoors, Keep in a Dry Place, Do not Wash",
+        "Well-drained",
+        "Moist",
+        "mild",
+        "Brush"
+      ]
+    },
+    {
+      "name": "Wine Type",
+      "occurrence": 1187,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Red Wine",
+        "White Wine",
+        "Sparkling Wine",
+        "Dessert Wine",
+        "White Wine, Red Wine",
+        "Fortified Wine",
+        "Late Harvest / Ice Wine",
+        "White Wine, Sparkling Wine",
+        "Ros\u00e9 Wine",
+        "Dessert Wine, White Wine",
+        "Other",
+        "Sparkling Wine, Red Wine",
+        "White Wine, Sparkling Wine, Red Wine",
+        "Dessert Wine, Red Wine",
+        "Moscato"
+      ]
+    },
+    {
+      "name": "Theme",
+      "occurrence": 1187,
+      "frequency_pct": 0.2,
+      "examples": [
+        "Christmas",
+        "Cartoon",
+        "Alphabet",
+        "Movie",
+        "Animal",
+        "Video Game",
+        "Religious",
+        "Floral",
+        "Sport",
+        "Food",
+        "Holiday",
+        "Candy",
+        "Love",
+        "Fruit",
+        "Animals"
+      ]
+    },
+    {
+      "name": "Brand Name",
+      "occurrence": 1136,
+      "frequency_pct": 0.19,
+      "examples": [
+        "Mountain House",
+        "Augason Farms",
+        "Paragon",
+        "Hi-Country Snack Foods",
+        "Gatorade",
+        "LEM",
+        "Backpacker's Pantry",
+        "Worthy Promo",
+        "Generic",
+        "Besmon",
+        "LuvyDuvy",
+        "Alpine",
+        "MRE",
+        "Emergency Essentials",
+        "Kirkland Signature"
+      ]
+    },
+    {
+      "name": "Total Eaches",
+      "occurrence": 1100,
+      "frequency_pct": 0.18,
+      "examples": [
+        "1",
+        "12",
+        "6",
+        "2",
+        "4",
+        "24",
+        "3",
+        "5",
+        "10",
+        "8",
+        "30",
+        "16",
+        "18",
+        "15",
+        "36"
+      ]
+    },
+    {
+      "name": "Product Benefits",
+      "occurrence": 1090,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Weight Management",
+        "High Protein",
+        "Zero Calories",
+        "Organic",
+        "Diabetes",
+        "Nutritional Support",
+        "Energy Management",
+        "Detoxing",
+        "Cold",
+        "Skin Hydrating",
+        "Moisturizing",
+        "Weight Loss",
+        "Smoothening",
+        "Digestive Health Support",
+        "Soothing"
+      ]
+    },
+    {
+      "name": "Item Package Dimensions L x W x H",
+      "occurrence": 1001,
+      "frequency_pct": 0.17,
+      "examples": [
+        "7 x 2.6 x 1.7 inches",
+        "12 x 6 x 6 inches",
+        "8 x 6.5 x 2.5 inches",
+        "8.3 x 5.6 x 2 inches",
+        "7 x 6.1 x 6.1 inches",
+        "6 x 5 x 4.8 inches",
+        "8.3 x 5.7 x 3.6 inches",
+        "18 x 12 x 12 inches",
+        "6.9 x 6.1 x 6.1 inches",
+        "8.3 x 5.6 x 1.9 inches",
+        "11 x 8.5 x 2.5 inches",
+        "10 x 3.4 x 3.4 inches",
+        "8.5 x 4.69 x 2.28 inches",
+        "7 x 6.25 x 6.25 inches",
+        "9.4 x 8 x 2.9 inches"
+      ]
+    },
+    {
+      "name": "Indoor/Outdoor Usage",
+      "occurrence": 944,
+      "frequency_pct": 0.16,
+      "examples": [
+        "Indoor",
+        "Outdoor",
+        "Outdoor, Indoor"
+      ]
+    },
+    {
+      "name": "Included Components",
+      "occurrence": 876,
+      "frequency_pct": 0.15,
+      "examples": [
+        "Banner",
+        "Lid",
+        "Pillowcase, Duvet Cover",
+        "Handle",
+        "Cake Dish",
+        "Balloon Arch",
+        "Cord And String",
+        "Crayfish",
+        "Food",
+        "Straw",
+        "Cupcake Topper",
+        "Kettle",
+        "Freeze dried, dehydrated food ingredients",
+        "Battery",
+        "Snails"
+      ]
+    },
+    {
+      "name": "Soil Type",
+      "occurrence": 794,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Sandy Soil",
+        "Clay Soil",
+        "Loam Soil",
+        "NO SOIL",
+        "Peat Soil",
+        "Well draining soil",
+        "All Types",
+        "All Soil Types",
+        "Soil free",
+        "Hard Soil",
+        "Not relevant for this product",
+        "well-drained",
+        "Philodendron Soil",
+        "*NO SOIL",
+        "Loam Soil, Clay Soil, Sandy Soil"
+      ]
+    },
+    {
+      "name": "Protein",
+      "occurrence": 698,
+      "frequency_pct": 0.12,
+      "examples": [
+        "1 Grams",
+        "10 Grams",
+        "2 Grams",
+        "4 Grams",
+        "15 Grams",
+        "12 Grams",
+        "3 Grams",
+        "5 Grams",
+        "0 Grams",
+        "20 Grams",
+        "9 Grams",
+        "11 Grams",
+        "6 Grams",
+        "8 Grams",
+        "7 Grams"
+      ]
+    },
+    {
+      "name": "USDA Hardiness Zone",
+      "occurrence": 695,
+      "frequency_pct": 0.12,
+      "examples": [
+        "3",
+        "7",
+        "5",
+        "4",
+        "9",
+        "8",
+        "11",
+        "10",
+        "2",
+        "8, 9, 10",
+        "11, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+        "6",
+        "5, 6, 7, 8, 9",
+        "4-11",
+        "11, 12, 13, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+      ]
+    },
+    {
+      "name": "Expected Blooming Period",
+      "occurrence": 675,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Spring",
+        "Year Round",
+        "Winter",
+        "Fall",
+        "Summer",
+        "Winter, Year Round",
+        "Winter, Spring",
+        "Summer, Spring",
+        "No Blossoms",
+        "Winter, Summer",
+        "Winter, Fall",
+        "Spring to Summer",
+        "Spring to Fall",
+        "Fall, Spring",
+        "Winter, Summer, Spring"
+      ]
+    },
+    {
+      "name": "Seafood Production Method",
+      "occurrence": 634,
+      "frequency_pct": 0.11,
+      "examples": [
+        "Wild Caught",
+        "Farmed"
+      ]
+    },
+    {
+      "name": "Batteries Required?",
+      "occurrence": 632,
+      "frequency_pct": 0.1,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Manufacturer Part Number",
+      "occurrence": 573,
+      "frequency_pct": 0.09,
+      "examples": [
+        "1",
+        "WE-Steering Wheel Cover",
+        "Unknown",
+        "CH",
+        "01",
+        "10072084171508",
+        "382069",
+        "1301233",
+        "B0031H4DBQ",
+        "12411946",
+        "MLA75412",
+        "4031501",
+        "GMICGC",
+        "4032075",
+        "A210125"
+      ]
+    },
+    {
+      "name": "Other display features",
+      "occurrence": 555,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Wireless",
+        "Grocery",
+        "Alcoholic Beverage",
+        "Gourmet",
+        "CE"
+      ]
+    },
+    {
+      "name": "Capacity",
+      "occurrence": 529,
+      "frequency_pct": 0.09,
+      "examples": [
+        "16 Ounces",
+        "12 Ounces",
+        "8 Ounces",
+        "2 Pounds",
+        "1.1 Pounds",
+        "1.3 Pounds",
+        "4 Ounces",
+        "500 Milliliters",
+        "1.5 Pounds",
+        "1 Ounces",
+        "1.9 Pounds",
+        "16 Fluid Ounces",
+        "15 Ounces",
+        "1.4 Pounds",
+        "2 Ounces"
+      ]
+    },
+    {
+      "name": "Dosage Form",
+      "occurrence": 522,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Powder",
+        "Liquid",
+        "Capsule",
+        "Gummy",
+        "Softgel",
+        "Tablet",
+        "Gel",
+        "Spray",
+        "Gummies",
+        "Oral",
+        "500",
+        "Tablets",
+        "10g"
+      ]
+    },
+    {
+      "name": "Item Dimensions  LxWxH",
+      "occurrence": 490,
+      "frequency_pct": 0.08,
+      "examples": [
+        "6.3 x 6.3 x 7 inches",
+        "1 x 1 x 1 inches",
+        "12 x 8.25 x 6.5 inches",
+        "12 x 12 x 18 inches",
+        "6.25 x 6.25 x 7 inches",
+        "7.5 x 1.8 x 9.8 inches",
+        "4 x 4 x 4.5 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "9.13 x 5.75 x 6.13 inches",
+        "4.38 x 6.88 x 0.75 inches",
+        "2.3 x 2.3 x 5.3 inches",
+        "8 x 8 x 8 inches",
+        "7 x 6.3 x 6.3 inches",
+        "7 x 5 x 2 inches",
+        "7 x 5 x 3 inches"
+      ]
+    },
+    {
+      "name": "Batteries Included?",
+      "occurrence": 477,
+      "frequency_pct": 0.08,
+      "examples": [
+        "No",
+        "Yes",
+        "false"
+      ]
+    },
+    {
+      "name": "Biological Source",
+      "occurrence": 475,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Salmon",
+        "Tuna",
+        "Sardine",
+        "Anchovy",
+        "Cow",
+        "Grass-fed",
+        "Herring",
+        "Cod",
+        "Buffalo",
+        "Mackerel",
+        "Trout",
+        "Pollock",
+        "Haddock",
+        "Seabass",
+        "Goat"
+      ]
+    },
+    {
+      "name": "Pattern",
+      "occurrence": 469,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Solid",
+        "Letter Print",
+        "Cartoon",
+        "Floral",
+        "Plaid",
+        "Polka Dots",
+        "Animal Print",
+        "Logo",
+        "Fruit",
+        "Plain",
+        "Geometric",
+        "Animal",
+        "Striped",
+        "Insects",
+        "Heart"
+      ]
+    },
+    {
+      "name": "Region of Origin",
+      "occurrence": 460,
+      "frequency_pct": 0.08,
+      "examples": [
+        "California",
+        "Washington",
+        "USA",
+        "United States",
+        "New York",
+        "Other",
+        "Oregon",
+        "Mexico",
+        "Italy",
+        "WI",
+        "WA",
+        "Texas",
+        "Bordeaux",
+        "Veneto",
+        "CO"
+      ]
+    },
+    {
+      "name": "Scent",
+      "occurrence": 457,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Unscented",
+        "Lavender",
+        "Fresh",
+        "Rose",
+        "Coconut",
+        "Lemon",
+        "Vanilla",
+        "Honey",
+        "Natural",
+        "Citrus",
+        "Floral",
+        "Rosemary",
+        "Tea Tree",
+        "Coffee",
+        "Scented"
+      ]
+    },
+    {
+      "name": "Expected Planting Period",
+      "occurrence": 443,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Winter",
+        "Spring",
+        "Fall",
+        "Summer",
+        "Year Round",
+        "Fall to Spring",
+        "Year-Round",
+        "Year round",
+        "all year",
+        "All year",
+        "Zone specific (Check your zone)",
+        "All year around, but early spring and fall months are the best",
+        "Fall to Summer",
+        "year round",
+        "After last frost & temprature remains above 50 degrees F."
+      ]
+    },
+    {
+      "name": "Specific Uses For Product",
+      "occurrence": 440,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Home Decor",
+        "Garden",
+        "Decoration",
+        "Party",
+        "Indoor",
+        "Cough",
+        "Wedding",
+        "Celebration",
+        "Organic",
+        "Sore Throat",
+        "Weight",
+        "Hot Drinks",
+        "Energy",
+        "Scented",
+        "Training"
+      ]
+    },
+    {
+      "name": "Reusability",
+      "occurrence": 423,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Disposable",
+        "Reusable",
+        "Single Use",
+        "Resealable",
+        "Reusable,Resealable"
+      ]
+    },
+    {
+      "name": "Net Content Volume",
+      "occurrence": 421,
+      "frequency_pct": 0.07,
+      "examples": [
+        "16.9 Fluid Ounces",
+        "16 Fluid Ounces",
+        "8.5 Fluid Ounces",
+        "8 Fluid Ounces",
+        "8.45 Fluid Ounces",
+        "128 Fluid Ounces",
+        "33.8 Fluid Ounces",
+        "12 Fluid Ounces",
+        "20 Fluid Ounces",
+        "32 Fluid Ounces",
+        "30 Fluid Ounces",
+        "4 Fluid Ounces",
+        "54 Fluid Ounces",
+        "25.4 Fluid Ounces",
+        "15 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Nut Seed Type",
+      "occurrence": 407,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Peanut",
+        "Almond",
+        "Pecan",
+        "Cashew",
+        "Pistachio",
+        "Walnut",
+        "Pistachio, Almond, Cashew, Pecan",
+        "Pistachio, Cashew",
+        "Chestnut",
+        "Peanut, Almond, Cashew",
+        "Sesame Seed, Pumpkin Seed",
+        "Almond, Cashew, Hazelnut, Pecan",
+        "Macadamia Nut, Hazelnut",
+        "Almond, Cashew",
+        "Peanut, Almond, Hazelnut"
+      ]
+    },
+    {
+      "name": "Number of pieces",
+      "occurrence": 397,
+      "frequency_pct": 0.07,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "12",
+        "24",
+        "4",
+        "20",
+        "40",
+        "7",
+        "5",
+        "10",
+        "50",
+        "42",
+        "60"
+      ]
+    },
+    {
+      "name": "Release date",
+      "occurrence": 374,
+      "frequency_pct": 0.06,
+      "examples": [
+        "January 1, 2021",
+        "January 1, 2020",
+        "November 23, 2021",
+        "December 17, 2020",
+        "April 9, 2018",
+        "April 12, 2021",
+        "September 15, 2019",
+        "April 19, 2015",
+        "March 19, 2021",
+        "January 1, 2022",
+        "July 28, 2021",
+        "December 15, 2019",
+        "January 9, 2021",
+        "October 20, 2021",
+        "June 8, 2021"
+      ]
+    },
+    {
+      "name": "Is Dishwasher Safe",
+      "occurrence": 360,
+      "frequency_pct": 0.06,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Seasons",
+      "occurrence": 352,
+      "frequency_pct": 0.06,
+      "examples": [
+        "All Seasons",
+        "All Season",
+        "All",
+        "All-Season",
+        "Winter",
+        "Autumn, Winter, Summer, Spring",
+        "Year-round",
+        "4 Season",
+        "Spring/Summer",
+        "Summer, Spring",
+        "All seasons",
+        "Fall",
+        "Spring"
+      ]
+    },
+    {
+      "name": "Volume",
+      "occurrence": 334,
+      "frequency_pct": 0.06,
+      "examples": [
+        "12 Fluid Ounces",
+        "750 Milliliters",
+        "16.9 Fluid Ounces",
+        "16 Fluid Ounces",
+        "500 Milliliters",
+        "200 Milliliters",
+        "1 Liters",
+        "250 Milliliters",
+        "8 Fluid Ounces",
+        "355 Milliliters",
+        "33.8 Fluid Ounces",
+        "330 Milliliters",
+        "2 Liters",
+        "17 Fluid Ounces",
+        "8.45 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Distinctive feature",
+      "occurrence": 311,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Non Toxic",
+        "Natural",
+        "Kosher",
+        "Organic",
+        "Kosher Certified",
+        "Certified Organic",
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian",
+        "Herbal",
+        "Single Origin",
+        "Edible",
+        "Sugar Free",
+        "Organic, Natural",
+        "Suitable,Vegetarians"
+      ]
+    },
+    {
+      "name": "Model Name",
+      "occurrence": 307,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Gx Bottle",
+        "FBA_606997",
+        "Chicken Teriyaki with Rice",
+        "Milk Bottle",
+        "Country Harvest",
+        "Coconut Popcorn Popping Oil",
+        "Backwoods",
+        "5-40002",
+        "Fong Sambal Oelek",
+        "Kettle Corn Dual-Pack for 6-Ounce Poppers (Regular Case, 24 Count)",
+        "Gx Pods",
+        "53449",
+        "Gatorade Gx Jug",
+        "Summer Palms Tube",
+        "Frontier Natural Products Cumin Seed, Og, Whole, 1.68-Ounce"
+      ]
+    },
+    {
+      "name": "Cartoon Character",
+      "occurrence": 301,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Animal",
+        "Bubble",
+        "Encanto",
+        "Dog",
+        "Princess",
+        "Bunny",
+        "Unicorn",
+        "Halloween",
+        "Dinosaur",
+        "Harry Potter",
+        "Bobs",
+        "Sunflower",
+        "Fish",
+        "Football",
+        "American"
+      ]
+    },
+    {
+      "name": "Assembly required",
+      "occurrence": 294,
+      "frequency_pct": 0.05,
+      "examples": [
+        "No",
+        "Yes",
+        "false"
+      ]
+    },
+    {
+      "name": "Suggested Users",
+      "occurrence": 284,
+      "frequency_pct": 0.05,
+      "examples": [
+        "unisex-adult",
+        "Unisex-adult",
+        "Grocery and Gourmet",
+        "Unisex-Adult",
+        "Unisex",
+        "mens",
+        "Mens",
+        "unisex",
+        "Kitchen",
+        "Bike Nutrition",
+        "General Home Products",
+        "\"\", CAMPING",
+        "womens",
+        "unisex-adult, 252",
+        "\"\""
+      ]
+    },
+    {
+      "name": "Honey Type",
+      "occurrence": 280,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Wildflower",
+        "Clover",
+        "Manuka",
+        "Acacia",
+        "Blended",
+        "Orange Blossom",
+        "Buckwheat",
+        "Sage",
+        "Tupelo",
+        "Leatherwood",
+        "Blueberry",
+        "Linden",
+        "Avocado",
+        "Eucalyptus",
+        "Alfalfa"
+      ]
+    },
+    {
+      "name": "Material Type",
+      "occurrence": 226,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Paper",
+        "Plastic",
+        "Wood",
+        "Cardstock",
+        "Other",
+        "Ceramic",
+        "Cardboard",
+        "Paper Goods on wood sticks",
+        "Stickers",
+        "Stainless Steel",
+        "Leather",
+        "Rubber",
+        "As shown in the image",
+        "Fiberglass",
+        "paper"
+      ]
+    },
+    {
+      "name": "Format",
+      "occurrence": 209,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Advent Calendar",
+        "Black & White, Full Screen, DVD Single, Supratitled",
+        "Best of",
+        "Multiple Formats, Animated, Color, NTSC, Full Screen",
+        "Multiple Formats, Color, NTSC, Animated, Original recording remastered, Closed-captioned, Subtitled, WidescreenMultiple Formats, Color, NTSC, Animated, Original recording remastered, Closed-captioned, Subtitled, Widescreen  See more",
+        "Wall Calendar",
+        "Day to Day Calendar",
+        "CD",
+        "Organizer"
+      ]
+    },
+    {
+      "name": "Warranty Description",
+      "occurrence": 207,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Warranty",
+        "Manufacturer",
+        "Manufacturer Warranty",
+        "One Year Warranty",
+        "30-Years Taste Guarantee",
+        "None.",
+        "1 year",
+        "Wbm llc. Warrants its products to be free from defects in material and workmanship for 30 days from the shipment date unless otherwise noted. Wbm llc. Will replace any item returned to us within the parameters of this policy and found to be defective. All returned warranty-issue merchandise must be properly packed for a safe return shipment and in original purchase condition with the original packaging, the original receipt/invoice/packing slip and an explanation of the item's problem. Wbm llc. Will not refund, credit or cover shipping expenses for warranty item returns or warranty item replacements under any circumstances. Wbm llc. Is not liable for misuse of its products. This warranty does not cover damage due to abuse, neglect, alteration, failure to follow instructions, shipping damage or damaged packaging. Wbm llc. Expressly disclaims all express warranties not stated herein and all implied warranties, including the implied warranties of merchantability and fitness for a particular purpose.",
+        "One year",
+        "30-Month Shelf Life",
+        "Honey-can-do international, llc (hcd) warrants its products will be free from defects in materials and workmanship when used for normal personal or household use, except as provided below. Hcd, at its option, may offer a comparable product or offer a replacement part or request that the item be returned to the place of purchase. This warranty does not apply to damage caused by negligence, misuse, excessive use, improper cleaning, improper assembly, or any circumstance not directly attributable to manufacturing defects. Proof of purchase is required in the form of a receipt (copy or original) and proof of damage may be requested to validate warranty. Hcd provides this warranty in lieu of all other warranties either expressed or implied. In no event shall hcd, its affiliates, or subsidiaries be responsible for consequential or incidental damages arising out of a claim of defective product. Some states or provinces do not allow some exclusions or limitations, so the above statement may not apply to you. This warranty gives you specific legal rights, and you may also have other rights, which vary by state or province.",
+        "30 days money back warranty.",
+        "One year warranty",
+        "Manufacture Warranty",
+        "No Warranty"
+      ]
+    },
+    {
+      "name": "Import Designation",
+      "occurrence": 203,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Imported",
+        "Made in USA",
+        "Made in US",
+        "Made in USA and Imported",
+        "Made in the USA and Imported",
+        "Made in USA or Imported",
+        "Made in Tunisia",
+        "Sri Lanka",
+        "Imported from greece",
+        "Hecho en EE. UU. o importado"
+      ]
+    },
+    {
+      "name": "Alcohol Type",
+      "occurrence": 198,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Bitters",
+        "Vodka",
+        "Tequila",
+        "Whiskey-Bourbon",
+        "Rum",
+        "Bourbon",
+        "Gin",
+        "Single Malt Scotch",
+        "Brandy",
+        "Liqueurs",
+        "Rye Whiskey",
+        "Whiskey-Flavored",
+        "Cacha\u00e7a",
+        "Liqueur",
+        "Blended Whiskey"
+      ]
+    },
+    {
+      "name": "Material Type Free",
+      "occurrence": 179,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Gluten Free",
+        "BPA Free",
+        "Preservative Free",
+        "No Msg",
+        "Wheat Free",
+        "Sugar Free",
+        "Bpa Free",
+        "Artificial Flavor Free",
+        "No Preservatives",
+        "Fat Free",
+        "Paraben Free",
+        "Non-toxic",
+        "No Msg,No Preservatives",
+        "No Artificial Flavors",
+        "Monosodium Glutamate (MSG) Free"
+      ]
+    },
+    {
+      "name": "Are Batteries Included",
+      "occurrence": 177,
+      "frequency_pct": 0.03,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Special Features",
+      "occurrence": 173,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Non Toxic",
+        "Clean Burn",
+        "Airtight",
+        "Long Burning",
+        "Smokeless",
+        "Leak Resistant",
+        "Nonstandard Shaped",
+        "Foldable",
+        "Assorted",
+        "Bpa Free,Dishwasher Safe",
+        "Lightweight",
+        "Long Burning, Smokeless, Non Toxic",
+        "Dishwasher Safe",
+        "Long Lasting",
+        "Bpa Free,Leak Proof"
+      ]
+    },
+    {
+      "name": "Room Type",
+      "occurrence": 170,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Office, Living Room, Bedroom",
+        "Kitchen",
+        "Bedroom",
+        "Garden",
+        "Living Room",
+        "Living Room, Bedroom",
+        "Office",
+        "Baby,Garden",
+        "Garden,Office",
+        "Living room",
+        "Closet",
+        "Di, Bathroom, Living Room, Bedroom",
+        "Office, Garden, Living Room, Bedroom",
+        "Bedroom, Living Room, Nursery",
+        "Hallway"
+      ]
+    },
+    {
+      "name": "Special Ingredients",
+      "occurrence": 167,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Probiotic",
+        "Ginseng",
+        "Flaxseed",
+        "Collagen",
+        "Green Tea",
+        "Turmeric",
+        "Ginger",
+        "Mushrooms",
+        "Mushroom,Mushrooms",
+        "Cinnamon",
+        "L-Arginine",
+        "Organic",
+        "Beta Carotene",
+        "Salvia",
+        "Citric Acid"
+      ]
+    },
+    {
+      "name": "Target Species",
+      "occurrence": 165,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Dog",
+        "Fish",
+        "Cat",
+        "Bird",
+        "Insects",
+        "Bass",
+        "Horse",
+        "Trout, Salmon",
+        "Cat, Dog",
+        "Shrimp",
+        "Chicken",
+        "Squirrel",
+        "Salmon",
+        "Fly",
+        "Trout Panfish"
+      ]
+    },
+    {
+      "name": "Import",
+      "occurrence": 165,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Imported",
+        "Made in USA",
+        "Made in USA and Imported",
+        "Made in US",
+        "Importado",
+        "Made in USA or Imported",
+        "Made in the USA or Imported",
+        "Made in the USA",
+        "\ud83d\udc99 Beautiful blue cotton string binds the leaves together to make our sage smudge bundles ready for cleansing & smudging.",
+        "\ud83c\udf3f 6x 4-Inch Blue Sage Smudge Sticks (6 Pack + Instructions and Blessings)",
+        "Made in USA with US and Imported Materials",
+        "Hecho en USA"
+      ]
+    },
+    {
+      "name": "Number of Sets",
+      "occurrence": 162,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1",
+        "2",
+        "50",
+        "12",
+        "4",
+        "3",
+        "6",
+        "24",
+        "20",
+        "5",
+        "30",
+        "36",
+        "40",
+        "25",
+        "15"
+      ]
+    },
+    {
+      "name": "Body Description",
+      "occurrence": 157,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Light",
+        "Full",
+        "Medium",
+        "White",
+        "Red Wine",
+        "Semi",
+        "Red",
+        "Sake"
+      ]
+    },
+    {
+      "name": "Finish Type",
+      "occurrence": 156,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Painted",
+        "Polished",
+        "Natural",
+        "Matte",
+        "Metallic",
+        "Powder Coated",
+        "Glossy",
+        "Gold",
+        "Chrome",
+        "Brushed",
+        "9H",
+        "Gloss",
+        "Stainless Steel",
+        "Sheer",
+        "Oil Rubbed"
+      ]
+    },
+    {
+      "name": "Active Ingredients",
+      "occurrence": 155,
+      "frequency_pct": 0.03,
+      "examples": [
+        "vitamin_e",
+        "Vitamin_e",
+        "vitamin e",
+        "Vitamin e",
+        "Coconut oil",
+        "Avocado,persea",
+        "menthol",
+        "licorice",
+        "Licorice",
+        "Lemon",
+        "avocado",
+        "ginger",
+        "Ginger",
+        "Vitamin a,vitamin c",
+        "Zinc Oxide 40%"
+      ]
+    },
+    {
+      "name": "Sport Type",
+      "occurrence": 153,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Lawn Games",
+        "Hunting",
+        "Camping & Hiking",
+        "Fishing",
+        "Cycling",
+        "Baseball",
+        "Camping & Hiking, Outdoor Lifestyle",
+        "Baseball, Soccer",
+        "Hiking",
+        "Fencing",
+        "Fitness",
+        "Boating",
+        "Boating, Climbing, Camping & Hiking, Outdoor Lifestyle",
+        "American Football",
+        "Lunch"
+      ]
+    },
+    {
+      "name": "Closure Type",
+      "occurrence": 151,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Zipper",
+        "Pull On",
+        "Drawstring",
+        "Snap",
+        "Twist Tie",
+        "LANGRIA Topper",
+        "Screw",
+        "Button",
+        "Open Top",
+        "Fold Top",
+        "Flip Top",
+        "Ear Loop",
+        "Magnetic",
+        "Snap Hook",
+        "Twist"
+      ]
+    },
+    {
+      "name": "Expected Plant Height",
+      "occurrence": 151,
+      "frequency_pct": 0.03,
+      "examples": [
+        "24 Inches",
+        "18 Inches",
+        "65 Centimeters",
+        "10 Inches",
+        "8 Inches",
+        "6 Inches",
+        "9 Inches",
+        "7 Inches",
+        "12 Inches",
+        "2 Feet",
+        "30 Inches",
+        "50 Centimeters",
+        "14 Inches",
+        "12 Feet",
+        "4 Inches"
+      ]
+    },
+    {
+      "name": "Skin Type",
+      "occurrence": 145,
+      "frequency_pct": 0.02,
+      "examples": [
+        "All",
+        "Dry",
+        "Sensitive",
+        "Normal",
+        "Combination",
+        "Dry, Normal",
+        "Dry, mature",
+        "Sensitive, Normal",
+        "Oily",
+        "Sensitive, Dry"
+      ]
+    },
+    {
+      "name": "Mounting Type",
+      "occurrence": 143,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Wall Mount",
+        "Tabletop",
+        "Window Mount, Floor Standing, Tabletop",
+        "Hanging",
+        "Tree Mount",
+        "Tabletop Mount",
+        "Floor Mount",
+        "Freestanding",
+        "Floor Standing",
+        "Counter",
+        "Seat Mount",
+        "Door Mount",
+        "Handlebar",
+        "Deck Mount",
+        "Desktop"
+      ]
+    },
+    {
+      "name": "Language",
+      "occurrence": 139,
+      "frequency_pct": 0.02,
+      "examples": [
+        "English",
+        "English, English, English, English, English",
+        "German",
+        "Dutch",
+        "Spanish",
+        "Hindi",
+        "French",
+        "English, French, German, Italian, Dutch",
+        "Italian, German, French, Arabic",
+        "German, English",
+        "Turkish",
+        "Unqualified, English (Dolby Digital 2.0 Mono)",
+        "Unqualified, Spanish (Mono)",
+        "Spanish, English, Portuguese",
+        "English, German"
+      ]
+    },
+    {
+      "name": "Number Of Pieces",
+      "occurrence": 135,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "10",
+        "2",
+        "12",
+        "50",
+        "6",
+        "3",
+        "8",
+        "30",
+        "100",
+        "4",
+        "20",
+        "18",
+        "16",
+        "150"
+      ]
+    },
+    {
+      "name": "Sweetness",
+      "occurrence": 131,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Semi Sweet",
+        "Bittersweet",
+        "Unsweetened",
+        "Unsweet",
+        "Sweet"
+      ]
+    },
+    {
+      "name": "Operation Mode",
+      "occurrence": 125,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Manual",
+        "Fully Automatic",
+        "Automatic",
+        "Found in image, Manual",
+        "Mechanical",
+        "Organic",
+        "Kosher"
+      ]
+    },
+    {
+      "name": "Is Microwaveable",
+      "occurrence": 119,
+      "frequency_pct": 0.02,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Form Factor",
+      "occurrence": 113,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Case",
+        "Bumper",
+        "Box",
+        "Basic Case",
+        "In Ear",
+        "Bottle",
+        "Spice rack including jars of spices",
+        "Liquid",
+        "Round",
+        "Stand alone",
+        "Cannister",
+        "Bag",
+        "Portable",
+        "Paper Box",
+        "K-Cups"
+      ]
+    },
+    {
+      "name": "Batteries",
+      "occurrence": 111,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1 Unknown batteries required.",
+        "1 A batteries required.",
+        "1 AA batteries required. (included)",
+        "1 LR44 batteries required. (included)",
+        "2 AA batteries required.",
+        "2 AAA batteries required.",
+        "1 Product Specific batteries required.",
+        "1 Lithium Metal batteries required. (included)",
+        "3 AAA batteries required.",
+        "3 CR2032 batteries required.",
+        "2 LR44 batteries required. (included)",
+        "3 LR44 batteries required. (included)",
+        "1 AAA batteries required. (included)",
+        "2 CR2032 batteries required. (included)",
+        "Lithium Metal batteries required."
+      ]
+    },
+    {
+      "name": "Fabric Type",
+      "occurrence": 109,
+      "frequency_pct": 0.02,
+      "examples": [
+        "100% Cotton",
+        "Polyester",
+        "Cotton",
+        "Pet Bed Insert: 100% Polyester With Cotton Backing.",
+        "Paper",
+        "Bamboo, Polyester",
+        "Plastic",
+        "Latex",
+        "Linen",
+        "100% Polyester",
+        "100% Cotton Velvet",
+        "Mesh",
+        "100% Real Rose",
+        "Porcelain",
+        "Lace"
+      ]
+    },
+    {
+      "name": "Compatible Devices",
+      "occurrence": 105,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Coffee Maker",
+        "Cellphone",
+        "Smartphone",
+        "Keurig K250",
+        "Printer",
+        "Headphone",
+        "Krups",
+        "Keurig 2.0 Multi-Cup Brewer Compatible",
+        "Monitor",
+        "Camera",
+        "Tablet, Smartphone",
+        "Mr. Coffee",
+        "Keurig 2",
+        "Vacuum Cleaner",
+        "Tablets"
+      ]
+    },
+    {
+      "name": "Vintage",
+      "occurrence": 100,
+      "frequency_pct": 0.02,
+      "examples": [
+        "NV",
+        "2010",
+        "2009",
+        "2015",
+        "2011",
+        "2012",
+        "2013",
+        "2018",
+        "2016",
+        "2014",
+        "nv",
+        "1975",
+        "1996",
+        "2008",
+        "1982"
+      ]
+    },
+    {
+      "name": "Vitamins And Minerals",
+      "occurrence": 94,
+      "frequency_pct": 0.02,
+      "examples": [
+        "10 Milligrams",
+        "5 Milligrams",
+        "590 Milligrams",
+        "50 Milligrams",
+        "181 Milligrams",
+        "12.5 Milligrams",
+        "390 Milligrams",
+        "10, 15 Percent Daily Value",
+        "458 Percent Daily Value",
+        "20 Milligrams",
+        "770.0, 15.0, 300.0, 30.0, 6.7, 440.0, 6.0, 180.0 Percent Daily Value",
+        "160 Milligrams",
+        "200, 30, 100, 35, 0, 100, 90 Milligrams",
+        "300 Milligrams, 520.0, 15.0, 230.0 Percent Daily Value, 520, 35, 100, 35, 15, 10, 230 Milligrams",
+        "430 Percent Daily Value"
+      ]
+    },
+    {
+      "name": "Assembly Required",
+      "occurrence": 94,
+      "frequency_pct": 0.02,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Units",
+      "occurrence": 89,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1 Count",
+        "1.0 Count",
+        "1.00 Count",
+        "2.0 Count",
+        "12.0 Count",
+        "3.00 Count",
+        "4.00 Count",
+        "4.0 Count",
+        "50.0 Count",
+        "12.00 count",
+        "10.0 Ounce",
+        "12 packs",
+        "12 Count",
+        "40.0 Count",
+        "24 count"
+      ]
+    },
+    {
+      "name": "Liquid Contents Description",
+      "occurrence": 88,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Liquor and Spirits",
+        "Liquor & Spirits",
+        "Cocktail Mixes",
+        "Wine",
+        "Coffee",
+        "Energy Drinks",
+        "Drink Mixes",
+        "Tea",
+        "Bitters",
+        "Beer",
+        "Premixed Cocktails/Distilled Spirit Coolers",
+        "Brandy",
+        "Malt Drink",
+        "Whiskey & Scotch",
+        "Rum"
+      ]
+    },
+    {
+      "name": "Target Audience",
+      "occurrence": 80,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Unisex-Adults",
+        "Adult",
+        "Unisex Adult",
+        "Women",
+        "Unisex Kid",
+        "unisex",
+        "Unisex-Adults, Unisex-Kids",
+        "Mother",
+        "Unisex-Kids",
+        "Husband, Son, Friend, Mother, Brother, Daughter, Wife, Family, Sister, Father, Grandmother",
+        "Mother, Valentine",
+        "Husband, friendship, Mother, Boyfriend, Daughter, Father",
+        "Kid, Adult",
+        "Valentine",
+        "Unisex"
+      ]
+    },
+    {
+      "name": "Power Source",
+      "occurrence": 73,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Battery Powered",
+        "Corded Electric",
+        "Air Powered",
+        "Hand Powered",
+        "corded-electric",
+        "Electric",
+        "battery-powered",
+        "Corded-electric",
+        "Corded Electric, Battery Powered",
+        "Ac/dc",
+        "induction",
+        "Electricity",
+        "manual",
+        "Wax Candle",
+        "solar"
+      ]
+    },
+    {
+      "name": "Number Of Items",
+      "occurrence": 72,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "12",
+        "3",
+        "50",
+        "18",
+        "24",
+        "6",
+        "80",
+        "20",
+        "2",
+        "81",
+        "628",
+        "15",
+        "100",
+        "144"
+      ]
+    },
+    {
+      "name": "Label",
+      "occurrence": 72,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Zoup! Specialty Products, LLC",
+        "Vidgoo",
+        "Hint Mint",
+        "Un Orgullo",
+        "Legacy Recordings",
+        "CREME SAVERS",
+        "Jordan Skinny Syrup",
+        "LorAnn Oils",
+        "Nuclear Blast Americ",
+        "Jordan's Skinny Mixes",
+        "BISTO",
+        "Basin Street Records",
+        "Nathan's Soups & Salads",
+        "Arhoolie Records",
+        "Uni/Sugar Beats"
+      ]
+    },
+    {
+      "name": "Servings per Container",
+      "occurrence": 70,
+      "frequency_pct": 0.01,
+      "examples": [
+        "30",
+        "60",
+        "14",
+        "20",
+        "24",
+        "40",
+        "10",
+        "1",
+        "5",
+        "21",
+        "12",
+        "16",
+        "15",
+        "25",
+        "90"
+      ]
+    },
+    {
+      "name": "Operating Time",
+      "occurrence": 69,
+      "frequency_pct": 0.01,
+      "examples": [
+        "45 Hours",
+        "60 Hours",
+        "30 Hours",
+        "10 Hours",
+        "4 Hours",
+        "7 Hours",
+        "70 Hours",
+        "15 Hours",
+        "3 Hours",
+        "75 Hours",
+        "6 Hours",
+        "5 Hours",
+        "50 Hours",
+        "12 Hours",
+        "20 Hours"
+      ]
+    },
+    {
+      "name": "Compatible Phone Models",
+      "occurrence": 68,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Samsung Galaxy S9",
+        "iPhone",
+        "iphone",
+        "IPhone",
+        "Samsung Galaxy S7",
+        "Samsung V205",
+        "Note 8",
+        "IPhone XS Max",
+        "Samsung Galaxy Nan",
+        "For Samsung Galaxy S4 only",
+        "Not Applicable",
+        "iPHONE XS",
+        "Phone 8",
+        "Samsung Galaxy S22 Ultra",
+        "Audiovox CDM3000"
+      ]
+    },
+    {
+      "name": "Container Material",
+      "occurrence": 67,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Glass",
+        "glass",
+        "Plastic",
+        "Metal",
+        "Ceramic",
+        "Acrylic",
+        "Grass",
+        "metal"
+      ]
+    },
+    {
+      "name": "Assembled Height",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "0.6 inches",
+        "0.4 inches",
+        "2 inches",
+        "1 inches",
+        "5 inches",
+        "0.5 inches",
+        "1.26 inches",
+        "0.25 inches",
+        "2 centimeters",
+        "3 inches",
+        "0 inches",
+        "5.5 inches",
+        "0.75 inches",
+        "29.96 inches",
+        "1.2 inches"
+      ]
+    },
+    {
+      "name": "Assembled Width",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "3 inches",
+        "6 inches",
+        "6.3 inches",
+        "6.88 inches",
+        "1 inches",
+        "4 inches",
+        "3.54 inches",
+        "2 centimeters",
+        "0.25 inches",
+        "11 centimeters",
+        "0.03 centimeters",
+        "5 inches",
+        "0 inches",
+        "60 inches",
+        "1.3 inches"
+      ]
+    },
+    {
+      "name": "Assembled Length",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "6 inches",
+        "4 inches",
+        "7.1 inches",
+        "10 centimeters",
+        "6.88 inches",
+        "8 inches",
+        "6.1 inches",
+        "3.5 inches",
+        "4.12 inches",
+        "0 inches",
+        "5.12 inches",
+        "6.3 inches",
+        "11.99 centimeters",
+        "19 centimeters",
+        "15 centimeters"
+      ]
+    },
+    {
+      "name": "Caffeine Content Description",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Caffeinated",
+        "Decaffeinated"
+      ]
+    },
+    {
+      "name": "Packaging",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Box",
+        "Pouch",
+        "Can",
+        "Bag",
+        "Carton",
+        "Jar",
+        "Bottle",
+        "Bag, found in image",
+        "Bottle, Jar",
+        "Sachet",
+        "Cup",
+        "GIFT BOX"
+      ]
+    },
+    {
+      "name": "Collection Name",
+      "occurrence": 61,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Animal",
+        "All",
+        "Action Figure",
+        "Humans",
+        "Reptiles",
+        "2021",
+        "Gingerbread Train",
+        "Pokemon",
+        "2022",
+        "Cranberry",
+        "Fawn",
+        "Re-ment Convenience Store collection",
+        "Bird",
+        "Nutcracker",
+        "Asian Icons"
+      ]
+    },
+    {
+      "name": "Care instructions",
+      "occurrence": 57,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Hand Wash Only",
+        "Hand Wash",
+        "Machine Wash",
+        "Dishwasher Safe",
+        "Keep away from Children, Do not Wash, Dishwasher Safe",
+        "Water",
+        "Wipe dry before storing, Wipe clean with a slightly damp cloth",
+        "Keep away from direct sunlight, No water needed",
+        "Nonapplicable",
+        "Wipe with Dry Cloth",
+        "Store in a cool, dry place. Avoid excessive heat. Keep out of reach of children.",
+        "Dust with dry cloth.",
+        "Dry Clean Only",
+        "Surface Clean Only",
+        "Do not Wash"
+      ]
+    },
+    {
+      "name": "Sheet Count",
+      "occurrence": 54,
+      "frequency_pct": 0.01,
+      "examples": [
+        "30",
+        "100",
+        "12",
+        "10",
+        "500",
+        "2",
+        "1",
+        "144",
+        "50",
+        "24",
+        "45",
+        "88",
+        "80",
+        "48",
+        "25"
+      ]
+    },
+    {
+      "name": "Hair Type",
+      "occurrence": 51,
+      "frequency_pct": 0.01,
+      "examples": [
+        "All",
+        "Dry",
+        "Straight",
+        "Normal",
+        "Damaged,Dry",
+        "Thick",
+        "Wet, Aging, Dry",
+        "Curly",
+        "Chemically-treated-hair, Chemically Treated, Dandruff",
+        "Frizzy",
+        "Dry Hair,Silky Straight",
+        "Dull",
+        "Wavy",
+        "Dull,Curl",
+        "Fine"
+      ]
+    },
+    {
+      "name": "Sport",
+      "occurrence": 50,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Running",
+        "Squash",
+        "Cycling",
+        "Basketball",
+        "Walking",
+        "Baseball",
+        "Hiking",
+        "Soccer",
+        "Cycling, Running, Yoga, Hiking",
+        "quilt",
+        "Fitness",
+        "Camping & Hiking",
+        "Cycling, Running, Hiking",
+        "Golf",
+        "Paddleball"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large data files (keep structure, ignore large files)
+data/raw/
+*.jsonl
+*.jsonl.gz
+*.csv
+
+# But keep our processed JSON files
+!data/amazon_taxonomy/*.json
+!data/amazon_reviews_insights/*.json
+!data/categories/*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

@@ -1,0 +1,5917 @@
+{
+  "category": "Beauty_and_Personal_Care",
+  "total_items_scanned": 1028914,
+  "total_unique_keys": 296,
+  "attributes": [
+    {
+      "name": "Manufacturer",
+      "occurrence": 764804,
+      "frequency_pct": 74.33,
+      "examples": [
+        "USA",
+        "PerfumeWorldWide, Inc. Drop Ship",
+        "Unilever",
+        "Coty Beauty",
+        "The Regatta Group DBA Beauty Depot",
+        "Zupishi",
+        "L'Oreal Paris",
+        "Mainspring America, Inc. DBA Direct Cosmetics",
+        "Johnson & Johnson",
+        "Revlon",
+        "PerfumeWorldWide, Inc.",
+        "Maitys",
+        "Clinique",
+        "Bath and Body Works",
+        "Conair"
+      ]
+    },
+    {
+      "name": "Brand",
+      "occurrence": 715728,
+      "frequency_pct": 69.56,
+      "examples": [
+        "Bath & Body Works",
+        "Generic",
+        "REVLON",
+        "L\u2019Or\u00e9al Paris",
+        "Sally Hansen",
+        "Clinique",
+        "Maitys",
+        "COVERGIRL",
+        "Maybelline New York",
+        "Victoria's Secret",
+        "Dove",
+        "AVON",
+        "Mary Kay",
+        "Estee Lauder",
+        "KISS"
+      ]
+    },
+    {
+      "name": "UPC",
+      "occurrence": 522499,
+      "frequency_pct": 50.78,
+      "examples": [
+        "094000066616",
+        "054402650363",
+        "713194638385 794168127753 713194638484 713194638453 713194638392 794168173569 713194638491 713194638460 713194638514 795827945169 713194638224 713194638279 713194638477 713194642672 713194642665 713194638408 713194638507 795827907242 755332648542 781549452689",
+        "847157025162 051700368488 763687033609 609722127691 720189130274 663199133265 812040017074",
+        "053939257946",
+        "054402250037",
+        "037988562244",
+        "038000209406",
+        "510310370767",
+        "809217905012 809217831052",
+        "885416763554 787734334501 888122240449 885221509972 787734278096 885221389666 784779022509 689986624945 885584675536 885213374441 885251208982 885220476008 689986674643 885192889752 885220391370 885499580130 787734669023 885434773696 885533550600 732068611903",
+        "732168321450",
+        "883484717943",
+        "889068291373 617375054868 827127551303 887222288580 935421387655 637010597376 661799760348 055708777099 885322862815 701000844938 887222098646 885191417406 885991110187 885461322294 827191742850",
+        "787734656344 712703288363 783322616325 798813030702 097298012488 731015007264 014236001113"
+      ]
+    },
+    {
+      "name": "Package Dimensions",
+      "occurrence": 474874,
+      "frequency_pct": 46.15,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "12 x 5 x 2 inches; 12.8 Ounces",
+        "13.78 x 7.87 x 1.18 inches; 10.93 Ounces",
+        "5 x 3 x 0.1 inches; 0.16 Ounces",
+        "1 x 1 x 1 inches; 1 Pounds",
+        "9 x 6 x 1 inches; 2 Ounces",
+        "4 x 3 x 2 inches; 1 Pounds",
+        "7.87 x 5.91 x 1.97 inches; 10.58 Ounces",
+        "2 x 2 x 2 inches",
+        "2 x 2 x 2 inches; 1 Pounds",
+        "0.1 x 0.1 x 0.1 inches; 1.6 Ounces",
+        "3.75 x 1.5 x 1.5 inches; 2 Ounces",
+        "7.87 x 5.91 x 1.97 inches; 10.93 Ounces",
+        "3 x 2 x 1 inches",
+        "0.2 x 0.2 x 0.2 inches; 3.2 Ounces"
+      ]
+    },
+    {
+      "name": "Is Discontinued By Manufacturer",
+      "occurrence": 403706,
+      "frequency_pct": 39.24,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False",
+        "True",
+        "true"
+      ]
+    },
+    {
+      "name": "Item Form",
+      "occurrence": 398552,
+      "frequency_pct": 38.74,
+      "examples": [
+        "Cream",
+        "Liquid",
+        "Gel",
+        "Spray",
+        "Oil",
+        "Powder",
+        "Lotion",
+        "Bar",
+        "Stick",
+        "Balm",
+        "Pair",
+        "Wand",
+        "Pencil",
+        "Sheet",
+        "Serum"
+      ]
+    },
+    {
+      "name": "Product Dimensions",
+      "occurrence": 376883,
+      "frequency_pct": 36.63,
+      "examples": [
+        "6 x 5 x 4 inches; 1 Pounds",
+        "6 x 5 x 4 inches; 8 Ounces",
+        "1 x 1 x 1 inches; 1 Pounds",
+        "0.39 x 0.39 x 0.39 inches",
+        "5 x 1.5 x 1.5 inches; 1 Pounds",
+        "1 x 1 x 1 inches",
+        "1.5 x 1.5 x 1.75 inches; 0.48 Ounces",
+        "2.6\"L x 2.6\"W",
+        "1.97 x 1.97 x 1.97 inches",
+        "18 x 1 x 1 inches; 1.76 Ounces",
+        "6 x 5 x 4 inches; 0.01 Ounces",
+        "9.6 x 6.8 x 0.3 inches",
+        "6 x 5 x 4 inches; 1.6 Ounces",
+        "0.39 x 0.39 x 0.39 inches; 0.04 Ounces",
+        "6 x 5 x 4 inches; 0.8 Ounces"
+      ]
+    },
+    {
+      "name": "Item model number",
+      "occurrence": 347696,
+      "frequency_pct": 33.79,
+      "examples": [
+        "1",
+        "0",
+        "1 qty",
+        "001",
+        "No Model",
+        "01",
+        "thomaswi",
+        "LE",
+        "2",
+        "result.feed.gl_beauty-part_number",
+        "ABCD",
+        "CP",
+        "TRTAZ11A",
+        "Cosmetic Bag",
+        "123"
+      ]
+    },
+    {
+      "name": "Color",
+      "occurrence": 303753,
+      "frequency_pct": 29.52,
+      "examples": [
+        "Black",
+        "White",
+        "Pink",
+        "Blue",
+        "Silver",
+        "Clear",
+        "Brown",
+        "Gold",
+        "Red",
+        "Purple",
+        "Green",
+        "Multicolor",
+        "black",
+        "1B",
+        "Beige"
+      ]
+    },
+    {
+      "name": "Material",
+      "occurrence": 234138,
+      "frequency_pct": 22.76,
+      "examples": [
+        "Human Hair",
+        "Synthetic",
+        "Plastic",
+        "Acrylic",
+        "Metal",
+        "Stainless Steel",
+        "Ceramic",
+        "Silicone",
+        "Cotton",
+        "Glass",
+        "Human",
+        "Rubber",
+        "Wood",
+        "Silk",
+        "Nylon"
+      ]
+    },
+    {
+      "name": "Age Range (Description)",
+      "occurrence": 197360,
+      "frequency_pct": 19.18,
+      "examples": [
+        "Adult",
+        "Kid",
+        "Child",
+        "All Ages",
+        "Youth",
+        "Adult,Kid",
+        "Baby",
+        "Babies",
+        "kid",
+        "Any Age Group",
+        "Adult,Baby",
+        "Youth,Adult",
+        "Adult,Teen",
+        "Teen",
+        "All"
+      ]
+    },
+    {
+      "name": "Hair Type",
+      "occurrence": 189153,
+      "frequency_pct": 18.38,
+      "examples": [
+        "All",
+        "Straight",
+        "Curly",
+        "Wavy",
+        "Dry",
+        "Normal",
+        "Wavy, Curly",
+        "Damaged",
+        "Color Treated",
+        "Color",
+        "Frizzy",
+        "Fine",
+        "Curly, Straight",
+        "Oily, Dry, Normal",
+        "Thick"
+      ]
+    },
+    {
+      "name": "Unit Count",
+      "occurrence": 176456,
+      "frequency_pct": 17.15,
+      "examples": [
+        "1.00 Count",
+        "1 Count",
+        "1.0 Count",
+        "1.00 Fl Oz",
+        "1.0 Ounce",
+        "2.00 Count",
+        "1.7 Fl Oz",
+        "3.00 Count",
+        "1.7 Ounce",
+        "6.00 Count",
+        "2.0 Ounce",
+        "8.0 Ounce",
+        "1 count",
+        "4.0 Ounce",
+        "1 Fl Oz"
+      ]
+    },
+    {
+      "name": "Scent",
+      "occurrence": 158989,
+      "frequency_pct": 15.45,
+      "examples": [
+        "Unscented",
+        "Fresh",
+        "Aloe",
+        "Coconut",
+        "Lavender",
+        "Natural",
+        "Floral",
+        "Rose",
+        "Aloe Vera",
+        "Citrus",
+        "Vanilla",
+        "Tea Tree",
+        "Fragrance Free",
+        "Orange",
+        "Almond"
+      ]
+    },
+    {
+      "name": "Number of Items",
+      "occurrence": 155943,
+      "frequency_pct": 15.16,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "4",
+        "12",
+        "5",
+        "10",
+        "8",
+        "20",
+        "100",
+        "24",
+        "50",
+        "7",
+        "30"
+      ]
+    },
+    {
+      "name": "Date First Available",
+      "occurrence": 146254,
+      "frequency_pct": 14.21,
+      "examples": [
+        "December 7, 2003",
+        "July 11, 2016",
+        "August 8, 2008",
+        "January 23, 2019",
+        "January 10, 2021",
+        "April 28, 2016",
+        "April 2, 2021",
+        "February 13, 2005",
+        "February 12, 2021",
+        "September 29, 2011",
+        "October 2, 2001",
+        "June 11, 2019",
+        "October 20, 2016",
+        "February 20, 2004",
+        "May 3, 2004"
+      ]
+    },
+    {
+      "name": "Item Weight",
+      "occurrence": 143463,
+      "frequency_pct": 13.94,
+      "examples": [
+        "1 Pounds",
+        "0.01 Ounces",
+        "1 Ounces",
+        "4 Ounces",
+        "8 Ounces",
+        "2 Ounces",
+        "0.634 ounces",
+        "3.2 ounces",
+        "1.76 ounces",
+        "2.08 ounces",
+        "2.39 ounces",
+        "3.4 Ounces",
+        "1.44 ounces",
+        "1.7 Ounces",
+        "3 Ounces"
+      ]
+    },
+    {
+      "name": "Skin Type",
+      "occurrence": 142457,
+      "frequency_pct": 13.85,
+      "examples": [
+        "All",
+        "Dry",
+        "Sensitive",
+        "Acne Prone",
+        "Normal",
+        "Combination",
+        "Oily, Combination, Dry, Normal",
+        "Oily",
+        "Oily, Combination, Sensitive, Dry, Normal",
+        "Sensitive, Dry",
+        "Mature",
+        "Sensitive,All Skin Types",
+        "Dry, Normal",
+        "All, Sensitive",
+        "All, Dry"
+      ]
+    },
+    {
+      "name": "Product Benefits",
+      "occurrence": 105687,
+      "frequency_pct": 10.27,
+      "examples": [
+        "Hydrating",
+        "Moisturizing",
+        "Smoothening",
+        "Exfoliating",
+        "Long Lasting",
+        "Cleansing",
+        "Nourishing",
+        "Anti-Aging",
+        "Softening",
+        "Hypoallergenic",
+        "Detangle",
+        "Soothing",
+        "Smoothing",
+        "Brightening",
+        "Hydration"
+      ]
+    },
+    {
+      "name": "Special Feature",
+      "occurrence": 103392,
+      "frequency_pct": 10.05,
+      "examples": [
+        "Long Lasting",
+        "Glueless",
+        "Waterproof",
+        "Heat Resistant",
+        "Tangle Free",
+        "Not-Applicable",
+        "Portable",
+        "Not Tested On Animals",
+        "Lightweight",
+        "Long-lasting",
+        "Travel size",
+        "Travel size, Matte",
+        "Scented",
+        "Reusable",
+        "Travel Size"
+      ]
+    },
+    {
+      "name": "Style",
+      "occurrence": 101449,
+      "frequency_pct": 9.86,
+      "examples": [
+        "Modern",
+        "French",
+        "Classic",
+        "Straight",
+        "Durable",
+        "Art Deco",
+        "Professional",
+        "Puff",
+        "Curly",
+        "African",
+        "Elegant",
+        "Compact",
+        "Vintage",
+        "Traditional",
+        "Unique"
+      ]
+    },
+    {
+      "name": "Material Feature",
+      "occurrence": 91716,
+      "frequency_pct": 8.91,
+      "examples": [
+        "Natural",
+        "Cruelty Free",
+        "Non-Toxic",
+        "Organic",
+        "Vegan",
+        "Organic, Natural",
+        "Biodegradable Warning",
+        "Cruelty Free, Vegan",
+        "All Day Protection",
+        "Disposable",
+        "Certified Organic",
+        "Fragrance Free",
+        "Reusable",
+        "Gluten Free",
+        "Paraben Free"
+      ]
+    },
+    {
+      "name": "Finish Type",
+      "occurrence": 86164,
+      "frequency_pct": 8.37,
+      "examples": [
+        "Glossy",
+        "Matte",
+        "Shimmery",
+        "Natural",
+        "Cream",
+        "Sheer",
+        "Polished",
+        "Metallic",
+        "Satin",
+        "Creme",
+        "Luminous",
+        "Radiant",
+        "Velvet",
+        "Pearl",
+        "Brushed"
+      ]
+    },
+    {
+      "name": "Country of Origin",
+      "occurrence": 61428,
+      "frequency_pct": 5.97,
+      "examples": [
+        "China",
+        "USA",
+        "France",
+        "Korea, Republic of",
+        "Italy",
+        "United Kingdom",
+        "Canada",
+        "Germany",
+        "India",
+        "Mexico",
+        "Spain",
+        "Japan",
+        "Netherlands",
+        "Israel",
+        "Pakistan"
+      ]
+    },
+    {
+      "name": "Department",
+      "occurrence": 58072,
+      "frequency_pct": 5.64,
+      "examples": [
+        "Womens",
+        "womens",
+        "Beauty",
+        "Unisex-adult",
+        "unisex-adult",
+        "Women",
+        "Mens",
+        "Unisex",
+        "mens",
+        "Health and Beauty>Health and Wellness",
+        "Girls",
+        "Unisex Adult",
+        "WOMEN",
+        "Women's",
+        "girls"
+      ]
+    },
+    {
+      "name": "Item Volume",
+      "occurrence": 53977,
+      "frequency_pct": 5.25,
+      "examples": [
+        "100 Milliliters",
+        "3.4 Fluid Ounces",
+        "50 Milliliters",
+        "1.7 Fluid Ounces",
+        "1 Fluid Ounces",
+        "30 Milliliters",
+        "8 Fluid Ounces",
+        "3.3 Fluid Ounces",
+        "2.5 Fluid Ounces",
+        "4 Fluid Ounces",
+        "10 Milliliters",
+        "75 Milliliters",
+        "2 Fluid Ounces",
+        "0.5 Fluid Ounces",
+        "3 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Best Sellers Rank",
+      "occurrence": 53563,
+      "frequency_pct": 5.21,
+      "examples": [
+        "{}",
+        "{'Beauty & Personal Care': 348765, 'Nail Art Glitters': 766}",
+        "{'Beauty & Personal Care': 477762, 'Eyebrow Color': 4129}",
+        "{'Beauty & Personal Care': 227687, 'Cosmetic Display Cases': 1022}",
+        "{'Beauty & Personal Care': 424029, 'Personal Makeup Mirrors': 1681}",
+        "{'Beauty & Personal Care': 479528, 'Personal Makeup Mirrors': 1949}",
+        "{'Beauty & Personal Care': 247829, 'Nail Art Rhinestones': 1067}",
+        "{'Beauty & Personal Care': 355800, 'Nail Polish': 8459}",
+        "{'Beauty & Personal Care': 397121, 'Cosmetic Bags': 9465}",
+        "{'Beauty & Personal Care': 368169, 'Cosmetic Bags': 8499}",
+        "{'Beauty & Personal Care': 471092, 'Bath Pillows': 471}",
+        "{'Beauty & Personal Care': 395372, 'Lip Gloss': 2796}",
+        "{'Beauty & Personal Care': 364307, 'Hair Cutting Shears': 717}",
+        "{'Beauty & Personal Care': 209573, 'Cosmetic Bags': 4254}",
+        "{'Beauty & Personal Care': 226420, 'Refillable Cosmetic Spray Bottles': 753}"
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "occurrence": 51392,
+      "frequency_pct": 4.99,
+      "examples": [
+        "1",
+        "2",
+        "10",
+        "6",
+        "12",
+        "4",
+        "3",
+        "20",
+        "5",
+        "8",
+        "24",
+        "100",
+        "50",
+        "30",
+        "16"
+      ]
+    },
+    {
+      "name": "Recommended Uses For Product",
+      "occurrence": 48096,
+      "frequency_pct": 4.67,
+      "examples": [
+        "Face Makeup",
+        "Conditioner",
+        "Nail Arts",
+        "Body",
+        "Travel",
+        "Moisturizing",
+        "Makeup",
+        "Trimming",
+        "Salon",
+        "Relaxation",
+        "Make Up",
+        "Makeup Sponge",
+        "Soothing",
+        "Beard",
+        "Face"
+      ]
+    },
+    {
+      "name": "Item Dimensions LxWxH",
+      "occurrence": 43516,
+      "frequency_pct": 4.23,
+      "examples": [
+        "0.39 x 0.39 x 0.39 inches",
+        "1 x 1 x 1 inches",
+        "0.98 x 0.98 x 2.64 inches",
+        "5.91 x 3.94 x 1.97 inches",
+        "1.97 x 1.97 x 1.97 inches",
+        "6 x 5 x 4 inches",
+        "1.5 x 1.5 x 1.75 inches",
+        "1 x 1 x 3 inches",
+        "3 x 1.25 x 1.25 inches",
+        "2 x 2 x 2 inches",
+        "1.25 x 1.25 x 3.06 inches",
+        "3.94 x 3.94 x 3.94 inches",
+        "5 x 3 x 0.01 inches",
+        "1.18 x 1.18 x 2.95 inches",
+        "0.79 x 0.79 x 3.94 inches"
+      ]
+    },
+    {
+      "name": "Size",
+      "occurrence": 42001,
+      "frequency_pct": 4.08,
+      "examples": [
+        "Large",
+        "1 Count (Pack of 1)",
+        "Small",
+        "Medium",
+        "One Size",
+        "24 Count (Pack of 1)",
+        "2 Count (Pack of 1)",
+        "24 Piece Assortment",
+        "6 Count (Pack of 1)",
+        "4 Count (Pack of 1)",
+        "10 Count (Pack of 1)",
+        "Long",
+        "26 Piece Set",
+        "12 Count (Pack of 1)",
+        "4 Piece Set"
+      ]
+    },
+    {
+      "name": "Liquid Volume",
+      "occurrence": 40345,
+      "frequency_pct": 3.92,
+      "examples": [
+        "0.5 Fluid Ounces",
+        "8 Fluid Ounces",
+        "4 Fluid Ounces",
+        "15 Milliliters",
+        "2 Fluid Ounces",
+        "0.27 Fluid Ounces",
+        "0.33 Fluid Ounces",
+        "10 Milliliters",
+        "6 Fluid Ounces",
+        "1 Fluid Ounces",
+        "8.5 Fluid Ounces",
+        "100 Milliliters",
+        "16 Fluid Ounces",
+        "12 Fluid Ounces",
+        "10 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Shape",
+      "occurrence": 39162,
+      "frequency_pct": 3.81,
+      "examples": [
+        "Round",
+        "Rectangular",
+        "Oblong",
+        "Irregular",
+        "Flat",
+        "Oval",
+        "Square",
+        "Barrel",
+        "Heart",
+        "Butterfly",
+        "Hexagonal",
+        "Diamond",
+        "Comb",
+        "Flower",
+        "Bowl"
+      ]
+    },
+    {
+      "name": "Active Ingredients",
+      "occurrence": 36984,
+      "frequency_pct": 3.59,
+      "examples": [
+        "vitamin_e",
+        "Vitamin_e",
+        "Vitamin e",
+        "vitamin e",
+        "hyaluronic_acid",
+        "Hyaluronic_acid",
+        "Vitamin E",
+        "Glycerin",
+        "Lactic_acid",
+        "Vitamin c",
+        "lactic_acid",
+        "vitamin_c, vitamin_e",
+        "Hyaluronic Acid",
+        "Salicylic_acid",
+        "Hyaluronic acid"
+      ]
+    },
+    {
+      "name": "Material Type Free",
+      "occurrence": 35217,
+      "frequency_pct": 3.42,
+      "examples": [
+        "Paraben Free",
+        "Alcohol Free",
+        "Non-toxic",
+        "Formaldehyde Free",
+        "Sulfate Free",
+        "Oil Free",
+        "Unscented",
+        "Fragrance Free",
+        "Gluten Free",
+        "Cruelty Free",
+        "Aluminum Free",
+        "Hypoallergenic",
+        "Chemical Free",
+        "BPA Free",
+        "Phthalates"
+      ]
+    },
+    {
+      "name": "Extension Length",
+      "occurrence": 28237,
+      "frequency_pct": 2.74,
+      "examples": [
+        "18 Inches",
+        "24 Inches",
+        "20 Inches",
+        "14 Inches",
+        "16 Inches",
+        "22 Inches",
+        "12 Inches",
+        "8 Inches",
+        "10 Inches",
+        "26 Inches",
+        "30 Inches",
+        "28 Inches",
+        "6 Inches",
+        "15 Inches",
+        "36 Inches"
+      ]
+    },
+    {
+      "name": "Pattern",
+      "occurrence": 22791,
+      "frequency_pct": 2.22,
+      "examples": [
+        "Solid",
+        "Variety Pack",
+        "Floral",
+        "Cartoon",
+        "Animal Print",
+        "Insect",
+        "Letter Print",
+        "Heart",
+        "Hearts",
+        "Leaf",
+        "Marble",
+        "Stars",
+        "Star",
+        "Striped",
+        "Tribal"
+      ]
+    },
+    {
+      "name": "Power Source",
+      "occurrence": 22281,
+      "frequency_pct": 2.17,
+      "examples": [
+        "Corded Electric",
+        "Battery Powered",
+        "Manual",
+        "Hand_powered",
+        "hand_powered",
+        "Battery Powered,Corded Electric",
+        "Electric",
+        "Hand Powered",
+        "manual",
+        "Lymphatic",
+        "electric",
+        "Corded Electric, Battery Powered",
+        "No",
+        "Battery Powered,Corded Electric,Usb Cable",
+        "Battery Powered,Corded Electric,Usb Adapter"
+      ]
+    },
+    {
+      "name": "Package Information",
+      "occurrence": 20707,
+      "frequency_pct": 2.01,
+      "examples": [
+        "Tube",
+        "Bottle",
+        "Jar",
+        "Box",
+        "Can",
+        "Palette",
+        "Bag",
+        "Roller",
+        "Stick",
+        "Aerosol",
+        "Sachet",
+        "Pack",
+        "Jar, Tube",
+        "Tub",
+        "Bottle, Tube"
+      ]
+    },
+    {
+      "name": "Mounting Type",
+      "occurrence": 19009,
+      "frequency_pct": 1.85,
+      "examples": [
+        "Tabletop Mount",
+        "Eyelash Glue",
+        "Wall Mount",
+        "Tabletop",
+        "Floor Mount",
+        "Magnet",
+        "Dresser Mount",
+        "Countertop Mount, Tabletop Mount",
+        "Freestanding",
+        "Free Standing",
+        "Cluster",
+        "Surface Mount",
+        "Door Mount",
+        "Insert Mount",
+        "Self Adhesive"
+      ]
+    },
+    {
+      "name": "Use for",
+      "occurrence": 18442,
+      "frequency_pct": 1.79,
+      "examples": [
+        "Face",
+        "Whole Body",
+        "Eyes",
+        "Hands",
+        "Skin",
+        "Feet",
+        "Neck, Face",
+        "Back",
+        "Legs",
+        "Head",
+        "Hand",
+        "Hands, Whole Body",
+        "Eyes, Face",
+        "Neck",
+        "Legs, Face"
+      ]
+    },
+    {
+      "name": "Coverage",
+      "occurrence": 17490,
+      "frequency_pct": 1.7,
+      "examples": [
+        "Light",
+        "Full",
+        "Full Well Tips",
+        "Medium",
+        "Sheer",
+        "Lightweight",
+        "Buildable",
+        "Half Cover",
+        "Medium, Light",
+        "full",
+        "buildable",
+        "Buildable Coverage",
+        "Lightweight,Sheer",
+        "Light, Full",
+        "Medium, Full"
+      ]
+    },
+    {
+      "name": "Theme",
+      "occurrence": 17145,
+      "frequency_pct": 1.67,
+      "examples": [
+        "Botanical",
+        "No Theme",
+        "Art",
+        "Travel",
+        "Space",
+        "Christmas",
+        "Love",
+        "Animal",
+        "Horror",
+        "Modern",
+        "Floral",
+        "Solid",
+        "Cartoon",
+        "Butterfly",
+        "Fashion"
+      ]
+    },
+    {
+      "name": "Skin Tone",
+      "occurrence": 15303,
+      "frequency_pct": 1.49,
+      "examples": [
+        "All",
+        "Medium Deep",
+        "Medium",
+        "Light",
+        "Deep",
+        "Medium, Light",
+        "Very Light",
+        "Dark",
+        "Fair, Medium, MediumDark, Deep",
+        "Fair",
+        "Tan",
+        "Light,Medium",
+        "Medium, Deep",
+        "Fair, Medium, Deep",
+        "All, Light"
+      ]
+    },
+    {
+      "name": "Included Components",
+      "occurrence": 15260,
+      "frequency_pct": 1.48,
+      "examples": [
+        "Battery",
+        "Charger",
+        "Scissors",
+        "Hair Clipper",
+        "Cleaning Brush, Battery",
+        "Cleaning Brush",
+        "Silicone Pad",
+        "Glitter",
+        "Nail File",
+        "Battery, Charger",
+        "Attachment, Charger",
+        "Case",
+        "User Manual",
+        "Cleaning Brush, Battery, Charger",
+        "Brush"
+      ]
+    },
+    {
+      "name": "Reusability",
+      "occurrence": 15045,
+      "frequency_pct": 1.46,
+      "examples": [
+        "Single Use",
+        "Reusable",
+        "Disposable",
+        "Rechargeable",
+        "Washable",
+        "Attribute Not Applicable for Product",
+        "Resealable",
+        "Resuable",
+        "Reusable, highly durable, easy to clean and store",
+        "washable",
+        "Reusable & Washable",
+        "Heat Sealable"
+      ]
+    },
+    {
+      "name": "Handle Material",
+      "occurrence": 13821,
+      "frequency_pct": 1.34,
+      "examples": [
+        "Wood",
+        "Plastic",
+        "Stainless Steel",
+        "Rubber",
+        "Metal",
+        "Nylon",
+        "Acrylic",
+        "Silicone",
+        "Ceramic",
+        "Bamboo",
+        "Leather",
+        "Aluminum",
+        "Alloy Steel",
+        "Acrylonitrile Butadiene Styrene (ABS)",
+        "Plastic,Stainless Steel"
+      ]
+    },
+    {
+      "name": "Installation Type",
+      "occurrence": 13510,
+      "frequency_pct": 1.31,
+      "examples": [
+        "Self-Adhesive",
+        "Sew-In",
+        "Weave",
+        "Clip-In",
+        "Tape-In",
+        "weave",
+        "Clip",
+        "Tape",
+        "Fusion",
+        "Stick",
+        "Microlink",
+        "Halo",
+        "Peel",
+        "clip",
+        "Adhesive"
+      ]
+    },
+    {
+      "name": "Part Number",
+      "occurrence": 12989,
+      "frequency_pct": 1.26,
+      "examples": [
+        "1",
+        "01",
+        "unknown",
+        "Unknown",
+        "LE",
+        "Na",
+        "Purple Dragon",
+        "001",
+        "43237-2",
+        "DR",
+        "LFFEP001",
+        "Spray Bottle",
+        "YE",
+        "JAR-20G",
+        "Pro Wide Stretch"
+      ]
+    },
+    {
+      "name": "Batteries",
+      "occurrence": 12807,
+      "frequency_pct": 1.24,
+      "examples": [
+        "1 Lithium Ion batteries required. (included)",
+        "1 A batteries required.",
+        "1 Lithium Polymer batteries required. (included)",
+        "1 Lithium Ion batteries required.",
+        "1 AA batteries required. (included)",
+        "1 AA batteries required.",
+        "1 AAA batteries required. (included)",
+        "2 AA batteries required.",
+        "2 AA batteries required. (included)",
+        "1 AAA batteries required.",
+        "2 AAA batteries required.",
+        "2 Lithium Ion batteries required. (included)",
+        "4 AA batteries required.",
+        "1 Lithium Polymer batteries required.",
+        "1 A batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Batteries Required?",
+      "occurrence": 12632,
+      "frequency_pct": 1.23,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Fabric Type",
+      "occurrence": 10861,
+      "frequency_pct": 1.06,
+      "examples": [
+        "Elastic",
+        "plastic",
+        "Velvet",
+        "Microfiber",
+        "Cotton",
+        "Polyester",
+        "Satin",
+        "polyester",
+        "Cloth",
+        "Silicone",
+        "Chiffon",
+        "elastic",
+        "Fleece",
+        "velvet",
+        "cotton"
+      ]
+    },
+    {
+      "name": "Item Package Quantity",
+      "occurrence": 10641,
+      "frequency_pct": 1.03,
+      "examples": [
+        "1",
+        "2",
+        "6",
+        "3",
+        "12",
+        "4",
+        "24",
+        "5",
+        "10",
+        "8",
+        "100",
+        "50",
+        "20",
+        "30",
+        "15"
+      ]
+    },
+    {
+      "name": "Fragrance Concentration",
+      "occurrence": 10325,
+      "frequency_pct": 1.0,
+      "examples": [
+        "eau_de_toilette",
+        "Eau_de_toilette",
+        "Eau_de_parfum",
+        "eau_de_parfum",
+        "body_spray",
+        "Body_spray",
+        "eau_de_cologne",
+        "perfume_oil",
+        "Eau_de_cologne",
+        "Perfume_oil",
+        "Eau_fraiche",
+        "Extrait_de_parfum",
+        "extrait_de_parfum",
+        "eau_fraiche",
+        "Esprit_de_parfum"
+      ]
+    },
+    {
+      "name": "Capacity",
+      "occurrence": 10053,
+      "frequency_pct": 0.98,
+      "examples": [
+        "10 Milliliters",
+        "5 Milliliters",
+        "30 Milliliters",
+        "2 Ounces",
+        "8 Ounces",
+        "16 Ounces",
+        "100 Milliliters",
+        "50 Milliliters",
+        "4 Ounces",
+        "60 Milliliters",
+        "15 Milliliters",
+        "10 Ounces",
+        "1 Ounces",
+        "300 Milliliters",
+        "200 Milliliters"
+      ]
+    },
+    {
+      "name": "Batteries Included?",
+      "occurrence": 9228,
+      "frequency_pct": 0.9,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Water Resistance Level",
+      "occurrence": 9190,
+      "frequency_pct": 0.89,
+      "examples": [
+        "Waterproof",
+        "Water Resistant",
+        "Not Water Resistant",
+        "Water Repellent"
+      ]
+    },
+    {
+      "name": "Ferrule Material",
+      "occurrence": 9154,
+      "frequency_pct": 0.89,
+      "examples": [
+        "Aluminum",
+        "Copper",
+        "Brass",
+        "Plastic",
+        "ABS",
+        "Metal",
+        "Stainless Steel",
+        "Wood",
+        "Acrylic",
+        "Alloy Steel",
+        "Gold",
+        "Bronze",
+        "Rose Gold",
+        "Silver",
+        "Chrome"
+      ]
+    },
+    {
+      "name": "Product Care Instructions",
+      "occurrence": 8987,
+      "frequency_pct": 0.87,
+      "examples": [
+        "Hand Wash Only",
+        "Machine Wash",
+        "Wash with Warm Water",
+        "Wipe with Dry Cloth",
+        "Wipe with Damp Cloth",
+        "Wipe Clean",
+        "Machine Wash, Hand Wash Only",
+        "Hand Wash",
+        "Machine Wash, Tumble Dry",
+        "Dishwasher Safe",
+        "Glass Safe",
+        "Dry Clean Only",
+        "Fridge Safe",
+        "Water",
+        "Tumble Dry"
+      ]
+    },
+    {
+      "name": "Blade Material",
+      "occurrence": 8924,
+      "frequency_pct": 0.87,
+      "examples": [
+        "Stainless Steel",
+        "Alloy Steel",
+        "Titanium",
+        "Metal",
+        "Carbon Steel",
+        "Ceramic",
+        "Steel",
+        "High Carbon Steel",
+        "Titanium, Ceramic",
+        "Stainless Steel,Steel",
+        "Plastic",
+        "Titanium, Stainless Steel",
+        "Stainless Steel,Metal",
+        "Stainless Steel, Carbon Steel",
+        "Stainless Steel,Titanium"
+      ]
+    },
+    {
+      "name": "Type",
+      "occurrence": 8193,
+      "frequency_pct": 0.8,
+      "examples": [
+        "gel",
+        "Gel",
+        "Base",
+        "base",
+        "Top_coat",
+        "top_coat",
+        "acrylic",
+        "Acrylic",
+        "Sectional"
+      ]
+    },
+    {
+      "name": "Batteries required",
+      "occurrence": 8181,
+      "frequency_pct": 0.8,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "False"
+      ]
+    },
+    {
+      "name": "Assembly Required",
+      "occurrence": 7765,
+      "frequency_pct": 0.75,
+      "examples": [
+        "No",
+        "Yes",
+        "false",
+        "True",
+        "False"
+      ]
+    },
+    {
+      "name": "Embellishment",
+      "occurrence": 7720,
+      "frequency_pct": 0.75,
+      "examples": [
+        "Bow",
+        "Rhinestone",
+        "Flower",
+        "Glitter",
+        "Resin",
+        "Pearl",
+        "Crystal",
+        "Pearl, Rhinestone",
+        "Bead",
+        "Gemstone",
+        "Glitter, Bow",
+        "Flower, Bow",
+        "Pearl, Flower",
+        "Pearl, Resin",
+        "Tassel"
+      ]
+    },
+    {
+      "name": "Cartoon Character",
+      "occurrence": 7077,
+      "frequency_pct": 0.69,
+      "examples": [
+        "Bubble",
+        "Butterfly",
+        "Heart",
+        "Leaf",
+        "American",
+        "Stars",
+        "Santa,Snowman",
+        "Halloween",
+        "Animal",
+        "Ghost",
+        "Santa",
+        "Other",
+        "Cat",
+        "Christmas",
+        "Butterfly,Leaf"
+      ]
+    },
+    {
+      "name": "Surface Recommendation",
+      "occurrence": 6933,
+      "frequency_pct": 0.67,
+      "examples": [
+        "Nail",
+        "nail",
+        "Hard Floor",
+        "Glass",
+        "Plastic",
+        "Metal",
+        "Table",
+        "Wall",
+        "Skin",
+        "Indoor",
+        "Floor",
+        "Nails",
+        "nails",
+        "\u91d1\u5c5e",
+        "Wood"
+      ]
+    },
+    {
+      "name": "Frame Material",
+      "occurrence": 6894,
+      "frequency_pct": 0.67,
+      "examples": [
+        "Glass",
+        "Metal",
+        "Stainless Steel",
+        "Acrylonitrile Butadiene Styrene (ABS)",
+        "Acrylonitrile Butadiene Styrene (ABS), Glass",
+        "Plastic",
+        "Alloy Steel",
+        "Aluminum",
+        "Brass",
+        "Iron",
+        "Glass, Stainless Steel",
+        "Wood",
+        "Resin",
+        "Leather",
+        "ABS"
+      ]
+    },
+    {
+      "name": "Domestic Shipping",
+      "occurrence": 6525,
+      "frequency_pct": 0.63,
+      "examples": [
+        "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Item can be shipped within U.S.",
+        "This item can only be shipped to the 48 contiguous states. We regret it cannot be shipped to APO/FPO, Hawaii, Alaska, or Puerto Rico.",
+        "Amazon only ships this item within the contiguous 48 United States. Other Sellers on Amazon may ship this item to Alaska, Hawaii and US Territories.",
+        "This item is available for shipping in the U.S. except for California and to select countries outside the U.S.",
+        "This item can only ship to the contiguous 48 states in the U.S. minus California.",
+        "This item can only be shipped to the 48 contiguous states and to APO/FPO/DPO addresses. For APO/FPO/DPO shipments, please check with the manufacturer regarding warranty and support issues."
+      ]
+    },
+    {
+      "name": "International Shipping",
+      "occurrence": 6525,
+      "frequency_pct": 0.63,
+      "examples": [
+        "This item can be shipped to select countries outside of the U.S.  Learn More",
+        "This item is not eligible for international shipping.  Learn More"
+      ]
+    },
+    {
+      "name": "Special Features",
+      "occurrence": 6249,
+      "frequency_pct": 0.61,
+      "examples": [
+        "Portable",
+        "Lightweight",
+        "Durable",
+        "Mist Spray",
+        "Motion Sensor",
+        "Leak Proof",
+        "Rechargeable",
+        "Adjustable",
+        "Airtight, Leak Resistant",
+        "Mist Spray, Continuous Spray",
+        "Portable, Lightweight",
+        "Waterproof",
+        "360 Rotation",
+        "Energy Efficient",
+        "Airtight"
+      ]
+    },
+    {
+      "name": "Room Type",
+      "occurrence": 6180,
+      "frequency_pct": 0.6,
+      "examples": [
+        "Bathroom",
+        "Bedroom",
+        "Salon",
+        "Office",
+        "Indoor",
+        "Living Room",
+        "Anywhere",
+        "Usb",
+        "Home Office",
+        "living room bathroom bedroom",
+        "Living room bathroom bedroom",
+        "Bathroom, Bedroom",
+        "Dressing Room",
+        "Kitchen",
+        "Office, Living Room, Bedroom"
+      ]
+    },
+    {
+      "name": "Package Type",
+      "occurrence": 6087,
+      "frequency_pct": 0.59,
+      "examples": [
+        "Standard Packaging",
+        "Box",
+        "Tube",
+        "Bottle",
+        "Palette",
+        "Jar",
+        "Pouch",
+        "Stick",
+        "Frustration-Free Packaging",
+        "Bag",
+        "Tube, Bottle",
+        "Packet",
+        "Tin",
+        "Tube, Box",
+        "Standard packaging"
+      ]
+    },
+    {
+      "name": "Frame Type",
+      "occurrence": 5654,
+      "frequency_pct": 0.55,
+      "examples": [
+        "Framed",
+        "Unframed",
+        "Round",
+        "Full Rim",
+        "Poster Frame",
+        "Framed, Round",
+        "Wrapped Canvas",
+        "Square",
+        "Rectangle",
+        "Rectangular",
+        "Metal",
+        "Round mirror with handle",
+        "Framed, Rectangle",
+        "Ring Circle",
+        "Clip Picture Frame"
+      ]
+    },
+    {
+      "name": "Occasion",
+      "occurrence": 5167,
+      "frequency_pct": 0.5,
+      "examples": [
+        "Wedding",
+        "Wedding, Birthday",
+        "Birthday",
+        "Christmas",
+        "Halloween",
+        "Bridal Shower, Prom, Birthday",
+        "Wedding, Birthdays",
+        "party",
+        "Party",
+        "Christmas, Birthday",
+        "Prom",
+        "Engagement, Mother's Day, Wedding, Birthday",
+        "Mother's Day, Anniversary, Valentine's Day",
+        "Home",
+        "Baby Shower"
+      ]
+    },
+    {
+      "name": "Number of Blades",
+      "occurrence": 5129,
+      "frequency_pct": 0.5,
+      "examples": [
+        "1",
+        "3",
+        "5",
+        "2",
+        "4",
+        "10",
+        "6",
+        "100",
+        "9",
+        "50",
+        "20",
+        "7",
+        "30",
+        "8",
+        "12"
+      ]
+    },
+    {
+      "name": "Specific Uses For Product",
+      "occurrence": 4915,
+      "frequency_pct": 0.48,
+      "examples": [
+        "Cosmetics",
+        "Blender",
+        "Makeup",
+        "Jewelry",
+        "Concealer,Blender",
+        "Brush,Cosmetic",
+        "Blending",
+        "Bathroom",
+        "Eyelash",
+        "Nail",
+        "Bathroom,Cosmetic,Jewelry,Makeup Organizer",
+        "Brush",
+        "Bathroom,Jewelry,Makeup Organizer",
+        "Stationery",
+        "Professional"
+      ]
+    },
+    {
+      "name": "Manufacturer recommended age",
+      "occurrence": 4706,
+      "frequency_pct": 0.46,
+      "examples": [
+        "18 months - 8 years",
+        "3 years and up",
+        "6 months - 3 years",
+        "0 months and up",
+        "5 years and up",
+        "12 months and up",
+        "6 years and up",
+        "3 months and up",
+        "12 years and up",
+        "8 years and up",
+        "1 month and up",
+        "36 months - 15 years",
+        "14 years and up",
+        "18 years and up",
+        "4 years and up"
+      ]
+    },
+    {
+      "name": "Specialty",
+      "occurrence": 4677,
+      "frequency_pct": 0.45,
+      "examples": [
+        "Natural",
+        "natural",
+        "Waterproof",
+        "Long Lasting",
+        "Cruelty Free",
+        "Dry",
+        "Moisturizing",
+        "Vegan",
+        "Long-lasting",
+        "Not-tested-on-animals",
+        "not-tested-on-animals",
+        "Organic",
+        "Paraben Free",
+        "Hypoallergenic",
+        "Protein"
+      ]
+    },
+    {
+      "name": "Language",
+      "occurrence": 4061,
+      "frequency_pct": 0.39,
+      "examples": [
+        "English",
+        "English, English, English, English, English",
+        "English, English, English, English",
+        "French",
+        "Spanish",
+        "German",
+        "Italian",
+        "Unknown",
+        "None",
+        "Turkish, Turkish, Turkish, Turkish, Turkish",
+        "French, German, French, German, French",
+        "Multilingual",
+        "Swedish",
+        "Polish",
+        "English, English"
+      ]
+    },
+    {
+      "name": "Flavor",
+      "occurrence": 4027,
+      "frequency_pct": 0.39,
+      "examples": [
+        "Unflavored",
+        "Mint",
+        "Peppermint",
+        "Vanilla",
+        "Strawberry",
+        "Cherry",
+        "Coconut",
+        "Original",
+        "Honey",
+        "Rose",
+        "Berry",
+        "Chocolate",
+        "Assorted",
+        "Mango",
+        "Lemon"
+      ]
+    },
+    {
+      "name": "Sun Protection",
+      "occurrence": 3933,
+      "frequency_pct": 0.38,
+      "examples": [
+        "30 SPF",
+        "15 SPF",
+        "50 SPF",
+        "40 SPF",
+        "20 SPF",
+        "10 SPF",
+        "30 to 50 SPF SPF",
+        "25 SPF",
+        "70 SPF",
+        "50+ SPF",
+        "45 SPF",
+        "35 SPF",
+        "50 to 70 SPF SPF",
+        "60 SPF",
+        "100 SPF"
+      ]
+    },
+    {
+      "name": "Model Name",
+      "occurrence": 3842,
+      "frequency_pct": 0.37,
+      "examples": [
+        "Charles",
+        "Glass Nail File",
+        "Professional Nail Files",
+        "Panasonic",
+        "1",
+        "100/180 Grit Nail Files",
+        "Dana",
+        "Mini Nail Files",
+        "Professional Nail File",
+        "Infinite Shine, Long-Wear Formula",
+        "Crystal Glass Nail File",
+        "Zoya Nail Polish 5",
+        "4 Tify 0 Fluid Ounce",
+        "Miracle Gel Nail Polish 0.5 Fl Oz",
+        "Good.Kind.Pure Vegan Nail Color 0.33 Fl Oz"
+      ]
+    },
+    {
+      "name": "Closure Type",
+      "occurrence": 3699,
+      "frequency_pct": 0.36,
+      "examples": [
+        "Zipper",
+        "Screw",
+        "Ear Loop",
+        "Twist Lug",
+        "Pull On",
+        "Clip",
+        "Snap",
+        "Buckle",
+        "Drawstring",
+        "Pull-On",
+        "Button",
+        "Magnetic",
+        "Twist Lock",
+        "Hook and Loop",
+        "Adjustable"
+      ]
+    },
+    {
+      "name": "Blade Edge",
+      "occurrence": 3030,
+      "frequency_pct": 0.29,
+      "examples": [
+        "Curved",
+        "Straight",
+        "Convex",
+        "Bevel",
+        "Serrated",
+        "Curved, Straight",
+        "swivel",
+        "Curved edge",
+        "curved edge",
+        "Straight, Convex",
+        "Plain",
+        "Flat",
+        "micro-serrated",
+        "Swivel",
+        "serrated,straight"
+      ]
+    },
+    {
+      "name": "Brand Name",
+      "occurrence": 3014,
+      "frequency_pct": 0.29,
+      "examples": [
+        "Dakine",
+        "EARTHLITE",
+        "WinCraft",
+        "SierraComfort",
+        "Sea to Summit",
+        "Aloe Gator",
+        "Infinity Collection",
+        "Zinka",
+        "BestMassage",
+        "Custom Craftworks",
+        "All Terrain",
+        "Beyond Coastal",
+        "FAYBOX",
+        "Generic",
+        "Aloe Up Sun & Skin Care Products"
+      ]
+    },
+    {
+      "name": "Package Weight",
+      "occurrence": 2643,
+      "frequency_pct": 0.26,
+      "examples": [
+        "0.02 Kilograms",
+        "0.01 Kilograms",
+        "0.05 Kilograms",
+        "0.02 Pounds",
+        "0.07 Kilograms",
+        "0.05 Pounds",
+        "0.14 Kilograms",
+        "0.11 Kilograms",
+        "0.1 Pounds",
+        "0.04 Kilograms",
+        "0.09 Kilograms",
+        "0.18 Kilograms",
+        "0.2 Pounds",
+        "0.3 Pounds",
+        "0.06 Kilograms"
+      ]
+    },
+    {
+      "name": "Target Audience",
+      "occurrence": 2607,
+      "frequency_pct": 0.25,
+      "examples": [
+        "Unisex-Adults",
+        "Women",
+        "Unisex Adult",
+        "Women, Men",
+        "Men",
+        "Girls",
+        "Unisex",
+        "Men,Women",
+        "Adult",
+        "Women, Girls",
+        "Unisex-Babies",
+        "Women, Men, Unisex Adult",
+        "Unisex-adults",
+        "Unisex Adults",
+        "Adults"
+      ]
+    },
+    {
+      "name": "Sun Protection Factor",
+      "occurrence": 2604,
+      "frequency_pct": 0.25,
+      "examples": [
+        "50 Sun Protection Factor (SPF)",
+        "30 Sun Protection Factor (SPF)",
+        "15 Sun Protection Factor (SPF)",
+        "40 Sun Protection Factor (SPF)",
+        "70 Sun Protection Factor (SPF)",
+        "45 Sun Protection Factor (SPF)",
+        "20 Sun Protection Factor (SPF)",
+        "60 Sun Protection Factor (SPF)",
+        "35 Sun Protection Factor (SPF)",
+        "10 Sun Protection Factor (SPF)",
+        "100 Sun Protection Factor (SPF)",
+        "25 Sun Protection Factor (SPF)",
+        "46 Sun Protection Factor (SPF)",
+        "55 Sun Protection Factor (SPF)",
+        "8 Sun Protection Factor (SPF)"
+      ]
+    },
+    {
+      "name": "Finish",
+      "occurrence": 2512,
+      "frequency_pct": 0.24,
+      "examples": [
+        "Polished",
+        "Brushed",
+        "Acrylic",
+        "Glossy",
+        "Powder Coated",
+        "Matte",
+        "Painted",
+        "Chrome",
+        "Oil Rubbed",
+        "Oil",
+        "Metal",
+        "Unfinished",
+        "Gloss",
+        "Clear",
+        "Finish"
+      ]
+    },
+    {
+      "name": "Item Package Dimensions L x W x H",
+      "occurrence": 2398,
+      "frequency_pct": 0.23,
+      "examples": [
+        "77 x 37 x 22 inches",
+        "10 x 1 x 1 inches",
+        "1 x 1 x 1 inches",
+        "77 x 37 x 25 inches",
+        "13 x 10 x 1 inches",
+        "5 x 3 x 0.1 inches",
+        "5.31 x 2.32 x 1.73 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "39 x 34 x 10 inches",
+        "3 x 2 x 1 inches",
+        "5.7 x 4.4 x 2.7 inches",
+        "5.7 x 4.9 x 1.6 inches",
+        "6.3 x 2.8 x 1.3 inches",
+        "8.1 x 3 x 1.1 inches",
+        "0.1 x 0.1 x 0.1 inches"
+      ]
+    },
+    {
+      "name": "Operation Mode",
+      "occurrence": 2264,
+      "frequency_pct": 0.22,
+      "examples": [
+        "Manual",
+        "Automatic",
+        "Electrical",
+        "Power",
+        "Mechanical",
+        "Acoustic, Electric",
+        "Ultrasonic",
+        "Vaporizer",
+        "We are long press to turn it on/off.",
+        "ON-OFF",
+        "Clip On",
+        "Hand",
+        "Fully Automatic",
+        "Automatic,Automatically,Off",
+        "Electric"
+      ]
+    },
+    {
+      "name": "Is Electric",
+      "occurrence": 2155,
+      "frequency_pct": 0.21,
+      "examples": [
+        "No",
+        "Yes",
+        "True"
+      ]
+    },
+    {
+      "name": "Wattage",
+      "occurrence": 2065,
+      "frequency_pct": 0.2,
+      "examples": [
+        "1875 watts",
+        "1000 watts",
+        "48 watts",
+        "1600 watts",
+        "36 watts",
+        "1800 watts",
+        "2000 watts",
+        "1200 watts",
+        "5 watts",
+        "100 watts",
+        "3 watts",
+        "6 watts",
+        "120 watts",
+        "9 watts",
+        "10 watts"
+      ]
+    },
+    {
+      "name": "Bristle Material",
+      "occurrence": 1950,
+      "frequency_pct": 0.19,
+      "examples": [
+        "Boar",
+        "Nylon",
+        "Bamboo",
+        "Plastic",
+        "Silicone",
+        "Wood",
+        "Synthetic",
+        "Tourmaline",
+        "Rubber",
+        "Taklon",
+        "Ceramic",
+        "Synthetic Fiber",
+        "Feather",
+        "Goat Hair",
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Light Source Type",
+      "occurrence": 1892,
+      "frequency_pct": 0.18,
+      "examples": [
+        "LED",
+        "Infrared",
+        "Infrared, LED",
+        "Fluorescent",
+        "Incandescent",
+        "Candle",
+        "LED,UV",
+        "UV bulbs",
+        "LED/UV",
+        "LED, Infrared",
+        "LED, Fluorescent, Incandescent",
+        "UV",
+        "Halogen, LED, Fluorescent, Incandescent",
+        "LED Light for Nails",
+        "CFL"
+      ]
+    },
+    {
+      "name": "Towel form type",
+      "occurrence": 1878,
+      "frequency_pct": 0.18,
+      "examples": [
+        "Hair Towel",
+        "Washcloth",
+        "Bath Towel",
+        "Hand Towel",
+        "Cleaning Cloth",
+        "Beach Towel",
+        "Hooded Towel",
+        "Foot Towel",
+        "Bath Sheet",
+        "Fingertip Towel"
+      ]
+    },
+    {
+      "name": "Manufacturer Part Number",
+      "occurrence": 1840,
+      "frequency_pct": 0.18,
+      "examples": [
+        "1",
+        "JZORI",
+        "RSS-sks3_XL",
+        "LE",
+        "Hawink",
+        "HNA0001",
+        "NS",
+        "613",
+        "00667",
+        "JJC789R16-7-CBD",
+        "BaodeLi",
+        "0025F",
+        "Unknown",
+        "SZJ001",
+        "14104"
+      ]
+    },
+    {
+      "name": "Number of pieces",
+      "occurrence": 1805,
+      "frequency_pct": 0.18,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "10",
+        "12",
+        "5",
+        "24",
+        "100",
+        "20",
+        "8",
+        "50",
+        "144",
+        "1000"
+      ]
+    },
+    {
+      "name": "Head Type",
+      "occurrence": 1781,
+      "frequency_pct": 0.17,
+      "examples": [
+        "Foil",
+        "Rotary",
+        "Bikini",
+        "\u65cb\u8f6c",
+        "NO",
+        "'Bikini Trimmer'",
+        "Eyebrow & Facial",
+        "not suitable for sensitive skin",
+        "Trim",
+        "'Lady Razor,Bikini,Foil'",
+        "No",
+        "Mesh",
+        "paillon",
+        "'Lady Razor'",
+        "rotary"
+      ]
+    },
+    {
+      "name": "Number of Sets",
+      "occurrence": 1744,
+      "frequency_pct": 0.17,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "4",
+        "12",
+        "10",
+        "5",
+        "8",
+        "24",
+        "20",
+        "16",
+        "15",
+        "30",
+        "50"
+      ]
+    },
+    {
+      "name": "Special Ingredients",
+      "occurrence": 1529,
+      "frequency_pct": 0.15,
+      "examples": [
+        "Keratin",
+        "Hyaluronic Acid",
+        "Coconut",
+        "Aloe Vera",
+        "Rosemary",
+        "Vitamin C",
+        "Vitamin E",
+        "Collagen",
+        "Argan",
+        "Shea Butter",
+        "Honey",
+        "Argan Oil",
+        "Biotin",
+        "Olive Oil",
+        "Tea-tree-oil"
+      ]
+    },
+    {
+      "name": "Hand Orientation",
+      "occurrence": 1499,
+      "frequency_pct": 0.15,
+      "examples": [
+        "Ambidextrous",
+        "Right Hand",
+        "Left Hand",
+        "Right",
+        "Left",
+        "Natural Rugged Rescue Skin Repair Balm",
+        "All purpose",
+        "\u4e24\u4fa7",
+        "All",
+        "Each"
+      ]
+    },
+    {
+      "name": "Material Type",
+      "occurrence": 1463,
+      "frequency_pct": 0.14,
+      "examples": [
+        "Paper",
+        "Plastic",
+        "Cotton",
+        "Polyester",
+        "Scuba Foam",
+        "Metal",
+        "Stainless Steel",
+        "Nylon",
+        "Rubber",
+        "Acrylic",
+        "Wood",
+        "Canvas",
+        "Silicone",
+        "Leather",
+        "Glass"
+      ]
+    },
+    {
+      "name": "Assembly required",
+      "occurrence": 1396,
+      "frequency_pct": 0.14,
+      "examples": [
+        "No",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "Seasons",
+      "occurrence": 1380,
+      "frequency_pct": 0.13,
+      "examples": [
+        "All Seasons",
+        "All Season",
+        "All",
+        "All-Season",
+        "Winter",
+        "Spring",
+        "Fall",
+        "Year Round",
+        "It's made of ceramic.",
+        "4 Season",
+        "Autumn, Spring",
+        "Autumn"
+      ]
+    },
+    {
+      "name": "Battery Life",
+      "occurrence": 1341,
+      "frequency_pct": 0.13,
+      "examples": [
+        "90 minutes",
+        "60 minutes",
+        "120 minutes",
+        "50 minutes",
+        "45 minutes",
+        "30 minutes",
+        "40 minutes",
+        "2 Hours",
+        "80 minutes",
+        "3 \tweeks",
+        "1 Hours",
+        "10 minutes",
+        "100 minutes",
+        "70 minutes",
+        "60.0, 30.0 minutes"
+      ]
+    },
+    {
+      "name": "Finish types",
+      "occurrence": 1295,
+      "frequency_pct": 0.13,
+      "examples": [
+        "Polished",
+        "Painted",
+        "Glossy",
+        "Brushed",
+        "Matte",
+        "Chrome",
+        "Shimmery",
+        "Natural",
+        "Acrylic",
+        "Stainless Steel",
+        "Lacquered",
+        "Chrome Finish",
+        "White",
+        "Metal",
+        "Clear"
+      ]
+    },
+    {
+      "name": "Item Dimensions  LxWxH",
+      "occurrence": 1275,
+      "frequency_pct": 0.12,
+      "examples": [
+        "1 x 1 x 1 inches",
+        "8 x 8 x 8 inches",
+        "10.5 x 5 x 8 inches",
+        "5 x 5 x 5 inches",
+        "73 x 30 x 33 inches",
+        "74 x 28 x 33 inches",
+        "10 x 4 x 5 inches",
+        "7 x 0.5 x 9 inches",
+        "10 x 3 x 7 inches",
+        "8 x 2.5 x 3 inches",
+        "73 x 32 x 36 inches",
+        "2 x 2 x 2 inches",
+        "0.39 x 0.39 x 0.39 inches",
+        "7.25 x 9.25 x 0.25 inches",
+        "12 x 12 x 1.5 inches"
+      ]
+    },
+    {
+      "name": "Other display features",
+      "occurrence": 1272,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Wireless",
+        "Beauty",
+        "Health and Beauty",
+        "Home",
+        "CE",
+        "Photography",
+        "Grocery",
+        "Kitchen",
+        "Apparel",
+        "Speakers",
+        "Pet Products",
+        "Video Games",
+        "Prestige Beauty"
+      ]
+    },
+    {
+      "name": "Compatible Material",
+      "occurrence": 1263,
+      "frequency_pct": 0.12,
+      "examples": [
+        "Acrylic",
+        "Plastic",
+        "Diy",
+        "Paper",
+        "Carbon",
+        "Stone",
+        "Fabric",
+        "Packaging",
+        "Metal",
+        "Rubber",
+        "Fiberglass",
+        "Glass",
+        "Rhinestone",
+        "Decorations",
+        "Wood"
+      ]
+    },
+    {
+      "name": "Is Dishwasher Safe",
+      "occurrence": 1190,
+      "frequency_pct": 0.12,
+      "examples": [
+        "No",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "Maximum Weight Recommendation",
+      "occurrence": 1169,
+      "frequency_pct": 0.11,
+      "examples": [
+        "330 Pounds",
+        "250 Pounds",
+        "300 Pounds",
+        "400 Pounds",
+        "350 Pounds",
+        "220 Pounds",
+        "440 Pounds",
+        "260 Pounds",
+        "200 Pounds",
+        "500 Pounds",
+        "850 Pounds",
+        "265 Pounds",
+        "150 Kilograms",
+        "450 Pounds",
+        "270 Pounds"
+      ]
+    },
+    {
+      "name": "Usage",
+      "occurrence": 1050,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Cosmetics",
+        "Professional",
+        "Dryness",
+        "Inside; Professional",
+        "Brush,Cosmetic",
+        "Bathroom",
+        "Jewelry",
+        "Inside",
+        "Personal Care",
+        "Bathroom,Jewelry,Makeup Organizer",
+        "Bathroom,Cosmetic,Jewelry,Makeup Organizer",
+        "Brush",
+        "Cosmetic",
+        "Stationery",
+        "Makeup Organizer"
+      ]
+    },
+    {
+      "name": "Volume",
+      "occurrence": 1044,
+      "frequency_pct": 0.1,
+      "examples": [
+        "100 Milliliters",
+        "8 Fluid Ounces",
+        "10 Milliliters",
+        "30 Milliliters",
+        "5 Milliliters",
+        "250 Milliliters",
+        "300 Milliliters",
+        "2 Fluid Ounces",
+        "120 Milliliters",
+        "1 Fluid Ounces",
+        "1 Milliliters",
+        "150 Milliliters",
+        "50 Milliliters",
+        "200 Milliliters",
+        "4 Fluid Ounces"
+      ]
+    },
+    {
+      "name": "Number of Compartments",
+      "occurrence": 1017,
+      "frequency_pct": 0.1,
+      "examples": [
+        "1",
+        "3",
+        "4",
+        "7",
+        "6",
+        "5",
+        "8",
+        "2",
+        "9",
+        "10",
+        "16",
+        "24",
+        "12",
+        "26",
+        "20"
+      ]
+    },
+    {
+      "name": "Number Of Pieces",
+      "occurrence": 1010,
+      "frequency_pct": 0.1,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "10",
+        "4",
+        "100",
+        "12",
+        "5",
+        "20",
+        "50",
+        "8",
+        "24",
+        "30",
+        "16"
+      ]
+    },
+    {
+      "name": "Seat Material Type",
+      "occurrence": 999,
+      "frequency_pct": 0.1,
+      "examples": [
+        "Faux Leather",
+        "Leather",
+        "Foam",
+        "Metal",
+        "Vinyl",
+        "Polyurethane",
+        "Wood",
+        "Plastic",
+        "Fabric",
+        "Memory Foam",
+        "Nylon",
+        "Bamboo",
+        "Polyester",
+        "Cotton",
+        "Stainless Steel"
+      ]
+    },
+    {
+      "name": "Country/Region Of Origin",
+      "occurrence": 991,
+      "frequency_pct": 0.1,
+      "examples": [
+        "United States",
+        "Republic of Korea",
+        "China",
+        "Canada",
+        "Japan",
+        "France",
+        "Italy",
+        "Thailand",
+        "Germany",
+        "Great Britain",
+        "Andorra",
+        "India",
+        "United Kingdom",
+        "Israel",
+        "Poland"
+      ]
+    },
+    {
+      "name": "Skin type",
+      "occurrence": 958,
+      "frequency_pct": 0.09,
+      "examples": [
+        "All",
+        "Dry",
+        "Sensitive",
+        "Acne Prone",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Dry Skin",
+        "Acne Prone,Dry",
+        "normal",
+        "dry",
+        "normal, oily, dry, combination",
+        "All, Sensitive",
+        "Sensitive, Dry",
+        "All, Dry"
+      ]
+    },
+    {
+      "name": "Connectivity Technology",
+      "occurrence": 909,
+      "frequency_pct": 0.09,
+      "examples": [
+        "USB",
+        "IR",
+        "Normal bulb",
+        "Wired",
+        "Wireless",
+        "Bluetooth",
+        "Infrared",
+        "Usb",
+        "Bluetooth, USB",
+        "Plug",
+        "interface",
+        "Auxiliary",
+        "Wi-Fi",
+        "usb",
+        "Barrel Connector"
+      ]
+    },
+    {
+      "name": "Import",
+      "occurrence": 896,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Imported",
+        "Made in USA",
+        "Made in USA or Imported",
+        "Made in US",
+        "Made in the USA and Imported",
+        "Made in USA and Imported",
+        "Country as Labeled",
+        "Importado",
+        "Made in the USA",
+        "Made in the USA or Imported",
+        "Hecho en USA",
+        "Unisex & Perfect Gifts",
+        "China",
+        "\u8fdb\u53e3",
+        "1"
+      ]
+    },
+    {
+      "name": "Handle Type",
+      "occurrence": 891,
+      "frequency_pct": 0.09,
+      "examples": [
+        "Scissor Handle",
+        "Massage Handle",
+        "Lever",
+        "Manual-Retractable",
+        "Knob",
+        "Traditional style",
+        "Fixed",
+        "Pen sized",
+        "Pencil Handle",
+        "Long",
+        "comfortable grip",
+        "Push Handles",
+        "Web Handle",
+        "Eyelash Curler-Automatic",
+        "Rattail Handle"
+      ]
+    },
+    {
+      "name": "Is Cordless?",
+      "occurrence": 873,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Perfume",
+      "occurrence": 868,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Unscented",
+        "Fresh",
+        "Lavender",
+        "Rose",
+        "Coconut",
+        "Scented",
+        "Floral",
+        "Aloe Vera",
+        "Vanilla",
+        "Orange",
+        "Aloe",
+        "Sandalwood",
+        "Lemon",
+        "Cherry",
+        "Citrus"
+      ]
+    },
+    {
+      "name": "Maximum Rotational Speed",
+      "occurrence": 854,
+      "frequency_pct": 0.08,
+      "examples": [
+        "20000 RPM",
+        "35000 RPM",
+        "30000 RPM",
+        "25000 RPM",
+        "40000 RPM",
+        "18000 RPM",
+        "15000 RPM",
+        "45000 RPM",
+        "22000 RPM",
+        "13000 RPM",
+        "3000 RPM",
+        "14000 RPM",
+        "9000 RPM",
+        "12000 RPM",
+        "4200 RPM"
+      ]
+    },
+    {
+      "name": "Grit Number",
+      "occurrence": 853,
+      "frequency_pct": 0.08,
+      "examples": [
+        "100",
+        "180",
+        "80",
+        "150",
+        "240",
+        "120",
+        "60",
+        "198",
+        "220",
+        "140",
+        "50",
+        "280",
+        "180.00",
+        "2",
+        "100.180"
+      ]
+    },
+    {
+      "name": "Head Material",
+      "occurrence": 851,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Nylon",
+        "Kolinsky",
+        "Silicone",
+        "Sable",
+        "Plastic",
+        "Stainless Steel",
+        "Kolinksy",
+        "metal",
+        "Feather",
+        "Wool",
+        "Cotton",
+        "Pure kolinsky hair",
+        "Bamboo",
+        "Microfiber",
+        "Aluminum"
+      ]
+    },
+    {
+      "name": "Voltage",
+      "occurrence": 838,
+      "frequency_pct": 0.08,
+      "examples": [
+        "5 Volts",
+        "240 Volts",
+        "120 Volts",
+        "110 Volts",
+        "12 Volts",
+        "220 Volts",
+        "2.4 Volts",
+        "1.2 Volts",
+        "3.7 Volts",
+        "110 Volts (AC)",
+        "5 Volts (DC)",
+        "15 Volts",
+        "24 Volts (DC)",
+        "1 Volts",
+        "3 Volts"
+      ]
+    },
+    {
+      "name": "Furniture Finish",
+      "occurrence": 819,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Black",
+        "Chrome",
+        "Leather",
+        "Metal",
+        "Stainless Steel",
+        "Wood",
+        "White",
+        "Gold",
+        "Faux Leather",
+        "Walnut",
+        "black",
+        "white",
+        "Plastic",
+        "Aluminum",
+        "leather"
+      ]
+    },
+    {
+      "name": "Base Type",
+      "occurrence": 792,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Pedestal",
+        "Leg",
+        "Legs",
+        "base",
+        "Metal Tripod",
+        "Tripod",
+        "Hanger",
+        "Base",
+        "Storage",
+        "Stand"
+      ]
+    },
+    {
+      "name": "Suggested Users",
+      "occurrence": 774,
+      "frequency_pct": 0.08,
+      "examples": [
+        "Unisex-adult",
+        "unisex-adult",
+        "Womens",
+        "womens",
+        "Unisex",
+        "unisex",
+        "mens",
+        "Unisex-Adult",
+        "\"\"",
+        "Mens",
+        "Gameday Tailgating",
+        "Sunscreen",
+        "Supply",
+        "womens, girls",
+        "Girls"
+      ]
+    },
+    {
+      "name": "Shade Material",
+      "occurrence": 756,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Acrylic",
+        "Acrylonitrile Butadiene Styrene",
+        "Plastic",
+        "Resin",
+        "Metal",
+        "Acrylonitrile Butadiene Styrene, Acrylic",
+        "Glass",
+        "Aluminum",
+        "Silicone",
+        "Acrylonitrile Butadiene Styrene, Plastic",
+        "Plastic, Acrylic",
+        "Resin, Acrylic",
+        "Iron",
+        "Acrylonitrile Butadiene Styrene, Iron",
+        "Metal, Aluminum"
+      ]
+    },
+    {
+      "name": "Heater Surface Material",
+      "occurrence": 743,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Ceramic",
+        "Tourmaline",
+        "Titanium",
+        "Silicone",
+        "Rose Gold",
+        "Stainless Steel",
+        "Carbon Fiber",
+        "Porcelain"
+      ]
+    },
+    {
+      "name": "Warranty Description",
+      "occurrence": 711,
+      "frequency_pct": 0.07,
+      "examples": [
+        "Warranty",
+        "Wbm llc. Warrants its products to be free from defects in material and workmanship for 30 days from the shipment date unless otherwise noted. Wbm llc. Will replace any item returned to us within the parameters of this policy and found to be defective. All returned warranty-issue merchandise must be properly packed for a safe return shipment and in original purchase condition with the original packaging, the original receipt/invoice/packing slip and an explanation of the item's problem. Wbm llc. Will not refund, credit or cover shipping expenses for warranty item returns or warranty item replacements under any circumstances. Wbm llc. Is not liable for misuse of its products. This warranty does not cover damage due to abuse, neglect, alteration, failure to follow instructions, shipping damage or damaged packaging. Wbm llc. Expressly disclaims all express warranties not stated herein and all implied warranties, including the implied warranties of merchantability and fitness for a particular purpose.",
+        "Lifetime warranty against manufacturer's defects.",
+        "No Warranty",
+        "30 day warranty from date of purchase on no lites or defects - credit only.",
+        "Manufacturer Warranty",
+        "1 year manufacturer",
+        "Www. Earthlite. Com.",
+        "N/a.",
+        "Manufacturer",
+        "Limited lifetime.",
+        "No warranty",
+        "100% Money Back Guarantee: Please contact the O\u2019Keeffe\u2019s Company at 1-800-275-2718 for details.",
+        "1 Year",
+        "1 year manufacturer."
+      ]
+    },
+    {
+      "name": "Sport",
+      "occurrence": 643,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Yoga",
+        "Running, Yoga",
+        "Running",
+        "Walking",
+        "Tennis, Volleyball, Yoga, Basketball, Fitness, Gymnastics",
+        "Camping",
+        "Hiking",
+        "Running, Yoga, Fitness",
+        "Exercise, Running, Yoga",
+        "camping",
+        "Running, Yoga, Hiking",
+        "Exercise, Yoga",
+        "Basketball",
+        "Walking, Exercise, Running, Yoga, Hiking, Fitness",
+        "Exercise, Running, Yoga, Hiking"
+      ]
+    },
+    {
+      "name": "Max Temperature Setting",
+      "occurrence": 615,
+      "frequency_pct": 0.06,
+      "examples": [
+        "210 Degrees Celsius",
+        "232.2 Degrees Celsius",
+        "230 Degrees Celsius",
+        "200 Degrees Celsius",
+        "450 Degrees Celsius",
+        "204.4 Degrees Celsius",
+        "220 Degrees Celsius",
+        "410 Degrees Celsius",
+        "221.1 Degrees Celsius",
+        "450 Degrees Fahrenheit",
+        "390 Degrees Fahrenheit",
+        "180 Degrees Celsius",
+        "232 Degrees Celsius",
+        "410 Degrees Fahrenheit",
+        "120 Degrees Celsius"
+      ]
+    },
+    {
+      "name": "Form Factor",
+      "occurrence": 588,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Bumper",
+        "Recliner",
+        "Case",
+        "Compact",
+        "In Ear",
+        "Bonnet",
+        "Basic Case",
+        "Pouch",
+        "Flip",
+        "Handheld",
+        "Front Load",
+        "Upholstered",
+        "Freestanding",
+        "360",
+        "Modern"
+      ]
+    },
+    {
+      "name": "Ink Color",
+      "occurrence": 574,
+      "frequency_pct": 0.06,
+      "examples": [
+        "Black",
+        "White",
+        "Blue",
+        "Brown",
+        "Multicolor",
+        "Green",
+        "Pink",
+        "Blue,White,Black",
+        "Purple",
+        "Red",
+        "Black,White",
+        "Blue,Pink",
+        "Gold",
+        "Orange",
+        "Silver"
+      ]
+    },
+    {
+      "name": "Bowl Material",
+      "occurrence": 564,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Plastic",
+        "Stainless Steel",
+        "Ceramic",
+        "Wood",
+        "Silicone",
+        "Porcelain",
+        "Rubber",
+        "Glass",
+        "Stoneware",
+        "Marble",
+        "Copper",
+        "Food Grade Silicone",
+        "Iron",
+        "Horn",
+        "White Marble"
+      ]
+    },
+    {
+      "name": "Sport Type",
+      "occurrence": 553,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Excercise & Fitness",
+        "Camping & Hiking",
+        "Yoga",
+        "Cycling",
+        "Hunting",
+        "Softball",
+        "Football",
+        "Multi-Sport",
+        "Running",
+        "Running, Yoga",
+        "Equestrian",
+        "Dance",
+        "Exercise & Fitness",
+        "Tennis, Volleyball, Yoga, Basketball, Fitness, Gymnastics",
+        "equestrian"
+      ]
+    },
+    {
+      "name": "Release date",
+      "occurrence": 548,
+      "frequency_pct": 0.05,
+      "examples": [
+        "October 24, 2018",
+        "July 9, 2018",
+        "June 18, 2019",
+        "January 1, 2021",
+        "October 25, 2018",
+        "January 1, 2018",
+        "March 8, 2019",
+        "July 15, 2020",
+        "June 8, 2018",
+        "June 30, 2020",
+        "November 21, 2018",
+        "October 23, 2018",
+        "October 1, 2018",
+        "June 1, 2018",
+        "March 1, 2018"
+      ]
+    },
+    {
+      "name": "Grit Type",
+      "occurrence": 541,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Fine",
+        "Coarse",
+        "Medium",
+        "Coarse,Fine",
+        "Coarse,Medium",
+        "Coarse, Fine",
+        "Medium, Coarse, Fine",
+        "Extra",
+        "Medium, Fine",
+        "Coarse Grit,Fine",
+        "Extra Coarse",
+        "Coarse Grit,Medium",
+        "Coarser",
+        "Fine,Medium",
+        "Coarse,Fine,Medium"
+      ]
+    },
+    {
+      "name": "Paint Type",
+      "occurrence": 535,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Tattoo",
+        "Acrylic",
+        "Watercolor",
+        "Spray",
+        "Alcohol",
+        "Oil",
+        "Decorative",
+        "Oil,Acrylic",
+        "Liquid",
+        "Oil, Acrylic",
+        "Oil, Spray",
+        "Wax",
+        "Glycerin",
+        "Hair dye",
+        "\u4e19\u70ef\u9178"
+      ]
+    },
+    {
+      "name": "Lamp Type",
+      "occurrence": 523,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Nail lamp",
+        "nail lamp",
+        "Desk Lamp",
+        "LED",
+        "Table Lamp",
+        "Night Light",
+        "Floor Lamp",
+        "Salt Lamp",
+        "Nail Lamp",
+        "UV LED Nail Lamp",
+        "lamp",
+        "180w,nail lamp",
+        "UV LED",
+        "Nail",
+        "Moon Lamp"
+      ]
+    },
+    {
+      "name": "Target gender",
+      "occurrence": 515,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Unisex",
+        "Female",
+        "Male"
+      ]
+    },
+    {
+      "name": "Product Grade",
+      "occurrence": 514,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Home",
+        "Professional",
+        "USP/FCC",
+        "Performance Part",
+        "Skin Care"
+      ]
+    },
+    {
+      "name": "Care instructions",
+      "occurrence": 510,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Machine Wash",
+        "Hand Wash Only",
+        "Wash with Warm Water",
+        "Wipe with Dry Cloth",
+        "Hand Wash",
+        "Clean after Use",
+        "Machine Wash, Tumble Dry",
+        "0",
+        "Dry Clean Only",
+        "Machine Washable, Tumble Dry Low. Do not bleach., Wash dark colors separately. Touch up with iron if necessary.",
+        "Machine Wash, Hand Wash Only",
+        "Machine wash",
+        "No",
+        "Wipe Clean",
+        "Dishwasher Safe"
+      ]
+    },
+    {
+      "name": "Variety",
+      "occurrence": 494,
+      "frequency_pct": 0.05,
+      "examples": [
+        "Bath Bomb",
+        "Bubble Bath",
+        "Bath Bombs",
+        "Bath Salt",
+        "Bath Oil",
+        "Bath Bomb,Bath Bombs",
+        "Bath Soak",
+        "Bath",
+        "Mineral",
+        "Epsom Salt",
+        "Bath Fizzer",
+        "Spring",
+        "Bath Powder",
+        "Foot Soak",
+        "Bath Bomb,Bath Bombs,Bath"
+      ]
+    },
+    {
+      "name": "Sheet Count",
+      "occurrence": 462,
+      "frequency_pct": 0.04,
+      "examples": [
+        "100",
+        "50",
+        "30",
+        "1",
+        "200",
+        "80",
+        "60",
+        "10",
+        "65",
+        "20",
+        "300",
+        "120",
+        "25",
+        "2",
+        "70"
+      ]
+    },
+    {
+      "name": "Back Style",
+      "occurrence": 456,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Solid Back",
+        "Cushion Back",
+        "Wing Back",
+        "Split Back",
+        "Open Back",
+        "Cushion",
+        "\u6447\u8f74\u6905\u80cc",
+        "Backrest",
+        "Tufted Back",
+        "\u5b9e\u5fc3\u9760\u80cc",
+        "cushion",
+        "Tapered",
+        "Cushion_back",
+        "Cross Back",
+        "Arrow Back"
+      ]
+    },
+    {
+      "name": "Number of Shelves",
+      "occurrence": 446,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1",
+        "3",
+        "2",
+        "4",
+        "5",
+        "6",
+        "8",
+        "7",
+        "11"
+      ]
+    },
+    {
+      "name": "Brush Length",
+      "occurrence": 437,
+      "frequency_pct": 0.04,
+      "examples": [
+        "7 Inches",
+        "6.5 Inches",
+        "4 Inches",
+        "15 Centimeters",
+        "6 Inches",
+        "16 Centimeters",
+        "17 Centimeters",
+        "5 Inches",
+        "10 Centimeters",
+        "1 Inches",
+        "8 Inches",
+        "3.8 Inches",
+        "18 Centimeters",
+        "5.9 Inches",
+        "4.25 Inches"
+      ]
+    },
+    {
+      "name": "Is Microwaveable",
+      "occurrence": 437,
+      "frequency_pct": 0.04,
+      "examples": [
+        "No",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "Assembled Length",
+      "occurrence": 427,
+      "frequency_pct": 0.04,
+      "examples": [
+        "72 inches",
+        "73 inches",
+        "1 centimeters",
+        "84 inches",
+        "9 inches",
+        "4 inches",
+        "0 inches",
+        "7 inches",
+        "12 inches",
+        "22 centimeters",
+        "8.27 inches",
+        "16 inches",
+        "18 inches",
+        "3.93 inches",
+        "15.75 inches"
+      ]
+    },
+    {
+      "name": "Assembled Width",
+      "occurrence": 425,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1.5 inches",
+        "4 inches",
+        "1 centimeters",
+        "1.18 inches",
+        "8 inches",
+        "20 centimeters",
+        "30 inches",
+        "3 inches",
+        "5 inches",
+        "7 inches",
+        "9 inches",
+        "10 centimeters",
+        "18 inches",
+        "22 inches",
+        "8.66 inches"
+      ]
+    },
+    {
+      "name": "Assembled Height",
+      "occurrence": 416,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1.5 inches",
+        "1 inches",
+        "1 centimeters",
+        "3 inches",
+        "10 centimeters",
+        "3.5 inches",
+        "4 inches",
+        "34 inches",
+        "1.18 inches",
+        "8 inches",
+        "24 inches",
+        "0.5 inches",
+        "2 inches",
+        "8 centimeters",
+        "25 inches"
+      ]
+    },
+    {
+      "name": "Compatible Devices",
+      "occurrence": 410,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Cellphone",
+        "Personal Computer",
+        "Tablet",
+        "Smartphone",
+        "Adapter",
+        "Domestic Sewing Machine",
+        "Tablets",
+        "PC",
+        "Desktop",
+        "Laptops",
+        "Smartphones",
+        "Charging Adapter",
+        "Printer",
+        "adapter",
+        "Shaver"
+      ]
+    },
+    {
+      "name": "Number Of Items",
+      "occurrence": 407,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "5",
+        "100",
+        "12",
+        "8",
+        "24",
+        "40",
+        "80",
+        "29",
+        "90",
+        "9"
+      ]
+    },
+    {
+      "name": "Dosage Form",
+      "occurrence": 405,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Capsule",
+        "Liquid",
+        "Powder",
+        "Softgel",
+        "Tablet",
+        "Gummy",
+        "Tablets",
+        "Capsules",
+        "Cream",
+        "Tablet,Tablets",
+        "Spray",
+        "Capsules,Capsule",
+        "Gel",
+        "Capsules,Softgel",
+        "Caplet"
+      ]
+    },
+    {
+      "name": "Number of Light Sources",
+      "occurrence": 393,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1",
+        "2",
+        "12",
+        "10",
+        "8",
+        "6",
+        "42",
+        "36",
+        "4",
+        "30",
+        "45",
+        "57",
+        "60",
+        "24",
+        "3"
+      ]
+    },
+    {
+      "name": "Specific instructions for use",
+      "occurrence": 390,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Cosmetics",
+        "Bathroom",
+        "Jewelry",
+        "Scented",
+        "Makeup Organizer",
+        "Cosmetic,Jewelry,Makeup Organizer",
+        "Cosmetic",
+        "Dryness",
+        "Personal, Business",
+        "Place bottle in room of your choice and uncork. Place reeds into neck and reverse as desired to enhance the scent.",
+        "Beard, Mustache",
+        "Bathroom,Cosmetic Organizer",
+        "Brush,Cosmetic",
+        "Bathroom,Makeup Organizer",
+        "Blender"
+      ]
+    },
+    {
+      "name": "Number of Batteries",
+      "occurrence": 387,
+      "frequency_pct": 0.04,
+      "examples": [
+        "1 Lithium Ion batteries required. (included)",
+        "1 Lithium Polymer batteries required. (included)",
+        "2 AA batteries required.",
+        "2 AAA batteries required.",
+        "1 AA batteries required. (included)",
+        "1 AAA batteries required. (included)",
+        "1 AA batteries required.",
+        "1 Product Specific batteries required.",
+        "1 Lithium Ion batteries required.",
+        "1 AAA batteries required.",
+        "4 AA batteries required.",
+        "1 Lithium Polymer batteries required.",
+        "2 AA batteries required. (included)",
+        "1 Product Specific batteries required. (included)",
+        "2 AAA batteries required. (included)"
+      ]
+    },
+    {
+      "name": "Packaging",
+      "occurrence": 385,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Bag",
+        "Box",
+        "Bottle",
+        "Pouch",
+        "Bag, Box",
+        "Tube",
+        "Palette",
+        "Tube, Bottle",
+        "\u7eb8\u76d2",
+        "Stick",
+        "\u5305"
+      ]
+    },
+    {
+      "name": "Distinctive feature",
+      "occurrence": 364,
+      "frequency_pct": 0.04,
+      "examples": [
+        "Natural",
+        "natural",
+        "Organic",
+        "Long Lasting",
+        "Vegan",
+        "hypoallergenic",
+        "Certified Organic",
+        "natural, not-tested-on-animals, hypoallergenic, organic",
+        "Long-lasting",
+        "Cruelty Free",
+        "Paraben-free",
+        "Fragrance",
+        "organic",
+        "Non Toxic",
+        "Odorless"
+      ]
+    },
+    {
+      "name": "Are Batteries Included",
+      "occurrence": 345,
+      "frequency_pct": 0.03,
+      "examples": [
+        "No",
+        "Yes",
+        "False"
+      ]
+    },
+    {
+      "name": "Connector Type",
+      "occurrence": 341,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Barrel Connector",
+        "barrel connector",
+        "Barrel connector",
+        "USB",
+        "Usb",
+        "USB Type C",
+        "RCA",
+        "MagSafe",
+        "USB Type A",
+        "Proprietary",
+        "Auxiliary",
+        "RJ45",
+        "XLR",
+        "Barrel",
+        "Wireless"
+      ]
+    },
+    {
+      "name": "Compatible Phone Models",
+      "occurrence": 321,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Samsung Galaxy S9",
+        "IPhone",
+        "ALL",
+        "Iphone",
+        "iphone",
+        "iPhone",
+        "Samsung Galaxy S8",
+        "Audiovox CDM3000",
+        "Samsung Galaxy S9 Plus",
+        "LG Stylo 2 V",
+        "S1",
+        "iPhone XS, iPhone X",
+        "IPhone XR",
+        "IPhone 7, IPhone 8",
+        "iPhone 11"
+      ]
+    },
+    {
+      "name": "Controller Type",
+      "occurrence": 319,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Push Button",
+        "Button Control",
+        "Remote Control",
+        "touch",
+        "Touch",
+        "IOS",
+        "Touch Control",
+        "Android",
+        "iOS",
+        "IOS, Android",
+        "Ring",
+        "iOS, Android",
+        "Pull Chain Control",
+        "Hand Control",
+        "Battery Powered"
+      ]
+    },
+    {
+      "name": "Switch Type",
+      "occurrence": 317,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Touch",
+        "Push Button",
+        "Magnetic",
+        "Foot",
+        "Magnetic, Touch",
+        "Remote",
+        "Rotary",
+        "Slide",
+        "slide",
+        "Dimmer",
+        "Foot Switch",
+        "Touch, Rotary",
+        "Decorator",
+        "Button switch",
+        "Foot,magnetic"
+      ]
+    },
+    {
+      "name": "Band Color",
+      "occurrence": 316,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Black",
+        "Multicolor",
+        "White",
+        "Blue",
+        "Purple",
+        "Assorted",
+        "Red",
+        "Grey",
+        "Pink",
+        "Green",
+        "Gray",
+        "Orange",
+        "Brown",
+        "Black/White",
+        "Turquoise"
+      ]
+    },
+    {
+      "name": "Band Material Type",
+      "occurrence": 306,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Polyester",
+        "Cotton",
+        "Silicone",
+        "Spandex",
+        "Polyester, Cotton",
+        "Polyester, Spandex",
+        "Rayon",
+        "Microfiber",
+        "Polyester, Silicone",
+        "Nylon",
+        "Spandex, Rayon",
+        "Velvet",
+        "Cotton, Polyester",
+        "Polyester, Chinlon",
+        "Chinlon"
+      ]
+    },
+    {
+      "name": "Battery Description",
+      "occurrence": 303,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Rechargeable",
+        "Lithium Ion",
+        "Lithium-Ion",
+        "Lithium",
+        "Power Cord Attached",
+        "Disposable",
+        "battery_type_aa",
+        "AAA",
+        "LR44",
+        "AA batteries required- Not included",
+        "Nickel-Metal Hydride"
+      ]
+    },
+    {
+      "name": "Color Name",
+      "occurrence": 299,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Black",
+        "White",
+        "Blue",
+        "Silver",
+        "Green",
+        "Brown",
+        "Multicolor",
+        "Red",
+        "Stainless Steel",
+        "Pink",
+        "Clear",
+        "Yellow",
+        "blue1",
+        "Bundle w/ Gig Bag",
+        "Grey"
+      ]
+    },
+    {
+      "name": "Units",
+      "occurrence": 296,
+      "frequency_pct": 0.03,
+      "examples": [
+        "1.0 Count",
+        "1 Count",
+        "12.0 Count",
+        "6.0 Count",
+        "1.00 Count",
+        "1 count",
+        "24.0 Count",
+        "4.0 Ounce",
+        "4.0 Count",
+        "48.0 Count",
+        "2.00 Fl Oz",
+        "3.0 Count",
+        "15.0 Count",
+        "32.0 Count",
+        "2.0 Count"
+      ]
+    },
+    {
+      "name": "Weight",
+      "occurrence": 293,
+      "frequency_pct": 0.03,
+      "examples": [
+        "32 Pounds",
+        "3 Pounds",
+        "4 Pounds",
+        "0.05 Kilograms",
+        "1 Pounds",
+        "13 Pounds",
+        "215 Pounds",
+        "1.5 Pounds",
+        "230 Pounds",
+        "6 Pounds",
+        "3 Ounces",
+        "86 Pounds",
+        "6.94 Pounds",
+        "10 Pounds",
+        "15 Pounds"
+      ]
+    },
+    {
+      "name": "Special features",
+      "occurrence": 286,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Shock-Absorbent",
+        "Lightweight",
+        "Expandable,Waterproof,Wireless Charger,Wireless Charging",
+        "Waterproof",
+        "Kickstand, Shock-Absorbent",
+        "Scratch Resistant",
+        "Kickstand",
+        "Braided, Data Transfer, Fast Charging",
+        "Wireless Charging Compatible",
+        "Portable",
+        "Anti Aging",
+        "Hypoallergenic",
+        "noise_cancellation, microphone",
+        "Long-lasting",
+        "Screen Protector"
+      ]
+    },
+    {
+      "name": "League",
+      "occurrence": 282,
+      "frequency_pct": 0.03,
+      "examples": [
+        "ncaa",
+        "Ncaa",
+        "mlb",
+        "nhl",
+        "Mlb",
+        "Nhl",
+        "NBA",
+        "NFL",
+        "Nfl",
+        "MLB",
+        "Sports",
+        "ncaa-teams",
+        "Tennis",
+        "NHL",
+        "SBM 200"
+      ]
+    },
+    {
+      "name": "Operating Time",
+      "occurrence": 281,
+      "frequency_pct": 0.03,
+      "examples": [
+        "60 Hours",
+        "50 Hours",
+        "45 Hours",
+        "90 Hours",
+        "65 Hours",
+        "40 Hours",
+        "4 Hours",
+        "75 Hours",
+        "6 Hours",
+        "20 Hours",
+        "4.5 Hours",
+        "9 Hours",
+        "35 Hours",
+        "30 Hours",
+        "100 Hours"
+      ]
+    },
+    {
+      "name": "Fill Material",
+      "occurrence": 279,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Foam",
+        "Memory Foam",
+        "Sponge",
+        "Polyester",
+        "Cotton",
+        "Polypropylene",
+        "Feather",
+        "Silicone",
+        "Plastic",
+        "Wool",
+        "Polyester, Cotton",
+        "Polyurethane Foam",
+        "Filled with kapok - a cotton-like fiber",
+        "Vinyl",
+        "Silk"
+      ]
+    },
+    {
+      "name": "Seat Height",
+      "occurrence": 271,
+      "frequency_pct": 0.03,
+      "examples": [
+        "24 Inches",
+        "24.5 Inches",
+        "25 Inches",
+        "30 Inches",
+        "23.5 Inches",
+        "23 Inches",
+        "22 Inches",
+        "28 Inches",
+        "21 Inches",
+        "26 Inches",
+        "12 Inches",
+        "24.4 Inches",
+        "20 Inches",
+        "22.8 Inches",
+        "18 Inches"
+      ]
+    },
+    {
+      "name": "Number of Wheels",
+      "occurrence": 262,
+      "frequency_pct": 0.03,
+      "examples": [
+        "4",
+        "5",
+        "2",
+        "6",
+        "10",
+        "1",
+        "3",
+        "32"
+      ]
+    },
+    {
+      "name": "Whats in the box",
+      "occurrence": 262,
+      "frequency_pct": 0.03,
+      "examples": [
+        "no",
+        "No",
+        "1",
+        "Only Products",
+        "PopSockets",
+        "Kickstand",
+        "Screen Protector",
+        "Case",
+        "Xawy",
+        "Charger",
+        "Hybrid Case",
+        "cell phone case",
+        "Kickstand, Belt Clip",
+        "Case for LG G4",
+        "Kickstand, Card Holder"
+      ]
+    },
+    {
+      "name": "Closure",
+      "occurrence": 258,
+      "frequency_pct": 0.03,
+      "examples": [
+        "Zipper",
+        "Snap",
+        "Buckle",
+        "Pull On",
+        "Clip",
+        "Claw",
+        "Clamp",
+        "Self-Seal",
+        "Retractable",
+        "Latch",
+        "Drawstring",
+        "Zipper,Snap",
+        "\u62c9\u94fe",
+        "Clip,Zip",
+        "Twist Lock"
+      ]
+    },
+    {
+      "name": "Input Voltage",
+      "occurrence": 258,
+      "frequency_pct": 0.03,
+      "examples": [
+        "240 Volts",
+        "120 Volts (AC)",
+        "110 Volts",
+        "110 Volts (AC)",
+        "120 Volts",
+        "240 Volts (AC)",
+        "12 Volts",
+        "15 Volts",
+        "5 Volts",
+        "220 Volts",
+        "8 Volts",
+        "125 Volts",
+        "12 Volts (DC)",
+        "5 Volts, 120 Volts",
+        "5 Volts (DC)"
+      ]
+    },
+    {
+      "name": "Bottle Type",
+      "occurrence": 252,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Standard Bottle",
+        "Reusable",
+        "Refillable",
+        "Glass",
+        "Roller bottle",
+        "Wide-neck",
+        "wide mouth",
+        "Squeeze bottle",
+        "Wide mouth",
+        "Dropper",
+        "Glass bottle",
+        "Wide Mouth",
+        "Disposable",
+        "Cosmo Round",
+        "Empty Nail Polish Bottles"
+      ]
+    },
+    {
+      "name": "Shade Color",
+      "occurrence": 248,
+      "frequency_pct": 0.02,
+      "examples": [
+        "White",
+        "Multicolor",
+        "Black",
+        "Purple",
+        "Red",
+        "black",
+        "Pink",
+        "Silver",
+        "Blue",
+        "\u767d\u8272",
+        "Clear",
+        "white",
+        "Black,White",
+        "\u7d2b\u8272",
+        "silver"
+      ]
+    },
+    {
+      "name": "Model Year",
+      "occurrence": 247,
+      "frequency_pct": 0.02,
+      "examples": [
+        "2015",
+        "2013",
+        "2012",
+        "2011",
+        "2014",
+        "2018",
+        "2016",
+        "2019",
+        "2017",
+        "2010",
+        "1",
+        "2021",
+        "2020",
+        "2022",
+        "2009"
+      ]
+    },
+    {
+      "name": "Inner Material",
+      "occurrence": 242,
+      "frequency_pct": 0.02,
+      "examples": [
+        "EVA",
+        "Metal",
+        "Polyester",
+        "PEVA",
+        "Cotton",
+        "Satin",
+        "Leather",
+        "PLASTIC",
+        "Acrylic",
+        "Wood",
+        "Plastic",
+        "Nylon",
+        "Engineered Wood",
+        "100 Nylon",
+        "Cotton, Wood"
+      ]
+    },
+    {
+      "name": "Indoor/Outdoor Usage",
+      "occurrence": 241,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Indoor",
+        "Outdoor, Indoor",
+        "Outdoor"
+      ]
+    },
+    {
+      "name": "Number of Speeds",
+      "occurrence": 238,
+      "frequency_pct": 0.02,
+      "examples": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "21",
+        "20000"
+      ]
+    },
+    {
+      "name": "Blade Length",
+      "occurrence": 233,
+      "frequency_pct": 0.02,
+      "examples": [
+        "2.5 Inches",
+        "3.5 Inches",
+        "6 Centimeters",
+        "3 Inches",
+        "6 Inches",
+        "2.4 Inches",
+        "6.5 Inches",
+        "5.5 Inches",
+        "2 Inches",
+        "2.3 Inches",
+        "2.36 Inches",
+        "2.52 Inches",
+        "5 Millimeters",
+        "2.8 Inches",
+        "3 Centimeters"
+      ]
+    },
+    {
+      "name": "Item Firmness Description",
+      "occurrence": 228,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Soft",
+        "Plush",
+        "Hard",
+        "Firm",
+        "Medium",
+        "Soft, Firm",
+        "Extra Soft",
+        "\u4e2d\u7b49\u504f\u8f6f",
+        "Cookies",
+        "Ultra Soft",
+        "Plush feeling, yet supportive",
+        "Biscotti"
+      ]
+    },
+    {
+      "name": "Caster Type",
+      "occurrence": 227,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Swivel",
+        "Pneumatic",
+        "\u65cb\u8f6c",
+        "\u575a\u56fa",
+        "Whirl",
+        "Rigid",
+        "Ball"
+      ]
+    },
+    {
+      "name": "Type of Bulb",
+      "occurrence": 226,
+      "frequency_pct": 0.02,
+      "examples": [
+        "LED",
+        "Fluorescent",
+        "Incandescent",
+        "led",
+        "Infrared",
+        "Led",
+        "incandescent",
+        "High Pressure Sodium",
+        "UV-9W",
+        "NONE",
+        "UV lamp",
+        "Freestanding Bathtubs",
+        "fluorescent",
+        "2 16v Wedge T3 1/4 5w Max",
+        "Incandescent Bulbs"
+      ]
+    },
+    {
+      "name": "Band Width",
+      "occurrence": 221,
+      "frequency_pct": 0.02,
+      "examples": [
+        "4 Inches",
+        "5.5 Inches",
+        "3.5 Inches",
+        "10 Centimeters",
+        "3 Inches",
+        "1 Centimeters",
+        "2.5 Inches",
+        "3.9 Inches",
+        "3.8 Inches",
+        "2 Inches",
+        "3.1 Inches",
+        "3.15 Inches",
+        "9 Centimeters",
+        "6 Inches",
+        "2.36 Inches"
+      ]
+    },
+    {
+      "name": "Magnification Maximum",
+      "occurrence": 217,
+      "frequency_pct": 0.02,
+      "examples": [
+        "10 x",
+        "5 x",
+        "10",
+        "3 x",
+        "20 x",
+        "1 x",
+        "7 x",
+        "2 x",
+        "15 x",
+        "30 x",
+        "3",
+        "25 x",
+        "5",
+        "2.5",
+        "7"
+      ]
+    },
+    {
+      "name": "Full Cure Time",
+      "occurrence": 211,
+      "frequency_pct": 0.02,
+      "examples": [
+        "10 Minutes",
+        "25 Minutes",
+        "5 Minutes",
+        "30 Minutes",
+        "15 Minutes",
+        "24 Hours",
+        "20 Minutes",
+        "1 Minutes",
+        "45 Minutes",
+        "40 Minutes",
+        "60 Minutes",
+        "180 Minutes",
+        "3 Minutes",
+        "360 Minutes",
+        "240 Minutes"
+      ]
+    },
+    {
+      "name": "Arm Style",
+      "occurrence": 202,
+      "frequency_pct": 0.02,
+      "examples": [
+        "With arms",
+        "Track",
+        "with-arms",
+        "Rolled",
+        "Rounded",
+        "With-arms",
+        "Pillow-Top",
+        "Armless",
+        "No",
+        "Recessed",
+        "Armless, Pillow-Top, Recessed",
+        "Fixed",
+        "Arm Rest"
+      ]
+    },
+    {
+      "name": "Control Method",
+      "occurrence": 201,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Touch",
+        "Remote",
+        "App",
+        "App, Touch"
+      ]
+    },
+    {
+      "name": "Diet Type",
+      "occurrence": 193,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian",
+        "Plant Based",
+        "Keto",
+        "Kosher",
+        "Gluten Free, Vegan",
+        "Halal",
+        "Paleo",
+        "Gluten Free, Kosher",
+        "Paleo, Vegetarian, Vegan",
+        "Gluten Free, Halal",
+        "Vegetarian, Vegan",
+        "Kosher, Vegan",
+        "Vegetarian, Gluten Free, Vegan"
+      ]
+    },
+    {
+      "name": "Mildew-resistant",
+      "occurrence": 184,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Paraben Free",
+        "Chemical Free",
+        "Alcohol Free",
+        "BPA Free",
+        "Odorless",
+        "Non-irritating",
+        "Non-toxic",
+        "Unscented",
+        "Aluminum Free",
+        "Cruelty-free",
+        "Cruelty Free",
+        "Paraben-free",
+        "Fragrance Free",
+        "Phthalate Free",
+        "No Animal Testing,Non-gmo,Soap Bases"
+      ]
+    },
+    {
+      "name": "Number of Drawers",
+      "occurrence": 180,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "3",
+        "2",
+        "4",
+        "5",
+        "7",
+        "6",
+        "12",
+        "4, 5",
+        "2, 3, 4",
+        "16",
+        "2, 5",
+        "22",
+        "2, 4",
+        "3, 20"
+      ]
+    },
+    {
+      "name": "Primary Supplement Type",
+      "occurrence": 176,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Vitamin E",
+        "Vitamin B7",
+        "Magnesium",
+        "Zinc",
+        "Vitamin A",
+        "Vitamin C",
+        "Calcium",
+        "Multivitamins",
+        "Vitamin-d",
+        "Vitamin-b",
+        "B-Complex",
+        "Potassium",
+        "Vitamin E, Vitamin C",
+        "Biotin",
+        "Magnesium Chloride"
+      ]
+    },
+    {
+      "name": "Label",
+      "occurrence": 174,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Diane",
+        "CD Baby",
+        "Imports",
+        "Universal Import",
+        "Legacy Recordings",
+        "DOCUMENTS",
+        "FAEYLI",
+        "Fromm International",
+        "Made in Germany Musi",
+        "Black Book Int'l",
+        "Outre",
+        "Tru Fragrance and Beauty LLC",
+        "New West Records",
+        "Loen Ent Korea",
+        "Sony Music Canada Inc."
+      ]
+    },
+    {
+      "name": "Number of discs",
+      "occurrence": 173,
+      "frequency_pct": 0.02,
+      "examples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "10",
+        "6",
+        "16",
+        "7"
+      ]
+    },
+    {
+      "name": "Specification Met",
+      "occurrence": 172,
+      "frequency_pct": 0.02,
+      "examples": [
+        "UL",
+        "CE, FCC, RoHS",
+        "CE",
+        "CE, UL, FCC",
+        "CE, RoHS",
+        "Energy Star",
+        "Qi",
+        "Certified frustration-free",
+        "FCC",
+        "CE, UL",
+        "CE, FCC",
+        "ma",
+        "Oem",
+        "CE, UL, RoHS",
+        "UL CE FCC RoHS"
+      ]
+    },
+    {
+      "name": "Connector Gender",
+      "occurrence": 172,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Male-to-Male",
+        "Male-to-Female",
+        "Male",
+        "2-Wire",
+        "Unisex",
+        "Female-to-Female"
+      ]
+    },
+    {
+      "name": "Studio",
+      "occurrence": 171,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Arvesa",
+        "ALSTEN",
+        "Taya V. Skleike",
+        "Alpha Video",
+        "Lionsgate",
+        "Service Spring",
+        "C&D",
+        "Dr. Wades Organics",
+        "WorldBazzar",
+        "TOPNaturePlus",
+        "Bergottie",
+        "Wall Periodicals Online",
+        "Aesthetic VideoSource",
+        "Emtek Products",
+        "Explore to Learn"
+      ]
+    },
+    {
+      "name": "Band Size",
+      "occurrence": 165,
+      "frequency_pct": 0.02,
+      "examples": [
+        "One Size",
+        "12.5 inches",
+        "Medium",
+        "Large",
+        "Fits Most",
+        "13 inches",
+        "18 inches",
+        "7/8",
+        "One size",
+        "Small",
+        "15 inches",
+        "9.6 x 6 inches",
+        "5 x 9.45",
+        "9.45 inches",
+        "0.4 Inches"
+      ]
+    },
+    {
+      "name": "Output Voltage",
+      "occurrence": 164,
+      "frequency_pct": 0.02,
+      "examples": [
+        "15 Volts",
+        "5 Volts",
+        "12 Volts",
+        "4.3 Volts",
+        "4 Volts",
+        "4.2 Volts",
+        "8 Volts",
+        "5.4 Volts",
+        "5 Volts (DC)",
+        "3.5 Volts",
+        "2 Volts (DC)",
+        "24 Volts",
+        "110 Volts",
+        "36 Volts",
+        "9 Volts"
+      ]
+    },
+    {
+      "name": "Target Species",
+      "occurrence": 159,
+      "frequency_pct": 0.02,
+      "examples": [
+        "Dog",
+        "Human",
+        "Humans",
+        "Horse",
+        "Fish",
+        "Cat",
+        "Cat, Dog",
+        "Insects",
+        "Crappie Trout Panfish",
+        "Bass",
+        "Crow",
+        "Rabbit",
+        "Ant",
+        "Hummingbird",
+        "Trout"
+      ]
+    },
+    {
+      "name": "Bristle Type",
+      "occurrence": 154,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Flagged Bristle",
+        "Synthetic",
+        "Crimped Wire",
+        "Soft bristles",
+        "Straight Wire",
+        "Mink and chemical fiber",
+        "Natural"
+      ]
+    },
+    {
+      "name": "Point Style",
+      "occurrence": 136,
+      "frequency_pct": 0.01,
+      "examples": [
+        "curved",
+        "Curved",
+        "Hollow",
+        "hollow",
+        "Hollow Point",
+        "Double",
+        "Round point",
+        "pointd"
+      ]
+    },
+    {
+      "name": "Orientation",
+      "occurrence": 134,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Landscape",
+        "Portrait",
+        "Drivers Side",
+        "Front",
+        "Vertical, Horizontal",
+        "Vertical"
+      ]
+    },
+    {
+      "name": "Net Content Weight",
+      "occurrence": 127,
+      "frequency_pct": 0.01,
+      "examples": [
+        "8 Ounces",
+        "5 Ounces",
+        "3.5 Ounces",
+        "4.5 Ounces",
+        "3 Ounces",
+        "4 Ounces",
+        "2.5 Ounces",
+        "16 Ounces",
+        "10 Ounces",
+        "6 Ounces",
+        "12 Ounces",
+        "6.7 Ounces",
+        "7 Ounces",
+        "0.5 Ounces",
+        "8.4 Ounces"
+      ]
+    },
+    {
+      "name": "Battery Cell Composition",
+      "occurrence": 125,
+      "frequency_pct": 0.01,
+      "examples": [
+        "NiMH",
+        "Lithium Ion",
+        "NiCAD",
+        "Alkaline",
+        "Lithium",
+        "Lithium Polymer",
+        "Zinc Carbon",
+        "Lithium Manganese Dioxide",
+        "Lead-Acid, AGM",
+        "Lead Acid",
+        "Lithium-Cobalt"
+      ]
+    },
+    {
+      "name": "Our Recommended age",
+      "occurrence": 121,
+      "frequency_pct": 0.01,
+      "examples": [
+        "16 years and up",
+        "3 years and up",
+        "21 years and up",
+        "12 years and up",
+        "13 years and up",
+        "18 years and up",
+        "12 months and up",
+        "8 years and up",
+        "16 months and up",
+        "36 months - 6 years",
+        "5 years and up",
+        "0 - 10 years",
+        "10 years and up",
+        "24 months and up",
+        "14 years and up"
+      ]
+    },
+    {
+      "name": "Model",
+      "occurrence": 119,
+      "frequency_pct": 0.01,
+      "examples": [
+        "WINDSCREEN",
+        "14104",
+        "AF4408S",
+        "AR92157000335",
+        "103252",
+        "Hair Glove 11410",
+        "Hair Glove 11846",
+        "Hair Glove 31848",
+        "BikeMaster Compressed Towelettes",
+        "Hair Glove 16809",
+        "Twin Power Sprocket Shaft Seal",
+        "P-2452C",
+        "Roller",
+        "E301437300",
+        "AB814 WINDMILL"
+      ]
+    },
+    {
+      "name": "Ply Rating",
+      "occurrence": 119,
+      "frequency_pct": 0.01,
+      "examples": [
+        "3 ply",
+        "2 ply",
+        "2-Ply",
+        "4 ply",
+        "3-Ply",
+        "1-Ply",
+        "4-Ply",
+        "1 ply",
+        "4 layer",
+        "1 \u5c42",
+        "6 ply",
+        "3 \u5c42",
+        "Stamping",
+        "5 ply",
+        "7 Ply"
+      ]
+    },
+    {
+      "name": "null",
+      "occurrence": 117,
+      "frequency_pct": 0.01,
+      "examples": [
+        "White",
+        "Black",
+        "Silver",
+        "Transparent",
+        "Pink",
+        "\u9ed1\u8272",
+        "Rose Gold",
+        "Chrome",
+        "\u767d\u8272",
+        "Gold",
+        "Blue",
+        "chrome",
+        "Wood Grain Yellow",
+        "Satin Nickel",
+        "\u9ec4\u8272"
+      ]
+    },
+    {
+      "name": "Back Material Type",
+      "occurrence": 116,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Rubber",
+        "Engineered Wood",
+        "Wood",
+        "Cotton",
+        "Polyvinyl Chloride",
+        "Acrylic",
+        "Polypropylene",
+        "Jute",
+        "Mahogany",
+        "Stainless Steel",
+        "Melamine",
+        "Foam",
+        "Suede",
+        "Plastic",
+        "Canvas"
+      ]
+    },
+    {
+      "name": "Main Power Connector Type",
+      "occurrence": 116,
+      "frequency_pct": 0.01,
+      "examples": [
+        "2 Pin",
+        "2 pin",
+        "3 Pin"
+      ]
+    },
+    {
+      "name": "Suitable Hair Color",
+      "occurrence": 116,
+      "frequency_pct": 0.01,
+      "examples": [
+        "All Hair Colors",
+        "Black",
+        "White",
+        "Red",
+        "Dark Brown"
+      ]
+    },
+    {
+      "name": "Allergen Information",
+      "occurrence": 112,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Almonds",
+        "Preservative-Free",
+        "Hypoallergenic",
+        "Orange",
+        "Wheat",
+        "Gluten Free",
+        "Non-GMO",
+        "Nut",
+        "Milk",
+        "Sesame Seeds",
+        "Mustard",
+        "Apple",
+        "Oat",
+        "Odor-Free",
+        "Soy Free, Non-GMO"
+      ]
+    },
+    {
+      "name": "Installation Method",
+      "occurrence": 111,
+      "frequency_pct": 0.01,
+      "examples": [
+        "InstallationMethod",
+        "Single Hole",
+        "Nail On",
+        "Wall Mount",
+        "Wall-Mounted",
+        "Self-Adhesive",
+        "Micro-Link",
+        "Freestanding",
+        "Tape",
+        "Self Adhesive,Freestanding",
+        "Fusion",
+        "Wall mounted",
+        "Nail Down",
+        "Countertop",
+        "Peel"
+      ]
+    },
+    {
+      "name": "Base Material",
+      "occurrence": 110,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Metal",
+        "Alloy Steel",
+        "Engineered Wood",
+        "Resin",
+        "Acrylonitrile Butadiene Styrene",
+        "Ceramic",
+        "Plastic",
+        "Iron",
+        "Detachable base",
+        "aluminum alloy",
+        "Aluminum",
+        "Titanium",
+        "Abs,resin",
+        "Ceramic, Aluminum",
+        "metal,resin"
+      ]
+    },
+    {
+      "name": "Point Type",
+      "occurrence": 109,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Fine",
+        "Micro",
+        "Broad",
+        "Sharp",
+        "Medium",
+        "Bold",
+        "Flat",
+        "Chisel",
+        "Ballpoint",
+        "micro",
+        "Ultra Fine",
+        "Plido",
+        "Microneed",
+        "Twist",
+        "Brush"
+      ]
+    },
+    {
+      "name": "Sterility Rating",
+      "occurrence": 108,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Sterile",
+        "Non-Sterile",
+        "SLS",
+        "STS"
+      ]
+    },
+    {
+      "name": "Measurement System",
+      "occurrence": 104,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Metric",
+        "Imperial",
+        "Inch",
+        "metric, inch",
+        "Inch, Metric",
+        "English",
+        "United States Customary Unit System",
+        "inch",
+        "English/ Standard",
+        "inches",
+        "Transparent"
+      ]
+    },
+    {
+      "name": "Additional product features",
+      "occurrence": 104,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Hypoallergenic",
+        "Anti Aging",
+        "Lightweight,Oil-free,Non-comedogenic",
+        "parents",
+        "Waterproof",
+        "Nourishing",
+        "Not-Applicable",
+        "Lightweight",
+        "Parents",
+        "TSA Approved",
+        "Adjustable,Durable",
+        "Cushion Availability",
+        "Chip",
+        "Matte,Oil Control",
+        "Travel size, Matte"
+      ]
+    },
+    {
+      "name": "Age Range Description",
+      "occurrence": 101,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Adult",
+        "Baby",
+        "Kid",
+        "All Life Stages",
+        "Children",
+        "Dog",
+        "Child",
+        "15-75",
+        "Adult,Baby",
+        "Adult; Teen"
+      ]
+    },
+    {
+      "name": "Weight Limit",
+      "occurrence": 101,
+      "frequency_pct": 0.01,
+      "examples": [
+        "60 Kilograms",
+        "50 Kilograms",
+        "45 Kilograms",
+        "100 Kilograms",
+        "6.6 Pounds",
+        "30 Pounds",
+        "88 Pounds",
+        "110 Pounds",
+        "132 Pounds",
+        "99 Pounds",
+        "22 Pounds",
+        "40 Kilograms",
+        "44 Pounds",
+        "33 Pounds",
+        "15 Kilograms"
+      ]
+    },
+    {
+      "name": "Tick-repellent material",
+      "occurrence": 100,
+      "frequency_pct": 0.01,
+      "examples": [
+        "100% Turkish Cotton",
+        "Plastic",
+        "Microfiber",
+        "Steel",
+        "Polyester",
+        "PP",
+        "ABS",
+        "Glass",
+        "plastic",
+        "Metal",
+        "Silicone",
+        "Resin",
+        "100% Egyptian Cotton",
+        "Bamboo",
+        "Satin"
+      ]
+    },
+    {
+      "name": "Collection Name",
+      "occurrence": 100,
+      "frequency_pct": 0.01,
+      "examples": [
+        "All Season",
+        "All",
+        "Animal",
+        "Deity",
+        "Desk",
+        "Living Room,Office",
+        "Reptiles",
+        "Summer",
+        "Action Figure",
+        "Office",
+        "Angel",
+        "Desk,Office,Summer",
+        "Gnome",
+        "Desk,Home",
+        "All Day"
+      ]
+    },
+    {
+      "name": "Charging Time",
+      "occurrence": 92,
+      "frequency_pct": 0.01,
+      "examples": [
+        "40 minutes",
+        "45 minutes",
+        "60 minutes",
+        "8 Hours",
+        "120 minutes",
+        "90 minutes",
+        "3 Hours",
+        "10 Hours",
+        "1.5 Hours",
+        "1 Hours",
+        "30 minutes",
+        "2 Hours",
+        "4 Hours",
+        "5 Hours",
+        "15 minutes"
+      ]
+    },
+    {
+      "name": "Light fixture form",
+      "occurrence": 90,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Vanity",
+        "Wall",
+        "Ceiling",
+        "Chandelier",
+        "Pendant",
+        "Path",
+        "Sconce",
+        "Picture",
+        "Floodlight"
+      ]
+    },
+    {
+      "name": "Dishwasher compatible",
+      "occurrence": 89,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Material free",
+      "occurrence": 89,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Paraben Free",
+        "Alcohol Free",
+        "Chemical Free",
+        "Non-comedogenic",
+        "Paraben Free,Phthalate Free",
+        "Gluten Free",
+        "Fragrance Free",
+        "Unscented",
+        "Petroleum",
+        "Chemical Free,Cruelty Free,Free Of,No Formaldehyde,No Toluene,Non-toxic,Odorless",
+        "BPA Free",
+        "Oil Free",
+        "Gluten Free,Paraben Free,Phthalate Free",
+        "Hypoallergenic,Paraben Free",
+        "Paraben"
+      ]
+    },
+    {
+      "name": "Light Type",
+      "occurrence": 89,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Fluorescent",
+        "LED",
+        "Incandescent",
+        "CFL",
+        "Neon, LED",
+        "Halogen",
+        "Gel",
+        "Halogen, LED",
+        "Tanning Light"
+      ]
+    },
+    {
+      "name": "Item Length",
+      "occurrence": 88,
+      "frequency_pct": 0.01,
+      "examples": [
+        "11811.02 Inches",
+        "7 Inches",
+        "5 Inches",
+        "5511.81 Inches",
+        "11 Inches",
+        "9 Inches",
+        "300 Meters",
+        "8 Inches",
+        "4.5 inches",
+        "11.5 inches",
+        "6.5 inches",
+        "14 inches",
+        "2 inches",
+        "0.5 inches",
+        "7.2 inches"
+      ]
+    },
+    {
+      "name": "Outer Material",
+      "occurrence": 85,
+      "frequency_pct": 0.01,
+      "examples": [
+        "ABS",
+        "Cotton",
+        "Polyester",
+        "Leather",
+        "Plastic",
+        "Synthetic",
+        "Silicone",
+        "Nylon",
+        "Polyurethane (PU)",
+        "non-woven fabric, melt-blown fabric, hot air cotton",
+        "Ethylene Vinyl Acetate (EVA)",
+        "Blend",
+        "Softside",
+        "paste",
+        "Glass"
+      ]
+    },
+    {
+      "name": "Construction Type",
+      "occurrence": 84,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Handmade",
+        "Machine Made",
+        "Braided",
+        "Forged",
+        "Coated",
+        "Loop",
+        "polyester",
+        "braided",
+        "foam",
+        "Spray",
+        "Machine Made, Handmade",
+        "forged",
+        "coated,grinding"
+      ]
+    },
+    {
+      "name": "Light Color",
+      "occurrence": 84,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Ultraviolet",
+        "White",
+        "Warm White",
+        "Daylight White",
+        "Yellow",
+        "RGB",
+        "\u767d\u8272",
+        "Multicolor, RGB",
+        "Blue",
+        "Warm_white",
+        "Red, Blue",
+        "Tan",
+        "Purple, Blue",
+        "Daylight white",
+        "Red, White, Blue"
+      ]
+    },
+    {
+      "name": "Specifications",
+      "occurrence": 83,
+      "frequency_pct": 0.01,
+      "examples": [
+        "certified frustration-free",
+        "Certified frustration-free",
+        "(unset)",
+        "Frustration-Free Packaging",
+        "Cosmetics silicone sponge",
+        "No",
+        "YES",
+        "prop 65",
+        "CUL"
+      ]
+    },
+    {
+      "name": "Is Discontinued by Manufacturer",
+      "occurrence": 83,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No"
+      ]
+    },
+    {
+      "name": "Switch Installation Type",
+      "occurrence": 81,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Wall Mount",
+        "Tabletop",
+        "Floor Mount",
+        "Ceiling Mount",
+        "2-sided adhesive sticker",
+        "Tabletop Mount",
+        "2-sides adhesive",
+        "Tabletop mount",
+        "Window Mount",
+        "Surfaces,Wall Mount",
+        "Insert",
+        "2 sided tape",
+        "Hanging,Pole,Wall Mount",
+        "2-sided-tape",
+        "tabletop"
+      ]
+    },
+    {
+      "name": "National Stock Number",
+      "occurrence": 79,
+      "frequency_pct": 0.01,
+      "examples": [
+        "6515-01-017-2177",
+        "Green Tea",
+        "6515-00-905-1473",
+        "6515-01-582-9688",
+        "8520-01-371-0047",
+        "8520-01-556-2576",
+        "6505993827011",
+        "6508-01-564-6263",
+        "3590-01-344-4178",
+        "3590-01-538-4911",
+        "6515-01-322-5898",
+        "8520-00-129-0803",
+        "8520-01-378-3090",
+        "6508-01-096-6393",
+        "885170240032"
+      ]
+    },
+    {
+      "name": "Top Material Type",
+      "occurrence": 79,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Engineered Wood",
+        "Wood",
+        "Plastic",
+        "Metal",
+        "Iron",
+        "Marble",
+        "Engineered Wood, Wood",
+        "Plastic, Metal",
+        "Spruce",
+        "Acetone Resistant Melamine Board",
+        "Glass,Stainless Steel,Vinyl",
+        "Glass",
+        "Glass,Mdf",
+        "Granite,Marble,Veneer",
+        "Resin"
+      ]
+    },
+    {
+      "name": "Seat Width",
+      "occurrence": 78,
+      "frequency_pct": 0.01,
+      "examples": [
+        "15 Inches",
+        "13 Inches",
+        "16 Inches",
+        "12.6 Inches",
+        "15.75 Inches",
+        "12 Inches",
+        "13.2 Inches",
+        "21 Inches",
+        "14.6 Inches",
+        "14.2 Inches",
+        "13.8 Inches",
+        "12.8 Inches",
+        "35 Centimeters",
+        "19.69 Inches",
+        "18 Inches"
+      ]
+    },
+    {
+      "name": "Corner Style",
+      "occurrence": 77,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Pleated",
+        "Rounded",
+        "Round corners",
+        "Round",
+        "Flat"
+      ]
+    },
+    {
+      "name": "Sheet Size",
+      "occurrence": 76,
+      "frequency_pct": 0.01,
+      "examples": [
+        "3.5-x-2 Inches",
+        "2-x-3.5-inch",
+        "Letter",
+        "3.5 x 2 Inches",
+        "8.5-x-11-inch",
+        "A5",
+        "5-x-7-inch",
+        "3.5 x 2 inches",
+        "5.5x 7 inches",
+        "B6",
+        "8.5-x-11-inch Inches",
+        "3 x 5 Inches",
+        "letter Inches",
+        "7.1*5.2 Inches",
+        "H 7.00 x W 4.88 inch"
+      ]
+    },
+    {
+      "name": "Shank Type",
+      "occurrence": 75,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Straight",
+        "Round"
+      ]
+    },
+    {
+      "name": "Chain Type",
+      "occurrence": 74,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No Chain Type",
+        "Bead Chain",
+        "Box Chain",
+        "Rolo",
+        "Box Chain, Link Chain",
+        "No chain type",
+        "Cobra",
+        "Braided Chain"
+      ]
+    },
+    {
+      "name": "Format",
+      "occurrence": 72,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Advent Calendar",
+        "Multiple Formats, Color, NTSC",
+        "Wall Calendar",
+        "DVD",
+        "NTSC",
+        "Organizer",
+        "Lay Flat",
+        "Multiple Formats, NTSC, Black & White",
+        "Multiple Formats, Animated, Color, NTSC, Widescreen",
+        "Best of, Limited Edition",
+        "Multiple Formats, Blu-ray, Closed-captioned, NTSC",
+        "Blu-ray",
+        "Desk Calendar",
+        "Box set",
+        "Picture Book"
+      ]
+    },
+    {
+      "name": "Electric fan design",
+      "occurrence": 72,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Blower",
+        "Wearable Fan",
+        "Ceiling Fan"
+      ]
+    },
+    {
+      "name": "Plug Format",
+      "occurrence": 72,
+      "frequency_pct": 0.01,
+      "examples": [
+        "A- US style",
+        "Type B",
+        "Type A",
+        "Usb",
+        "Type C",
+        "usb",
+        "us plug",
+        "a us style power supply",
+        "US style",
+        "plug in",
+        "USB"
+      ]
+    },
+    {
+      "name": "Shelf Type",
+      "occurrence": 71,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Tiered Shelf",
+        "Floating Shelf",
+        "Metal",
+        "tier",
+        "Wood",
+        "Plastic",
+        "Hanging Shelf",
+        "Wire",
+        "Bracket Shelf",
+        "Corner Shelf",
+        "Tier",
+        "Accent Shelf",
+        "wood",
+        "\u5c42\u67b6",
+        "Leaning Shelf"
+      ]
+    },
+    {
+      "name": "Number of Handles",
+      "occurrence": 71,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "6",
+        "3"
+      ]
+    },
+    {
+      "name": "Is Stain Resistant",
+      "occurrence": 69,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Servings per Container",
+      "occurrence": 68,
+      "frequency_pct": 0.01,
+      "examples": [
+        "30",
+        "60",
+        "90",
+        "5",
+        "50",
+        "100",
+        "180",
+        "20",
+        "114",
+        "14",
+        "1000",
+        "120",
+        "7",
+        "28",
+        "40"
+      ]
+    },
+    {
+      "name": "Screen Size",
+      "occurrence": 67,
+      "frequency_pct": 0.01,
+      "examples": [
+        "4.7 Inches",
+        "5.8 Inches",
+        "5.5 Inches",
+        "6.5 Inches",
+        "6.1 Inches",
+        "1.3 Inches",
+        "6.2 Inches",
+        "6.3 Inches",
+        "15.6 Inches",
+        "4 Inches",
+        "3 Inches",
+        "14 Inches",
+        "23.8 Inches",
+        "1 Centimeters",
+        "22 Inches"
+      ]
+    },
+    {
+      "name": "Filter Class",
+      "occurrence": 67,
+      "frequency_pct": 0.01,
+      "examples": [
+        "KF94",
+        "N95",
+        "CILQUE",
+        "PM2 5",
+        "PPE",
+        "RAW",
+        "10028560",
+        "KN95",
+        "NSF2100",
+        "Tsinp",
+        "SILVERbac",
+        "XUPERFAB",
+        "TWBB",
+        "Firm",
+        "EROSPLUS"
+      ]
+    },
+    {
+      "name": "Cover Material",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Polyester",
+        "Cotton",
+        "Leather",
+        "Glass",
+        "Paper",
+        "Rayon",
+        "Faux Leather",
+        "acrylic",
+        "Velvet",
+        "Poly",
+        "Vinyl",
+        "Cotton Flannel",
+        "Microfiber, Coral fleece",
+        "Velvet, Leather",
+        "Polyurethane, Faux Leather"
+      ]
+    },
+    {
+      "name": "Cable Type",
+      "occurrence": 66,
+      "frequency_pct": 0.01,
+      "examples": [
+        "USB",
+        "Composite",
+        "USB, Lightning",
+        "XLR",
+        "HDMI",
+        "Ethernet",
+        "Lightning",
+        "psu cable",
+        "AUX, Composite",
+        "Rca",
+        "Fiber Optic",
+        "Psu cable"
+      ]
+    },
+    {
+      "name": "Pile Height",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Low Pile",
+        "High Pile",
+        "Medium Pile",
+        "Flat Weave",
+        "Shag",
+        "Low Pile, High Pile"
+      ]
+    },
+    {
+      "name": "Light Direction",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Adjustable",
+        "Downlight",
+        "Up/Down Light",
+        "Uplight",
+        "Flexible",
+        "Indirect",
+        "360 degree"
+      ]
+    },
+    {
+      "name": "Dimensions",
+      "occurrence": 65,
+      "frequency_pct": 0.01,
+      "examples": [
+        "11.02 x 0.59 x 14.8 inches",
+        "5 x 1 x 7.75 inches",
+        "8.25 x 0.73 x 10.25 inches",
+        "8.5 x 0.34 x 11 inches",
+        "3.9 x 3.9 x 2.8 inches",
+        "5.5 x 0.55 x 8.5 inches",
+        "8.5 x 0.38 x 11 inches",
+        "3.5 x 3.5 x 5.5 inches",
+        "5 x 0.61 x 8 inches",
+        "2.1 x 2.1 x 4.4 inches",
+        "6 x 4 x 4 inches",
+        "8.31 x 5.94 x 0.67 inches",
+        "6.38 x 1.1 x 9.33 inches",
+        "3.9 x 0.12 x 5.91 inches",
+        "5.52 x 0.7 x 8.26 inches"
+      ]
+    },
+    {
+      "name": "Opening Mechanism",
+      "occurrence": 64,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Lift Off Lid",
+        "Slide",
+        "Hinge",
+        "Open-Top",
+        "Latch",
+        "Zipper",
+        "Step-On",
+        "slide",
+        "Buckle",
+        "push button",
+        "hinged",
+        "hinges",
+        "Hinged",
+        "Press-Top",
+        "Buckle,snap"
+      ]
+    },
+    {
+      "name": "Auto Shutoff",
+      "occurrence": 64,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Switch Style",
+      "occurrence": 64,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Touch",
+        "Push Button",
+        "Magnetic",
+        "Touch Dimmer",
+        "LED dimmer",
+        "Remote",
+        "Touch Dimmer Switch",
+        "Pull Chain",
+        "Slide Switch",
+        "Dimmer, Touch",
+        "touch",
+        "Toggle",
+        "Magnetic, Touch",
+        "Dimmer",
+        "Touch dimmer switch"
+      ]
+    },
+    {
+      "name": "Horsepower",
+      "occurrence": 64,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1 hp",
+        "6",
+        "0.16 hp",
+        "1 Kilowatts",
+        "100 Watts",
+        "38.9 Watts"
+      ]
+    },
+    {
+      "name": "Tool Flute Type",
+      "occurrence": 63,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Straight",
+        "Spiral",
+        "Parabolic",
+        "Conical",
+        "Flame"
+      ]
+    },
+    {
+      "name": "ISBN 10",
+      "occurrence": 63,
+      "frequency_pct": 0.01,
+      "examples": [
+        "6657787545",
+        "1783422033",
+        "1540490963",
+        "0446581348",
+        "1795422289",
+        "1938352416",
+        "1545429928",
+        "753274292X",
+        "1472247116",
+        "189892953X",
+        "0876043082",
+        "0967347432",
+        "1590599128",
+        "0989926788",
+        "173116307X"
+      ]
+    },
+    {
+      "name": "ISBN 13",
+      "occurrence": 63,
+      "frequency_pct": 0.01,
+      "examples": [
+        "978-3012564784",
+        "978-1783422036",
+        "978-1540490964",
+        "978-0446581349",
+        "978-1795422284",
+        "978-1938352416",
+        "979-8652476410",
+        "978-1545429921",
+        "978-7532742929",
+        "978-1472247117",
+        "978-1898929536",
+        "978-0967347431",
+        "978-1590599129",
+        "978-0989926782",
+        "978-1731163073"
+      ]
+    },
+    {
+      "name": "Is Oven Safe",
+      "occurrence": 62,
+      "frequency_pct": 0.01,
+      "examples": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "name": "Leg Style",
+      "occurrence": 61,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Straight",
+        "Five-star leg base",
+        "\u76f4\u5f0f",
+        "Five casters",
+        "Spider",
+        "Pentacle",
+        "5-legged base",
+        "Rolling Wheels",
+        "five stars",
+        "Cushion",
+        "Bipod",
+        "Five stars",
+        "wheels",
+        "Swivel",
+        "Pedestal"
+      ]
+    },
+    {
+      "name": "Color Temperature",
+      "occurrence": 60,
+      "frequency_pct": 0.01,
+      "examples": [
+        "3000 Kelvin",
+        "6000 Kelvin",
+        "4000 Kelvin",
+        "6500 Kelvin",
+        "2700 Kelvin",
+        "88 Kelvin",
+        "1 Kelvin",
+        "200 Kelvin",
+        "8 Kelvin",
+        "15 Kelvin",
+        "20 Kelvin",
+        "5000 Kelvin",
+        "5700 Kelvin",
+        "7000 Kelvin",
+        "300 Kelvin"
+      ]
+    },
+    {
+      "name": "Refill",
+      "occurrence": 59,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Polyester",
+        "Foam",
+        "Memory Foam",
+        "Feather",
+        "Cotton",
+        "cotton",
+        "Styrofoam particles",
+        "Filled with kapok - a cotton-like fiber",
+        "PVC",
+        "Spandex/Nylon",
+        "Loofah",
+        "Cotton polyeater cloth leather canvas pearls beads",
+        "Gel-memory-foam",
+        "Polyester fibers",
+        "3D Mesh Fabric"
+      ]
+    },
+    {
+      "name": "Wall Art Form",
+      "occurrence": 59,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Poster",
+        "Tapestry",
+        "Painting",
+        "Plaque",
+        "Art Print",
+        "Wall Hanging Decor"
+      ]
+    },
+    {
+      "name": "Metal Type",
+      "occurrence": 58,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Alloy",
+        "alloy",
+        "Alloy Steel",
+        "Brass",
+        "Pewter",
+        "No Metal Type",
+        "Abs",
+        "Stainless Steel",
+        "Aluminum",
+        "Copper",
+        "copper",
+        "Yellow Gold",
+        "Iron"
+      ]
+    },
+    {
+      "name": "Specific Uses",
+      "occurrence": 56,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Heating & drying",
+        "Indoor use only",
+        "Scented",
+        "Tanning",
+        "Aromatherapy",
+        "Shower loofah",
+        "Uv Led Gel Nail Lamp",
+        "Rechargeable,Stainless Steel Bottom Plate,Coldless, wireless",
+        "Led Nail Lamp",
+        "Nail curing",
+        "Dimmable light/color, Adjustable length, Energy saving and safety",
+        "Shop",
+        "Scent",
+        "Nail curing lamp",
+        "uv light for nails, uv lamp for gel nails, nail lamp, uv nail lamp, uv lamp, led nail light for gel nails, uv light for gel nails, nail light, nail lamps for gel polish, nail uv light, gel lamp, gel uv led nail lamp, uv nail light, gel nail light, gel polish uv light, gel nail uv light, nail lights for gel polish, gel uv light, gel lamp for nails, nail uv lamp, nail uv light for gel polish, gel cure lamp, uv lamp for nails, uv nail lamp for gel nails, led uv lamp for gel nails, gel polish light, lampara uv para u\u00f1as, nail led lights for gel polish, uv light nails, gel led uv nail lamp, uv gel lamp, curing lamp for gel nails, led light nails, nail curing lamp, gel polish lamp, nail gel lamp, led light for nails gel, gel uv lamp, gel manicure uv light"
+      ]
+    },
+    {
+      "name": "Publisher",
+      "occurrence": 56,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Tualt Fitness; UPC: 019628140616 edition (January 1, 2006)",
+        "CreateSpace Independent Publishing Platform (November 17, 2016)",
+        "ZONDERVAN (January 1, 2012)",
+        "Triumph Books (April 20, 2021)",
+        "Grand Central Life & Style; Illustrated edition (December 1, 2008)",
+        "Independently published (January 29, 2019)",
+        "Parchment & Plume, LLC (September 9, 2014)",
+        "Cliff Street Books; First Edition (December 1, 2001)",
+        "Independently published (June 9, 2020)",
+        "CreateSpace Independent Publishing Platform (April 17, 2017)",
+        "Shanghai Translation Publishing House; 1st edition (January 1, 2012)",
+        "A.R.E. Press; Revised edition (January 1, 1994)",
+        "Eye-Hole (January 1, 2003)",
+        "Apress; 1st ed. edition (November 28, 2007)",
+        "essie (January 1, 1993)"
+      ]
+    },
+    {
+      "name": "Fit Type",
+      "occurrence": 54,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Universal Fit",
+        "Vehicle Specific Fit",
+        "Skinny",
+        "Regular",
+        "Loose",
+        "regular",
+        "Loose Fit",
+        "Regular Fit",
+        "Slim",
+        "F",
+        "Stretch",
+        "Regular fit",
+        "Universal fit, Universal Fit",
+        "Fitted"
+      ]
+    },
+    {
+      "name": "Assembled Diameter",
+      "occurrence": 53,
+      "frequency_pct": 0.01,
+      "examples": [
+        "2 Inches",
+        "1.5 Inches",
+        "5 Inches",
+        "1.85 inches",
+        "4 Inches",
+        "0.63 Inches",
+        "2 Centimeters",
+        "6.6 Millimeters",
+        "5 Centimeters",
+        "9.1 Inches",
+        "3 Inches",
+        "5.7 Inches",
+        "9 Feet",
+        "10.25 Inches",
+        "1.75 Inches"
+      ]
+    },
+    {
+      "name": "Bulb Shape Size",
+      "occurrence": 53,
+      "frequency_pct": 0.01,
+      "examples": [
+        "T",
+        "T4",
+        "FC12",
+        "A19",
+        "T7",
+        "B11",
+        "A15",
+        "T3",
+        "E17",
+        "T4 1/2",
+        "T5 1/2",
+        "ST18"
+      ]
+    },
+    {
+      "name": "Luminous Flux",
+      "occurrence": 52,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1 Lumen",
+        "1000.00",
+        "54 Lumen",
+        "300 Lumen",
+        "500 Lumen",
+        "1400 Lumen",
+        "1000 Lumen",
+        "50 Lumen",
+        "30 Lumen",
+        "500 Candela",
+        "200 Candela",
+        "9 Candela",
+        "35 Lumen",
+        "50 Lux",
+        "400 Lumen"
+      ]
+    },
+    {
+      "name": "Screen Surface Description",
+      "occurrence": 52,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Glossy",
+        "Smooth",
+        "Matte",
+        "smooth",
+        "Scratch Resistant"
+      ]
+    },
+    {
+      "name": "Paper Finish",
+      "occurrence": 52,
+      "frequency_pct": 0.01,
+      "examples": [
+        "Matte",
+        "Smooth",
+        "Glossy",
+        "Ultra Smooth",
+        "Uncoated",
+        "Metallic, Smooth, Tracing, Translucent",
+        "Coated",
+        "Embossed",
+        "Satin",
+        "Soft Gloss",
+        "Wove"
+      ]
+    },
+    {
+      "name": "Total USB Ports",
+      "occurrence": 52,
+      "frequency_pct": 0.01,
+      "examples": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "name": "Current Rating",
+      "occurrence": 51,
+      "frequency_pct": 0.0,
+      "examples": [
+        "1 Amps",
+        "2 Amps",
+        "0.36 Amps",
+        "0.5 Amps",
+        "1.2 Amps",
+        "0.4 Amps",
+        "0.6 Amps",
+        "0.07 Amps",
+        "40 Amps",
+        "3 Amps",
+        "0.75 Amps",
+        "15 Amps",
+        "0.08 Amps",
+        "30 Amps",
+        "20 Amps"
+      ]
+    },
+    {
+      "name": "Vehicle Service Type",
+      "occurrence": 51,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Car",
+        "Passenger Car",
+        "Motorcycle",
+        "Bicycle",
+        "Motorcycle, Bicycle",
+        "Trailer",
+        "Boat",
+        "Automobile",
+        "Truck",
+        "ford mustang 2013",
+        "Street-sport-motorcycles",
+        "Motorcycle, Found in image",
+        "Passenger Car, Truck, Motorbike",
+        "cadillac srx",
+        "Lawn Mower"
+      ]
+    },
+    {
+      "name": "Number of Labels",
+      "occurrence": 51,
+      "frequency_pct": 0.0,
+      "examples": [
+        "8",
+        "1",
+        "100",
+        "4",
+        "20",
+        "300",
+        "50",
+        "6",
+        "40",
+        "16",
+        "200",
+        "36",
+        "108",
+        "404",
+        "228"
+      ]
+    },
+    {
+      "name": "Exterior",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Painted",
+        "Machined",
+        "Chrome",
+        "Aluminum",
+        "Metallic Finish",
+        "Gloss",
+        "Paint",
+        "Brushed",
+        "Smooth",
+        "Painted Finish",
+        "Black",
+        "GLOSS BLACK MILLED",
+        "Alloy Steel"
+      ]
+    },
+    {
+      "name": "Duration",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "5 days",
+        "8 Hours",
+        "24 Hours",
+        "0.66 Hours",
+        "0.75 Hours",
+        "10 Hours",
+        "6 Hours",
+        "90 days",
+        "30 days",
+        "6",
+        "24",
+        "45 days",
+        "0.16 Hours",
+        "2 \tmonths",
+        "3 \tmonths"
+      ]
+    },
+    {
+      "name": "Model Info",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "1059",
+        "BE47BR",
+        "DRFB7010B4",
+        "MSCWES9064PC",
+        "CD127RR",
+        "BE118LED",
+        "EH-SA31VP",
+        "CD223",
+        "B12LG",
+        "495",
+        "985",
+        "EDEL-4L-W",
+        "BC178",
+        "HM5800S-STD",
+        "HA1002-1"
+      ]
+    },
+    {
+      "name": "Contains Liquid Contents",
+      "occurrence": 50,
+      "frequency_pct": 0.0,
+      "examples": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

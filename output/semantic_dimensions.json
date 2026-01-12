@@ -1,0 +1,350 @@
+{
+  "reviews_processed": 1000,
+  "raw_patterns": 50,
+  "semantic_clusters": 50,
+  "compression_ratio": 1.0,
+  "notable_merges": [
+    {
+      "pattern": "sizing: fit perfectly",
+      "merged": 45,
+      "variations": [
+        "sizing: fits perfectly",
+        "sizing: fits well",
+        "sizing: fit well",
+        "sizing: fit great",
+        "sizing: fit so"
+      ]
+    },
+    {
+      "pattern": "quality: good",
+      "merged": 7,
+      "variations": [
+        "quality: great",
+        "quality: nice",
+        "quality product: great",
+        "quality: happy",
+        "quality: excellent"
+      ]
+    },
+    {
+      "pattern": "size: smaller",
+      "merged": 14,
+      "variations": [
+        "size: large",
+        "size: larger",
+        "size: small",
+        "size: fit",
+        "fit: large"
+      ]
+    },
+    {
+      "pattern": "fit: perfect",
+      "merged": 11,
+      "variations": [
+        "fit: good",
+        "fit: nice",
+        "fit: great",
+        "fitting: good",
+        "fine: fit"
+      ]
+    },
+    {
+      "pattern": "socks: nice",
+      "merged": 17,
+      "variations": [
+        "socks: perfect",
+        "socks: regular",
+        "socks: tight",
+        "socks: great",
+        "socks: comfortable"
+      ]
+    },
+    {
+      "pattern": "length: great",
+      "merged": 13,
+      "variations": [
+        "length: perfect",
+        "length: short",
+        "length: nice",
+        "length: right",
+        "length: good"
+      ]
+    },
+    {
+      "pattern": "price: great",
+      "merged": 6,
+      "variations": [
+        "price: good",
+        "price: awesome",
+        "price: amazing",
+        "price: excellent",
+        "price: nice"
+      ]
+    },
+    {
+      "pattern": "material: nice",
+      "merged": 6,
+      "variations": [
+        "material: great",
+        "material: fine",
+        "material: fantastic",
+        "material: good",
+        "material: terrific"
+      ]
+    },
+    {
+      "pattern": "gift: great",
+      "merged": 8,
+      "variations": [
+        "holiday gift: great",
+        "gift: nice",
+        "gift: lovely",
+        "gift: terrific",
+        "gift: excellent"
+      ]
+    },
+    {
+      "pattern": "fabric: nice",
+      "merged": 13,
+      "variations": [
+        "fabric: good",
+        "fabric: plain",
+        "fabric: quick",
+        "type fabric: quick",
+        "fabric: adorable"
+      ]
+    }
+  ],
+  "dimensions": {
+    "dimensions": [
+      {
+        "name": "Fit & Sizing",
+        "importance": "High",
+        "description": "How well the product conforms to the customer's body dimensions and expectations.",
+        "positive_vocabulary": [
+          "fits perfectly",
+          "fit well",
+          "size just right",
+          "true to size",
+          "perfect fit",
+          "comfortable fit"
+        ],
+        "negative_vocabulary": [
+          "runs small",
+          "too tight",
+          "size too large",
+          "fits poorly",
+          "size off",
+          "doesn't fit"
+        ],
+        "recommendation": "Provide detailed size charts, include model measurements, and encourage reviews that mention fit to reduce returns."
+      },
+      {
+        "name": "Overall Quality",
+        "importance": "High",
+        "description": "Perceived durability, craftsmanship, and finish of the item.",
+        "positive_vocabulary": [
+          "quality good",
+          "quality great",
+          "nice quality",
+          "high quality",
+          "well made",
+          "solid construction"
+        ],
+        "negative_vocabulary": [
+          "quality poor",
+          "quality low",
+          "quality bad",
+          "flimsy",
+          "cheap feel",
+          "bad craftsmanship"
+        ],
+        "recommendation": "Highlight quality certifications, use premium materials, and monitor defect reports to maintain brand reputation."
+      },
+      {
+        "name": "Size Consistency",
+        "importance": "Medium",
+        "description": "Reliability of size labeling across different SKUs and batches.",
+        "positive_vocabulary": [
+          "size perfect",
+          "size nice",
+          "size great",
+          "consistent sizing",
+          "size accurate",
+          "size matches description"
+        ],
+        "negative_vocabulary": [
+          "size smaller",
+          "size larger",
+          "size off",
+          "inconsistent size",
+          "size varies",
+          "size mismatch"
+        ],
+        "recommendation": "Standardize sizing across product lines and flag any SKU with known deviations."
+      },
+      {
+        "name": "Comfort",
+        "importance": "Medium",
+        "description": "The level of physical ease experienced while wearing the product.",
+        "positive_vocabulary": [
+          "comfortable",
+          "nice feel",
+          "soft",
+          "lightweight",
+          "arch support great",
+          "slippers comfortable",
+          "shoes comfy"
+        ],
+        "negative_vocabulary": [
+          "uncomfortable",
+          "feet narrow",
+          "feet wide",
+          "slippers uncomfortable",
+          "tight",
+          "hard",
+          "heavy feeling"
+        ],
+        "recommendation": "Emphasize ergonomic design, offer padding options, and collect feedback on comfort for future iterations."
+      },
+      {
+        "name": "Material & Fabric",
+        "importance": "Medium",
+        "description": "Attributes of the textiles or materials used, such as softness, stretch, and thickness.",
+        "positive_vocabulary": [
+          "material nice",
+          "material great",
+          "fabric soft",
+          "fabric nice",
+          "material thin",
+          "stretchy material",
+          "soft leather"
+        ],
+        "negative_vocabulary": [
+          "material thin",
+          "material bulky",
+          "material rough",
+          "fabric hard",
+          "fabric thin",
+          "material cheap",
+          "fabric stiff"
+        ],
+        "recommendation": "Specify material composition in listings and provide care instructions to preserve feel."
+      },
+      {
+        "name": "Price Perception",
+        "importance": "Medium",
+        "description": "Customer sentiment about the value received relative to cost.",
+        "positive_vocabulary": [
+          "price great",
+          "price good",
+          "price awesome",
+          "price amazing",
+          "value great",
+          "price reasonable"
+        ],
+        "negative_vocabulary": [
+          "price high",
+          "price expensive",
+          "price not worth",
+          "overpriced",
+          "price steep",
+          "value low"
+        ],
+        "recommendation": "Align pricing with quality signals, offer promotions, and display price\u2011benefit comparisons."
+      },
+      {
+        "name": "Aesthetic Appeal",
+        "importance": "Medium",
+        "description": "Visual attractiveness, color vibrancy, and style of the product.",
+        "positive_vocabulary": [
+          "colors vibrant",
+          "colors beautiful",
+          "cute earrings",
+          "nice top",
+          "beautiful color",
+          "stylish",
+          "lovely design"
+        ],
+        "negative_vocabulary": [
+          "color dull",
+          "color off",
+          "design plain",
+          "ugly",
+          "unappealing",
+          "color wrong",
+          "style outdated"
+        ],
+        "recommendation": "Use high\u2011resolution images, show multiple color options, and gather style\u2011related feedback."
+      },
+      {
+        "name": "Functional Features",
+        "importance": "Medium",
+        "description": "Utility aspects such as pockets, arch support, length, and other design details.",
+        "positive_vocabulary": [
+          "pockets many",
+          "arch support great",
+          "length perfect",
+          "good length",
+          "functional pockets",
+          "support excellent",
+          "room enough"
+        ],
+        "negative_vocabulary": [
+          "pockets only",
+          "no pockets",
+          "problem only",
+          "lack of support",
+          "length short",
+          "insufficient room",
+          "missing features"
+        ],
+        "recommendation": "Highlight key functional specs in bullet points and ensure they match real\u2011world usage."
+      },
+      {
+        "name": "Gift Suitability",
+        "importance": "Low",
+        "description": "How appropriate the product is for gifting occasions.",
+        "positive_vocabulary": [
+          "gift great",
+          "holiday gift great",
+          "gift nice",
+          "gift lovely",
+          "perfect gift",
+          "gift appreciated"
+        ],
+        "negative_vocabulary": [
+          "gift disappointing",
+          "gift not suitable",
+          "gift poor",
+          "gift cheap",
+          "gift returns",
+          "gift unsuitable"
+        ],
+        "recommendation": "Create gift\u2011focused bundles, add gift\u2011wrap options, and showcase customer gift stories."
+      },
+      {
+        "name": "Durability / Construction",
+        "importance": "Low",
+        "description": "Long\u2011term wear resistance and structural integrity.",
+        "positive_vocabulary": [
+          "sturdy",
+          "well constructed",
+          "durable",
+          "lasting",
+          "strong seams",
+          "no wear"
+        ],
+        "negative_vocabulary": [
+          "tears easily",
+          "poor stitching",
+          "breaks quickly",
+          "wear out fast",
+          "flimsy construction",
+          "damaged"
+        ],
+        "recommendation": "Test products for wear, provide warranty details, and address durability concerns in FAQs."
+      }
+    ]
+  }
+}
