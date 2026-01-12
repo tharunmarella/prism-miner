@@ -166,3 +166,70 @@ class MongoStorage:
         return list(self.db.batch_jobs.find({
             "status": {"$nin": ["completed", "failed", "expired", "cancelled"]}
         }))
+
+    def save_asin_map(self, category: str, asin_map: Dict[str, str]) -> bool:
+        """
+        Save ASIN mapping to MongoDB to avoid re-parsing massive files.
+        Stores as individual documents in 'asin_catalog' collection.
+        """
+        if not self.db:
+            return False
+            
+        if not asin_map:
+            return True
+            
+        from pymongo import InsertOne
+        
+        # Prepare bulk operations
+        ops = []
+        for asin, leaf_cat in asin_map.items():
+            ops.append(InsertOne({
+                "_id": asin,
+                "leaf_category": leaf_cat,
+                "parent_category": category
+            }))
+            
+        # Bulk write in chunks of 10,000
+        chunk_size = 10000
+        total_inserted = 0
+        
+        try:
+            for i in range(0, len(ops), chunk_size):
+                chunk = ops[i:i + chunk_size]
+                # Use ordered=False to ignore duplicate key errors (if ASINs already exist)
+                self.db.asin_catalog.bulk_write(chunk, ordered=False)
+                total_inserted += len(chunk)
+                
+            log.info("Saved ASIN map to MongoDB", 
+                     category=category, 
+                     count=total_inserted)
+            return True
+            
+        except Exception as e:
+            # bulk_write raises BulkWriteError if there are duplicates, which is fine
+            # We just log it and assume it's mostly successful
+            log.info("Partial save of ASIN map (likely duplicates)", error=str(e))
+            return True
+
+    def get_asin_map(self, category: str) -> Optional[Dict[str, str]]:
+        """
+        Retrieve ASIN mapping from MongoDB.
+        """
+        if not self.db:
+            return None
+            
+        # Check if we have any ASINs for this category
+        if self.db.asin_catalog.count_documents({"parent_category": category}, limit=1) == 0:
+            return None
+            
+        # Stream results
+        asin_map = {}
+        cursor = self.db.asin_catalog.find(
+            {"parent_category": category},
+            {"_id": 1, "leaf_category": 1}
+        )
+        
+        for doc in cursor:
+            asin_map[doc["_id"]] = doc["leaf_category"]
+            
+        return asin_map

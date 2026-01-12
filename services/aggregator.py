@@ -149,69 +149,58 @@ class OpinionAggregator:
     ) -> List[Dict[str, Any]]:
         """
         Groups semantically similar opinion units together before sending to LLM.
-        
-        Example:
-            Before: ["runs small": 1000, "too tight": 500, "size up": 300]
-            After:  ["sizing: runs small": 1800, variations: ["too tight", "size up"]]
-        
-        Args:
-            category: The product category
-            similarity_threshold: 0.0-1.0, higher = stricter grouping (0.75 recommended)
-            min_cluster_count: Minimum count for a cluster to be included
-            limit: Max clusters to return
-            
-        Returns:
-            List of clustered opinion units with combined counts
+        Uses Fast Community Detection for O(N*logN) performance instead of O(N^2).
         """
-        from sklearn.cluster import AgglomerativeClustering
+        from sentence_transformers import util
         
         counter = self.category_units.get(category, Counter())
         if not counter:
             return []
         
-        # Get all unique units
-        unique_units = list(counter.keys())
-        counts = [counter[u] for u in unique_units]
+        # Get all unique units and their counts
+        # Sort by count desc so the most frequent unit is likely the cluster head
+        unique_units = sorted(counter.keys(), key=lambda x: counter[x], reverse=True)
+        counts_map = {u: counter[u] for u in unique_units}
         
-        # If too few units, skip clustering
         if len(unique_units) < 10:
             return self.get_top_units(category, limit)
         
-        log.info("Starting semantic clustering", 
+        log.info("Starting fast semantic clustering", 
                  category=category, 
                  unique_units=len(unique_units))
         
-        # Generate embeddings
+        # Generate embeddings (batch encoding is fast)
         model = get_embedding_model()
-        embeddings = model.encode(unique_units, show_progress_bar=False)
+        embeddings = model.encode(unique_units, batch_size=128, show_progress_bar=False, convert_to_tensor=True)
         
-        # Cluster by similarity
-        # distance_threshold = 1 - similarity (cosine distance)
-        clustering = AgglomerativeClustering(
-            n_clusters=None,
-            distance_threshold=1 - similarity_threshold,
-            metric='cosine',
-            linkage='average',
-        ).fit(embeddings)
-        
-        # Aggregate counts by cluster
-        clusters: Dict[int, List[Tuple[str, int]]] = defaultdict(list)
-        for idx, cluster_id in enumerate(clustering.labels_):
-            clusters[cluster_id].append((unique_units[idx], counts[idx]))
+        # Fast Community Detection
+        # This is much faster than AgglomerativeClustering
+        clusters_list = util.community_detection(
+            embeddings, 
+            threshold=similarity_threshold, 
+            min_community_size=1,
+            batch_size=1024
+        )
         
         log.info("Clustering complete", 
                  original_units=len(unique_units),
-                 clusters=len(clusters))
+                 clusters=len(clusters_list))
         
         # Build final clustered data
         total_reviews = self.category_review_counts.get(category, 1)
         clustered_data = []
         
-        for cluster_id, members in clusters.items():
-            # Sort by count (most frequent first)
+        for cluster_indices in clusters_list:
+            # cluster_indices contains indices into unique_units
+            members = []
+            for idx in cluster_indices:
+                unit = unique_units[idx]
+                members.append((unit, counts_map[unit]))
+            
+            # Members are already somewhat sorted because unique_units was sorted,
+            # but let's ensure the head is the most frequent
             members.sort(key=lambda x: x[1], reverse=True)
             
-            # Use most frequent as the representative
             representative = members[0][0]
             total_count = sum(m[1] for m in members)
             
@@ -225,7 +214,7 @@ class OpinionAggregator:
                 "count": total_count,
                 "percentage": round(pct, 1),
                 "cluster_size": len(members),
-                "variations": [m[0] for m in members[1:6]],  # Top 5 variations
+                "variations": [m[0] for m in members[1:6]],
             })
         
         # Sort by total count

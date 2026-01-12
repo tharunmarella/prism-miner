@@ -51,60 +51,56 @@ class ReviewLoader:
         category: str,
         max_reviews: Optional[int] = None,
         filter_categories: Optional[set] = None,
+        asin_map: Optional[Dict[str, str]] = None,
     ) -> Iterator[Dict[str, Any]]:
         """
-        Streams reviews from a category file.
+        Streams reviews from a category file using HuggingFace Streaming (no full download).
         
         Args:
             category: The Amazon category (e.g., "Clothing_Shoes_and_Jewelry")
             max_reviews: Maximum number of reviews to yield
             filter_categories: If provided, only yield reviews for products in these leaf categories
+            asin_map: Pre-computed mapping of ASIN -> leaf_category (required if filtering)
         """
-        local_path = self.get_review_file(category)
+        from datasets import load_dataset
+        
+        filename = f"raw_review_{category}.jsonl"
+        data_files = {"train": f"raw/review_categories/{filename}"}
+        
+        log.info("Streaming reviews from HuggingFace (no filtered download)", category=category)
+        
+        # Use streaming=True to avoid downloading 11GB file
+        dataset = load_dataset(
+            "McAuley-Lab/Amazon-Reviews-2023",
+            data_files=data_files,
+            split="train",
+            streaming=True,
+            trust_remote_code=True
+        )
         
         count = 0
-        with open(local_path, 'r', encoding='utf-8') as f:
-            for line in f:
-                if max_reviews and count >= max_reviews:
-                    break
+        skipped = 0
+        
+        for item in dataset:
+            if max_reviews and count >= max_reviews:
+                break
+            
+            # If filtering by category, we need the ASIN map
+            if filter_categories and asin_map:
+                asin = item.get("parent_asin")
+                product_category = asin_map.get(asin)
                 
-                try:
-                    review = json.loads(line)
-                    
-                    # If we have a filter, check if this review's product matches
-                    # (We'll need the asin2category mapping for this)
-                    
-                    yield review
-                    count += 1
-                    
-                    if count % 100000 == 0:
-                        log.info("Streaming reviews", count=count)
-                        
-                except json.JSONDecodeError:
+                if not product_category or product_category not in filter_categories:
+                    skipped += 1
                     continue
+            
+            yield item
+            count += 1
+            
+            if count % 1000 == 0:
+                log.info("Streaming progress", count=count, skipped=skipped)
         
-        log.info("Finished streaming reviews", total=count)
-
-    def get_metadata_file(self, category: str) -> str:
-        """
-        Downloads the metadata file for a category and returns its local path.
-        """
-        filename = f"meta_{category}.jsonl"
-        
-        log.info("Downloading metadata file", category=category, filename=filename)
-        
-        try:
-            local_path = hf_hub_download(
-                repo_id="McAuley-Lab/Amazon-Reviews-2023",
-                filename=f"raw/meta_categories/{filename}",
-                repo_type="dataset",
-                token=self.hf_token,
-                cache_dir=self.cache_dir,
-            )
-            return local_path
-        except Exception as e:
-            log.error("Failed to download metadata file", category=category, error=str(e))
-            raise
+        log.info("Finished streaming reviews", total=count, skipped=skipped)
 
     def build_asin_to_leaf_category(
         self,
@@ -113,12 +109,25 @@ class ReviewLoader:
     ) -> Dict[str, str]:
         """
         Builds a mapping from ASIN to leaf category name.
-        This is needed to filter reviews by specific product categories.
+        Checks MongoDB first to avoid re-downloading massive metadata.
         """
+        # 1. Try to load from MongoDB
+        from services.mongo_storage import MongoStorage
+        try:
+            mongo = MongoStorage()
+            if mongo.db is not None:
+                stored_map = mongo.get_asin_map(category)
+                if stored_map:
+                    log.info("Loaded ASIN mapping from MongoDB", count=len(stored_map))
+                    return stored_map
+        except Exception as e:
+            log.warn("Could not load from MongoDB, falling back to file", error=str(e))
+
+        # 2. Fallback: Download and build from file
         metadata_path = self.get_metadata_file(category)
         asin_map = {}
         
-        log.info("Building ASIN to leaf category mapping")
+        log.info("Building ASIN to leaf category mapping from file (this happens once)")
         
         with open(metadata_path, 'r', encoding='utf-8') as f:
             for line in f:
@@ -136,4 +145,13 @@ class ReviewLoader:
                     continue
         
         log.info("Built ASIN mapping", total_asins=len(asin_map))
+        
+        # 3. Save to MongoDB for next time
+        try:
+            if mongo.db is not None:
+                mongo.save_asin_map(category, asin_map)
+                log.info("Saved ASIN mapping to MongoDB")
+        except Exception as e:
+            log.warn("Could not save to MongoDB", error=str(e))
+            
         return asin_map
