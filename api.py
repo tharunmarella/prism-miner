@@ -342,7 +342,7 @@ Respond with JSON containing a "dimensions" array."""
             }, f, indent=2)
         
         # Store in MongoDB
-        if db:
+        if db is not None:
             db.batch_jobs.update_one(
                 {"_id": batch_response.id},
                 {"$set": {
@@ -507,7 +507,7 @@ async def download_results():
                     content = choices[0].get("message", {}).get("content", "{}")
                     dimensions_data = json.loads(content)
                     
-                    if db:
+                    if db is not None:
                         db.category_dimensions.update_one(
                             {"_id": category},
                             {"$set": {
@@ -537,7 +537,7 @@ async def download_results():
 @app.get("/categories")
 async def list_categories():
     """List all mined categories."""
-    if not db:
+    if db is None:
         raise HTTPException(status_code=500, detail="MongoDB not connected")
     
     categories = []
@@ -556,7 +556,7 @@ async def list_categories():
 @app.get("/categories/{category_name}")
 async def get_category_dimensions(category_name: str):
     """Get dimensions for a specific category."""
-    if not db:
+    if db is None:
         raise HTTPException(status_code=500, detail="MongoDB not connected")
     
     # Try exact match first, then with underscores replaced
@@ -579,7 +579,7 @@ async def health_check():
     """Health check endpoint."""
     return {
         "status": "healthy",
-        "mongodb": "connected" if db else "disconnected",
+        "mongodb": "connected" if db is not None else "disconnected",
         "groq_key": "set" if GROQ_API_KEY else "not set",
     }
 
