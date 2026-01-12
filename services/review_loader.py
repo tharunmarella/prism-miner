@@ -102,6 +102,27 @@ class ReviewLoader:
         
         log.info("Finished streaming reviews", total=count, skipped=skipped)
 
+    def get_metadata_file(self, category: str) -> str:
+        """
+        Downloads the metadata file for a category and returns its local path.
+        """
+        filename = f"meta_{category}.jsonl"
+        
+        log.info("Downloading metadata file", category=category, filename=filename)
+        
+        try:
+            local_path = hf_hub_download(
+                repo_id="McAuley-Lab/Amazon-Reviews-2023",
+                filename=f"raw/meta_categories/{filename}",
+                repo_type="dataset",
+                token=self.hf_token,
+                cache_dir=self.cache_dir,
+            )
+            return local_path
+        except Exception as e:
+            log.error("Failed to download metadata file", category=category, error=str(e))
+            raise
+
     def build_asin_to_leaf_category(
         self,
         category: str,
