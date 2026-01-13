@@ -46,7 +46,7 @@ class MongoStorage:
         """
         Save batch job information for tracking.
         """
-        if not self.db:
+        if self.db is None:
             return False
         
         doc = {
@@ -70,7 +70,7 @@ class MongoStorage:
         """
         Update batch job status.
         """
-        if not self.db:
+        if self.db is None:
             return
         
         update = {
@@ -89,7 +89,7 @@ class MongoStorage:
         """
         Save extracted dimensions for a category.
         """
-        if not self.db:
+        if self.db is None:
             return False
         
         doc = {
@@ -111,7 +111,7 @@ class MongoStorage:
         """
         Bulk save all category dimensions from a batch result.
         """
-        if not self.db:
+        if self.db is None:
             return 0
         
         count = 0
@@ -126,7 +126,7 @@ class MongoStorage:
         """
         Retrieve dimensions for a specific category.
         """
-        if not self.db:
+        if self.db is None:
             return None
         
         doc = self.db.category_dimensions.find_one({"_id": category})
@@ -136,7 +136,7 @@ class MongoStorage:
         """
         List all categories that have been mined.
         """
-        if not self.db:
+        if self.db is None:
             return []
         
         return [doc["_id"] for doc in self.db.category_dimensions.find({}, {"_id": 1})]
@@ -145,7 +145,7 @@ class MongoStorage:
         """
         Export all dimensions as a dictionary.
         """
-        if not self.db:
+        if self.db is None:
             return {}
         
         results = {}
@@ -160,7 +160,7 @@ class MongoStorage:
         """
         Get batch jobs that are still in progress.
         """
-        if not self.db:
+        if self.db is None:
             return []
         
         return list(self.db.batch_jobs.find({
@@ -172,7 +172,7 @@ class MongoStorage:
         Save ASIN mapping to MongoDB to avoid re-parsing massive files.
         Stores as individual documents in 'asin_catalog' collection.
         """
-        if not self.db:
+        if self.db is None:
             return False
             
         if not asin_map:
@@ -215,7 +215,7 @@ class MongoStorage:
         """
         Retrieve ASIN mapping from MongoDB.
         """
-        if not self.db:
+        if self.db is None:
             return None
             
         # Check if we have any ASINs for this category
